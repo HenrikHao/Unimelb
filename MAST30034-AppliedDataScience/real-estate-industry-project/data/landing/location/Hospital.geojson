@@ -1,0 +1,1120 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-09-01T08:30:44Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/27288796",
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "Waverley Private Hospital",
+        "website": "https://www.waverleyprivate.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1455722,
+          -37.8843792
+        ]
+      },
+      "id": "node/27288796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/206200909",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Manangatang Hospital",
+        "operator": "Robinvale District Health Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8808925,
+          -35.0511403
+        ]
+      },
+      "id": "node/206200909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262777337",
+        "addr:housenumber": "321-345",
+        "addr:postcode": "3151",
+        "addr:state": "VIC",
+        "addr:street": "Burwood Highway",
+        "addr:suburb": "Burwood East",
+        "amenity": "hospital",
+        "emergency": "no",
+        "fax": "+61-3-88042795",
+        "healthcare": "hospital",
+        "healthcare:speciality": "rehabilitation",
+        "name": "Peter James Centre",
+        "operator": "Eastern Health",
+        "operator:type": "public",
+        "phone": "+61-3-98811888",
+        "website": "https://www.easternhealth.org.au/locations/peter-james-centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1649491,
+          -37.8526149
+        ]
+      },
+      "id": "node/262777337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/429184771",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Jessie McPherson Private Hospital",
+        "wikidata": "Q14935171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1224428,
+          -37.9208228
+        ]
+      },
+      "id": "node/429184771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/489359423",
+        "addr:city": "Seymour",
+        "addr:housenumber": "1",
+        "addr:postcode": "3717",
+        "addr:street": "Brettoneaux Street",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Seymour Hospital",
+        "phone": "+61 3 5793 6100",
+        "website": "www.seymourhealth.org.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1381959,
+          -37.0185154
+        ]
+      },
+      "id": "node/489359423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/597972749",
+        "amenity": "hospital",
+        "emergency_ward_entrance": "all",
+        "entrance": "yes",
+        "name": "Emergency",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2127203,
+          -37.9380359
+        ]
+      },
+      "id": "node/597972749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/600761782",
+        "addr:city": "Bright",
+        "addr:housenumber": "36-42",
+        "addr:postcode": "3741",
+        "addr:street": "Cobden Street",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "fixme": "exact position",
+        "healthcare": "hospital",
+        "name": "Bright Hospital",
+        "operator": "Alpine Health",
+        "phone": "+61 3 5755 0100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9659735,
+          -36.7329561
+        ]
+      },
+      "id": "node/600761782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/687479687",
+        "amenity": "hospital",
+        "name": "Timboon District Healthcare Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9764969,
+          -38.4860745
+        ]
+      },
+      "id": "node/687479687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/704426805",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Terang & Mortlake Health Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9020584,
+          -38.2393865
+        ]
+      },
+      "id": "node/704426805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/832508110",
+        "addr:postcode": "3232",
+        "addr:street": "Albert Street",
+        "amenity": "hospital",
+        "email": "enquiries@lch.org.au",
+        "healthcare": "hospital",
+        "internet_access": "wlan",
+        "name": "Lorne Community Hospital",
+        "name:de": "Lorne Gemeindekrankenhaus",
+        "phone": "+61 3 5289 4300",
+        "website": "https://lch.org.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9804248,
+          -38.5454422
+        ]
+      },
+      "id": "node/832508110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/885893500",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8387644,
+          -37.8651567
+        ]
+      },
+      "id": "node/885893500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/945024594",
+        "addr:city": "Creswick",
+        "addr:postcode": "3363",
+        "addr:street": "Cushing Avenue",
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "Creswick Hospital and Nursing Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8917602,
+          -37.4200877
+        ]
+      },
+      "id": "node/945024594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1257803645",
+        "addr:housenumber": "33",
+        "addr:street": "Cowries Street",
+        "amenity": "hospital",
+        "name": "Ballan District Health and Care",
+        "website": "www.ballanhospital.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2224358,
+          -37.5995317
+        ]
+      },
+      "id": "node/1257803645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1279003446",
+        "addr:housenumber": "163",
+        "addr:postcode": "3084",
+        "addr:state": "VIC",
+        "addr:street": "Studley Road",
+        "addr:suburb": "Heidelberg",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Mercy Hospital for Women",
+        "website": "https://www.mercyhealth.com.au",
+        "wikidata": "Q14935222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0609462,
+          -37.7558954
+        ]
+      },
+      "id": "node/1279003446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1313697291",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Delmont Private Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0940058,
+          -37.8568969
+        ]
+      },
+      "id": "node/1313697291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1518791350",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Heyfield Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.784229,
+          -37.9763185
+        ]
+      },
+      "id": "node/1518791350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1556902795",
+        "addr:city": "Melbourne",
+        "addr:country": "AU",
+        "addr:housenumber": "249",
+        "addr:postcode": "3131",
+        "addr:state": "VIC",
+        "addr:street": "Canterbury Road",
+        "addr:suburb": "Forest Hill",
+        "amenity": "hospital",
+        "building": "commercial",
+        "designation": "Medical Clinic",
+        "emergency": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1657139,
+          -37.833742
+        ]
+      },
+      "id": "node/1556902795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1901522484",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Mallacoota Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.7534583,
+          -37.558366
+        ]
+      },
+      "id": "node/1901522484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2037737699",
+        "addr:housename": "Grossard Court",
+        "addr:housenumber": "1A",
+        "addr:postcode": "3922",
+        "addr:street": "Leslie Avenue",
+        "amenity": "hospital",
+        "cuisine": "coffee_shop",
+        "name": "Grossard Court Home",
+        "website": "http://cowes-cafe.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2328124,
+          -38.4600065
+        ]
+      },
+      "id": "node/2037737699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2059452529",
+        "amenity": "hospital",
+        "contact:phone": "+61 3 9342 7000",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Royal Melbourne Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9564192,
+          -37.7994568
+        ]
+      },
+      "id": "node/2059452529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2375823214",
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "Boardwalk Health MedicalCentre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7324904,
+          -37.8843032
+        ]
+      },
+      "id": "node/2375823214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2405949093",
+        "addr:housenumber": "252 - 256",
+        "addr:street": "Clayton Road",
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "Monash Surgical Private",
+        "source": "Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1206698,
+          -37.9219043
+        ]
+      },
+      "id": "node/2405949093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2458004387",
+        "amenity": "hospital",
+        "name": "Dorset Rehabilitation Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9475073,
+          -37.7233945
+        ]
+      },
+      "id": "node/2458004387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2470481080",
+        "amenity": "hospital",
+        "name": "Monash surgical private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1193962,
+          -37.9215323
+        ]
+      },
+      "id": "node/2470481080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2483627136",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7057415,
+          45.7258055
+        ]
+      },
+      "id": "node/2483627136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2611190987",
+        "addr:city": "Cowes",
+        "addr:housename": "Bass Coast Community Health",
+        "addr:housenumber": "14",
+        "addr:postcode": "3922",
+        "addr:street": "Warley Avenue",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2372508,
+          -38.4494851
+        ]
+      },
+      "id": "node/2611190987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2678679360",
+        "amenity": "hospital",
+        "name": "Brunswick Private Hospital",
+        "operator": "Healthe Care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9717135,
+          -37.7568145
+        ]
+      },
+      "id": "node/2678679360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3167261112",
+        "amenity": "hospital",
+        "name": "Broadmeadows Hospital",
+        "operator": "Northern Health",
+        "wikidata": "Q88513184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9131458,
+          -37.6843343
+        ]
+      },
+      "id": "node/3167261112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3361872368",
+        "addr:city": "Victoria",
+        "addr:housenumber": "349",
+        "addr:postcode": "3153",
+        "addr:street": "María Oberti de Basualdo",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital Fermin Salaberry",
+        "operator": "cbmaps.com.ar",
+        "phone": "03436-422415",
+        "source": "http://victoria.tur.ar/index.php/telefonos-utiles/",
+        "website": "https://entrerios.gov.ar/hospitalsalaberry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.1529123,
+          -32.6289888
+        ]
+      },
+      "id": "node/3361872368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3361872369",
+        "addr:city": "Victoria",
+        "addr:housenumber": "50",
+        "addr:postcode": "3153",
+        "addr:street": "San Martín",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Policlínico Victoria",
+        "source": "http://victoria.tur.ar/index.php/telefonos-utiles/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.1585788,
+          -32.6204127
+        ]
+      },
+      "id": "node/3361872369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3790049233",
+        "amenity": "hospital",
+        "name": "Neerim District Soldiers Memorial Hospital",
+        "phone": "+61 3 5628 1226",
+        "website": "http://www.neerimhealth.org.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.954129,
+          -38.021958
+        ]
+      },
+      "id": "node/3790049233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3818420288",
+        "addr:city": "Heywood",
+        "addr:housenumber": "21",
+        "addr:street": "Barclay Street",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Heywood Rural Health",
+        "phone": "+61 3 5527 0555",
+        "source": "bing",
+        "website": "http://swarh.com.au/hrh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.624074,
+          -38.1379457
+        ]
+      },
+      "id": "node/3818420288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3902455806",
+        "amenity": "hospital",
+        "name": "Keilor Downs Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8065555,
+          -37.723615
+        ]
+      },
+      "id": "node/3902455806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214963285",
+        "addr:city": "Castlemaine",
+        "addr:housenumber": "142",
+        "addr:postcode": "3450",
+        "addr:street": "Cornish Street",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Mt Alexander Hospital",
+        "phone": "+61 3 5471 1555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2123435,
+          -37.0519115
+        ]
+      },
+      "id": "node/4214963285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4215016840",
+        "addr:city": "Kyabram",
+        "addr:housenumber": "88",
+        "addr:postcode": "3620",
+        "addr:street": "Fenaughty Street",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kyabram Hospital",
+        "phone": "+61 3 5857 0200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0421803,
+          -36.315573
+        ]
+      },
+      "id": "node/4215016840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4246233623",
+        "amenity": "hospital",
+        "name": "The Valley Private Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2131512,
+          -37.9386663
+        ]
+      },
+      "id": "node/4246233623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4431642390",
+        "addr:housenumber": "3890",
+        "addr:postcode": "87078",
+        "addr:street": "Calzada General Luis Caballero",
+        "amenity": "hospital",
+        "name": "Hospital Infantil",
+        "name:en": "Children's hospital",
+        "opening_hours": "24/7",
+        "website": "http://hospitalinfantiltamaulipas.gob.mx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1636235,
+          23.7217384
+        ]
+      },
+      "id": "node/4431642390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524199980",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Chandler Road Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1859273,
+          -37.9752194
+        ]
+      },
+      "id": "node/4524199980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4694444336",
+        "addr:city": "Victoria",
+        "addr:postcode": "3153",
+        "addr:street": "Mariano Moreno",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Hospital Geriatrico Domingo Cúneo",
+        "operator": "cbmaps.com.ar",
+        "phone": "03436-420867",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.1567284,
+          -32.6307147
+        ]
+      },
+      "id": "node/4694444336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4712754127",
+        "addr:city": "Parkville",
+        "addr:housenumber": "305",
+        "addr:street": "Grattan Street",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Victorian Comprehensive Cancer Centre",
+        "wikidata": "Q24185397"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9562153,
+          -37.7999274
+        ]
+      },
+      "id": "node/4712754127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4712755317",
+        "addr:city": "Melbourne",
+        "addr:housenumber": "305",
+        "addr:postcode": "3000",
+        "addr:street": "Grattan Street",
+        "amenity": "hospital",
+        "contact:phone": "+61 3 8559 5000",
+        "emergency": "no",
+        "health_amenity:type": "imaging_equipment;intensive_care_unit;laboratory;mri;operating_theater;ultrasound;x_ray",
+        "healthcare": "hospital",
+        "insurance:health": "private;public",
+        "name": "Peter MacCallum Cancer Centre",
+        "url": "www.petermac.org",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9567852,
+          -37.8003879
+        ]
+      },
+      "id": "node/4712755317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4780137423",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9658061,
+          -37.7663129
+        ]
+      },
+      "id": "node/4780137423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5127953776",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Davell Lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1773168,
+          -37.9523063
+        ]
+      },
+      "id": "node/5127953776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5215342570",
+        "amenity": "hospital",
+        "name": "Noble Manor Aged Care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1738309,
+          -37.9676778
+        ]
+      },
+      "id": "node/5215342570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5302929934",
+        "amenity": "hospital",
+        "name": "The Bays Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0419,
+          -38.2238248
+        ]
+      },
+      "id": "node/5302929934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5326446022",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "emergency",
+        "name": "Emergency Department",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2801905,
+          -36.7492359
+        ]
+      },
+      "id": "node/5326446022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5453073744",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Upper Murray Health & Community Services, Corryong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.9030593,
+          -36.1987616
+        ]
+      },
+      "id": "node/5453073744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5643870455",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Victoria La Salle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.107715,
+          23.7656305
+        ]
+      },
+      "id": "node/5643870455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5819905796",
+        "addr:housenumber": "187",
+        "addr:postcode": "3161",
+        "addr:state": "VIC",
+        "addr:street": "Hawthorn Road",
+        "addr:suburb": "caulfield north",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "orthodontics",
+        "name": "Orthodontist",
+        "operator": "Jeff Lipshatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0241358,
+          -37.8774755
+        ]
+      },
+      "id": "node/5819905796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6797577951",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Wimmera Health Care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.0244485,
+          -36.4499902
+        ]
+      },
+      "id": "node/6797577951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7068030974",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9940109,
+          -37.8168201
+        ]
+      },
+      "id": "node/7068030974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072155250",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "emergency",
+        "name": "Emergency Ward",
+        "operator": "Goulburn Valley health",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.405138,
+          -36.3629086
+        ]
+      },
+      "id": "node/8072155250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9297853571",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Emergency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3270611,
+          48.4334826
+        ]
+      },
+      "id": "node/9297853571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9576622181",
+        "addr:housenumber": "25",
+        "addr:postcode": "3140",
+        "addr:state": "VIC",
+        "addr:street": "Market Street",
+        "addr:suburb": "Lilydale",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Yarra Ranges Health",
+        "operator": "Eastern Health",
+        "operator:type": "public",
+        "phone:AU": "1300 342 255",
+        "website": "https://www.easternhealth.org.au/locations/yarra-ranges-health/item/222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.351376,
+          -37.7565429
+        ]
+      },
+      "id": "node/9576622181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9962857372",
+        "amenity": "hospital",
+        "name": "Knox Day Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2491055,
+          -37.8440747
+        ]
+      },
+      "id": "node/9962857372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10185268719",
+        "addr:housenumber": "271",
+        "addr:street": "Clayton Road",
+        "amenity": "hospital",
+        "name": "Monash house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1202487,
+          -37.9208967
+        ]
+      },
+      "id": "node/10185268719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11041628116",
+        "amenity": "hospital",
+        "name": "Doncaster Private Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1328204,
+          -37.7873942
+        ]
+      },
+      "id": "node/11041628116"
+    }
+  ]
+}

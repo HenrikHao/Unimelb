@@ -1,0 +1,1290 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-09-01T08:26:35Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/356849465",
+        "ele": "24",
+        "gnis:county_id": "469",
+        "gnis:created": "02/11/2004",
+        "gnis:feature_id": "2029137",
+        "gnis:state_id": "48",
+        "leisure": "park",
+        "name": "Hopkins Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9933204,
+          28.7894348
+        ]
+      },
+      "id": "node/356849465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/647402239",
+        "leisure": "park",
+        "name": "Katandra Football Netball Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5605266,
+          -36.2280815
+        ]
+      },
+      "id": "node/647402239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1466700636",
+        "leisure": "park",
+        "name": "Websters Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1555882,
+          -37.7477873
+        ]
+      },
+      "id": "node/1466700636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1805855695",
+        "leisure": "park",
+        "name": "Cattle Yards"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1837952,
+          -36.7437933
+        ]
+      },
+      "id": "node/1805855695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1805856011",
+        "leisure": "park",
+        "name": "Wombat's Junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1862469,
+          -36.7386048
+        ]
+      },
+      "id": "node/1805856011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1805858135",
+        "leisure": "park",
+        "name": "Dart Spur Junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1896364,
+          -36.7400436
+        ]
+      },
+      "id": "node/1805858135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1805858856",
+        "leisure": "park",
+        "name": "5 ways"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1865902,
+          -36.7406465
+        ]
+      },
+      "id": "node/1805858856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1808391938",
+        "leisure": "park",
+        "name": "Lake Hindmarsh Lake Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.87417,
+          -35.94472
+        ]
+      },
+      "id": "node/1808391938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2399159519",
+        "leisure": "park",
+        "name": "Hard Hill Tourist Reserve",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6053369,
+          -36.4144632
+        ]
+      },
+      "id": "node/2399159519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2426036477",
+        "leisure": "park",
+        "name": "Wirilda Environment Park",
+        "website": "http://www.wirildapark.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.4462323,
+          -38.1400017
+        ]
+      },
+      "id": "node/2426036477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2483459467",
+        "leisure": "park",
+        "name": "Skate Park",
+        "sport": "skateboard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7709804,
+          -37.8581272
+        ]
+      },
+      "id": "node/2483459467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2495574517",
+        "leisure": "park",
+        "name": "Halls Gap Fitness Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5381544,
+          -37.168787
+        ]
+      },
+      "id": "node/2495574517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2614540924",
+        "leisure": "park",
+        "name": "Clarrie Keating Memorial Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0614909,
+          -36.8946377
+        ]
+      },
+      "id": "node/2614540924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2614541069",
+        "leisure": "park",
+        "name": "Tronoh Dredge Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0694065,
+          -36.8960551
+        ]
+      },
+      "id": "node/2614541069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2622212976",
+        "leisure": "park",
+        "name": "Fotheringham Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1946697,
+          -37.9757646
+        ]
+      },
+      "id": "node/2622212976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2782520464",
+        "leisure": "park",
+        "name": "Belgrave Lake Park",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3585786,
+          -37.9163727
+        ]
+      },
+      "id": "node/2782520464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2843123748",
+        "leisure": "park",
+        "name": "Stintons Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2045614,
+          -37.7682833
+        ]
+      },
+      "id": "node/2843123748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2941686262",
+        "leisure": "park",
+        "name": "Loys Paddock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0095238,
+          -37.8328426
+        ]
+      },
+      "id": "node/2941686262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3003930248",
+        "leisure": "park",
+        "name": "Sculpture Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0509645,
+          -37.7207688
+        ]
+      },
+      "id": "node/3003930248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3068361882",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0534056,
+          -37.9420711
+        ]
+      },
+      "id": "node/3068361882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3360867316",
+        "leisure": "park",
+        "name": "Burndap Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8994123,
+          -37.7834415
+        ]
+      },
+      "id": "node/3360867316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3421013393",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9618082,
+          -37.7984261
+        ]
+      },
+      "id": "node/3421013393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453910649",
+        "fixme": "This appears to be a duplicate of the area, but is this a separate part of this park? Needs confirmation",
+        "leisure": "park",
+        "name": "Tram Road Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1283327,
+          -37.795989
+        ]
+      },
+      "id": "node/3453910649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3605056308",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.042048,
+          -34.2090857
+        ]
+      },
+      "id": "node/3605056308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3606325764",
+        "leisure": "park",
+        "name": "Critchley Parker Junior Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3950388,
+          -38.004114
+        ]
+      },
+      "id": "node/3606325764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3636679557",
+        "leisure": "park",
+        "name": "Rheola Pioneers Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.704083,
+          -36.6490516
+        ]
+      },
+      "id": "node/3636679557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4017426048",
+        "leisure": "park",
+        "name": "A.W. Knight Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8824624,
+          -37.8426034
+        ]
+      },
+      "id": "node/4017426048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4064875839",
+        "leisure": "park",
+        "name": "Koala Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.912121,
+          -37.4413612
+        ]
+      },
+      "id": "node/4064875839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4588581658",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8143167,
+          -37.5419436
+        ]
+      },
+      "id": "node/4588581658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4630566293",
+        "leisure": "park",
+        "name": "Centro de Convivencias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1344123,
+          23.7530885
+        ]
+      },
+      "id": "node/4630566293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4636033169",
+        "leisure": "park",
+        "name": "Duck Pond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3256073,
+          -38.0691567
+        ]
+      },
+      "id": "node/4636033169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4636054300",
+        "description": "Quiet, enclosed park. Just off the footpath",
+        "leisure": "park",
+        "name": "Esplanade Kiddie Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3260674,
+          -38.0682245
+        ]
+      },
+      "id": "node/4636054300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4636062385",
+        "description": "An enclosed park in the heart of the Pond. Very active, lots of families and dog walkers come around here. ",
+        "leisure": "park",
+        "name": "Berwick Kiddie Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3228649,
+          -38.0612948
+        ]
+      },
+      "id": "node/4636062385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4636069607",
+        "description": "Great area to catch ducks and other birds lounging around. Some bird watchers come here, there is seating to feed birds as well.",
+        "leisure": "park",
+        "name": "Duck Watchers Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3230415,
+          -38.0713326
+        ]
+      },
+      "id": "node/4636069607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4636069608",
+        "description": "Great area to catch ducks and other birds lounging around. Some bird watchers come here, there is seating to feed birds as well.",
+        "leisure": "park",
+        "name": "Duck Watchers Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3236518,
+          -38.070672
+        ]
+      },
+      "id": "node/4636069608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4636069609",
+        "description": "Great area to catch ducks and other birds lounging around. Some bird watchers come here, there is seating to feed birds as well.",
+        "leisure": "park",
+        "name": "Duck Watchers Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3243935,
+          -38.0699813
+        ]
+      },
+      "id": "node/4636069609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4677413332",
+        "leisure": "park",
+        "name": "Thorppp Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7846356,
+          -37.0530441
+        ]
+      },
+      "id": "node/4677413332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4679778554",
+        "leisure": "park",
+        "name": "Cape Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6102139,
+          -38.6664086
+        ]
+      },
+      "id": "node/4679778554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5215398897",
+        "fee": "no",
+        "leisure": "park",
+        "name": "Upper Howqua Camping Area",
+        "operator": "Parks Victoria",
+        "operator:wikidata": "Q3365478",
+        "operator:wikipedia": "en:Parks Victoria",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5627328,
+          -37.1736288
+        ]
+      },
+      "id": "node/5215398897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5309701610",
+        "leisure": "park",
+        "name": "Coranation Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8909016,
+          -37.8454223
+        ]
+      },
+      "id": "node/5309701610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324409313",
+        "leisure": "park",
+        "name": "Queens Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9809198,
+          -38.5485285
+        ]
+      },
+      "id": "node/5324409313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436484557",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9204346,
+          -37.7266503
+        ]
+      },
+      "id": "node/5436484557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5577550565",
+        "leisure": "park",
+        "name": "Cann River State Forest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1493554,
+          -37.5922913
+        ]
+      },
+      "id": "node/5577550565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5742290790",
+        "leisure": "park",
+        "name": "Boolarra Memorial Park",
+        "website": "http://www.latrobe.vic.gov.au/Our_Services/Arts_Recreation_and_Leisure/Venue_Hire/Community_Commercial_and_Council_Venues_for_Hire/Boolarra_Memorial_Park_Committee_of_Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2742954,
+          -38.3712159
+        ]
+      },
+      "id": "node/5742290790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5759927121",
+        "leisure": "park",
+        "name": "Story Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.686437,
+          -37.7542943
+        ]
+      },
+      "id": "node/5759927121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6023989929",
+        "leisure": "park",
+        "name": "Tabulum Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0844651,
+          -38.2398188
+        ]
+      },
+      "id": "node/6023989929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6310275257",
+        "addr:housenumber": "46-48",
+        "addr:postcode": "3135",
+        "addr:state": "VIC",
+        "addr:street": "Dickasons Road",
+        "addr:suburb": "Heathmont",
+        "addr:unit": "Rear",
+        "alt_name": "Dexter's",
+        "leisure": "park",
+        "name": "Dexters Bush",
+        "operator": "Trust For Nature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2488215,
+          -37.8362251
+        ]
+      },
+      "id": "node/6310275257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6764091721",
+        "leisure": "park",
+        "name": "Lily Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8832467,
+          -37.7547814
+        ]
+      },
+      "id": "node/6764091721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6779530068",
+        "leisure": "park",
+        "name": "Maddison Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6760958,
+          44.8538471
+        ]
+      },
+      "id": "node/6779530068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6829877815",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7462375,
+          -36.5739968
+        ]
+      },
+      "id": "node/6829877815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7108455223",
+        "dog": "yes",
+        "leisure": "park",
+        "name": "reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0414261,
+          -37.2126266
+        ]
+      },
+      "id": "node/7108455223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7108455241",
+        "leisure": "park",
+        "name": "Art And Place For a Quick Break",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0463058,
+          -37.2062505
+        ]
+      },
+      "id": "node/7108455241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7196549117",
+        "leisure": "park",
+        "name": "Unidentified tower",
+        "operator": "Unk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2120138,
+          -37.5475049
+        ]
+      },
+      "id": "node/7196549117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7428480261",
+        "addr:housenumber": "30-34",
+        "addr:postcode": "3058",
+        "addr:state": "VIC",
+        "addr:street": "Charles Street",
+        "addr:suburb": "Coburg North",
+        "dog": "yes",
+        "leisure": "park",
+        "name": "Richards Reserve",
+        "operator": "Moreland City Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.955863,
+          -37.7294409
+        ]
+      },
+      "id": "node/7428480261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7428523473",
+        "leisure": "park",
+        "operator": "Moreland City Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9455054,
+          -37.7353979
+        ]
+      },
+      "id": "node/7428523473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7428891872",
+        "addr:housenumber": "125",
+        "addr:postcode": "3885",
+        "addr:state": "VIC",
+        "addr:street": "Quire Road",
+        "addr:suburb": "Buchan South",
+        "leisure": "park",
+        "name": "Buchan South Vege Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.1063047,
+          -37.5496138
+        ]
+      },
+      "id": "node/7428891872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7428891873",
+        "leisure": "park",
+        "name": "Yellow Waterholes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.1061625,
+          -37.5494926
+        ]
+      },
+      "id": "node/7428891873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7443741667",
+        "leisure": "park",
+        "name": "Lysa Polana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7433018,
+          -36.3918666
+        ]
+      },
+      "id": "node/7443741667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7465157709",
+        "leisure": "park",
+        "wetland": "pond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0584669,
+          -38.7828537
+        ]
+      },
+      "id": "node/7465157709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7579578465",
+        "description": "Forest Creek Gold Workings Heritage Walk start point.",
+        "leisure": "park",
+        "name": "Forest Creek Gold Workings Heritage Walk",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2401766,
+          -37.0757771
+        ]
+      },
+      "id": "node/7579578465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844240440",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0858517,
+          -37.8155391
+        ]
+      },
+      "id": "node/7844240440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8110389594",
+        "leisure": "park",
+        "name": "Pinic Table"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0765789,
+          -38.4203185
+        ]
+      },
+      "id": "node/8110389594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8386112284",
+        "addr:housenumber": "2628",
+        "addr:street": "Warburton Highway",
+        "leisure": "park",
+        "name": "Blue Lotus Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6304062,
+          -37.7827333
+        ]
+      },
+      "id": "node/8386112284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8723625030",
+        "leisure": "park",
+        "name": "Public BBQ",
+        "operator": "City of Knox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2787069,
+          -37.8599318
+        ]
+      },
+      "id": "node/8723625030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8735321696",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.471844,
+          -37.0888651
+        ]
+      },
+      "id": "node/8735321696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8735321698",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4746785,
+          -37.0905461
+        ]
+      },
+      "id": "node/8735321698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8945445062",
+        "leisure": "park",
+        "name": "Wilson Avenue Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9605853,
+          -37.7751312
+        ]
+      },
+      "id": "node/8945445062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9262216551",
+        "leisure": "park",
+        "name": "wonguim wilam",
+        "name:woi wurrung": "wonguim wilam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2220618,
+          -37.7364754
+        ]
+      },
+      "id": "node/9262216551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9587111018",
+        "leisure": "park",
+        "name": "Prominence Boulevard Park",
+        "opening_hours:covid19": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6562575,
+          -37.8661307
+        ]
+      },
+      "id": "node/9587111018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9985459432",
+        "leisure": "park",
+        "name": "The Domain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9086741,
+          -37.7869523
+        ]
+      },
+      "id": "node/9985459432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9997008060",
+        "description": "Entry point.",
+        "leisure": "park",
+        "name": "Mount Napier State Park Entry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.0242421,
+          -37.8574831
+        ]
+      },
+      "id": "node/9997008060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10050451681",
+        "leisure": "park",
+        "name": "Ridgeways Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8828483,
+          -36.3149506
+        ]
+      },
+      "id": "node/10050451681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10239585588",
+        "leisure": "park",
+        "name": "David Collins Drive Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2688782,
+          -37.9926775
+        ]
+      },
+      "id": "node/10239585588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10272094295",
+        "leisure": "park",
+        "name": "Conondale Avenue Reserve",
+        "note": "Under construction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6907052,
+          -37.768978
+        ]
+      },
+      "id": "node/10272094295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10829611925",
+        "addr:postcode": "3153",
+        "addr:state": "VIC",
+        "addr:street": "King Street",
+        "addr:suburb": "Bayswater",
+        "leisure": "park",
+        "name": "Bayswater Park Bike Training Area",
+        "website": "https://www.melbourneplaygrounds.com.au/bayswater-park-bike-training-area-bayswater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2672107,
+          -37.8384737
+        ]
+      },
+      "id": "node/10829611925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10970328981",
+        "leisure": "park",
+        "name": "Hurstbridge Station Gardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1923848,
+          -37.6397362
+        ]
+      },
+      "id": "node/10970328981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11076349033",
+        "leisure": "park",
+        "name": "Cardinia Reservoir Park",
+        "wikidata": "Q121024394"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3939612,
+          -37.9696122
+        ]
+      },
+      "id": "node/11076349033"
+    }
+  ]
+}

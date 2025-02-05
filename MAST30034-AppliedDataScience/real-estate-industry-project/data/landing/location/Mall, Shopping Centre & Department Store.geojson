@@ -1,0 +1,4529 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-09-01T08:38:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/260710476",
+        "addr:housenumber": "270",
+        "addr:postcode": "3131",
+        "addr:state": "VIC",
+        "addr:street": "Canterbury Road",
+        "addr:suburb": "Forest Hill",
+        "branch": "Forest Hill",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/targetaus",
+        "contact:instagram": "https://instagram.com/targetaus",
+        "contact:pinterest": "https://www.pinterest.com.au/targetaus",
+        "contact:twitter": "https://twitter.com/Targetaus",
+        "contact:youtube": "https://www.youtube.com/user/TargetAustralia",
+        "name": "Target",
+        "opening_hours": "Mo-We 09:00-18:00; Th-Fr 09:00-20:00; Sa 09:00-17:00; Su 10:00-17:00",
+        "phone": "+61 3 8878 1300",
+        "shop": "department_store",
+        "website": "https://www.target.com.au/store/vic/forest-hill/5278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1646181,
+          -37.8349871
+        ]
+      },
+      "id": "node/260710476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/261507649",
+        "addr:housenumber": "699",
+        "addr:street": "Warrigal Road",
+        "alt_name": "Harvey Norman AV/IT Chadstone",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "fax": "+61 3 9567 6699",
+        "kids_area": "no",
+        "name": "Harvey Norman",
+        "operator": "Chadsuper Pty Ltd",
+        "operator:ref:abn": "78685211446",
+        "operator:ref:acn": "628897601",
+        "phone": "+61 3 9567 6666",
+        "shop": "department_store",
+        "website": "https://www.harveynorman.com.au/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0926373,
+          -37.8784289
+        ]
+      },
+      "id": "node/261507649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290313332",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "name": "Big W",
+        "shop": "department_store",
+        "website": "https://www.bigw.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6771117,
+          -37.875177
+        ]
+      },
+      "id": "node/290313332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290313335",
+        "brand": "Myer",
+        "brand:wikidata": "Q1110323",
+        "brand:wikipedia": "en:Myer",
+        "name": "Myer",
+        "shop": "department_store",
+        "website": "https://www.myer.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6818606,
+          -37.8766625
+        ]
+      },
+      "id": "node/290313335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290313348",
+        "addr:postcode": "3029",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6802502,
+          -37.8749952
+        ]
+      },
+      "id": "node/290313348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/360214084",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "name": "Target",
+        "shop": "department_store",
+        "website": "www.target.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4782744,
+          -38.0782751
+        ]
+      },
+      "id": "node/360214084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/361740775",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "name": "Harvey Norman",
+        "shop": "department_store",
+        "website": "https://www.harveynorman.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3053085,
+          -38.0216659
+        ]
+      },
+      "id": "node/361740775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/465186402",
+        "brand": "Myer",
+        "brand:wikidata": "Q1110323",
+        "brand:wikipedia": "en:Myer",
+        "name": "Myer",
+        "shop": "department_store",
+        "website": "https://www.myer.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1256116,
+          -37.7836529
+        ]
+      },
+      "id": "node/465186402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/469459407",
+        "brand": "David Jones",
+        "brand:wikidata": "Q5235753",
+        "brand:wikipedia": "en:David Jones Limited",
+        "name": "David Jones",
+        "shop": "department_store",
+        "website": "www.davidjones.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0271688,
+          -37.86316
+        ]
+      },
+      "id": "node/469459407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/469627669",
+        "brand": "David Jones",
+        "brand:wikidata": "Q5235753",
+        "brand:wikipedia": "en:David Jones Limited",
+        "name": "David Jones",
+        "shop": "department_store",
+        "website": "http://www.davidjones.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1271819,
+          -37.7838828
+        ]
+      },
+      "id": "node/469627669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/529775806",
+        "branch": "Wantirna South",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/targetaus",
+        "contact:instagram": "https://instagram.com/targetaus",
+        "contact:pinterest": "https://www.pinterest.com.au/targetaus",
+        "contact:twitter": "https://twitter.com/Targetaus",
+        "contact:youtube": "https://www.youtube.com/user/TargetAustralia",
+        "layer": "1",
+        "name": "Target Knox City",
+        "opening_hours": "Mo-We,Sa 09:00-18:00; Th-Fr 09:00-21:00; Su 10:00-18:00",
+        "phone": "(03) 9871 8000",
+        "shop": "department_store",
+        "website": "https://www.target.com.au/store/vic/knox-city/5058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2399226,
+          -37.8689015
+        ]
+      },
+      "id": "node/529775806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/529775809",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "layer": "1",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2416913,
+          -37.869312
+        ]
+      },
+      "id": "node/529775809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/563401129",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "name": "Target",
+        "shop": "department_store",
+        "website": "www.target.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3190989,
+          -38.2000707
+        ]
+      },
+      "id": "node/563401129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/565827594",
+        "addr:housenumber": "171-175",
+        "addr:postcode": "3134",
+        "addr:state": "VIC",
+        "addr:street": "Maroondah Highway",
+        "addr:suburb": "Ringwood",
+        "branch": "Eastland",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "layer": "-2",
+        "name": "Target",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "operator": "Wesfarmers",
+        "operator:wikidata": "Q908144",
+        "operator:wikipedia": "en:Wesfarmers",
+        "phone": "+61 3 9845 8400",
+        "shop": "department_store",
+        "website": "https://www.target.com.au/store/vic/eastland/5420",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2289143,
+          -37.8142991
+        ]
+      },
+      "id": "node/565827594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/594397738",
+        "addr:housenumber": "236",
+        "addr:postcode": "3000",
+        "addr:street": "Bourke Street",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "full_name": "Target Bourke Street",
+        "name": "Kmart",
+        "opening_hours": "Mo-We 08:00-19:00; Th-Fr 08:00-21:00; Sa 09:00-18:00; Su 10:00-18:00",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.966429,
+          -37.812787
+        ]
+      },
+      "id": "node/594397738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/602904834",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "name": "Big W",
+        "shop": "department_store",
+        "website": "https://www.bigw.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7753073,
+          -37.7007792
+        ]
+      },
+      "id": "node/602904834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/602905377",
+        "addr:postcode": "3038",
+        "addr:street": "Melton Highway",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 08:00-20:00",
+        "phone": "+61 3 7378 7600",
+        "shop": "department_store",
+        "toilets": "yes",
+        "website": "https://www.kmart.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7751785,
+          -37.6977146
+        ]
+      },
+      "id": "node/602905377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/604292318",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "note": "variety_store is for reject shop and 2$ type shops",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1246202,
+          -38.1397104
+        ]
+      },
+      "id": "node/604292318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/604292555",
+        "branch": "Frankston",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/targetaus",
+        "contact:instagram": "https://instagram.com/targetaus",
+        "contact:pinterest": "https://www.pinterest.com.au/targetaus",
+        "contact:twitter": "https://twitter.com/Targetaus",
+        "contact:youtube": "https://www.youtube.com/user/TargetAustralia",
+        "level": "1",
+        "name": "Target Frankston",
+        "opening_hours": "Mo-We,Sa-Su 09:00-18:00; Th-Fr 09:00-21:00",
+        "phone": "(03) 8781 3500",
+        "shop": "department_store",
+        "website": "https://www.target.com.au/store/vic/frankston/5098"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1235994,
+          -38.1420184
+        ]
+      },
+      "id": "node/604292555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/613996257",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/BIGWaustralia",
+        "contact:instagram": "https://instagram.com/bigwaustralia",
+        "contact:linkedin": "https://linkedin.com/company/big-w",
+        "contact:twitter": "https://twitter.com/bigw",
+        "contact:youtube": "https://www.youtube.com/user/BIGWaustralia",
+        "full_name": "Big W QV",
+        "name": "Big W",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-21:00",
+        "operator": "Woolworths Group Limited",
+        "operator:ref:abn": "88 000 014 675",
+        "phone": "(03) 8347 5802",
+        "shop": "department_store",
+        "website": "https://www.bigw.com.au/store/0391/BIG-W-Queen-Victoria-Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9651041,
+          -37.8112111
+        ]
+      },
+      "id": "node/613996257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616078249",
+        "addr:postcode": "3155",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "opening_hours": "Mo-Su 08:00-23:59",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2877273,
+          -37.8607016
+        ]
+      },
+      "id": "node/616078249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/627229647",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1746172,
+          -37.9931166
+        ]
+      },
+      "id": "node/627229647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/628542213",
+        "addr:housename": "Chadstone Shopping Centre",
+        "branch": "Chadstone",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "check_date": "2023-02-04",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/targetaus",
+        "contact:instagram": "https://instagram.com/targetaus",
+        "contact:pinterest": "https://www.pinterest.com.au/targetaus",
+        "contact:twitter": "https://twitter.com/Targetaus",
+        "contact:youtube": "https://www.youtube.com/user/TargetAustralia",
+        "name": "Target Chadstone",
+        "opening_hours": "Mo-We 09:00-20:00; Th-Fr 09:00-22:00; Sa 09:00-21:00; Su 09:00-19:00",
+        "operator:ref:abn": "75004250944",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+61 3 9577 7400",
+        "shop": "department_store",
+        "toilets": "no",
+        "website": "https://www.target.com.au/store/vic/chadstone/5419",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0842594,
+          -37.8845191
+        ]
+      },
+      "id": "node/628542213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/628543974",
+        "addr:housename": "Chadstone Shopping Centre",
+        "addr:street": "Dandenong Road",
+        "alt_name": "Kmart Chadstone; Chadstone Kmart",
+        "branch": "Chadstone",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "check_date": "2023-02-04",
+        "name": "Kmart",
+        "operator:ref:abn": "73004700485",
+        "phone": "+61 3 8576 0900",
+        "shop": "department_store",
+        "toilets": "no",
+        "website": "https://www.kmart.com.au/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0841997,
+          -37.8855187
+        ]
+      },
+      "id": "node/628543974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/630118847",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "note": "Kmart Australia store number 1",
+        "opening_hours": "24/7",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1502057,
+          -37.8538746
+        ]
+      },
+      "id": "node/630118847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/632176659",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0701969,
+          -37.6515303
+        ]
+      },
+      "id": "node/632176659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/632176784",
+        "branch": "Mill Park",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/targetaus",
+        "contact:instagram": "https://instagram.com/targetaus",
+        "contact:pinterest": "https://www.pinterest.com.au/targetaus",
+        "contact:twitter": "https://twitter.com/Targetaus",
+        "contact:youtube": "https://www.youtube.com/user/TargetAustralia",
+        "name": "Target Plenty Valley",
+        "opening_hours": "Mo-We 09:00-19:00; Th-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00",
+        "phone": "(03) 9407 2900",
+        "shop": "department_store",
+        "website": "https://www.target.com.au/store/vic/plenty-valley/5290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0728415,
+          -37.651989
+        ]
+      },
+      "id": "node/632176784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/632207485",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "name": "Harvey Norman",
+        "shop": "department_store",
+        "website": "https://www.harveynorman.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3792103,
+          -38.067743
+        ]
+      },
+      "id": "node/632207485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/655118710",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.kmart.com.au/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8252661,
+          -37.5348046
+        ]
+      },
+      "id": "node/655118710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/660506568",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "name": "Harvey Norman",
+        "shop": "department_store",
+        "website": "https://www.harveynorman.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9650049,
+          -37.8111772
+        ]
+      },
+      "id": "node/660506568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/662734452",
+        "branch": "Somerville",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/targetaus",
+        "contact:instagram": "https://instagram.com/targetaus",
+        "contact:pinterest": "https://www.pinterest.com.au/targetaus",
+        "contact:twitter": "https://twitter.com/Targetaus",
+        "contact:youtube": "https://www.youtube.com/user/TargetAustralia",
+        "name": "Target Somerville",
+        "opening_hours": "Mo-We,Sa-Su 09:00-18:00; Th-Fr 09:00-20:00",
+        "phone": "(03) 5973 1800",
+        "shop": "department_store",
+        "website": "https://www.target.com.au/store/vic/somerville/5220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1695495,
+          -38.2250572
+        ]
+      },
+      "id": "node/662734452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/666846442",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+61 3 93878233",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9621303,
+          -37.7755451
+        ]
+      },
+      "id": "node/666846442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/854330829",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "K Hub",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5858803,
+          -38.3395723
+        ]
+      },
+      "id": "node/854330829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/876980281",
+        "branch": "Sunbury",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/targetaus",
+        "contact:instagram": "https://instagram.com/targetaus",
+        "contact:pinterest": "https://www.pinterest.com.au/targetaus",
+        "contact:twitter": "https://twitter.com/Targetaus",
+        "contact:youtube": "https://www.youtube.com/user/TargetAustralia",
+        "name": "Target Sunbury",
+        "opening_hours": "Mo-We 09:00-19:00; Th-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00",
+        "phone": "(03) 9218 5900",
+        "shop": "department_store",
+        "website": "https://www.target.com.au/store/vic/sunbury/5226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.726349,
+          -37.5828867
+        ]
+      },
+      "id": "node/876980281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/907675879",
+        "addr:housenumber": "171-175",
+        "addr:postcode": "3134",
+        "addr:state": "VIC",
+        "addr:street": "Maroondah Highway",
+        "addr:suburb": "Ringwood",
+        "branch": "Eastland",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/BIGWaustralia",
+        "contact:instagram": "https://instagram.com/bigwaustralia",
+        "contact:linkedin": "https://linkedin.com/company/big-w",
+        "contact:twitter": "https://twitter.com/bigw",
+        "contact:youtube": "https://www.youtube.com/user/BIGWaustralia",
+        "full_name": "BIG W Eastland",
+        "layer": "1",
+        "name": "Big W",
+        "opening_hours": "Mo-We,Sa 08:00-18:00; Th-Fr 08:00-21:00; Su 09:00-18:00",
+        "operator": "Woolworths Group Limited",
+        "operator:ref:abn": "88 000 014 675",
+        "phone": "+61 3 8841 7600",
+        "shop": "department_store",
+        "website": "https://www.bigw.com.au/store/0384/BIG-W-Eastland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2296612,
+          -37.8118345
+        ]
+      },
+      "id": "node/907675879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/960804498",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/BIGWaustralia",
+        "contact:instagram": "https://instagram.com/bigwaustralia",
+        "contact:linkedin": "https://linkedin.com/company/big-w",
+        "contact:twitter": "https://twitter.com/bigw",
+        "contact:youtube": "https://www.youtube.com/user/BIGWaustralia",
+        "full_name": "BIG W Waverley Gardens",
+        "name": "Big W",
+        "opening_hours": "Mo-We,Sa 08:00-18:00; Th-Fr 08:00-21:00; Su 09:00-18:00",
+        "operator": "Woolworths Group Limited",
+        "operator:ref:abn": "88 000 014 675",
+        "phone": "(03) 8793 3304",
+        "shop": "department_store",
+        "toilets": "no",
+        "website": "https://www.bigw.com.au/store/0399/BIG-W-Waverley-Gardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1896251,
+          -37.93517
+        ]
+      },
+      "id": "node/960804498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1027335485",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2817805,
+          -38.1086242
+        ]
+      },
+      "id": "node/1027335485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1080144318",
+        "addr:housenumber": "21-31",
+        "addr:postcode": "3039",
+        "addr:street": "Hall Street",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9230704,
+          -37.7657434
+        ]
+      },
+      "id": "node/1080144318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1089656109",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "name": "Harvey Norman",
+        "shop": "department_store",
+        "website": "https://www.harveynorman.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1436578,
+          -37.9288934
+        ]
+      },
+      "id": "node/1089656109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1154358844",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.237664,
+          -37.9203029
+        ]
+      },
+      "id": "node/1154358844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1188667667",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8913079,
+          -38.3614386
+        ]
+      },
+      "id": "node/1188667667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1204755292",
+        "brand": "David Jones",
+        "brand:wikidata": "Q5235753",
+        "brand:wikipedia": "en:David Jones Limited",
+        "building:levels": "3",
+        "level": "0,1,2",
+        "name": "David Jones",
+        "payment:afterpay": "yes",
+        "payment:american_express": "yes",
+        "payment:gift_card": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone:AU": "133 357",
+        "shop": "department_store",
+        "website": "www.davidjones.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0546946,
+          -37.9585201
+        ]
+      },
+      "id": "node/1204755292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1204755302",
+        "addr:housenumber": "1239",
+        "addr:street": "Nepean Highway",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/BIGWaustralia",
+        "contact:instagram": "https://instagram.com/bigwaustralia",
+        "contact:linkedin": "https://linkedin.com/company/big-w",
+        "contact:twitter": "https://twitter.com/bigw",
+        "contact:youtube": "https://www.youtube.com/user/BIGWaustralia",
+        "full_name": "BIG W Southland",
+        "name": "Big W",
+        "opening_hours": "Mo-We,Sa 08:00-18:00; Th-Fr 08:00-21:00; Su 09:00-18:00",
+        "operator": "Woolworths Group Limited",
+        "operator:ref:abn": "88 000 014 675",
+        "phone": "(03) 8551 8750",
+        "shop": "department_store",
+        "website": "https://www.bigw.com.au/store/0375/BIG-W-Southland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0556548,
+          -37.958131
+        ]
+      },
+      "id": "node/1204755302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1204755310",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "check_date": "2022-12-03",
+        "level": "0",
+        "name": "Kmart",
+        "opening_hours": "Mo,Sa-Su 08:00-20:00; Tu-Fr 08:00-22:00",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+61 3 8587 7400",
+        "shop": "department_store",
+        "toilets:wheelchair": "no",
+        "website": "https://www.kmart.com.au/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.050502,
+          -37.9577482
+        ]
+      },
+      "id": "node/1204755310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1204755319",
+        "brand": "Myer",
+        "brand:wikidata": "Q1110323",
+        "brand:wikipedia": "en:Myer",
+        "building:levels": "2",
+        "level": "1,2",
+        "name": "Myer",
+        "payment:afterpay": "yes",
+        "payment:american_express": "yes",
+        "payment:gift_card": "yes",
+        "payment:mastercard": "yes",
+        "payment:union_pay": "yes",
+        "payment:visa": "yes",
+        "phone:AU": "1300 112 460",
+        "shop": "department_store",
+        "website": "https://www.myer.com.au/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0512215,
+          -37.9583401
+        ]
+      },
+      "id": "node/1204755319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1204755335",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "name": "Target",
+        "shop": "department_store",
+        "website": "www.target.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0556416,
+          -37.9579323
+        ]
+      },
+      "id": "node/1204755335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1220951699",
+        "branch": "Sale",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/targetaus",
+        "contact:instagram": "https://instagram.com/targetaus",
+        "contact:pinterest": "https://www.pinterest.com.au/targetaus",
+        "contact:twitter": "https://twitter.com/Targetaus",
+        "contact:youtube": "https://www.youtube.com/user/TargetAustralia",
+        "name": "Target Sale",
+        "opening_hours": "Mo-We,Sa 09:00-18:00; Th-Fr 09:00-19:00; Su 09:00-17:00",
+        "phone": "(03) 5142 0500",
+        "shop": "department_store",
+        "website": "https://www.target.com.au/store/vic/sale/5075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.063503,
+          -38.1065041
+        ]
+      },
+      "id": "node/1220951699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1221088344",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "name": "Big W",
+        "shop": "department_store",
+        "website": "https://www.bigw.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.4303675,
+          -38.236271
+        ]
+      },
+      "id": "node/1221088344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1222247220",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5392602,
+          -38.1939338
+        ]
+      },
+      "id": "node/1222247220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1237239989",
+        "brand": "Myer",
+        "brand:wikidata": "Q1110323",
+        "brand:wikipedia": "en:Myer",
+        "name": "Myer",
+        "shop": "department_store",
+        "website": "https://www.myer.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8882303,
+          -37.7726138
+        ]
+      },
+      "id": "node/1237239989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1237240020",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "name": "Big W",
+        "shop": "department_store",
+        "website": "https://www.bigw.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8891915,
+          -37.7745095
+        ]
+      },
+      "id": "node/1237240020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1237251081",
+        "branch": "Airport West",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/targetaus",
+        "contact:instagram": "https://instagram.com/targetaus",
+        "contact:pinterest": "https://www.pinterest.com.au/targetaus",
+        "contact:twitter": "https://twitter.com/Targetaus",
+        "contact:youtube": "https://www.youtube.com/user/TargetAustralia",
+        "name": "Target Airport West",
+        "opening_hours": "Mo-We,Sa 09:00-19:00; Th-Fr 09:00-21:00; Su 09:00-18:00",
+        "phone": "(03) 9330 5700",
+        "shop": "department_store",
+        "website": "https://www.target.com.au/store/vic/airport-west/5168",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8828891,
+          -37.7153992
+        ]
+      },
+      "id": "node/1237251081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1237251105",
+        "addr:housenumber": "29",
+        "addr:postcode": "3042",
+        "addr:street": "Louis Street",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8866434,
+          -37.713634
+        ]
+      },
+      "id": "node/1237251105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1237251111",
+        "addr:housenumber": "29-35",
+        "addr:street": "Louis Street",
+        "brand": "Harris Scarfe",
+        "brand:wikidata": "Q5665029",
+        "brand:wikipedia": "en:Harris Scarfe",
+        "level": "0",
+        "name": "Harris Scarfe",
+        "shop": "department_store",
+        "website": "https://www.harrisscarfe.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8882205,
+          -37.7138672
+        ]
+      },
+      "id": "node/1237251111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1240423658",
+        "brand": "David Jones",
+        "brand:wikidata": "Q5235753",
+        "brand:wikipedia": "en:David Jones Limited",
+        "name": "David Jones",
+        "shop": "department_store",
+        "source": "knowledge",
+        "website": "www.davidjones.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1653845,
+          -37.8769441
+        ]
+      },
+      "id": "node/1240423658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1240424125",
+        "branch": "Glen Waverley",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/targetaus",
+        "contact:instagram": "https://instagram.com/targetaus",
+        "contact:pinterest": "https://www.pinterest.com.au/targetaus",
+        "contact:twitter": "https://twitter.com/Targetaus",
+        "contact:youtube": "https://www.youtube.com/user/TargetAustralia",
+        "name": "Target Glen Waverley",
+        "opening_hours": "Mo-We 09:00-18:00; Th-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-19:00",
+        "phone": "(03) 9210 4800",
+        "shop": "department_store",
+        "source": "knowledge",
+        "website": "https://www.target.com.au/store/vic/glen-waverley/5099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1643757,
+          -37.8759309
+        ]
+      },
+      "id": "node/1240424125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1264365498",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "name": "Big W",
+        "shop": "department_store",
+        "website": "https://www.bigw.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8317996,
+          -37.7813524
+        ]
+      },
+      "id": "node/1264365498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1266726831",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "name": "Big W",
+        "shop": "department_store",
+        "website": "https://www.bigw.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2604288,
+          -37.9767837
+        ]
+      },
+      "id": "node/1266726831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1278126816",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "name": "Target",
+        "shop": "department_store",
+        "website": "www.target.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7759059,
+          -37.750434
+        ]
+      },
+      "id": "node/1278126816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1278129200",
+        "addr:housenumber": "29-35",
+        "addr:postcode": "3023",
+        "addr:state": "Victoria",
+        "addr:street": "Lake Street",
+        "addr:suburb": "Caroline Springs",
+        "addr:unit": "M2",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "(03)73790600",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.742743,
+          -37.7308354
+        ]
+      },
+      "id": "node/1278129200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1279148054",
+        "addr:housenumber": "619",
+        "addr:street": "Doncaster Road",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/BIGWaustralia",
+        "contact:instagram": "https://instagram.com/bigwaustralia",
+        "contact:linkedin": "https://linkedin.com/company/big-w",
+        "contact:twitter": "https://twitter.com/bigw",
+        "contact:youtube": "https://www.youtube.com/user/BIGWaustralia",
+        "full_name": "BIG W Doncaster",
+        "name": "Big W",
+        "opening_hours": "Mo-We,Sa 08:00-18:00; Th-Fr 08:00-21:00; Su 09:00-18:00",
+        "operator": "Woolworths Group Limited",
+        "operator:ref:abn": "88 000 014 675",
+        "phone": "(03) 8347 5812",
+        "shop": "department_store",
+        "website": "https://www.bigw.com.au/store/0368/BIG-W-Doncaster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1265086,
+          -37.7850035
+        ]
+      },
+      "id": "node/1279148054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1279148067",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "name": "Target",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1264979,
+          -37.7847366
+        ]
+      },
+      "id": "node/1279148067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1279236988",
+        "addr:postcode": "3400",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1956416,
+          -36.7156052
+        ]
+      },
+      "id": "node/1279236988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1285484026",
+        "addr:postcode": "3564",
+        "addr:state": "VIC",
+        "addr:suburb": "Echuca",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "K Hub",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-18:00; Su 09:00-17:00",
+        "operator": "Kmart",
+        "phone": "+61 3 5480 4000",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/store-detail/Kmart+Echuca+K+Hub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7512737,
+          -36.128517
+        ]
+      },
+      "id": "node/1285484026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1285520250",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "name": "Target",
+        "shop": "department_store",
+        "website": "www.target.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.282708,
+          -38.1087985
+        ]
+      },
+      "id": "node/1285520250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1285520315",
+        "brand": "Harris Scarfe",
+        "brand:wikidata": "Q5665029",
+        "brand:wikipedia": "en:Harris Scarfe",
+        "level": "1",
+        "name": "Harris Scarfe",
+        "opening_hours": "Mo-We 09:00-18:00; Th,Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-17:00",
+        "shop": "department_store",
+        "website": "https://www.harrisscarfe.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0562823,
+          -37.958936
+        ]
+      },
+      "id": "node/1285520315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1301675056",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.316647,
+          -36.3598843
+        ]
+      },
+      "id": "node/1301675056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1311737973",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3556305,
+          -38.074341
+        ]
+      },
+      "id": "node/1311737973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1318763475",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "K Hub",
+        "note": "Changed from Target to K Hub in early 2021",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9439905,
+          -38.4773933
+        ]
+      },
+      "id": "node/1318763475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1339120345",
+        "addr:housenumber": "154",
+        "addr:street": "Koroit Street",
+        "branch": "Warrnambool",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/targetaus",
+        "contact:instagram": "https://instagram.com/targetaus",
+        "contact:pinterest": "https://www.pinterest.com.au/targetaus",
+        "contact:twitter": "https://twitter.com/Targetaus",
+        "contact:youtube": "https://www.youtube.com/user/TargetAustralia",
+        "name": "Target Warrnambool",
+        "opening_hours": "Mo-Th,Sa 09:00-18:00; Fr 09:00-19:00; Su 10:00-18:00",
+        "phone": "(03) 5564 6100",
+        "shop": "department_store",
+        "website": "https://www.target.com.au/store/vic/warrnambool/5023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.48286,
+          -38.3825895
+        ]
+      },
+      "id": "node/1339120345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1347451230",
+        "addr:housenumber": "92",
+        "addr:street": "Evans Street",
+        "brand:wikidata": "Q5665029",
+        "brand:wikipedia": "en:Harris Scarfe",
+        "name": "Harris Scarfe",
+        "shop": "department_store",
+        "website": "https://www.harrisscarfe.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7276147,
+          -37.5810801
+        ]
+      },
+      "id": "node/1347451230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1392004993",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "K Hub",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.0235911,
+          -37.7433606
+        ]
+      },
+      "id": "node/1392004993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1428952002",
+        "branch": "Camberwell",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "name": "Target",
+        "shop": "department_store",
+        "website": "www.target.com.au",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.058863,
+          -37.8303302
+        ]
+      },
+      "id": "node/1428952002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1489479512",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "name": "Big W",
+        "shop": "department_store",
+        "website": "https://www.bigw.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0162843,
+          -37.6534963
+        ]
+      },
+      "id": "node/1489479512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1489479513",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "name": "Target",
+        "shop": "department_store",
+        "website": "www.target.com.au",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0212946,
+          -37.6527658
+        ]
+      },
+      "id": "node/1489479513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1505820164",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8077274,
+          -37.7270196
+        ]
+      },
+      "id": "node/1505820164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1507146941",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/BIGWaustralia",
+        "contact:instagram": "https://instagram.com/bigwaustralia",
+        "contact:linkedin": "https://linkedin.com/company/big-w",
+        "contact:twitter": "https://twitter.com/bigw",
+        "contact:youtube": "https://www.youtube.com/user/BIGWaustralia",
+        "full_name": "BIG W Pakenham",
+        "name": "Big W",
+        "opening_hours": "Mo-We 08:00-19:00; Th-Fr 08:00-21:00; Sa 08:00-18:00; Su 09:00-18:00",
+        "operator": "Woolworths Group Limited",
+        "operator:ref:abn": "88 000 014 675",
+        "phone": "(03) 5943 5200",
+        "shop": "department_store",
+        "website": "https://www.bigw.com.au/store/0364/BIG-W-Pakenham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4844082,
+          -38.0781541
+        ]
+      },
+      "id": "node/1507146941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1517023073",
+        "addr:housenumber": "154",
+        "addr:street": "Belmore Street",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "name": "K Hub",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0049531,
+          -36.014745
+        ]
+      },
+      "id": "node/1517023073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1583411964",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "name": "Harvey Norman",
+        "shop": "department_store",
+        "website": "https://www.harveynorman.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0617698,
+          -38.2210055
+        ]
+      },
+      "id": "node/1583411964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1583426656",
+        "brand": "Direct Factory Outlets",
+        "brand:wikidata": "Q5280270",
+        "brand:wikipedia": "en:Direct Factory Outlets",
+        "name": "Direct Factory Outlets",
+        "shop": "mall",
+        "short_name": "DFO",
+        "website": "https://www.dfo.com.au/moorabbin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.088895,
+          -37.97108
+        ]
+      },
+      "id": "node/1583426656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1583426661",
+        "brand": "TK Maxx",
+        "brand:wikidata": "Q23823668",
+        "brand:wikipedia": "en:TK Maxx",
+        "name": "TK Maxx",
+        "shop": "department_store",
+        "website": "https://www.tkmaxx.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0901562,
+          -37.9704289
+        ]
+      },
+      "id": "node/1583426661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1766341029",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "name": "Big W",
+        "opening_hours": "Mo-Fr 08:30-24:00; Sa 08:30-19:00; Su 09:00-18:00",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3020954,
+          -38.0169639
+        ]
+      },
+      "id": "node/1766341029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1766341037",
+        "addr:postcode": "3805",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "opening_hours": "24/7",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3039616,
+          -38.0170184
+        ]
+      },
+      "id": "node/1766341037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1766341041",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "name": "Target",
+        "opening_hours": "24/7",
+        "shop": "department_store",
+        "website": "www.target.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3043801,
+          -38.0185441
+        ]
+      },
+      "id": "node/1766341041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1825210006",
+        "addr:housenumber": "141-165",
+        "addr:postcode": "3175",
+        "addr:street": "Frankston-Dandenong Road",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "name": "Harvey Norman",
+        "shop": "department_store",
+        "website": "https://www.harveynorman.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2165564,
+          -38.0140676
+        ]
+      },
+      "id": "node/1825210006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1927286973",
+        "branch": "Geelong",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "level": "1",
+        "name": "Big W",
+        "opening_hours": "Mo-We 08:00-18:00; Th,Fr 08:00-21:00; Sa 08:00-19:00; Su 09:00-17:00",
+        "phone": "+61 3 5247 7850",
+        "shop": "department_store",
+        "website": "https://bigw.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3642155,
+          -38.1476279
+        ]
+      },
+      "id": "node/1927286973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1927287011",
+        "branch": "Geelong",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/targetaus",
+        "contact:instagram": "https://instagram.com/targetaus",
+        "contact:pinterest": "https://www.pinterest.com.au/targetaus",
+        "contact:twitter": "https://twitter.com/Targetaus",
+        "contact:youtube": "https://www.youtube.com/user/TargetAustralia",
+        "name": "Target Geelong",
+        "opening_hours": "Mo-We,Sa-Su 09:00-18:00; Th 09:00-20:00; Fr 09:00-21:00",
+        "operator": "Target Australia",
+        "phone": "(03) 5273 0300",
+        "shop": "department_store",
+        "website": "https://www.target.com.au/store/vic/geelong/5001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3624962,
+          -38.1459246
+        ]
+      },
+      "id": "node/1927287011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1927287048",
+        "brand": "Myer",
+        "brand:wikidata": "Q1110323",
+        "brand:wikipedia": "en:Myer",
+        "name": "Myer",
+        "shop": "department_store",
+        "website": "https://myer.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3625338,
+          -38.1474391
+        ]
+      },
+      "id": "node/1927287048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1927287049",
+        "addr:housenumber": "64-66",
+        "addr:street": "Malop Street",
+        "brand": "Harris Scarfe",
+        "brand:wikidata": "Q5665029",
+        "brand:wikipedia": "en:Harris Scarfe",
+        "level": "1",
+        "name": "Harris Scarfe",
+        "shop": "department_store",
+        "website": "https://www.harrisscarfe.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3609835,
+          -38.1478652
+        ]
+      },
+      "id": "node/1927287049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1932127776",
+        "brand": "Myer",
+        "brand:wikidata": "Q1110323",
+        "brand:wikipedia": "en:Myer",
+        "name": "Myer",
+        "opening_hours": "Mo-We 09:00-17:30; Th-Fr 09:00-21:00; Su 10:00-17:00",
+        "shop": "department_store",
+        "website": "https://www.myer.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3061967,
+          -38.0173534
+        ]
+      },
+      "id": "node/1932127776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1957539317",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "name": "Harvey Norman",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2615855,
+          -38.1740264
+        ]
+      },
+      "id": "node/1957539317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2045666767",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1694905,
+          -37.7625259
+        ]
+      },
+      "id": "node/2045666767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2049441596",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "name": "Target",
+        "note": "on level one, myer above is now closed",
+        "shop": "department_store",
+        "website": "www.target.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2163194,
+          -37.9860265
+        ]
+      },
+      "id": "node/2049441596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2082806037",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "name": "Harvey Norman",
+        "opening_hours": "Mo-Fr 09:00-17:30; Sa 09:00-16:00; Su 10:00-16:00",
+        "shop": "department_store",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.6258327,
+          -37.826815
+        ]
+      },
+      "id": "node/2082806037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2082810639",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "K Hub",
+        "shop": "department_store",
+        "website": "www.target.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.6292284,
+          -37.8248087
+        ]
+      },
+      "id": "node/2082810639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2108372898",
+        "addr:street": "Bass Coast Rail Trail",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "kids_area": "no",
+        "name": "Kmart",
+        "opening_hours": "Mo-Th 08:00-18:00; Fr 08:00-20:00; Sa-Su 08:00-18:00",
+        "operator:ref:abn": "73004700485",
+        "phone": "+61 3 5671 7300",
+        "ref": "1355",
+        "shop": "department_store",
+        "toilets": "no",
+        "website": "https://www.kmart.com.au",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5857141,
+          -38.6041349
+        ]
+      },
+      "id": "node/2108372898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2163569102",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "name": "Target",
+        "shop": "department_store",
+        "website": "www.target.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7359998,
+          -37.8841265
+        ]
+      },
+      "id": "node/2163569102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172299020",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9196914,
+          -37.6811804
+        ]
+      },
+      "id": "node/2172299020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172299030",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "name": "Big W",
+        "shop": "department_store",
+        "website": "https://www.bigw.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9207751,
+          -37.6797369
+        ]
+      },
+      "id": "node/2172299030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2177939908",
+        "addr:housenumber": "239-241",
+        "addr:postcode": "3116",
+        "addr:state": "VIC",
+        "addr:street": "Maroondah Highway",
+        "addr:suburb": "Chirnside Park",
+        "branch": "Chirnside Park",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/targetaus",
+        "contact:instagram": "https://instagram.com/targetaus",
+        "contact:pinterest": "https://www.pinterest.com.au/targetaus",
+        "contact:twitter": "https://twitter.com/Targetaus",
+        "contact:youtube": "https://www.youtube.com/user/TargetAustralia",
+        "name": "Target Chirnside Park",
+        "opening_hours": "Mo-We 09:00-18:00; Th-Fr 09:00-21:00; Sa-Su 09:00-17:00",
+        "phone": "+61 3 9727 6500",
+        "shop": "department_store",
+        "website": "https://www.target.com.au/store/vic/chirnside-park/5157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3130979,
+          -37.7563232
+        ]
+      },
+      "id": "node/2177939908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2177939909",
+        "addr:housenumber": "239-241",
+        "addr:postcode": "3116",
+        "addr:state": "VIC",
+        "addr:street": "Maroondah Highway",
+        "addr:suburb": "Chirnside Park",
+        "branch": "Chirnside Park",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "opening_hours": "Mo-Su 08:00-00:00",
+        "phone": "+61 3 9722 4800",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3119288,
+          -37.7569177
+        ]
+      },
+      "id": "node/2177939909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2183358104",
+        "addr:housenumber": "300",
+        "addr:postcode": "3030",
+        "addr:street": "Point Cook Road",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "opening_hours": "Mo-Fr 08:00-22:00; Sa,Su 08:00-20:00",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7515239,
+          -37.8951813
+        ]
+      },
+      "id": "node/2183358104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2187836679",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1027731,
+          -37.7026549
+        ]
+      },
+      "id": "node/2187836679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2187836681",
+        "branch": "Greensborough",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/targetaus",
+        "contact:instagram": "https://instagram.com/targetaus",
+        "contact:pinterest": "https://www.pinterest.com.au/targetaus",
+        "contact:twitter": "https://twitter.com/Targetaus",
+        "contact:youtube": "https://www.youtube.com/user/TargetAustralia",
+        "name": "Target Greensborough",
+        "note": "Bottom 2 levels. Multiple levels of parking above",
+        "opening_hours": "Mo-We 09:00-19:00; Th-Fr 09:00-21:00; Sa-Su 09:00-18:00",
+        "phone": "(03) 9258 5200",
+        "shop": "department_store",
+        "website": "https://www.target.com.au/store/vic/greensborough/5179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1014817,
+          -37.7033754
+        ]
+      },
+      "id": "node/2187836681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2189023106",
+        "addr:postcode": "3061",
+        "addr:street": "Hume Highway",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "phone": "+61-3-8301-9600",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9599632,
+          -37.687957
+        ]
+      },
+      "id": "node/2189023106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2235581456",
+        "branch": "Victoria Gardens",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "opening_hours": "Mo-We 8:00-22:00; Th 7:00-22:00; Fr 8:00-22:00; Sa 8:00-20:00",
+        "phone": "+61 3 94210100",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.011221,
+          -37.812105
+        ]
+      },
+      "id": "node/2235581456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2268217833",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "name": "Big W",
+        "shop": "department_store",
+        "website": "https://www.bigw.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2806362,
+          -36.7662062
+        ]
+      },
+      "id": "node/2268217833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2280764648",
+        "addr:housenumber": "15",
+        "addr:postcode": "3175",
+        "addr:street": "Greens Road",
+        "name": "Harvey Norman Factory Outlet",
+        "shop": "department_store",
+        "website": "https://www.harveynorman.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2175061,
+          -38.0141185
+        ]
+      },
+      "id": "node/2280764648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2300671420",
+        "name": "Dimmeys",
+        "shop": "department_store",
+        "website": "https://www.dimmeys.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.215157,
+          -37.9864719
+        ]
+      },
+      "id": "node/2300671420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2392326015",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5641036,
+          -37.686529
+        ]
+      },
+      "id": "node/2392326015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468650211",
+        "brand": "TK Maxx",
+        "brand:wikidata": "Q23823668",
+        "brand:wikipedia": "en:Woolworths Supermarkets",
+        "name": "TK Maxx",
+        "shop": "department_store",
+        "website": "https://www.woolworths.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2813939,
+          -38.1103186
+        ]
+      },
+      "id": "node/2468650211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2480846231",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "K Hub",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.602142,
+          -38.34481
+        ]
+      },
+      "id": "node/2480846231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2489694641",
+        "addr:housenumber": "175",
+        "addr:street": "Cooper Street",
+        "brand": "Harris Scarfe",
+        "brand:wikidata": "Q5665029",
+        "brand:wikipedia": "en:Harris Scarfe",
+        "name": "Harris Scarfe",
+        "shop": "department_store",
+        "website": "https://www.harrisscarfe.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.021484,
+          -37.652955
+        ]
+      },
+      "id": "node/2489694641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2491846407",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "name": "Target",
+        "shop": "department_store",
+        "website": "www.target.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8825593,
+          -36.1213767
+        ]
+      },
+      "id": "node/2491846407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2499018685",
+        "name": "London Drugs",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3574988,
+          48.4249551
+        ]
+      },
+      "id": "node/2499018685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2507888517",
+        "addr:street": "Benalla Road",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/BIGWaustralia",
+        "contact:instagram": "https://instagram.com/bigwaustralia",
+        "contact:linkedin": "https://linkedin.com/company/big-w",
+        "contact:twitter": "https://twitter.com/bigw",
+        "contact:youtube": "https://www.youtube.com/user/BIGWaustralia",
+        "full_name": "BIG W Shepparton",
+        "name": "Big W",
+        "opening_hours": "Mo-Th 08:00-19:00; Fr 08:00-21:00; Sa 08:00-18:00; Su 09:00-18:00",
+        "operator": "Woolworths Group Limited",
+        "operator:ref:abn": "88 000 014 675",
+        "phone": "(03) 5825 6700",
+        "shop": "department_store",
+        "website": "https://www.bigw.com.au/store/0371/BIG-W-Shepparton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.423426,
+          -36.3881789
+        ]
+      },
+      "id": "node/2507888517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2708666928",
+        "addr:housenumber": "267-283",
+        "addr:postcode": "3555",
+        "addr:street": "High Street",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2432304,
+          -36.8098967
+        ]
+      },
+      "id": "node/2708666928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2843192453",
+        "brand": "TK Maxx",
+        "brand:wikidata": "Q23823668",
+        "brand:wikipedia": "en:TK Maxx",
+        "name": "TK Maxx",
+        "shop": "department_store",
+        "website": "https://www.tkmaxx.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.123193,
+          -38.1427695
+        ]
+      },
+      "id": "node/2843192453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2874062706",
+        "addr:city": "Taylors Lakes",
+        "addr:housenumber": "450",
+        "addr:postcode": "3038",
+        "addr:street": "Melton Highway",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "name": "Harvey Norman",
+        "opening_hours": "Mo-We 09:00-17:30, Th 09:00-19:00, Fr 09:00-21:00, Sa 09:00-17:00, Su 10:00-17:00",
+        "phone": "+61 3 9449 6300",
+        "shop": "department_store",
+        "website": "https://www.harveynorman.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7769286,
+          -37.6952101
+        ]
+      },
+      "id": "node/2874062706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2960613933",
+        "addr:city": "Melbourne",
+        "addr:postcode": "3000",
+        "addr:street": "Corner Peel & Victoria Street",
+        "name": "Queen Victoria Market - A Shed",
+        "shop": "mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9570787,
+          -37.8063319
+        ]
+      },
+      "id": "node/2960613933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2976916706",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "name": "Harvey Norman",
+        "shop": "department_store",
+        "website": "https://www.harveynorman.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5244751,
+          -38.3830878
+        ]
+      },
+      "id": "node/2976916706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3091794211",
+        "addr:housenumber": "173-199",
+        "addr:postcode": "3216",
+        "addr:street": "Pioneer Road",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3178057,
+          -38.200084
+        ]
+      },
+      "id": "node/3091794211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3244519719",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "name": "Harvey Norman",
+        "shop": "department_store",
+        "website": "https://www.harveynorman.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0651438,
+          -38.1057222
+        ]
+      },
+      "id": "node/3244519719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3264256545",
+        "addr:housenumber": "1-23",
+        "addr:street": "Central Avenue",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/BIGWaustralia",
+        "contact:instagram": "https://instagram.com/bigwaustralia",
+        "contact:linkedin": "https://linkedin.com/company/big-w",
+        "contact:twitter": "https://twitter.com/bigw",
+        "contact:youtube": "https://www.youtube.com/user/BIGWaustralia",
+        "full_name": "BIG W Altona Meadows",
+        "name": "Big W",
+        "opening_hours": "Mo-We,Sa 08:00-18:00; Th-Fr 08:00-21:00; Su 09:00-18:00",
+        "operator": "Woolworths Group Limited",
+        "operator:ref:abn": "88 000 014 675",
+        "phone": "(03) 8347 5806",
+        "shop": "department_store",
+        "website": "https://www.bigw.com.au/store/0394/BIG-W-Altona-Meadows"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7750085,
+          -37.8728327
+        ]
+      },
+      "id": "node/3264256545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3398088891",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0291651,
+          -37.7243297
+        ]
+      },
+      "id": "node/3398088891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3412200017",
+        "name": "Summerhill Shopping Centre",
+        "shop": "mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0288243,
+          -37.7251121
+        ]
+      },
+      "id": "node/3412200017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3509393100",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "name": "Big W",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5621226,
+          -37.686855
+        ]
+      },
+      "id": "node/3509393100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3529507478",
+        "addr:housenumber": "670",
+        "addr:street": "Chapel Street",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/BIGWaustralia",
+        "contact:instagram": "https://instagram.com/bigwaustralia",
+        "contact:linkedin": "https://linkedin.com/company/big-w",
+        "contact:twitter": "https://twitter.com/bigw",
+        "contact:youtube": "https://www.youtube.com/user/BIGWaustralia",
+        "full_name": "BIG W South Yarra",
+        "name": "Big W",
+        "opening_hours": "Mo-We,Sa 08:00-19:00; Th-Fr 08:00-21:00; Su 09:00-18:00",
+        "operator": "Woolworths Group Limited",
+        "operator:ref:abn": "88 000 014 675",
+        "phone": "(03) 8347 5814",
+        "shop": "department_store",
+        "website": "https://www.bigw.com.au/store/0367/BIG-W-South-Yarra",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9964424,
+          -37.8371393
+        ]
+      },
+      "id": "node/3529507478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3545924631",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5207111,
+          -38.3817717
+        ]
+      },
+      "id": "node/3545924631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3624177332",
+        "addr:housenumber": "340",
+        "addr:street": "Craigieburn Road",
+        "brand": "Big W",
+        "brand:wikidata": "Q4906646",
+        "brand:wikipedia": "en:Big W",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/BIGWaustralia",
+        "contact:instagram": "https://instagram.com/bigwaustralia",
+        "contact:linkedin": "https://linkedin.com/company/big-w",
+        "contact:twitter": "https://twitter.com/bigw",
+        "contact:youtube": "https://www.youtube.com/user/BIGWaustralia",
+        "full_name": "BIG W Craigieburn",
+        "name": "Big W",
+        "opening_hours": "Mo-We,Sa 08:00-18:00; Th-Fr 08:00-21:00; Su 09:00-18:00",
+        "operator": "Woolworths Group Limited",
+        "operator:ref:abn": "88 000 014 675",
+        "phone": "(03) 8339 9909",
+        "shop": "department_store",
+        "website": "https://www.bigw.com.au/store/0361/BIG-W-Craigieburn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.91291,
+          -37.5936786
+        ]
+      },
+      "id": "node/3624177332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3624177368",
+        "addr:housenumber": "340",
+        "addr:street": "Craigieburn Road",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.913146,
+          -37.5922759
+        ]
+      },
+      "id": "node/3624177368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3711202205",
+        "addr:postcode": "3500",
+        "addr:state": "VIC",
+        "addr:street": "Fifteenth Street",
+        "addr:suburb": "Mildura",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "name": "Harvey Norman",
+        "opening_hours": "Mo-Th 08:00-17:30; Fr 9:00-19:00; Sa 9:00-17:00; Su 10:00-17:00",
+        "phone": "+61 3 5051 2200",
+        "shop": "department_store",
+        "website": "https://www.harveynorman.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.146461,
+          -34.2139756
+        ]
+      },
+      "id": "node/3711202205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3711205315",
+        "branch": "Mildura",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/targetaus",
+        "contact:instagram": "https://instagram.com/targetaus",
+        "contact:pinterest": "https://www.pinterest.com.au/targetaus",
+        "contact:twitter": "https://twitter.com/Targetaus",
+        "contact:youtube": "https://www.youtube.com/user/TargetAustralia",
+        "name": "Target Mildura",
+        "opening_hours": "Mo-Th,Sa 09:00-18:00; Fr 09:00-21:00; Su 10:00-17:00",
+        "phone": "(03) 5022 4200",
+        "shop": "department_store",
+        "website": "https://www.target.com.au/store/vic/mildura/5194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1402021,
+          -34.2076642
+        ]
+      },
+      "id": "node/3711205315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3712913959",
+        "addr:housenumber": "400",
+        "addr:postcode": "3805",
+        "addr:street": "Narre Warren Road",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3007623,
+          -38.067362
+        ]
+      },
+      "id": "node/3712913959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3716610727",
+        "shop": "mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3254373,
+          -37.7445493
+        ]
+      },
+      "id": "node/3716610727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3903836925",
+        "addr:housenumber": "171-175",
+        "addr:postcode": "3134",
+        "addr:state": "VIC",
+        "addr:street": "Maroondah Highway",
+        "addr:suburb": "Ringwood",
+        "branch": "Eastland",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "layer": "1",
+        "level": "1",
+        "name": "Kmart",
+        "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 08:00-20:00",
+        "operator": "Wesfarmers",
+        "operator:wikidata": "Q908144",
+        "operator:wikipedia": "en:Wesfarmers",
+        "phone": "+61 3 8870 1400",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2286232,
+          -37.8118343
+        ]
+      },
+      "id": "node/3903836925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3965114072",
+        "branch": "Horsham",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "check_date:opening_hours": "2023-05-05",
+        "contact:facebook": "https://www.facebook.com/targetaus",
+        "contact:instagram": "https://instagram.com/targetaus",
+        "contact:pinterest": "https://www.pinterest.com.au/targetaus",
+        "contact:twitter": "https://twitter.com/Targetaus",
+        "contact:youtube": "https://www.youtube.com/user/TargetAustralia",
+        "name": "Target Horsham",
+        "opening_hours": "Mo-Th,Sa 09:00-18:00; Fr 09:00-19:00; Su 10:00-17:00",
+        "phone": "(03) 5362 1000",
+        "shop": "department_store",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.target.com.au/store/vic/horsham/5293",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1940716,
+          -36.7161191
+        ]
+      },
+      "id": "node/3965114072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4010457760",
+        "brand": "Harris Scarfe",
+        "brand:wikidata": "Q5665029",
+        "brand:wikipedia": "en:Harris Scarfe",
+        "name": "Harris Scarfe",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1656108,
+          -37.8360756
+        ]
+      },
+      "id": "node/4010457760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4109444689",
+        "addr:housenumber": "5",
+        "addr:street": "Doveton Street South",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "internet_access": "wlan",
+        "level": "1",
+        "name": "Target",
+        "opening_hours": "Mo-We, Sa 08:00-19:00; Su 08:00-18:00; Th-Fr 08:00-21:00",
+        "phone": "+613 5329 4000",
+        "shop": "department_store",
+        "website": "https://www.target.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8552755,
+          -37.5628028
+        ]
+      },
+      "id": "node/4109444689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4320445925",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "name": "Harvey Norman",
+        "shop": "department_store",
+        "website": "https://www.harveynorman.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9302398,
+          -37.2852789
+        ]
+      },
+      "id": "node/4320445925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4433529696",
+        "addr:housenumber": "18",
+        "addr:postcode": "3011",
+        "addr:street": "Albert Street",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.897349,
+          -37.8009921
+        ]
+      },
+      "id": "node/4433529696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4440542261",
+        "addr:housenumber": "26-32",
+        "addr:street": "Doveton Street South",
+        "brand:wikidata": "Q5665029",
+        "brand:wikipedia": "en:Harris Scarfe",
+        "name": "Harris Scarfe",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8541045,
+          -37.563488
+        ]
+      },
+      "id": "node/4440542261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4753932781",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "name": "Harvey Norman - Hoppers Crossing",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7110588,
+          -37.8750532
+        ]
+      },
+      "id": "node/4753932781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4771736826",
+        "name": "Camöflage",
+        "name:en": "Camöflage",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3670401,
+          48.427722
+        ]
+      },
+      "id": "node/4771736826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4780286667",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "name": "Target",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6771284,
+          -37.87623
+        ]
+      },
+      "id": "node/4780286667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4967151824",
+        "brand": "Muji",
+        "brand:en": "Muji",
+        "brand:ja": "無印良品",
+        "brand:wikidata": "Q708789",
+        "brand:wikipedia": "en:Muji",
+        "name": "Muji",
+        "name:en": "Muji",
+        "name:ja": "無印良品",
+        "opening_hours": "Sa-We 10:00-19:00; Th-Fr 10:00-21:00",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9640986,
+          -37.8120188
+        ]
+      },
+      "id": "node/4967151824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5115582531",
+        "addr:city": "Victoria",
+        "brand": "Kohl's",
+        "brand:wikidata": "Q967265",
+        "brand:wikipedia": "en:Kohl's",
+        "name": "Kohl's",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9993981,
+          28.877735
+        ]
+      },
+      "id": "node/5115582531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5230332410",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "full_name": "Kmart Wodonga",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8900409,
+          -36.1206186
+        ]
+      },
+      "id": "node/5230332410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5277056622",
+        "brand:wikidata": "Q7760092",
+        "brand:wikipedia": "en:The Reject Shop",
+        "name": "Reject Shop",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3882251,
+          -38.1686044
+        ]
+      },
+      "id": "node/5277056622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5363694629",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.218673,
+          -37.9865781
+        ]
+      },
+      "id": "node/5363694629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5363697399",
+        "brand": "TK Maxx",
+        "brand:wikidata": "Q23823668",
+        "brand:wikipedia": "en:TK Maxx",
+        "name": "TK Maxx",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2161571,
+          -37.9858699
+        ]
+      },
+      "id": "node/5363697399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5415686198",
+        "addr:housenumber": "92",
+        "addr:postcode": "3465",
+        "addr:street": "Burke Street",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7415795,
+          -37.0489837
+        ]
+      },
+      "id": "node/5415686198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5447430699",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "name": "Target",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.3264057,
+          -36.3532507
+        ]
+      },
+      "id": "node/5447430699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5512743308",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6931906,
+          -37.8375663
+        ]
+      },
+      "id": "node/5512743308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671291403",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4549637,
+          -38.1848336
+        ]
+      },
+      "id": "node/5671291403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5824764004",
+        "name": "Dimmeys",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8332907,
+          -37.7816748
+        ]
+      },
+      "id": "node/5824764004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5960549438",
+        "name": "Salvos",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2644624,
+          -38.032991
+        ]
+      },
+      "id": "node/5960549438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6053564987",
+        "addr:housenumber": "207-211",
+        "addr:street": "Sydney Road",
+        "name": "ibc (Islamic Books & Clothing) The Islamic Lifestyle Store",
+        "shop": "department_store",
+        "website": "ibcshopping.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9649767,
+          -37.7496038
+        ]
+      },
+      "id": "node/6053564987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6298881282",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "name": "Harvey Norman",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5545561,
+          -35.3320512
+        ]
+      },
+      "id": "node/6298881282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6324424624",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "K Hub",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1333813,
+          -37.0237877
+        ]
+      },
+      "id": "node/6324424624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6342456642",
+        "name": "Savers",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8980443,
+          -37.8016916
+        ]
+      },
+      "id": "node/6342456642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027793707",
+        "addr:housenumber": "235-261",
+        "addr:street": "Colac Road",
+        "brand": "Harris Scarfe",
+        "brand:wikidata": "Q5665029",
+        "brand:wikipedia": "en:Harris Scarfe",
+        "name": "Harris Scarfe",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3085868,
+          -38.2036581
+        ]
+      },
+      "id": "node/7027793707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7103186190",
+        "addr:housenumber": "57",
+        "addr:street": "Hazel Drive",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store",
+        "website": "https://www.kmart.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9540733,
+          -38.1656469
+        ]
+      },
+      "id": "node/7103186190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7147608672",
+        "branch": "Country",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "name": "Target",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0896847,
+          -37.0520286
+        ]
+      },
+      "id": "node/7147608672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161472443",
+        "addr:housenumber": "96",
+        "addr:postcode": "3844",
+        "addr:state": "VIC",
+        "addr:street": "Seymour Street",
+        "addr:suburb": "Traralgon",
+        "brand": "Harris Scarfe",
+        "brand:wikidata": "Q5665029",
+        "brand:wikipedia": "en:Harris Scarfe",
+        "name": "Harris Scarfe",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5357704,
+          -38.195754
+        ]
+      },
+      "id": "node/7161472443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7202000271",
+        "name": "North Gateway Shopping Plaza",
+        "shop": "mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3789865,
+          -37.7291794
+        ]
+      },
+      "id": "node/7202000271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7516075188",
+        "addr:city": "Victoria",
+        "addr:housenumber": "1610",
+        "addr:postcode": "V8T 2C5",
+        "addr:province": "BC",
+        "addr:street": "Hillside Avenue",
+        "brand": "Canadian Tire",
+        "brand:wikidata": "Q1032400",
+        "brand:wikipedia": "en:Canadian Tire",
+        "name": "Canadian Tire",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "department_store",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3375542,
+          48.4451792
+        ]
+      },
+      "id": "node/7516075188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7520934195",
+        "addr:housenumber": "2107",
+        "addr:street": "Dandenong Road",
+        "branch": "M-City",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "opening_hours": "Mo-Fr 08:00-22:00; Sa,Su 08:00-20:00",
+        "shop": "department_store",
+        "toilets": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1405333,
+          -37.9211277
+        ]
+      },
+      "id": "node/7520934195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7530392583",
+        "brand": "Big Lots",
+        "brand:wikidata": "Q4905973",
+        "brand:wikipedia": "en:Big Lots",
+        "name": "Big Lots",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9959316,
+          28.8717055
+        ]
+      },
+      "id": "node/7530392583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7715124603",
+        "name": "Central Square Shopping Centre",
+        "shop": "mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8554259,
+          -37.5629202
+        ]
+      },
+      "id": "node/7715124603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072150390",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "name": "Harvey Norman",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3922198,
+          -36.406474
+        ]
+      },
+      "id": "node/8072150390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8239197208",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "K Hub",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0471277,
+          -36.3133003
+        ]
+      },
+      "id": "node/8239197208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8239198714",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "K Hub",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.529575,
+          -37.3563694
+        ]
+      },
+      "id": "node/8239198714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8455240317",
+        "brand": "Elektra",
+        "brand:wikidata": "Q1142753",
+        "brand:wikipedia": "es:Grupo Elektra",
+        "check_date:currency:XBT": "2023-03-09",
+        "currency:XBT": "yes",
+        "name": "Elektra",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "yes",
+        "shop": "department_store",
+        "website": "https://www.elektra.mx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1426287,
+          23.732248
+        ]
+      },
+      "id": "node/8455240317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8455241517",
+        "brand": "Elektra",
+        "brand:wikidata": "Q1142753",
+        "brand:wikipedia": "es:Grupo Elektra",
+        "check_date:currency:XBT": "2023-03-09",
+        "currency:XBT": "yes",
+        "name": "Elektra",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "yes",
+        "shop": "department_store",
+        "website": "https://www.elektra.mx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1454051,
+          23.7312509
+        ]
+      },
+      "id": "node/8455241517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8551797304",
+        "addr:housenumber": "111",
+        "addr:street": "Cranbourne Road",
+        "brand": "Harris Scarfe",
+        "brand:wikidata": "Q5665029",
+        "brand:wikipedia": "en:Harris Scarfe",
+        "name": "Harris Scarfe",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1393217,
+          -38.1475935
+        ]
+      },
+      "id": "node/8551797304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8556754768",
+        "brand": "Harris Scarfe",
+        "brand:wikidata": "Q5665029",
+        "brand:wikipedia": "en:Harris Scarfe",
+        "name": "Harris Scarfe",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3040538,
+          -38.0179324
+        ]
+      },
+      "id": "node/8556754768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8598540473",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "K Hub",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5585871,
+          -35.3397197
+        ]
+      },
+      "id": "node/8598540473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8646118960",
+        "brand": "TK Maxx",
+        "brand:wikidata": "Q23823668",
+        "brand:wikipedia": "en:TK Maxx",
+        "name": "TK Maxx",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6781811,
+          -37.8747777
+        ]
+      },
+      "id": "node/8646118960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8697022226",
+        "brand": "Harris Scarfe",
+        "brand:wikidata": "Q5665029",
+        "brand:wikipedia": "en:Harris Scarfe",
+        "name": "Harris Scarfe",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2281713,
+          -37.8139403
+        ]
+      },
+      "id": "node/8697022226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8697183684",
+        "brand": "Harris Scarfe",
+        "brand:wikidata": "Q5665029",
+        "brand:wikipedia": "en:Harris Scarfe",
+        "name": "Harris Scarfe",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2402603,
+          -37.8687404
+        ]
+      },
+      "id": "node/8697183684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8697183688",
+        "brand": "TK Maxx",
+        "brand:wikidata": "Q23823668",
+        "brand:wikipedia": "en:TK Maxx",
+        "name": "TK Maxx",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2419454,
+          -37.8686508
+        ]
+      },
+      "id": "node/8697183688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8759178730",
+        "addr:housenumber": "533-555",
+        "addr:street": "High Street",
+        "brand": "Harris Scarfe",
+        "brand:wikidata": "Q5665029",
+        "brand:wikipedia": "en:Harris Scarfe",
+        "name": "Harris Scarfe",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5606637,
+          -37.6864557
+        ]
+      },
+      "id": "node/8759178730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8867051037",
+        "brand": "TK Maxx",
+        "brand:wikidata": "Q23823668",
+        "brand:wikipedia": "en:TK Maxx",
+        "name": "TK Maxx",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.165714,
+          -38.1534859
+        ]
+      },
+      "id": "node/8867051037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8968197325",
+        "brand": "Target",
+        "brand:wikidata": "Q7685854",
+        "brand:wikipedia": "en:Target Australia",
+        "name": "Target",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1646526,
+          -37.8753226
+        ]
+      },
+      "id": "node/8968197325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8968203225",
+        "brand": "TK Maxx",
+        "brand:wikidata": "Q23823668",
+        "brand:wikipedia": "en:TK Maxx",
+        "name": "TK Maxx",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1652096,
+          -37.8748649
+        ]
+      },
+      "id": "node/8968203225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9072608700",
+        "addr:postcode": "3134",
+        "addr:state": "VIC",
+        "addr:suburb": "Ringwood",
+        "brand": "David Jones",
+        "brand:wikidata": "Q5235753",
+        "brand:wikipedia": "en:David Jones Limited",
+        "level": "2",
+        "name": "David Jones",
+        "shop": "department_store",
+        "website": "https://www.davidjones.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2296063,
+          -37.8146297
+        ]
+      },
+      "id": "node/9072608700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9345218844",
+        "addr:housenumber": "286",
+        "addr:postcode": "3116",
+        "addr:state": "VIC",
+        "addr:street": "Maroondah Highway",
+        "addr:suburb": "Chirnside Park",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "name": "Harvey Norman",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3028799,
+          -37.7669365
+        ]
+      },
+      "id": "node/9345218844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9345244602",
+        "addr:housenumber": "171-175",
+        "addr:postcode": "3134",
+        "addr:state": "VIC",
+        "addr:street": "Maroondah Highway",
+        "addr:suburb": "Ringwood",
+        "brand": "Myer",
+        "brand:wikidata": "Q1110323",
+        "brand:wikipedia": "en:Myer",
+        "name": "Myer",
+        "opening_hours": "Mo-We 09:00-17:30; Th-Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-17:00",
+        "shop": "department_store",
+        "website": "https://www.myer.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2289111,
+          -37.8129436
+        ]
+      },
+      "id": "node/9345244602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9465713297",
+        "brand": "TK Maxx",
+        "brand:wikidata": "Q23823668",
+        "brand:wikipedia": "en:TK Maxx",
+        "name": "TK Maxx",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84349,
+          -37.8428399
+        ]
+      },
+      "id": "node/9465713297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596028324",
+        "brand": "David Jones",
+        "brand:wikidata": "Q5235753",
+        "brand:wikipedia": "en:David Jones Limited",
+        "name": "David Jones",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8903554,
+          -37.7718254
+        ]
+      },
+      "id": "node/9596028324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596028325",
+        "brand": "Kmart",
+        "brand:wikidata": "Q6421682",
+        "brand:wikipedia": "en:Kmart Australia",
+        "name": "Kmart",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8904922,
+          -37.7719632
+        ]
+      },
+      "id": "node/9596028325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862019510",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "name": "Harvey Norman",
+        "shop": "department_store",
+        "website": "https://www.harveynorman.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9594942,
+          -37.7312318
+        ]
+      },
+      "id": "node/9862019510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9949168595",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "name": "Harvey Norman Customer  Pickup",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0113449,
+          -37.8183157
+        ]
+      },
+      "id": "node/9949168595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10220700357",
+        "addr:housenumber": "1130-1134",
+        "addr:street": "Nepean Highway",
+        "brand": "Harris Scarfe",
+        "brand:wikidata": "Q5665029",
+        "brand:wikipedia": "en:Harris Scarfe",
+        "name": "Harris Scarfe",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0618881,
+          -38.2190952
+        ]
+      },
+      "id": "node/10220700357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10254966771",
+        "branch": "Chirnside Park",
+        "brand": "Harris Scarfe",
+        "brand:wikidata": "Q5665029",
+        "name": "Harris Scarfe",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3118221,
+          -37.7627387
+        ]
+      },
+      "id": "node/10254966771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10542272429",
+        "brand": "Harris Scarfe",
+        "brand:wikidata": "Q5665029",
+        "name": "Harris Scarfe",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2819063,
+          -38.1080894
+        ]
+      },
+      "id": "node/10542272429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10595374876",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "name": "Walmart",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3362723,
+          48.4472302
+        ]
+      },
+      "id": "node/10595374876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10684997148",
+        "brand": "Harris Scarfe",
+        "brand:wikidata": "Q5665029",
+        "brand:wikipedia": "en:Harris Scarfe",
+        "level": "1",
+        "name": "Harris Scarfe",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9516603,
+          -37.8151225
+        ]
+      },
+      "id": "node/10684997148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10845639264",
+        "name": "Springvale Mega Centre",
+        "shop": "mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1679204,
+          -37.9413724
+        ]
+      },
+      "id": "node/10845639264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10933427096",
+        "addr:city": "Melbourne",
+        "addr:housenumber": "484",
+        "addr:postcode": "3020",
+        "addr:state": "Victoria",
+        "addr:street": "Ballarat Road",
+        "addr:suburb": "Sunshine North",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "name": "Harvey Norman",
+        "shop": "department_store",
+        "website": "https://www.harveynorman.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8273483,
+          -37.7755677
+        ]
+      },
+      "id": "node/10933427096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11031787361",
+        "brand": "TK Maxx",
+        "brand:wikidata": "Q23823668",
+        "level": "1",
+        "name": "TK Maxx",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9512814,
+          -37.8151876
+        ]
+      },
+      "id": "node/11031787361"
+    }
+  ]
+}
