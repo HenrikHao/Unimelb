@@ -59,4 +59,8 @@ I have completed all the subjects required for both majors.
     * Assignment 2 - Distributed Publisher-Subscriber System (Java), marks: 28/25 (Bonus marks included)
 
 * COMP90086 Computer Vision (Python, Tensorflow)
-    * Project - Physical Reasoning
+    * Project - Physical Reasoning, marks: 24/30, Team of 2
+
+* COMP90051 Statistical Machine Learning (Python, Pytorch, Tensorflow)
+    * Project - Modeling Temporal Dynamics: The Impact of User Rating Sequences on Future Song Rating Predictions, marks: 22.1/25, Team of 3
+    * This is my favourite piece of work out of all!
