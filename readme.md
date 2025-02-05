@@ -34,10 +34,10 @@ I have completed all the subjects required for both majors.
 
 ### Year 3 Semester 2 (2023 July)
 * COMP30022 IT Project (Vue.js, SpringBoot)
-    * Music Library System, marks: 81/100 H1, Team of 5
+    * Project: Music Library System, marks: 81/100 H1, Team of 5
 
 * MAST30034 Applied Data Science (PySpark, Python)
-    * Real Estate Industry Project, marks: 80/100 H1, Team of 5
+    * Project: Real Estate Industry, marks: 80/100 H1, Team of 5
 
 ## Master of Information Technology in Artificial Intelligence
 ### Year 1 Semester 1 (2024 March)
