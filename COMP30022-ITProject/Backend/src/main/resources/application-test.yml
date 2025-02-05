@@ -1,0 +1,25 @@
+spring:
+  datasource:
+    url: jdbc:mysql://ddns.wisdommee.com:3306/itproject?serverTimezone=GMT%2B8
+    username: itproject
+    password: cpNdZkh2eZCNpLwN
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      connection-timeout: 30000
+      idle-timeout: 600000
+      max-lifetime: 1800000
+      maximum-pool-size: 9
+  redis:
+    database: 3
+    host: ddns.wisdommee.com
+    port: 6379
+    password: redispw
+    jedis:
+      pool:
+        max-active: 8
+        max-idle: 8
+        min-idle: 0
+    timeout: 5000
+  config:
+    activate:
+      on-profile: test

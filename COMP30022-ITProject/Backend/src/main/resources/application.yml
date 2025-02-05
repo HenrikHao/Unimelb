@@ -1,0 +1,76 @@
+spring:
+  datasource:
+    username: itporject
+    password: cpNdZkh2eZCNpLwN
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      connection-timeout: 30000
+      idle-timeout: 600000
+      max-lifetime: 1800000
+      maximum-pool-size: 9
+  redis:
+    database: 2
+    host: localhost
+    port: 49153
+    password: redispw
+    jedis:
+      pool:
+        max-active: 8
+        max-idle: 8
+        min-idle: 0
+    timeout: 100ms
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+  security:
+    user:
+      name: center
+      password: y3ukESmkHWQVjLGlXJj1qeaMKbKmy25xOrJe
+  profiles:
+    active: prod
+
+server:
+  port: 8081
+
+custom:
+  sign-key: da@$24aG#$G34G#5h#%H35b5#%^Hb3
+  client:
+    name: client
+    password: feFQ#qf@4g#$%H46J67
+
+mybatis-plus:
+  global-config:
+    db-config:
+      logic-delete-value: 0
+      logic-not-delete-value: 1
+
+---
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+spring:
+  redis:
+    database: 2
+    host: localhost
+    port: 49153
+    password: redispw
+  config:
+    activate:
+      on-profile: dev
+  datasource:
+    url: jdbc:mysql://localhost:3378/itporject?serverTimezone=GMT%2B8
+
+---
+spring:
+  redis:
+    database: 1
+    host: localhost
+    port: 6379
+    password: redispw
+  config:
+    activate:
+      on-profile: prod
+  datasource:
+    username: itproject
+    password: cpNdZkh2eZCNpLwN
+    url: jdbc:mysql://localhost:3306/itproject?serverTimezone=GMT%2B8

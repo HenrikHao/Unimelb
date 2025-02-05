@@ -31,3 +31,7 @@ I have completed all the subjects required for both majors.
 * COMP30027 Machine Learning (Python)
     * Project 1 - Naive Bayes, marks: 17.5/20
     * Project 2 - Book Rating Prediction Kaggle Competition, marks: 16/20, ranked 1st out of 373 teams
+
+### Year 3 Semester 2 (2023 July)
+* COMP30022 IT Project (Vue.js, SpringBoot)
+    * Music Library System, marks: 81/100 H1

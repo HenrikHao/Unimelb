@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.team69.itproject.mappers.UsersMapper">
+
+    <resultMap id="BaseResultMap" type="com.team69.itproject.entities.po.UserPO">
+        <id property="id" column="id" jdbcType="BIGINT"/>
+        <result property="username" column="username" jdbcType="VARCHAR"/>
+        <result property="password" column="password" jdbcType="VARCHAR"/>
+        <result property="email" column="email" jdbcType="VARCHAR"/>
+        <result property="status" column="status" jdbcType="TINYINT"/>
+        <result property="createTime" column="create_time" jdbcType="TIMESTAMP"/>
+        <result property="remark" column="remark" jdbcType="VARCHAR"/>
+        <result property="expired" column="expired" jdbcType="TINYINT"/>
+        <result property="locked" column="locked" jdbcType="TINYINT"/>
+        <result property="credentialsExpired" column="credentials_expired" jdbcType="TINYINT"/>
+        <result property="authorities" column="authorities" jdbcType="OTHER"
+                javaType="org.springframework.security.core.authority.SimpleGrantedAuthority"
+                typeHandler="com.team69.itproject.handlers.SimpleGrantTypeHandler"/>
+    </resultMap>
+
+    <resultMap id="DTOResultMap" type="com.team69.itproject.entities.dto.UsersDTO">
+        <id property="id" column="id" jdbcType="BIGINT"/>
+        <result property="username" column="username" jdbcType="VARCHAR"/>
+        <result property="status" column="status" jdbcType="TINYINT"/>
+        <result property="createTime" column="create_time" jdbcType="TIMESTAMP"/>
+        <result property="remark" column="remark" jdbcType="VARCHAR"/>
+        <result property="authorities" column="authorities" jdbcType="OTHER"
+                javaType="org.springframework.security.core.authority.SimpleGrantedAuthority"
+                typeHandler="com.team69.itproject.handlers.SimpleGrantTypeHandler"/>
+    </resultMap>
+
+    <select id="getUserList" resultMap="DTOResultMap">
+        SELECT *
+        FROM users
+        WHERE status = 1
+    </select>
+</mapper>
