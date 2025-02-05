@@ -49,3 +49,6 @@ I have completed all the subjects required for both majors.
 * COMP90024 Cluster and Cloud Computing (Cloud Project)
     * Assignment 1 - Twitter Data Analysis (HPC, MPI4PY), marks: 9.5/10, Team of 2
     * Assignment 2 - Bushfire Impact Studies (K8S, Elastic Search, Docker, Fission, Message Queue), marks: 30/40, Team of 5
+
+* COMP90042 Natural Language Processing (Python, Pytorch)
+    * Project - Automated Fact-checking System, marks: 32/35, ranked 2nd out of 132 teams, Team of 4
