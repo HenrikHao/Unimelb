@@ -1,0 +1,111 @@
+"""
+COMP90024 Project Team 1
+Authors:
+- Henrik Hao (1255309)
+- Haoyi Li (1237964)
+- Zilin Su (1155122)
+- Angela Yifei Yuan (1269549)
+"""
+
+# create a spec repository
+(
+  cd fission
+  fission specs --specdir specs_admissions init
+)  
+
+# zip the package
+(
+  cd fission/functions/health_admissions
+  zip -r health_admissions.zip .
+  mv health_admissions.zip ../
+)
+
+
+# create httptriggers, functions and packages
+chmod +x ./fission/functions/health_admissions/build.sh
+
+( 
+  cd fission 
+
+  fission package create --spec --sourcearchive ./functions/health_admissions.zip \
+  --env python \
+  --name admissions \
+  --buildcmd './build.sh' 
+
+  fission function create --spec --name admissions \
+  --pkg admissions \
+  --env python \
+  --entrypoint "admissions.main" \
+)
+
+(
+  cd fission
+  fission route create --spec --name admissions --function admissions --createingress\
+    --method GET \
+    --url '/admissions'
+  fission route create --spec --name year-admissions --function admissions --createingress\
+    --method GET \
+    --url '/admissions/years/{year:[0-9][0-9][0-9][0-9]}'
+  fission route create --spec --name pha-admissions --function admissions --createingress\
+    --method GET \
+    --url '/admissions/phas/{pha:[0-9]+}'
+  fission route create --spec --name year-pha-admissions --function admissions --createingress\
+    --method GET \
+    --url '/admissions/years/{year:[0-9][0-9][0-9][0-9]}/phas/{pha:[0-9]+}'
+  fission route create --spec --name year-disease-admissions --function admissions --createingress\
+    --method GET \
+    --url '/admissions/years/{year:[0-9][0-9][0-9][0-9]}/diseases/{disease:[a-zA-Z]{4,}}'
+  fission route create --spec --name pha-disease-admissions --function admissions --createingress\
+    --method GET \
+    --url '/admissions/phas/{pha:[0-9]+}/diseases/{disease:[a-zA-Z]{4,}}'
+  fission route create --spec --name year-pha-disease-admissions --function admissions --createingress\
+    --method GET \
+    --url '/admissions/years/{year:[0-9][0-9][0-9][0-9]}/phas/{pha:[0-9]+}/diseases/{disease:[a-zA-Z]{4,}}'
+  fission route create --spec --name nsw-month-admissions --function admissions --createingress\
+    --method GET \
+    --url '/admissions/nsw/years/{year:[0-9][0-9][0-9][0-9]}/months/{month:[0-9]{1,2}}'
+  fission route create --spec --name nsw-month-disease-admissions --function admissions --createingress\
+    --method GET \
+    --url '/admissions/nsw/years/{year:[0-9][0-9][0-9][0-9]}/months/{month:[0-9]{1,2}}/diseases/{disease:[a-zA-Z]{4,}}'
+)
+
+# move the generated yaml files from specs to specs_admissions (your spec repository)
+
+# deploy to cluster
+fission spec apply --specdir fission/specs_admissions --wait
+
+
+# function loggings
+fission function log -f --name admissions
+# try out the function
+curl "http://localhost:9090/admissions/years/2014/diseases/Respiratory" | jq '.'
+# function test
+fission fn test --name admissions | jq '.'
+
+# to delete everything
+fission httptrigger delete --name admissions
+fission httptrigger delete --name year-admissions
+fission httptrigger delete --name pha-admissions
+fission httptrigger delete --name year-pha-admissions
+fission httptrigger delete --name year-pha-disease-admissions
+fission httptrigger delete --name year-disease-admissions
+fission httptrigger delete --name pha-disease-admissions
+fission httptrigger delete --name nsw-month-admissions
+fission httptrigger delete --name nsw-month-disease-admissions
+fission function delete --name admissions
+fission package delete --name admissions
+
+
+# try get data from elasticsearch from cli straightaway
+curl -XGET -k "https://127.0.0.1:9200/hospital_admissions/_search"\
+  --header 'Content-Type: application/json'\
+  --data '{
+      "query": {
+                "term": {
+                  "year": {
+                    "value": "2016"
+                  }
+                }
+    }}'\
+  --user 'elastic:elastic' | jq '.'
+

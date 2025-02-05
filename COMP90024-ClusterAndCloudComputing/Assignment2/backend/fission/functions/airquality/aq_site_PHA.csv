@@ -1,0 +1,118 @@
+,Site_Id,SiteName,Region,geometry,index_right,Code,Name
+0,33,RANDWICK,Sydney East,POINT (151.24278 -33.93175),48,10048,Randwick - North/ Randwick - South
+1,39,ROZELLE,Sydney East,POINT (151.16395 -33.86433),69,10069,Balmain/ Lilyfield - Rozelle
+2,70,LINDFIELD,Sydney East,POINT (151.1509 -33.78113),84,10084,Lindfield - Roseville
+3,107,LIVERPOOL,Sydney South-west,POINT (150.90727 -33.93132),149,10149,Liverpool/ Warwick Farm
+4,171,BRINGELLY,Sydney South-west,POINT (150.76192 -33.91766),138,10138,Green Valley - Cecil Hills area
+5,190,CHULLORA,Sydney East,POINT (151.0461 -33.89156),51,10051,Chullora/ Greenacre/ Yagoona - Birrong
+6,206,EARLWOOD,Sydney East,POINT (151.13577 -33.91619),56,10056,Kingsgrove - North/ Earlwood
+7,259,WYONG,Central Coast,POINT (151.43239 -33.27891),13,10013,Wyong
+8,287,WALLSEND,Lower Hunter,POINT (151.67021 -32.89435),291,10291,Wallsend - Elermore Vale
+9,294,CARRINGTON,Newcastle Local,POINT (151.76335 -32.90964),285,10285,Hamilton - Broadmeadow area
+10,295,STOCKTON,Newcastle Local,POINT (151.78429 -32.90201),290,10290,Stockton - Fullerton Cove
+11,300,NEWCASTLE,Lower Hunter,POINT (151.75965 -32.9312),289,10289,Merewether - The Junction/ Newcastle - Cooks Hill
+12,304,MAYFIELD,Newcastle Local,POINT (151.72842 -32.88488),288,10288,Mayfield - Warabrook/ Waratah - North Lambton
+13,322,BERESFIELD,Lower Hunter,POINT (151.66099 -32.79677),284,10284,Beresfield - Hexham/ Shortland - Jesmond
+14,340,TAMWORTH,North-west Slopes,POINT (150.91451 -31.1099),266,10266,Tamworth - East
+15,500,WOLLONGONG,Illawarra,POINT (150.88733 -34.41706),234,10234,Wollongong
+16,526,KEMBLA GRANGE,Illawarra,POINT (150.81913 -34.47408),220,10220,Berkeley - Warrawong - Windang
+17,573,RICHMOND,Sydney North-west,POINT (150.74731 -33.61641),114,10114,Richmond - Clarendon/ Windsor - Bligh Park
+18,574,BARGO,Sydney South-west,POINT (150.58061 -34.30621),103,10103,Bargo/ Picton - Tahmoor - Buxton
+19,640,ALBURY,South-west Slopes,POINT (146.93986 -36.05182),250,10250,Albury - North/ Lavington
+20,650,WAGGA WAGGA,South-west Slopes,POINT (147.360846 -35.115598),316,10316,Wagga Wagga - West
+21,760,ST MARYS,Sydney North-west,POINT (150.76677 -33.79512),113,10113,Penrith - South
+22,765,VINEYARD,Sydney North-west,POINT (150.847682 -33.65623),26,10026,Marsden Park/ Riverstone/ Schofields
+23,795,BATHURST,Central Tablelands,POINT (149.57456 -33.40178),173,10173,Bathurst
+24,914,PORT KEMBLA STEELWORKS,Port Kembla Steelworks,POINT (150.881703 -34.47964),220,10220,Berkeley - Warrawong - Windang
+25,919,PARRAMATTA NORTH,Sydney North-west,POINT (150.99777 -33.7995),129,10129,North Parramatta
+26,1560,MACARTHUR,Sydney South-west,POINT (150.78218 -34.07087),99,10099,Campbelltown - Woodbine/ Rosemeadow - Glen Alpine
+27,1570,OAKDALE,Sydney South-west,POINT (150.49819 -34.0517),104,10104,Douglas Park - Appin/ The Oaks - Oakdale
+28,2921,ALBION PARK SOUTH,Illawarra,POINT (150.78252 -34.57781),225,10225,Albion Park - Macquarie Pass
+29,333,MUSWELLBROOK,Upper Hunter,POINT (150.88563 -32.27152),217,10217,Muswellbrook
+30,330,SINGLETON,Upper Hunter,POINT (151.17707 -32.55734),206,10206,Singleton
+31,3330,MAISON DIEU,Upper Hunter,POINT (151.06183 -32.52468),201,10201,Branxton - Greta - Pokolbin/ Singleton Region
+32,2330,CAMBERWELL,Upper Hunter,POINT (151.09188 -32.47231),201,10201,Branxton - Greta - Pokolbin/ Singleton Region
+33,1330,SINGLETON NW,Upper Hunter,POINT (151.15006 -32.52981),206,10206,Singleton
+34,5330,MOUNT THORLEY,Upper Hunter,POINT (151.128 -32.63589),201,10201,Branxton - Greta - Pokolbin/ Singleton Region
+35,4330,BULGA,Upper Hunter,POINT (151.03598 -32.64864),201,10201,Branxton - Greta - Pokolbin/ Singleton Region
+36,1650,WAGGA WAGGA NORTH,South-west Slopes,POINT (147.36037 -35.10411),316,10316,Wagga Wagga - West
+37,1333,MUSWELLBROOK NW,Upper Hunter,POINT (150.88119 -32.25317),217,10217,Muswellbrook
+38,2333,WYBONG,Upper Hunter,POINT (150.67342 -32.19505),218,10218,Muswellbrook Region
+39,336,ABERDEEN,Upper Hunter,POINT (150.88415 -32.17718),219,10219,Scone/ Scone Region
+40,6330,SINGLETON SOUTH,Upper Hunter,POINT (151.20895 -32.5871),206,10206,Singleton
+41,7330,JERRYS PLAINS,Upper Hunter,POINT (150.86416 -32.46622),201,10201,Branxton - Greta - Pokolbin/ Singleton Region
+42,8330,WARKWORTH,Upper Hunter,POINT (151.02721 -32.57398),201,10201,Branxton - Greta - Pokolbin/ Singleton Region
+43,329,MERRIWA,Upper Hunter,POINT (150.45824 -32.12665),219,10219,Scone/ Scone Region
+44,2560,CAMPBELLTOWN WEST,Sydney South-west,POINT (150.79558 -34.06666),99,10099,Campbelltown - Woodbine/ Rosemeadow - Glen Alpine
+45,2570,CAMDEN,Sydney South-west,POINT (150.69013 -34.04168),139,10139,Cobbitty - Leppington
+46,4560,CATARACT,Cataract RFS,POINT (150.823516 -34.244788),104,10104,Douglas Park - Appin/ The Oaks - Oakdale
+47,1107,LIVERPOOL SWAQS,Research Monitoring ,POINT (150.93252 -33.91889),149,10149,Liverpool/ Warwick Farm
+48,113,MACQUARIE PARK,Sydney East,POINT (151.1178 -33.76524),135,10135,Macquarie Park - Marsfield
+49,9880,Tibooburra,Western LLS,POINT (142.057 -29.4448),195,10195,Broken Hill/ Far West
+50,390,NARRABRI,North-west Slopes,POINT (149.82932 -30.31842),263,10263,Moree Region/ Narrabri/ Narrabri Region
+51,380,GUNNEDAH,North-west Slopes,POINT (150.26069 -30.98178),264,10264,Gunnedah/ Gunnedah Region
+52,9840,Bourke,Western LLS,POINT (145.952 -30.0362),193,10193,Bourke - Brewarrina/ Walgett - Lightning Ridge
+53,94880,Broken Hill,Western LLS,POINT (141.469 -32.0012),195,10195,Broken Hill/ Far West
+54,9738,Euston,Western LLS,POINT (142.889 -34.443),252,10252,Lower Murray
+55,9739,Buronga,Western LLS,POINT (142.201 -34.1747),252,10252,Lower Murray
+56,9835,Cobar,Western LLS,POINT (145.829 -31.4837),194,10194,Cobar/ Coonamble/ Nyngan - Warren
+57,9877,Condobolin,Central West LLS,POINT (147.22832 -33.06646),175,10175,Condobolin/ Forbes
+58,9794,Cowra,Central Tablelands LLS,POINT (148.65413 -33.83818),176,10176,Cowra
+59,9731,Deniliquin,Murray LLS,POINT (144.946 -35.5575),254,10254,Deniliquin
+60,9830,Dubbo,Central West LLS,POINT (148.578 -32.2195),197,10197,Dubbo - East/ Dubbo - West
+61,9585,Kyalite,Murray LLS,POINT (143.530932 -35.033047),252,10252,Lower Murray
+62,9680,Griffith,Riverina LLS,POINT (146.06981 -34.24889),308,10308,Griffith (NSW)
+63,9238,Gunnedah SE,North West LLS,POINT (150.269 -31.0261),264,10264,Gunnedah/ Gunnedah Region
+64,9711,Hay,Riverina LLS,POINT (144.83449 -34.5413),252,10252,Lower Murray
+65,9675,Hillston,Western LLS,POINT (145.52482 -33.49147),309,10309,Griffith Region
+66,9878,Ivanhoe,Western LLS,POINT (144.154 -33.0548),195,10195,Broken Hill/ Far West
+67,9663,Junee,Riverina LLS,POINT (147.51 -34.8254),313,10313,Cootamundra/ Gundagai/ Junee/ Temora
+68,9648,Lake Victoria,Western LLS,POINT (141.063 -34.0485),252,10252,Lower Murray
+69,9302,Lameroo,SA Murray Darling Basin,POINT (140.538 -35.3778),940,40098,Karoonda - Lameroo/ The Coorong
+70,92648,Pooncarie,Western LLS,POINT (142.531 -33.6016),252,10252,Lower Murray
+71,92551,Loddon Plains,North Central CMA,POINT (144.319 -36.4538),536,20206,Bendigo Region - North
+72,92731,Moolawatana,SA Arid Lands,POINT (139.737 -29.9072),925,40083,Coober Pedy/ Outback
+73,9400,Moree,North West LLS,POINT (149.847 -29.4897),262,10262,Moree
+74,9700,Narrandera,Riverina LLS,POINT (146.514 -34.705),310,10310,Leeton/ Narrandera
+75,9870,Parkes,Central West LLS,POINT (148.244 -33.1277),178,10178,Parkes (NSW)/ Parkes Region
+76,9642,Rand,Murray LLS,POINT (146.475 -35.6296),253,10253,Corowa/ Corowa Region/ Tocumwal
+77,9666,Temora,Riverina LLS,POINT (147.512 -34.4278),313,10313,Cootamundra/ Gundagai/ Junee/ Temora
+78,9832,Walgett,North West LLS,POINT (148.123 -30.0359),193,10193,Bourke - Brewarrina/ Walgett - Lightning Ridge
+79,9507,Walpeup,Mallee CMA,POINT (142 -35.12),585,20255,Irymple/ Mildura Region
+80,9671,West Wyalong,Riverina LLS,POINT (147.196 -33.9384),177,10177,Cowra Region/ Grenfell/ West Wyalong
+81,9836,White Cliffs,Western LLS,POINT (143.074 -30.8517),195,10195,Broken Hill/ Far West
+82,95880,Coombah,Western LLS,POINT (141.618344 -32.976177),195,10195,Broken Hill/ Far West
+83,9551,Wycheproof,North Central CMA,POINT (143.355 -36.0971),589,20259,Buloke/ Gannawarra/ Kerang
+84,92650,Wagga Wagga North2,Riverina LLS,POINT (147.36037 -35.10411),316,10316,Wagga Wagga - West
+85,1350,ARMIDALE,Northern Tablelands,POINT (151.66173 -30.50851),256,10256,Armidale
+86,1800,ORANGE,Central Tablelands,POINT (149.09447 -33.27429),184,10184,Orange - North/ Orange Region
+87,93496,Werrimull,Mallee CMA,POINT (141.566805 -34.466564),585,20255,Irymple/ Mildura Region
+88,802,RR POD2,Incident Monitoring,POINT (150.4102 -34.4879),326,10326,Bowral/ Robertson - Fitzroy Falls
+89,803,PORT MACQUARIE,Mid-North Coast,POINT (152.88819 -31.45405),243,10243,Port Macquarie - East/ Port Macquarie - South
+90,9350,Armidale ,Northern Tablelands LLS,POINT (151.661658 -30.50845),256,10256,Armidale
+91,61,BRADFIELD HIGHWAY,Roadside Monitoring,POINT (151.21109 -33.84327),87,10087,North Sydney - Mosman - West
+92,780,KATOOMBA,Research Monitoring ,POINT (150.299588 -33.71028),105,10105,Blackheath - Megalong Valley/ Katoomba - Leura
+93,155,ROUSE HILL,Sydney North-west,POINT (150.90366 -33.68275),26,10026,Marsden Park/ Riverstone/ Schofields
+94,99381,Gunnedah 2,North West LLS,POINT (150.260666 -30.981876),264,10264,Gunnedah/ Gunnedah Region
+95,1001,COOK AND PHILLIP,Sydney East,POINT (151.21323 -33.87288),36,10036,Sydney Inner City - North East
+96,1580,GOULBURN,Southern Tablelands,POINT (149.72416 -34.73452),156,10156,Goulburn
+97,99801,Grafton,North Coast LLS,POINT (152.96063 -29.62236),185,10185,Grafton
+98,99802,Taree,Bushfire Monitoring,POINT (152.50861 -31.88944),248,10248,Taree/ Wingham
+99,99803,Coffs Harbour,Bushfire Monitoring,POINT (153.11806 -30.29833),189,10189,Coffs Harbour - North/ Coffs Harbour - South
+100,450,COFFS HARBOUR,Mid-North Coast,POINT (153.11811 -30.29828),189,10189,Coffs Harbour - North/ Coffs Harbour - South
+101,811,LISMORE,Bushfire - Lismore (offline),POINT (153.293502 -28.83213),301,10301,Lismore
+102,99804,Batemans Bay,Bushfire Monitoring,POINT (150.1872 -35.7234),167,10167,South Coast - Batemans Bay
+103,99805,Ulladulla,Bushfire Monitoring,POINT (150.4828 -35.3635),324,10324,Ulladulla
+104,99806,Merimbula,South East LLS,POINT (149.89893 -36.90775),171,10171,Merimbula - Tura Beach
+105,99807,Cooma,South East LLS,POINT (149.1331 -36.2226),165,10165,Cooma
+106,1148,PROSPECT,Sydney North-west,POINT (150.91417 -33.79424),23,10023,Lalor Park - Kings Langley area
+123,9480,Lismore,North Coast LLS,POINT (153.26275 -28.83622),301,10301,Lismore
+124,1141,LIDCOMBE,Sydney East,POINT (151.04676 -33.88143),120,10120,Lidcombe - Regents Park/ Rookwood Cemetery
+125,1750,PENRITH,Sydney North-west,POINT (150.70385 -33.72687),109,10109,Cambridge Park/ Castlereagh - Cranebrook
+126,264,MORISSET,Lake Macquarie,POINT (151.55257 -33.10801),279,10279,Bonnells Bay - Silverwater/ Morisset - Cooranbong
+127,805,Test Site,Test Region,POINT (151.042577 -33.884341),120,10120,Lidcombe - Regents Park/ Rookwood Cemetery
+128,15,ALEXANDRIA,Sydney East,POINT (151.197267 -33.905317),37,10037,Sydney Inner City - South West
+130,62,CAMMERAY,Research Monitoring ,POINT (151.216707 -33.827271),86,10086,Cremorne - Cammeray/ Neutral Bay - Kirribilli
+131,798,MILLTHORPE,Cadia Monitoring,POINT (149.185325 -33.444339),182,10182,Blayney
+132,9800,Forest Reef 2,Cadia Monitoring DRX,POINT (149.065 -33.467),182,10182,Blayney
+133,92800,Errowanbang 2,Cadia Monitoring DRX,POINT (149.052 -33.552),182,10182,Blayney

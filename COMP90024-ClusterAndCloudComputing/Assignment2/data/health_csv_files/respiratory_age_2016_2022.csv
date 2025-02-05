@@ -1,0 +1,505 @@
+year,month,disease,age,population,proportion
+2016,1,Res p,45+ years,6441,67.0
+2016,2,Respiratory - acute respiratory infection,45+ years,5907,61.5
+2016,3,Respiratory - acute respiratory infection,45+ years,6783,70.6
+2016,4,Respiratory - acute respiratory infection,45+ years,7210,75.1
+2016,5,Respiratory - acute respiratory infection,45+ years,7934,82.6
+2016,6,Respiratory - acute respiratory infection,45+ years,8882,92.5
+2016,7,Respiratory - acute respiratory infection,45+ years,11201,116.6
+2016,8,Respiratory - acute respiratory infection,45+ years,14635,152.3
+2016,9,Respiratory - acute respiratory infection,45+ years,14602,152.0
+2016,10,Respiratory - acute respiratory infection,45+ years,11857,123.4
+2016,11,Respiratory - acute respiratory infection,45+ years,9323,97.0
+2016,12,Respiratory - acute respiratory infection,45+ years,8743,91.0
+2017,1,Respiratory - acute respiratory infection,45+ years,7868,80.2
+2017,2,Respiratory - acute respiratory infection,45+ years,6286,64.0
+2017,3,Respiratory - acute respiratory infection,45+ years,7663,78.1
+2017,4,Respiratory - acute respiratory infection,45+ years,8115,82.7
+2017,5,Respiratory - acute respiratory infection,45+ years,9011,91.8
+2017,6,Respiratory - acute respiratory infection,45+ years,10308,105.0
+2017,7,Respiratory - acute respiratory infection,45+ years,14913,151.9
+2017,8,Respiratory - acute respiratory infection,45+ years,20637,210.2
+2017,9,Respiratory - acute respiratory infection,45+ years,18982,193.4
+2017,10,Respiratory - acute respiratory infection,45+ years,11568,117.8
+2017,11,Respiratory - acute respiratory infection,45+ years,8728,88.9
+2017,12,Respiratory - acute respiratory infection,45+ years,8382,85.4
+2018,1,Respiratory - acute respiratory infection,45+ years,7453,74.5
+2018,2,Respiratory - acute respiratory infection,45+ years,6128,61.2
+2018,3,Respiratory - acute respiratory infection,45+ years,7258,72.5
+2018,4,Respiratory - acute respiratory infection,45+ years,7492,74.9
+2018,5,Respiratory - acute respiratory infection,45+ years,8577,85.7
+2018,6,Respiratory - acute respiratory infection,45+ years,9115,91.1
+2018,7,Respiratory - acute respiratory infection,45+ years,11036,110.3
+2018,8,Respiratory - acute respiratory infection,45+ years,11195,111.8
+2018,9,Respiratory - acute respiratory infection,45+ years,11332,113.2
+2018,10,Respiratory - acute respiratory infection,45+ years,10642,106.3
+2018,11,Respiratory - acute respiratory infection,45+ years,9398,93.9
+2018,12,Respiratory - acute respiratory infection,45+ years,9523,95.1
+2019,1,Respiratory - acute respiratory infection,45+ years,8369,82.0
+2019,2,Respiratory - acute respiratory infection,45+ years,6983,68.4
+2019,3,Respiratory - acute respiratory infection,45+ years,8214,80.5
+2019,4,Respiratory - acute respiratory infection,45+ years,9588,94.0
+2019,5,Respiratory - acute respiratory infection,45+ years,11102,108.8
+2019,6,Respiratory - acute respiratory infection,45+ years,13372,131.0
+2019,7,Respiratory - acute respiratory infection,45+ years,15578,152.6
+2019,8,Respiratory - acute respiratory infection,45+ years,14450,141.6
+2019,9,Respiratory - acute respiratory infection,45+ years,13072,128.1
+2019,10,Respiratory - acute respiratory infection,45+ years,11049,108.3
+2019,11,Respiratory - acute respiratory infection,45+ years,9156,89.7
+2019,12,Respiratory - acute respiratory infection,45+ years,9271,90.8
+2020,1,Respiratory - acute respiratory infection,45+ years,8497,81.3
+2020,2,Respiratory - acute respiratory infection,45+ years,7141,68.4
+2020,3,Respiratory - acute respiratory infection,45+ years,8670,83.0
+2020,4,Respiratory - acute respiratory infection,45+ years,5560,53.2
+2020,5,Respiratory - acute respiratory infection,45+ years,5100,48.8
+2020,6,Respiratory - acute respiratory infection,45+ years,5397,51.7
+2020,7,Respiratory - acute respiratory infection,45+ years,6280,60.1
+2020,8,Respiratory - acute respiratory infection,45+ years,6081,58.2
+2020,9,Respiratory - acute respiratory infection,45+ years,5320,50.9
+2020,10,Respiratory - acute respiratory infection,45+ years,5653,54.1
+2020,11,Respiratory - acute respiratory infection,45+ years,5626,53.9
+2020,12,Respiratory - acute respiratory infection,45+ years,5921,56.7
+2021,1,Respiratory - acute respiratory infection,45+ years,5534,52.2
+2021,2,Respiratory - acute respiratory infection,45+ years,4927,46.5
+2021,3,Respiratory - acute respiratory infection,45+ years,6096,57.6
+2021,4,Respiratory - acute respiratory infection,45+ years,6271,59.2
+2021,5,Respiratory - acute respiratory infection,45+ years,7124,67.3
+2021,6,Respiratory - acute respiratory infection,45+ years,7365,69.5
+2021,7,Respiratory - acute respiratory infection,45+ years,7483,70.6
+2021,8,Respiratory - acute respiratory infection,45+ years,7598,71.7
+2021,9,Respiratory - acute respiratory infection,45+ years,8898,84.0
+2021,10,Respiratory - acute respiratory infection,45+ years,8143,76.9
+2021,11,Respiratory - acute respiratory infection,45+ years,6738,63.6
+2021,12,Respiratory - acute respiratory infection,45+ years,7846,74.1
+2016,1,COPD,45+ years,4863,50.6
+2016,2,COPD,45+ years,4400,45.8
+2016,3,COPD,45+ years,4898,51.0
+2016,4,COPD,45+ years,5219,54.3
+2016,5,COPD,45+ years,6086,63.4
+2016,6,COPD,45+ years,6403,66.7
+2016,7,COPD,45+ years,7714,80.3
+2016,8,COPD,45+ years,8314,86.5
+2016,9,COPD,45+ years,8051,83.8
+2016,10,COPD,45+ years,6993,72.8
+2016,11,COPD,45+ years,6043,62.9
+2016,12,COPD,45+ years,5798,60.4
+2017,1,COPD,45+ years,5258,53.6
+2017,2,COPD,45+ years,4790,48.8
+2017,3,COPD,45+ years,5655,57.6
+2017,4,COPD,45+ years,5601,57.1
+2017,5,COPD,45+ years,6750,68.8
+2017,6,COPD,45+ years,7087,72.2
+2017,7,COPD,45+ years,8875,90.4
+2017,8,COPD,45+ years,9268,94.4
+2017,9,COPD,45+ years,8602,87.6
+2017,10,COPD,45+ years,6665,67.9
+2017,11,COPD,45+ years,5910,60.2
+2017,12,COPD,45+ years,5549,56.5
+2018,1,COPD,45+ years,5214,52.1
+2018,2,COPD,45+ years,4547,45.4
+2018,3,COPD,45+ years,5021,50.2
+2018,4,COPD,45+ years,5185,51.8
+2018,5,COPD,45+ years,6041,60.4
+2018,6,COPD,45+ years,6706,67.0
+2018,7,COPD,45+ years,7660,76.5
+2018,8,COPD,45+ years,7622,76.2
+2018,9,COPD,45+ years,6945,69.4
+2018,10,COPD,45+ years,7026,70.2
+2018,11,COPD,45+ years,6220,62.1
+2018,12,COPD,45+ years,5933,59.3
+2019,1,COPD,45+ years,5358,52.5
+2019,2,COPD,45+ years,4734,46.4
+2019,3,COPD,45+ years,5397,52.9
+2019,4,COPD,45+ years,5624,55.1
+2019,5,COPD,45+ years,6733,66.0
+2019,6,COPD,45+ years,7075,69.3
+2019,7,COPD,45+ years,8018,78.6
+2019,8,COPD,45+ years,7590,74.4
+2019,9,COPD,45+ years,7136,69.9
+2019,10,COPD,45+ years,6931,67.9
+2019,11,COPD,45+ years,6294,61.7
+2019,12,COPD,45+ years,6275,61.5
+2020,1,COPD,45+ years,6053,57.9
+2020,2,COPD,45+ years,5095,48.8
+2020,3,COPD,45+ years,4887,46.8
+2020,4,COPD,45+ years,3342,32.0
+2020,5,COPD,45+ years,3824,36.6
+2020,6,COPD,45+ years,4239,40.6
+2020,7,COPD,45+ years,4617,44.2
+2020,8,COPD,45+ years,4389,42.0
+2020,9,COPD,45+ years,4110,39.3
+2020,10,COPD,45+ years,4257,40.8
+2020,11,COPD,45+ years,4337,41.5
+2020,12,COPD,45+ years,4380,41.9
+2021,1,COPD,45+ years,4180,39.5
+2021,2,COPD,45+ years,3962,37.4
+2021,3,COPD,45+ years,4612,43.5
+2021,4,COPD,45+ years,4513,42.6
+2021,5,COPD,45+ years,5070,47.9
+2021,6,COPD,45+ years,5356,50.6
+2021,7,COPD,45+ years,5158,48.7
+2021,8,COPD,45+ years,4933,46.6
+2021,9,COPD,45+ years,4735,44.7
+2021,10,COPD,45+ years,4570,43.1
+2021,11,COPD,45+ years,4230,39.9
+2021,12,COPD,45+ years,4159,39.3
+2016,1,Asthma,0 – 4 years,526,33.4
+2016,2,Asthma,0 – 4 years,1245,79.1
+2016,3,Asthma,0 – 4 years,1098,69.8
+2016,4,Asthma,0 – 4 years,953,60.6
+2016,5,Asthma,0 – 4 years,1154,73.3
+2016,6,Asthma,0 – 4 years,946,60.1
+2016,7,Asthma,0 – 4 years,752,47.8
+2016,8,Asthma,0 – 4 years,751,47.7
+2016,9,Asthma,0 – 4 years,747,47.5
+2016,10,Asthma,0 – 4 years,778,49.4
+2016,11,Asthma,0 – 4 years,688,43.7
+2016,12,Asthma,0 – 4 years,652,41.4
+2017,1,Asthma,0 – 4 years,360,22.9
+2017,2,Asthma,0 – 4 years,1000,63.5
+2017,3,Asthma,0 – 4 years,905,57.5
+2017,4,Asthma,0 – 4 years,916,58.2
+2017,5,Asthma,0 – 4 years,1321,83.9
+2017,6,Asthma,0 – 4 years,974,61.9
+2017,7,Asthma,0 – 4 years,663,42.1
+2017,8,Asthma,0 – 4 years,534,33.9
+2017,9,Asthma,0 – 4 years,521,33.1
+2017,10,Asthma,0 – 4 years,650,41.3
+2017,11,Asthma,0 – 4 years,713,45.3
+2017,12,Asthma,0 – 4 years,540,34.3
+2018,1,Asthma,0 – 4 years,344,22.0
+2018,2,Asthma,0 – 4 years,1036,66.3
+2018,3,Asthma,0 – 4 years,905,57.9
+2018,4,Asthma,0 – 4 years,630,40.3
+2018,5,Asthma,0 – 4 years,984,62.9
+2018,6,Asthma,0 – 4 years,846,54.1
+2018,7,Asthma,0 – 4 years,654,41.8
+2018,8,Asthma,0 – 4 years,605,38.7
+2018,9,Asthma,0 – 4 years,600,38.4
+2018,10,Asthma,0 – 4 years,630,40.3
+2018,11,Asthma,0 – 4 years,563,36.0
+2018,12,Asthma,0 – 4 years,448,28.7
+2019,1,Asthma,0 – 4 years,295,19.0
+2019,2,Asthma,0 – 4 years,880,56.6
+2019,3,Asthma,0 – 4 years,758,48.8
+2019,4,Asthma,0 – 4 years,671,43.2
+2019,5,Asthma,0 – 4 years,762,49.0
+2019,6,Asthma,0 – 4 years,707,45.5
+2019,7,Asthma,0 – 4 years,639,41.1
+2019,8,Asthma,0 – 4 years,745,47.9
+2019,9,Asthma,0 – 4 years,553,35.6
+2019,10,Asthma,0 – 4 years,470,30.2
+2019,11,Asthma,0 – 4 years,533,34.3
+2019,12,Asthma,0 – 4 years,448,28.8
+2020,1,Asthma,0 – 4 years,262,17.1
+2020,2,Asthma,0 – 4 years,592,38.6
+2020,3,Asthma,0 – 4 years,446,29.1
+2020,4,Asthma,0 – 4 years,54,3.5
+2020,5,Asthma,0 – 4 years,116,7.6
+2020,6,Asthma,0 – 4 years,347,22.6
+2020,7,Asthma,0 – 4 years,294,19.2
+2020,8,Asthma,0 – 4 years,251,16.4
+2020,9,Asthma,0 – 4 years,221,14.4
+2020,10,Asthma,0 – 4 years,282,18.4
+2020,11,Asthma,0 – 4 years,373,24.3
+2020,12,Asthma,0 – 4 years,268,17.5
+2021,1,Asthma,0 – 4 years,156,10.3
+2021,2,Asthma,0 – 4 years,373,24.7
+2021,3,Asthma,0 – 4 years,443,29.4
+2021,4,Asthma,0 – 4 years,418,27.7
+2021,5,Asthma,0 – 4 years,537,35.6
+2021,6,Asthma,0 – 4 years,352,23.3
+2021,7,Asthma,0 – 4 years,330,21.9
+2021,8,Asthma,0 – 4 years,260,17.2
+2021,9,Asthma,0 – 4 years,183,12.1
+2021,10,Asthma,0 – 4 years,234,15.5
+2021,11,Asthma,0 – 4 years,313,20.7
+2021,12,Asthma,0 – 4 years,192,12.7
+2016,1,Asthma,5 – 9 years,240,15.3
+2016,2,Asthma,5 – 9 years,862,55.0
+2016,3,Asthma,5 – 9 years,719,45.9
+2016,4,Asthma,5 – 9 years,484,30.9
+2016,5,Asthma,5 – 9 years,766,48.9
+2016,6,Asthma,5 – 9 years,568,36.2
+2016,7,Asthma,5 – 9 years,462,29.5
+2016,8,Asthma,5 – 9 years,582,37.1
+2016,9,Asthma,5 – 9 years,501,32.0
+2016,10,Asthma,5 – 9 years,526,33.6
+2016,11,Asthma,5 – 9 years,584,37.3
+2016,12,Asthma,5 – 9 years,397,25.3
+2017,1,Asthma,5 – 9 years,170,10.7
+2017,2,Asthma,5 – 9 years,723,45.5
+2017,3,Asthma,5 – 9 years,596,37.5
+2017,4,Asthma,5 – 9 years,582,36.7
+2017,5,Asthma,5 – 9 years,1150,72.4
+2017,6,Asthma,5 – 9 years,741,46.7
+2017,7,Asthma,5 – 9 years,491,30.9
+2017,8,Asthma,5 – 9 years,442,27.8
+2017,9,Asthma,5 – 9 years,402,25.3
+2017,10,Asthma,5 – 9 years,587,37.0
+2017,11,Asthma,5 – 9 years,564,35.5
+2017,12,Asthma,5 – 9 years,425,26.8
+2018,1,Asthma,5 – 9 years,185,11.5
+2018,2,Asthma,5 – 9 years,755,47.0
+2018,3,Asthma,5 – 9 years,619,38.6
+2018,4,Asthma,5 – 9 years,436,27.2
+2018,5,Asthma,5 – 9 years,800,49.9
+2018,6,Asthma,5 – 9 years,640,39.9
+2018,7,Asthma,5 – 9 years,487,30.3
+2018,8,Asthma,5 – 9 years,495,30.8
+2018,9,Asthma,5 – 9 years,542,33.8
+2018,10,Asthma,5 – 9 years,492,30.7
+2018,11,Asthma,5 – 9 years,590,36.8
+2018,12,Asthma,5 – 9 years,391,24.4
+2019,1,Asthma,5 – 9 years,193,11.9
+2019,2,Asthma,5 – 9 years,755,46.7
+2019,3,Asthma,5 – 9 years,648,40.1
+2019,4,Asthma,5 – 9 years,524,32.4
+2019,5,Asthma,5 – 9 years,758,46.9
+2019,6,Asthma,5 – 9 years,599,37.1
+2019,7,Asthma,5 – 9 years,521,32.2
+2019,8,Asthma,5 – 9 years,711,44.0
+2019,9,Asthma,5 – 9 years,552,34.2
+2019,10,Asthma,5 – 9 years,475,29.4
+2019,11,Asthma,5 – 9 years,586,36.3
+2019,12,Asthma,5 – 9 years,380,23.5
+2020,1,Asthma,5 – 9 years,178,11.0
+2020,2,Asthma,5 – 9 years,630,38.9
+2020,3,Asthma,5 – 9 years,462,28.5
+2020,4,Asthma,5 – 9 years,82,5.1
+2020,5,Asthma,5 – 9 years,145,9.0
+2020,6,Asthma,5 – 9 years,521,32.2
+2020,7,Asthma,5 – 9 years,313,19.3
+2020,8,Asthma,5 – 9 years,405,25.0
+2020,9,Asthma,5 – 9 years,289,17.8
+2020,10,Asthma,5 – 9 years,331,20.4
+2020,11,Asthma,5 – 9 years,497,30.7
+2020,12,Asthma,5 – 9 years,246,15.2
+2021,1,Asthma,5 – 9 years,139,8.6
+2021,2,Asthma,5 – 9 years,474,29.3
+2021,3,Asthma,5 – 9 years,556,34.4
+2021,4,Asthma,5 – 9 years,442,27.3
+2021,5,Asthma,5 – 9 years,777,48.1
+2021,6,Asthma,5 – 9 years,419,25.9
+2021,7,Asthma,5 – 9 years,277,17.1
+2021,8,Asthma,5 – 9 years,251,15.5
+2021,9,Asthma,5 – 9 years,251,15.5
+2021,10,Asthma,5 – 9 years,268,16.6
+2021,11,Asthma,5 – 9 years,404,25.0
+2021,12,Asthma,5 – 9 years,255,15.8
+2016,1,Asthma,10 – 14 years,119,8.3
+2016,2,Asthma,10 – 14 years,272,19.0
+2016,3,Asthma,10 – 14 years,226,15.8
+2016,4,Asthma,10 – 14 years,159,11.1
+2016,5,Asthma,10 – 14 years,251,17.5
+2016,6,Asthma,10 – 14 years,238,16.6
+2016,7,Asthma,10 – 14 years,154,10.8
+2016,8,Asthma,10 – 14 years,264,18.4
+2016,9,Asthma,10 – 14 years,200,14.0
+2016,10,Asthma,10 – 14 years,202,14.1
+2016,11,Asthma,10 – 14 years,311,21.7
+2016,12,Asthma,10 – 14 years,167,11.7
+2017,1,Asthma,10 – 14 years,92,6.2
+2017,2,Asthma,10 – 14 years,211,14.3
+2017,3,Asthma,10 – 14 years,237,16.1
+2017,4,Asthma,10 – 14 years,211,14.3
+2017,5,Asthma,10 – 14 years,373,25.3
+2017,6,Asthma,10 – 14 years,280,19.0
+2017,7,Asthma,10 – 14 years,208,14.1
+2017,8,Asthma,10 – 14 years,204,13.8
+2017,9,Asthma,10 – 14 years,178,12.1
+2017,10,Asthma,10 – 14 years,210,14.3
+2017,11,Asthma,10 – 14 years,300,20.4
+2017,12,Asthma,10 – 14 years,157,10.7
+2018,1,Asthma,10 – 14 years,106,7.0
+2018,2,Asthma,10 – 14 years,224,14.8
+2018,3,Asthma,10 – 14 years,211,13.9
+2018,4,Asthma,10 – 14 years,147,9.7
+2018,5,Asthma,10 – 14 years,314,20.7
+2018,6,Asthma,10 – 14 years,243,16.0
+2018,7,Asthma,10 – 14 years,180,11.9
+2018,8,Asthma,10 – 14 years,221,14.6
+2018,9,Asthma,10 – 14 years,205,13.5
+2018,10,Asthma,10 – 14 years,171,11.3
+2018,11,Asthma,10 – 14 years,250,16.5
+2018,12,Asthma,10 – 14 years,167,11.0
+2019,1,Asthma,10 – 14 years,113,7.2
+2019,2,Asthma,10 – 14 years,217,13.9
+2019,3,Asthma,10 – 14 years,212,13.6
+2019,4,Asthma,10 – 14 years,176,11.3
+2019,5,Asthma,10 – 14 years,319,20.4
+2019,6,Asthma,10 – 14 years,234,15.0
+2019,7,Asthma,10 – 14 years,215,13.8
+2019,8,Asthma,10 – 14 years,278,17.8
+2019,9,Asthma,10 – 14 years,229,14.7
+2019,10,Asthma,10 – 14 years,194,12.4
+2019,11,Asthma,10 – 14 years,263,16.8
+2019,12,Asthma,10 – 14 years,185,11.9
+2020,1,Asthma,10 – 14 years,111,6.9
+2020,2,Asthma,10 – 14 years,183,11.4
+2020,3,Asthma,10 – 14 years,185,11.5
+2020,4,Asthma,10 – 14 years,73,4.6
+2020,5,Asthma,10 – 14 years,77,4.8
+2020,6,Asthma,10 – 14 years,190,11.9
+2020,7,Asthma,10 – 14 years,124,7.7
+2020,8,Asthma,10 – 14 years,170,10.6
+2020,9,Asthma,10 – 14 years,111,6.9
+2020,10,Asthma,10 – 14 years,110,6.9
+2020,11,Asthma,10 – 14 years,203,12.7
+2020,12,Asthma,10 – 14 years,93,5.8
+2021,1,Asthma,10 – 14 years,66,4.1
+2021,2,Asthma,10 – 14 years,166,10.2
+2021,3,Asthma,10 – 14 years,176,10.8
+2021,4,Asthma,10 – 14 years,157,9.7
+2021,5,Asthma,10 – 14 years,283,17.4
+2021,6,Asthma,10 – 14 years,190,11.7
+2021,7,Asthma,10 – 14 years,111,6.8
+2021,8,Asthma,10 – 14 years,116,7.1
+2021,9,Asthma,10 – 14 years,121,7.5
+2021,10,Asthma,10 – 14 years,102,6.3
+2021,11,Asthma,10 – 14 years,142,8.7
+2021,12,Asthma,10 – 14 years,121,7.5
+2016,1,Asthma,15+ years,1166,5.9
+2016,2,Asthma,15+ years,1243,6.3
+2016,3,Asthma,15+ years,1431,7.3
+2016,4,Asthma,15+ years,1475,7.5
+2016,5,Asthma,15+ years,1735,8.8
+2016,6,Asthma,15+ years,1812,9.2
+2016,7,Asthma,15+ years,1920,9.8
+2016,8,Asthma,15+ years,2230,11.4
+2016,9,Asthma,15+ years,2024,10.3
+2016,10,Asthma,15+ years,1789,9.1
+2016,11,Asthma,15+ years,2217,11.3
+2016,12,Asthma,15+ years,1788,9.1
+2017,1,Asthma,15+ years,1318,6.6
+2017,2,Asthma,15+ years,1271,6.4
+2017,3,Asthma,15+ years,1639,8.2
+2017,4,Asthma,15+ years,1699,8.5
+2017,5,Asthma,15+ years,2252,11.3
+2017,6,Asthma,15+ years,2155,10.8
+2017,7,Asthma,15+ years,2384,11.9
+2017,8,Asthma,15+ years,2458,12.3
+2017,9,Asthma,15+ years,2054,10.3
+2017,10,Asthma,15+ years,1799,9.0
+2017,11,Asthma,15+ years,1850,9.3
+2017,12,Asthma,15+ years,1460,7.3
+2018,1,Asthma,15+ years,1389,6.8
+2018,2,Asthma,15+ years,1244,6.1
+2018,3,Asthma,15+ years,1508,7.4
+2018,4,Asthma,15+ years,1489,7.3
+2018,5,Asthma,15+ years,1975,9.7
+2018,6,Asthma,15+ years,1973,9.7
+2018,7,Asthma,15+ years,2109,10.4
+2018,8,Asthma,15+ years,1993,9.8
+2018,9,Asthma,15+ years,1924,9.5
+2018,10,Asthma,15+ years,1856,9.2
+2018,11,Asthma,15+ years,1914,9.4
+2018,12,Asthma,15+ years,1513,7.5
+2019,1,Asthma,15+ years,1389,6.7
+2019,2,Asthma,15+ years,1331,6.5
+2019,3,Asthma,15+ years,1534,7.4
+2019,4,Asthma,15+ years,1674,8.1
+2019,5,Asthma,15+ years,1998,9.7
+2019,6,Asthma,15+ years,2332,11.3
+2019,7,Asthma,15+ years,2280,11.1
+2019,8,Asthma,15+ years,2157,10.5
+2019,9,Asthma,15+ years,2056,10.0
+2019,10,Asthma,15+ years,1888,9.2
+2019,11,Asthma,15+ years,2055,10.0
+2019,12,Asthma,15+ years,1821,8.8
+2020,1,Asthma,15+ years,1890,9.0
+2020,2,Asthma,15+ years,1433,6.9
+2020,3,Asthma,15+ years,1633,7.8
+2020,4,Asthma,15+ years,892,4.3
+2020,5,Asthma,15+ years,863,4.1
+2020,6,Asthma,15+ years,1129,5.4
+2020,7,Asthma,15+ years,1161,5.6
+2020,8,Asthma,15+ years,1053,5.0
+2020,9,Asthma,15+ years,981,4.7
+2020,10,Asthma,15+ years,986,4.7
+2020,11,Asthma,15+ years,1316,6.3
+2020,12,Asthma,15+ years,1001,4.8
+2021,1,Asthma,15+ years,932,4.5
+2021,2,Asthma,15+ years,952,4.5
+2021,3,Asthma,15+ years,1385,6.6
+2021,4,Asthma,15+ years,1379,6.6
+2021,5,Asthma,15+ years,1610,7.7
+2021,6,Asthma,15+ years,1522,7.3
+2021,7,Asthma,15+ years,1348,6.4
+2021,8,Asthma,15+ years,1271,6.1
+2021,9,Asthma,15+ years,1121,5.4
+2021,10,Asthma,15+ years,1001,4.8
+2021,11,Asthma,15+ years,1017,4.9
+2021,12,Asthma,15+ years,1052,5.0
+2016,1,Asthma,All ages,2051,8.5
+2016,2,Asthma,All ages,3622,15.0
+2016,3,Asthma,All ages,3474,14.4
+2016,4,Asthma,All ages,3071,12.7
+2016,5,Asthma,All ages,3906,16.1
+2016,6,Asthma,All ages,3564,14.7
+2016,7,Asthma,All ages,3288,13.6
+2016,8,Asthma,All ages,3827,15.8
+2016,9,Asthma,All ages,3472,14.4
+2016,10,Asthma,All ages,3295,13.6
+2016,11,Asthma,All ages,3800,15.7
+2016,12,Asthma,All ages,3004,12.4
+2017,1,Asthma,All ages,1940,7.9
+2017,2,Asthma,All ages,3205,13.0
+2017,3,Asthma,All ages,3377,13.7
+2017,4,Asthma,All ages,3408,13.9
+2017,5,Asthma,All ages,5096,20.7
+2017,6,Asthma,All ages,4150,16.9
+2017,7,Asthma,All ages,3746,15.2
+2017,8,Asthma,All ages,3638,14.8
+2017,9,Asthma,All ages,3155,12.8
+2017,10,Asthma,All ages,3246,13.2
+2017,11,Asthma,All ages,3427,13.9
+2017,12,Asthma,All ages,2582,10.5
+2018,1,Asthma,All ages,2024,8.1
+2018,2,Asthma,All ages,3259,13.1
+2018,3,Asthma,All ages,3243,13.0
+2018,4,Asthma,All ages,2702,10.8
+2018,5,Asthma,All ages,4073,16.3
+2018,6,Asthma,All ages,3702,14.8
+2018,7,Asthma,All ages,3430,13.7
+2018,8,Asthma,All ages,3314,13.3
+2018,9,Asthma,All ages,3271,13.1
+2018,10,Asthma,All ages,3149,12.6
+2018,11,Asthma,All ages,3317,13.3
+2018,12,Asthma,All ages,2519,10.1
+2019,1,Asthma,All ages,1990,7.9
+2019,2,Asthma,All ages,3183,12.6
+2019,3,Asthma,All ages,3152,12.4
+2019,4,Asthma,All ages,3045,12.0
+2019,5,Asthma,All ages,3837,15.1
+2019,6,Asthma,All ages,3872,15.3
+2019,7,Asthma,All ages,3655,14.4
+2019,8,Asthma,All ages,3891,15.4
+2019,9,Asthma,All ages,3390,13.4
+2019,10,Asthma,All ages,3027,11.9
+2019,11,Asthma,All ages,3437,13.6
+2019,12,Asthma,All ages,2834,11.2
+2020,1,Asthma,All ages,2441,9.5
+2020,2,Asthma,All ages,2838,11.1
+2020,3,Asthma,All ages,2726,10.6
+2020,4,Asthma,All ages,1101,4.3
+2020,5,Asthma,All ages,1201,4.7
+2020,6,Asthma,All ages,2187,8.5
+2020,7,Asthma,All ages,1892,7.4
+2020,8,Asthma,All ages,1879,7.3
+2020,9,Asthma,All ages,1602,6.2
+2020,10,Asthma,All ages,1709,6.7
+2020,11,Asthma,All ages,2389,9.3
+2020,12,Asthma,All ages,1608,6.3
+2021,1,Asthma,All ages,1293,5.0
+2021,2,Asthma,All ages,1965,7.7
+2021,3,Asthma,All ages,2560,10.0
+2021,4,Asthma,All ages,2396,9.3
+2021,5,Asthma,All ages,3207,12.5
+2021,6,Asthma,All ages,2483,9.7
+2021,7,Asthma,All ages,2066,8.0
+2021,8,Asthma,All ages,1898,7.4
+2021,9,Asthma,All ages,1676,6.5
+2021,10,Asthma,All ages,1605,6.2
+2021,11,Asthma,All ages,1876,7.3
+2021,12,Asthma,All ages,1620,6.3

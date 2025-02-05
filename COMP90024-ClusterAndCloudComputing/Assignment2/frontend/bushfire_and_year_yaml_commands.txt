@@ -1,0 +1,59 @@
+"""
+COMP90024 Project Team 1
+Authors:
+- Henrik Hao (1255309)
+- Haoyi Li (1237964)
+- Zilin Su (1155122)
+- Angela Yifei Yuan (1269549)
+"""
+
+# create a spec repository
+(
+  cd frontend
+  fission specs init
+)  
+
+# zip the package
+(
+  cd frontend/bushfire_and_air
+  zip -r combine-bushfire.zip .
+  mv combine-bushfire.zip ../
+)
+chmod +x ./frontend/bushfire_and_air/build.sh
+
+# create httptriggers, functions and packages
+
+( 
+  cd frontend
+
+  fission package create --spec --sourcearchive ./combine-bushfire.zip \
+  --env python-39 \
+  --name combine-bushfire \
+  --buildcmd './build.sh' 
+
+  fission function create --spec --name combine-bushfire \
+  --pkg combine-bushfire\
+  --env python-39 \
+  --fntimeout 300 \
+  --entrypoint "combine_bushfire.main" \
+)
+
+(
+  cd frontend
+  fission route create --spec --name combine-bushfire --function combine-bushfire --createingress\
+    --method GET \
+    --url '/combine-bushfire/start/{start:[0-9][0-9][0-9][0-9]}/end/{end:[0-9][0-9][0-9][0-9]}'
+)
+
+# move the generated yaml files from specs to specs_admissions (your spec repository)
+
+# deploy to cluster
+fission spec apply --specdir frontend/specs --wait
+
+
+# try out the function
+curl "http://localhost:9090/combine-bushfire/start/2013/end/2021" | jq '.'
+
+fission function delete --name combine-bushfire
+fission httptrigger delete --name combine-bushfire
+fission package delete --name combine-bushfire

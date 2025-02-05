@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mastodon-harvester
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mastodon-harvester
+  template:
+    metadata:
+      labels:
+        app: mastodon-harvester
+    spec:
+      containers:
+      - name: mastodon-harvester
+        image: henrik1n25/mastodon-harvester:latest
+        ports:
+        - containerPort: 80
+        env:
+          - name: MASTODON_API_KEY
+            valueFrom:
+              secretKeyRef:
+                name: mastodon-secret
+                key: api_key

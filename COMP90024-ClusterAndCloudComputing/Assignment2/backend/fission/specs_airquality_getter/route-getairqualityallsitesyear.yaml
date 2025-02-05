@@ -1,0 +1,22 @@
+apiVersion: fission.io/v1
+kind: HTTPTrigger
+metadata:
+  creationTimestamp: null
+  name: getairqualityallsitesyear
+spec:
+  createingress: true
+  functionref:
+    functionweights: null
+    name: airquality-getter
+    type: name
+  host: ""
+  ingressconfig:
+    annotations: null
+    host: '*'
+    path: /getairquality/yearsites/{yearsites:[0-9]{4}}
+    tls: ""
+  method: ""
+  methods:
+  - GET
+  prefix: ""
+  relativeurl: /getairquality/yearsites/{yearsites:[0-9]{4}}

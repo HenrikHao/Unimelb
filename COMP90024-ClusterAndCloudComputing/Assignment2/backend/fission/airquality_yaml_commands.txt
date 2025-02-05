@@ -1,0 +1,79 @@
+"""
+COMP90024 Project Team 1
+Authors:
+- Henrik Hao (1255309)
+- Haoyi Li (1237964)
+- Zilin Su (1155122)
+- Angela Yifei Yuan (1269549)
+"""
+
+# create a spec repository
+(
+  cd fission
+  fission specs --specdir specs_airquality_collector init
+)  
+
+# create a python3.9 env, becausing using pandas 2.2.2
+(
+  cd fission
+  fission env create --name python-39 --builder fission/python-builder-3.9 --image fission/python-env-3.9
+)  
+
+
+# zip the package
+(
+  cd fission/functions/airquality
+  zip -r airquality.zip .
+  mv airquality.zip ../
+)
+
+
+# create httptriggers, functions and packages
+chmod +x ./fission/functions/airquality/build.sh
+
+( 
+  cd fission 
+
+  fission package create --spec --sourcearchive ./functions/airquality.zip \
+  --env python-39 \
+  --name airquality \
+  --buildcmd './build.sh' 
+
+  fission function create --spec --name airquality \
+  --pkg airquality \
+  --env python-39 \
+  --entrypoint "airquality.main" \
+)
+
+
+(
+  cd fission
+  fission route create --spec --name airquality --function airquality --createingress\
+    --method POST \
+    --url '/collect-air-quality-data/siteid/{siteid:[0-9]+}/startmonth/{startmonth:[0-9]{4}-[0-1][0-9]}/endmonth/{endmonth:[0-9]{4}-[0-1][0-9]}'
+  fission route create --spec --name test-airquality --function airquality --createingress\
+    --method POST \
+    --url '/collect-air-quality-data/test/{test:[tf]}/siteid/{siteid:[0-9]+}/startmonth/{startmonth:[0-9]{4}-[0-1][0-9]}/endmonth/{endmonth:[0-9]{4}-[0-1][0-9]}'
+)
+
+
+# move the generated yaml files from specs to specs_airquality_collector (your spec repository)
+
+# deploy to cluster
+fission spec apply --specdir fission/specs_airquality_collector --wait
+
+# function testing
+curl -X POST -v http://127.0.0.1:9090/collect-air-quality-data/siteid/33/startmonth/2013-01/endmonth/2013-02
+curl -X POST -v http://127.0.0.1:9090/collect-air-quality-data/test/t/siteid/33/startmonth/2013-01/endmonth/2013-02
+
+
+
+# function loggings
+fission function log -f --name airquality
+
+# to delete everything
+fission httptrigger delete --name airquality
+fission httptrigger delete --name test-airquality
+fission function delete --name airquality
+fission package delete --name airquality
+

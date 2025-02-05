@@ -1,0 +1,47 @@
+"""
+COMP90024 Project Team 1
+Authors:
+- Henrik Hao (1255309)
+- Haoyi Li (1237964)
+- Zilin Su (1155122)
+- Angela Yifei Yuan (1269549)
+"""
+
+# create a spec repository
+(
+  cd fission
+  fission specs --specdir specs_toots_getter init
+)  
+
+chmod +x ./fission/functions/toots-getter/build.sh
+
+(
+  cd fission/functions/toots-getter
+  zip -r toots-getter.zip .
+  mv toots-getter.zip ../
+)
+
+( 
+  cd fission 
+
+  fission package create --spec --sourcearchive ./functions/toots-getter.zip \
+  --env python-39 \
+  --name toots-getter \
+  --buildcmd './build.sh' 
+
+  fission function create --spec --name toots-getter \
+  --pkg toots-getter \
+  --env python-39 \
+  --entrypoint "toots-getter.main" \
+)
+
+(
+  cd fission
+  fission route create --spec --name getalltoots --function toots-getter --createingress\
+    --method GET \
+    --url '/getalltoots'
+)
+
+fission spec apply --specdir fission/specs_toots_getter --wait
+
+curl "http://localhost:9090/getalltoots" | jq '.'

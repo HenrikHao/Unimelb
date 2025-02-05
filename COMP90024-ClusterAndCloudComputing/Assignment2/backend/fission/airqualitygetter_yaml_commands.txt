@@ -1,0 +1,82 @@
+"""
+COMP90024 Project Team 1
+Authors:
+- Henrik Hao (1255309)
+- Haoyi Li (1237964)
+- Zilin Su (1155122)
+- Angela Yifei Yuan (1269549)
+"""
+
+# create a spec repository
+(
+  cd fission
+  fission specs --specdir specs_airquality_getter init
+)  
+
+chmod +x ./fission/functions/airquality-getter/build.sh
+
+(
+  cd fission/functions/airquality-getter
+  zip -r airquality-getter.zip .
+  mv airquality-getter.zip ../
+)
+
+( 
+  cd fission 
+
+  fission package create --spec --sourcearchive ./functions/airquality-getter.zip \
+  --env python-39 \
+  --name airquality-getter \
+  --buildcmd './build.sh' 
+
+  fission function create --spec --name airquality-getter \
+  --pkg airquality-getter \
+  --env python-39 \
+  --entrypoint "airquality-getter.main" \
+)
+
+(
+  cd fission
+  fission route create --spec --name getairqualitysiteyearmonth --function airquality-getter --createingress\
+    --method GET \
+    --url '/getairquality/siteid/{siteid:[0-9]+}/year/{year:[0-9]{4}}/month/{month:[0-1][0-9]}'
+  fission route create --spec --name getaverageairqualitysitemonth --function airquality-getter --createingress\
+    --method GET \
+    --url '/getairquality/siteid/{siteid:[0-9]+}/month/{month:[0-1][0-9]}'
+  fission route create --spec --name getaverageairqualityyearmonth --function airquality-getter --createingress\
+    --method GET \
+    --url '/getairquality/year/{year:[0-9]{4}}/month/{month:[0-1][0-9]}'
+  fission route create --spec --name getaverageairqualityyear --function airquality-getter --createingress\
+    --method GET \
+    --url '/getairquality/year/{year:[0-9]{4}}'
+  fission route create --spec --name getaverageairqualitymonth --function airquality-getter --createingress\
+    --method GET \
+    --url '/getairquality/month/{month:[0-1][0-9]}'
+  fission route create --spec --name getairqualityallsitesyear --function airquality-getter --createingress\
+    --method GET \
+    --url '/getairquality/yearsites/{yearsites:[0-9]{4}}'
+
+  fission route create --spec --name test-getairqualitysiteyearmonth --function airquality-getter --createingress\
+    --method GET \
+    --url '/getairquality/test/{test:[tf]}/siteid/{siteid:[0-9]+}/year/{year:[0-9]{4}}/month/{month:[0-1][0-9]}'
+)
+
+fission spec apply --specdir fission/specs_airquality_getter --wait
+
+curl "http://localhost:9090/getairquality/yearsites/2019" | jq '.'
+curl "http://localhost:9090/getairquality/siteid/33/year/2019/month/01" | jq '.' 
+curl "http://localhost:9090/getairquality/siteid/33/month/01" | jq '.' 
+curl "http://localhost:9090/getairquality/year/2019/month/01" | jq '.' 
+curl "http://localhost:9090/getairquality/year/2019" | jq '.' 
+curl "http://localhost:9090/getairquality/month/01" | jq '.' 
+
+
+fission httptrigger delete --name getaverageairqualityyear
+fission httptrigger delete --name getairqualitysiteyearmonth
+fission httptrigger delete --name test-getairqualitysiteyearmonth
+fission httptrigger delete --name getaverageairqualitysitemonth
+fission httptrigger delete --name getaverageairqualityyearmonth
+fission httptrigger delete --name getaverageairqualitymonth
+fission httptrigger delete --name getairqualityallsitesyear
+fission function delete --name airquality-getter
+fission package delete --name airquality-getter

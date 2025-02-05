@@ -21,7 +21,7 @@ I have completed all the subjects required for both majors.
 ### Year 2 Semester 2 (2022 July)
 * SWEN30006 Software Modelling and Design (Java):
     * Project 1 - Tetris Madness (Refactoring Tetris Game): 9.5/12
-    * Project 2 - Game Of Thrones (Refactoring a Card Game): 17/20
+    * Project 2 - Game Of Thrones (Refactoring a Card Game): 17/20, Team of 3
 
 ### Year 3 Semester 1 (2023 March)
 * COMP30023 Computer Systems (C)
@@ -30,7 +30,7 @@ I have completed all the subjects required for both majors.
 
 * COMP30027 Machine Learning (Python)
     * Project 1 - Naive Bayes, marks: 17.5/20
-    * Project 2 - Book Rating Prediction Kaggle Competition, marks: 16/20, ranked 1st out of 373 teams
+    * Project 2 - Book Rating Prediction Kaggle Competition, marks: 16/20, ranked 1st out of 373 teams, Team of 2
 
 ### Year 3 Semester 2 (2023 July)
 * COMP30022 IT Project (Vue.js, SpringBoot)
@@ -44,4 +44,8 @@ I have completed all the subjects required for both majors.
 * COMP90054 AI Planning for Autonomy (Python, Reinforcement Learning, Planning)
     * Assignment 1 - Pacman Path Finding (A Star), marks: 9.5/10
     * Assignment 2 - PDDL, marks: 10/10
-    * Assignment 3 - Splendor Game Agent (MCTS, MiniMax, Deep Q Learning), marks: 35/35 
+    * Assignment 3 - Splendor Game Agent (MCTS, MiniMax, Deep Q Learning), marks: 35/35, Team of 3
+
+* COMP90024 Cluster and Cloud Computing (Cloud Project)
+    * Assignment 1 - Twitter Data Analysis (HPC, MPI4PY), marks: 9.5/10, Team of 2
+    * Assignment 2 - Bushfire Impact Studies (K8S, Elastic Search, Docker, Fission, Message Queue), marks: 30/40, Team of 5

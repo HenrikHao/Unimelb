@@ -1,0 +1,64 @@
+"""
+COMP90024 Project Team 1
+Authors:
+- Henrik Hao (1255309)
+- Haoyi Li (1237964)
+- Zilin Su (1155122)
+- Angela Yifei Yuan (1269549)
+"""
+
+# create a spec repository
+(
+  cd fission
+  fission specs  init
+)  
+
+# zip the package
+(
+  cd fission/functions/bushfire
+  zip -r bushfire.zip .
+  mv bushfire.zip ../
+)
+
+
+# create httptriggers, functions and packages
+
+( 
+  cd fission 
+
+  fission package create --spec --sourcearchive ./functions/bushfire.zip \
+  --env python \
+  --name bushfire1 \
+  --buildcmd './build.sh' 
+
+  fission function create --spec --name bushfireget \
+  --pkg bushfire1 \
+  --env python \
+  --entrypoint "get_bushfire_from_es.main" \
+)
+
+(
+  cd fission
+  fission route create --spec --name bushfireget --function bushfireget --createingress\
+    --method GET \
+    --url '/bushfireget'
+)
+
+# move the generated yaml files from specs to specs_admissions (your spec repository)
+
+# deploy to cluster
+fission spec apply --specdir fission/specs --wait
+
+
+# function loggings
+fission function log -f --name bushfireget
+# try out the function
+curl "http://localhost:9090/bushfireget" | jq '.'
+# function test
+fission fn test --name bushfireget | jq '.'
+
+# to delete everything
+fission httptrigger delete --name bushfireget
+fission function delete --name bushfireget
+fission package delete --name bushfire1
+

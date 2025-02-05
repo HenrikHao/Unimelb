@@ -1,0 +1,2331 @@
+pha,sex,year,asr_per_100k,disease,population
+10245,females,2016,1452.0,Respiratory disease,133.0
+10226,females,2016,2193.4,Respiratory disease,210.0
+10249,females,2016,1613.5,Respiratory disease,128.0
+10032,females,2016,1739.1,Respiratory disease,311.0
+10188,females,2016,2058.7,Respiratory disease,166.0
+10250,females,2016,1680.3,Respiratory disease,234.0
+10014,females,2016,1632.4,Respiratory disease,353.0
+10055,females,2016,1746.4,Respiratory disease,437.0
+50051,females,2016,1729.3,Respiratory disease,243.0
+10230,females,2016,1617.1,Respiratory disease,201.0
+70006,females,2016,2796.8,Respiratory disease,149.0
+10256,females,2016,1765.7,Respiratory disease,227.0
+10258,females,2016,1521.9,Respiratory disease,50.0
+10063,females,2016,1679.8,Respiratory disease,329.0
+10137,females,2016,2258.7,Respiratory disease,200.0
+10071,females,2016,1535.9,Respiratory disease,193.0
+10196,females,2016,2703.7,Respiratory disease,300.0
+10090,females,2016,1646.6,Respiratory disease,232.0
+10041,females,2016,1714.9,Respiratory disease,315.0
+10211,females,2016,1393.2,Respiratory disease,245.0
+20028,females,2016,1242.3,Respiratory disease,279.0
+10271,females,2016,1394.7,Respiratory disease,46.0
+10080,females,2016,1878.4,Respiratory disease,272.0
+10118,females,2016,1721.4,Respiratory disease,273.0
+10292,females,2016,1499.0,Respiratory disease,189.0
+10069,females,2016,1698.1,Respiratory disease,254.0
+10049,females,2016,2080.0,Respiratory disease,336.0
+20026,females,2016,1257.6,Respiratory disease,53.0
+30213,females,2016,2362.6,Respiratory disease,330.0
+10284,females,2016,1889.3,Respiratory disease,202.0
+10042,females,2016,1323.1,Respiratory disease,194.0
+20005,females,2016,1159.3,Respiratory disease,83.0
+10173,females,2016,2258.7,Respiratory disease,426.0
+10168,females,2016,1835.8,Respiratory disease,172.0
+10103,females,2016,2219.1,Respiratory disease,252.0
+10050,females,2016,1844.5,Respiratory disease,326.0
+10007,females,2016,1870.1,Respiratory disease,432.0
+10091,females,2016,1561.9,Respiratory disease,323.0
+10270,females,2016,1493.6,Respiratory disease,157.0
+10220,females,2016,1833.5,Respiratory disease,306.0
+10318,females,2016,1307.0,Respiratory disease,81.0
+10064,females,2016,1987.5,Respiratory disease,392.0
+10022,females,2016,2072.2,Respiratory disease,401.0
+10142,females,2016,2223.5,Respiratory disease,402.0
+10106,females,2016,1984.6,Respiratory disease,191.0
+10182,females,2016,2226.4,Respiratory disease,87.0
+10107,females,2016,1630.8,Respiratory disease,360.0
+10108,females,2016,,Respiratory disease,
+10278,females,2016,1808.7,Respiratory disease,94.0
+10164,females,2016,,Respiratory disease,
+10119,females,2016,1415.7,Respiratory disease,97.0
+10162,females,2016,2001.5,Respiratory disease,240.0
+10105,females,2016,1465.3,Respiratory disease,163.0
+10193,females,2016,4224.4,Respiratory disease,217.0
+10021,females,2016,1909.5,Respiratory disease,432.0
+10279,females,2016,1667.0,Respiratory disease,249.0
+10326,females,2016,1842.3,Respiratory disease,214.0
+10031,females,2016,1560.3,Respiratory disease,83.0
+10098,females,2016,2718.5,Respiratory disease,246.0
+10161,females,2016,,Respiratory disease,
+10201,females,2016,1864.3,Respiratory disease,128.0
+10195,females,2016,2575.1,Respiratory disease,306.0
+10096,females,2016,2110.5,Respiratory disease,376.0
+40061,females,2016,1245.1,Respiratory disease,90.0
+10043,females,2016,1499.1,Respiratory disease,335.0
+10028,females,2016,2962.5,Respiratory disease,376.0
+20054,females,2016,1445.5,Respiratory disease,153.0
+10099,females,2016,2674.6,Respiratory disease,516.0
+10294,females,2016,2046.4,Respiratory disease,180.0
+10236,females,2016,2485.9,Respiratory disease,148.0
+10072,females,2016,1191.1,Respiratory disease,147.0
+10295,females,2016,2422.6,Respiratory disease,120.0
+10143,females,2016,1245.0,Respiratory disease,156.0
+10001,females,2016,2186.0,Respiratory disease,207.0
+10102,females,2016,2406.1,Respiratory disease,282.0
+10011,females,2016,2194.8,Respiratory disease,301.0
+40003,females,2016,1746.4,Respiratory disease,200.0
+10194,females,2016,3542.7,Respiratory disease,270.0
+10121,females,2016,1439.7,Respiratory disease,212.0
+40045,females,2016,2058.7,Respiratory disease,161.0
+10319,females,2016,1420.8,Respiratory disease,75.0
+10109,females,2016,2187.6,Respiratory disease,385.0
+10068,females,2016,1510.8,Respiratory disease,341.0
+10067,females,2016,1044.4,Respiratory disease,240.0
+10144,females,2016,1218.3,Respiratory disease,236.0
+10073,females,2016,1614.0,Respiratory disease,241.0
+10166,females,2016,1862.9,Respiratory disease,84.0
+10150,females,2016,1496.3,Respiratory disease,229.0
+20023,females,2016,1523.5,Respiratory disease,158.0
+10298,females,2016,2257.6,Respiratory disease,173.0
+10299,females,2016,2728.8,Respiratory disease,210.0
+10016,females,2016,1590.5,Respiratory disease,336.0
+10017,females,2016,1602.0,Respiratory disease,200.0
+10015,females,2016,1495.0,Respiratory disease,279.0
+10147,females,2016,2052.1,Respiratory disease,444.0
+10274,females,2016,1818.7,Respiratory disease,97.0
+10175,females,2016,2597.0,Respiratory disease,255.0
+10313,females,2016,3301.8,Respiratory disease,459.0
+10202,females,2016,1919.1,Respiratory disease,236.0
+10272,females,2016,1812.9,Respiratory disease,289.0
+10077,females,2016,1455.3,Respiratory disease,365.0
+10123,females,2016,2232.5,Respiratory disease,213.0
+10010,females,2016,2031.0,Respiratory disease,228.0
+10100,females,2016,2781.3,Respiratory disease,249.0
+10044,females,2016,1388.7,Respiratory disease,178.0
+20155,females,2016,,Respiratory disease,
+20251,females,2016,2862.6,Respiratory disease,323.0
+10139,females,2016,999.2,Respiratory disease,82.0
+10189,females,2016,2304.0,Respiratory disease,407.0
+10045,females,2016,1676.3,Respiratory disease,215.0
+10254,females,2016,3445.4,Respiratory disease,160.0
+10165,females,2016,1703.0,Respiratory disease,69.0
+10231,females,2016,1687.9,Respiratory disease,149.0
+20025,females,2016,1485.0,Respiratory disease,203.0
+10176,females,2016,2072.8,Respiratory disease,121.0
+10177,females,2016,3260.7,Respiratory disease,287.0
+10086,females,2016,1439.4,Respiratory disease,290.0
+10093,females,2016,1636.0,Respiratory disease,321.0
+10221,females,2016,1825.4,Respiratory disease,249.0
+20044,females,2016,1430.1,Respiratory disease,226.0
+10151,females,2016,1662.0,Respiratory disease,272.0
+10199,females,2016,2134.3,Respiratory disease,56.0
+10152,females,2016,1465.7,Respiratory disease,460.0
+10092,females,2016,1944.1,Respiratory disease,392.0
+60013,females,2016,851.4,Respiratory disease,66.0
+60021,females,2016,2016.1,Respiratory disease,99.0
+10018,females,2016,1670.6,Respiratory disease,231.0
+10197,females,2016,2510.1,Respiratory disease,255.0
+10198,females,2016,2362.8,Respiratory disease,235.0
+40008,females,2016,1333.6,Respiratory disease,61.0
+10074,females,2016,1776.5,Respiratory disease,275.0
+10104,females,2016,2568.1,Respiratory disease,222.0
+40002,females,2016,2083.8,Respiratory disease,169.0
+40082,females,2016,,Respiratory disease,
+10259,females,2016,2249.2,Respiratory disease,212.0
+10237,females,2016,1435.6,Respiratory disease,227.0
+40022,females,2016,3415.8,Respiratory disease,430.0
+10083,females,2016,1694.5,Respiratory disease,347.0
+40053,females,2016,2117.0,Respiratory disease,279.0
+10133,females,2016,1726.1,Respiratory disease,381.0
+10222,females,2016,1821.3,Respiratory disease,76.0
+10128,females,2016,2018.2,Respiratory disease,528.0
+40037,females,2016,1943.6,Respiratory disease,418.0
+20038,females,2016,1850.4,Respiratory disease,101.0
+40097,females,2016,2526.6,Respiratory disease,155.0
+40041,females,2016,1541.4,Respiratory disease,208.0
+10157,females,2016,2263.3,Respiratory disease,148.0
+10204,females,2016,1972.5,Respiratory disease,93.0
+10170,females,2016,,Respiratory disease,
+10280,females,2016,1738.8,Respiratory disease,129.0
+10110,females,2016,2048.8,Respiratory disease,334.0
+10038,females,2016,1222.5,Respiratory disease,214.0
+10153,females,2016,1351.1,Respiratory disease,245.0
+80000,females,2016,1608.7,Respiratory disease,171.0
+10132,females,2016,1404.1,Respiratory disease,352.0
+10273,females,2016,1745.4,Respiratory disease,221.0
+10002,females,2016,1242.4,Respiratory disease,247.0
+30051,females,2016,1766.2,Respiratory disease,76.0
+10122,females,2016,1496.3,Respiratory disease,293.0
+10116,females,2016,2992.3,Respiratory disease,335.0
+10111,females,2016,2609.9,Respiratory disease,239.0
+10024,females,2016,1918.3,Respiratory disease,391.0
+10246,females,2016,1971.4,Respiratory disease,199.0
+10300,females,2016,2008.9,Respiratory disease,164.0
+10156,females,2016,2528.2,Respiratory disease,329.0
+10296,females,2016,2505.5,Respiratory disease,77.0
+10124,females,2016,1481.0,Respiratory disease,119.0
+50098,females,2016,1792.5,Respiratory disease,69.0
+10141,females,2016,1928.1,Respiratory disease,310.0
+10145,females,2016,1576.0,Respiratory disease,392.0
+10232,females,2016,1772.1,Respiratory disease,205.0
+80024,females,2016,527.1,Respiratory disease,9.0
+10185,females,2016,2083.3,Respiratory disease,246.0
+10000,females,2016,1618.6,Respiratory disease,157.0
+10260,females,2016,,Respiratory disease,
+10003,females,2016,1929.7,Respiratory disease,349.0
+10065,females,2016,1734.7,Respiratory disease,124.0
+10125,females,2016,2232.2,Respiratory disease,433.0
+20264,females,2016,2805.9,Respiratory disease,298.0
+10138,females,2016,1775.8,Respiratory disease,327.0
+10051,females,2016,2027.7,Respiratory disease,492.0
+10126,females,2016,2181.2,Respiratory disease,299.0
+10308,females,2016,2758.2,Respiratory disease,301.0
+20050,females,2016,1269.7,Respiratory disease,83.0
+10127,females,2016,2160.9,Respiratory disease,527.0
+10285,females,2016,1913.5,Respiratory disease,192.0
+10081,females,2016,1512.5,Respiratory disease,251.0
+10233,females,2016,1937.5,Respiratory disease,192.0
+10148,females,2016,2180.9,Respiratory disease,409.0
+10075,females,2016,1279.8,Respiratory disease,82.0
+20270,females,2016,2104.5,Respiratory disease,206.0
+10287,females,2016,2231.3,Respiratory disease,132.0
+10146,females,2016,2101.3,Respiratory disease,51.0
+10140,females,2016,2112.1,Respiratory disease,237.0
+10059,females,2016,1531.0,Respiratory disease,296.0
+10004,females,2016,2252.9,Respiratory disease,147.0
+20172,females,2016,2683.9,Respiratory disease,522.0
+10084,females,2016,1978.8,Respiratory disease,247.0
+10078,females,2016,1894.6,Respiratory disease,361.0
+60011,females,2016,2180.6,Respiratory disease,80.0
+40038,females,2016,2198.5,Respiratory disease,361.0
+60022,females,2016,830.3,Respiratory disease,69.0
+60015,females,2016,1148.6,Respiratory disease,139.0
+80023,females,2016,,Respiratory disease,
+20002,females,2016,1742.3,Respiratory disease,238.0
+10320,females,2016,1612.3,Respiratory disease,71.0
+10056,females,2016,1608.2,Respiratory disease,219.0
+10224,females,2016,,Respiratory disease,
+10066,females,2016,1606.3,Respiratory disease,415.0
+10101,females,2016,2312.2,Respiratory disease,611.0
+10302,females,2016,1924.8,Respiratory disease,138.0
+10180,females,2016,2987.5,Respiratory disease,289.0
+10179,females,2016,2977.8,Respiratory disease,127.0
+20138,females,2016,1734.1,Respiratory disease,180.0
+60016,females,2016,2437.1,Respiratory disease,83.0
+10149,females,2016,2086.4,Respiratory disease,345.0
+10238,females,2016,2268.0,Respiratory disease,198.0
+10239,females,2016,2282.7,Respiratory disease,279.0
+10046,females,2016,2026.8,Respiratory disease,274.0
+10112,females,2016,1980.0,Respiratory disease,341.0
+10227,females,2016,1026.8,Respiratory disease,134.0
+10057,females,2016,1873.9,Respiratory disease,422.0
+10288,females,2016,1790.9,Respiratory disease,270.0
+10303,females,2016,2119.0,Respiratory disease,314.0
+10286,females,2016,1790.8,Respiratory disease,163.0
+10023,females,2016,1983.7,Respiratory disease,476.0
+10268,females,2016,3331.7,Respiratory disease,91.0
+10190,females,2016,2740.8,Respiratory disease,170.0
+10205,females,2016,1993.6,Respiratory disease,185.0
+20001,females,2016,1456.3,Respiratory disease,242.0
+10242,females,2016,1315.6,Respiratory disease,150.0
+10212,females,2016,1407.7,Respiratory disease,56.0
+10297,females,2016,2267.6,Respiratory disease,91.0
+10120,females,2016,2003.7,Respiratory disease,311.0
+20130,females,2016,1862.7,Respiratory disease,245.0
+10301,females,2016,2175.8,Respiratory disease,185.0
+10131,females,2016,1559.2,Respiratory disease,193.0
+10310,females,2016,4063.9,Respiratory disease,377.0
+10070,females,2016,1588.0,Respiratory disease,210.0
+10241,females,2016,,Respiratory disease,
+10218,females,2016,2751.1,Respiratory disease,52.0
+10135,females,2016,1605.4,Respiratory disease,191.0
+10208,females,2016,2122.1,Respiratory disease,82.0
+10240,females,2016,1877.5,Respiratory disease,151.0
+70013,females,2016,4481.9,Respiratory disease,193.0
+10174,females,2016,2706.7,Respiratory disease,69.0
+10184,females,2016,2309.0,Respiratory disease,364.0
+10187,females,2016,2500.9,Respiratory disease,274.0
+10207,females,2016,1890.0,Respiratory disease,282.0
+10178,females,2016,2441.1,Respiratory disease,205.0
+10209,females,2016,1941.8,Respiratory disease,292.0
+10047,females,2016,1765.4,Respiratory disease,529.0
+20218,females,2016,1508.1,Respiratory disease,119.0
+30190,females,2016,3094.2,Respiratory disease,484.0
+20263,females,2016,2726.4,Respiratory disease,306.0
+10089,females,2016,2008.6,Respiratory disease,444.0
+10033,females,2016,1681.1,Respiratory disease,222.0
+10154,females,2016,1492.4,Respiratory disease,223.0
+10289,females,2016,1554.9,Respiratory disease,190.0
+70005,females,2016,2042.9,Respiratory disease,182.0
+80017,females,2016,2077.1,Respiratory disease,110.0
+10163,females,2016,2063.7,Respiratory disease,262.0
+10265,females,2016,,Respiratory disease,
+10304,females,2016,2416.6,Respiratory disease,139.0
+80022,females,2016,1721.8,Respiratory disease,132.0
+40025,females,2016,2028.3,Respiratory disease,253.0
+10171,females,2016,1650.0,Respiratory disease,121.0
+10328,females,2016,1869.7,Respiratory disease,107.0
+10088,females,2016,1670.6,Respiratory disease,283.0
+10262,females,2016,1910.5,Respiratory disease,86.0
+10263,females,2016,3139.3,Respiratory disease,283.0
+10062,females,2016,1567.4,Respiratory disease,97.0
+20208,females,2016,1438.3,Respiratory disease,128.0
+10060,females,2016,1586.5,Respiratory disease,376.0
+20082,females,2016,2201.9,Respiratory disease,97.0
+20207,females,2016,2327.9,Respiratory disease,96.0
+10329,females,2016,2189.6,Respiratory disease,127.0
+10219,females,2016,2218.1,Respiratory disease,171.0
+10097,females,2016,2924.1,Respiratory disease,360.0
+10027,females,2016,2669.8,Respiratory disease,508.0
+10029,females,2016,2779.4,Respiratory disease,301.0
+60044,females,2016,865.5,Respiratory disease,30.0
+10136,females,2016,1535.4,Respiratory disease,363.0
+10087,females,2016,1476.1,Respiratory disease,207.0
+10130,females,2016,1626.7,Respiratory disease,333.0
+10169,females,2016,2258.9,Respiratory disease,286.0
+10217,females,2016,2389.8,Respiratory disease,140.0
+10305,females,2016,3069.4,Respiratory disease,144.0
+20069,females,2016,1940.2,Respiratory disease,67.0
+10082,females,2016,1620.0,Respiratory disease,160.0
+10321,females,2016,1832.9,Respiratory disease,168.0
+10129,females,2016,1799.9,Respiratory disease,188.0
+20181,females,2016,2074.6,Respiratory disease,216.0
+20248,females,2016,1699.0,Respiratory disease,88.0
+10322,females,2016,2060.6,Respiratory disease,222.0
+10247,females,2016,1770.9,Respiratory disease,116.0
+20141,females,2016,1983.7,Respiratory disease,389.0
+60010,females,2016,1931.8,Respiratory disease,87.0
+10183,females,2016,2195.8,Respiratory disease,258.0
+20068,females,2016,946.5,Respiratory disease,34.0
+10155,females,2016,1217.2,Respiratory disease,281.0
+10052,females,2016,1561.4,Respiratory disease,147.0
+60004,females,2016,2862.5,Respiratory disease,72.0
+10053,females,2016,1586.9,Respiratory disease,214.0
+10243,females,2016,1778.6,Respiratory disease,318.0
+10269,females,2016,2463.2,Respiratory disease,247.0
+10244,females,2016,1195.5,Respiratory disease,151.0
+10113,females,2016,1971.2,Respiratory disease,133.0
+10034,females,2016,2166.8,Respiratory disease,191.0
+10223,females,2016,2026.3,Respiratory disease,175.0
+10030,females,2016,2721.9,Respiratory disease,283.0
+10025,females,2016,2150.8,Respiratory disease,249.0
+10048,females,2016,1688.2,Respiratory disease,259.0
+10114,females,2016,2621.2,Respiratory disease,410.0
+10213,females,2016,1564.5,Respiratory disease,116.0
+10311,females,2016,3305.0,Respiratory disease,148.0
+10039,females,2016,1282.8,Respiratory disease,287.0
+10054,females,2016,1493.7,Respiratory disease,134.0
+20045,females,2016,1802.0,Respiratory disease,399.0
+10026,females,2016,1802.4,Respiratory disease,141.0
+10058,females,2016,1652.9,Respiratory disease,118.0
+80004,females,2016,2254.1,Respiratory disease,139.0
+10214,females,2016,2357.8,Respiratory disease,57.0
+10020,females,2016,2131.2,Respiratory disease,311.0
+50063,females,2016,1595.6,Respiratory disease,244.0
+10134,females,2016,1522.6,Respiratory disease,220.0
+20126,females,2016,2079.7,Respiratory disease,337.0
+10191,females,2016,2394.1,Respiratory disease,270.0
+10325,females,2016,1951.8,Respiratory disease,55.0
+20228,females,2016,1529.0,Respiratory disease,100.0
+20051,females,2016,1315.3,Respiratory disease,152.0
+20094,females,2016,1558.2,Respiratory disease,329.0
+80016,females,2016,1818.4,Respiratory disease,124.0
+10228,females,2016,2213.6,Respiratory disease,177.0
+10317,females,2016,3409.2,Respiratory disease,256.0
+10206,females,2016,2026.5,Respiratory disease,159.0
+80011,females,2016,1915.9,Respiratory disease,301.0
+10061,females,2016,1429.0,Respiratory disease,279.0
+20041,females,2016,1689.7,Respiratory disease,106.0
+10266,females,2016,2817.7,Respiratory disease,317.0
+60020,females,2016,1696.4,Respiratory disease,151.0
+10323,females,2016,1223.6,Respiratory disease,151.0
+40050,females,2016,2432.2,Respiratory disease,321.0
+10167,females,2016,2031.0,Respiratory disease,265.0
+10200,females,2016,2982.4,Respiratory disease,148.0
+20222,females,2016,2344.9,Respiratory disease,240.0
+10159,females,2016,2324.7,Respiratory disease,128.0
+10160,females,2016,2943.6,Respiratory disease,311.0
+10085,females,2016,1730.4,Respiratory disease,607.0
+10117,females,2016,2341.5,Respiratory disease,325.0
+10040,females,2016,587.5,Respiratory disease,60.0
+10036,females,2016,1410.7,Respiratory disease,263.0
+10267,females,2016,1990.9,Respiratory disease,189.0
+10290,females,2016,1365.5,Respiratory disease,64.0
+10076,females,2016,1202.3,Respiratory disease,170.0
+10275,females,2016,1478.0,Respiratory disease,109.0
+10035,females,2016,1973.9,Respiratory disease,70.0
+10037,females,2016,1748.2,Respiratory disease,276.0
+80008,females,2016,1732.5,Respiratory disease,166.0
+10255,females,2016,1417.8,Respiratory disease,106.0
+10248,females,2016,1614.6,Respiratory disease,268.0
+50065,females,2016,1557.0,Respiratory disease,153.0
+80010,females,2016,1181.3,Respiratory disease,101.0
+80012,females,2016,1248.4,Respiratory disease,46.0
+10005,females,2016,1588.9,Respiratory disease,195.0
+10210,females,2016,2324.1,Respiratory disease,104.0
+10229,females,2016,2235.4,Respiratory disease,266.0
+10215,females,2016,1594.9,Respiratory disease,61.0
+20142,females,2016,1634.4,Respiratory disease,305.0
+10277,females,2016,1759.0,Respiratory disease,140.0
+20189,females,2016,1677.4,Respiratory disease,93.0
+10281,females,2016,1604.9,Respiratory disease,188.0
+10315,females,2016,3371.8,Respiratory disease,389.0
+10312,females,2016,3395.3,Respiratory disease,127.0
+10314,females,2016,3032.5,Respiratory disease,336.0
+10115,females,2016,2524.2,Respiratory disease,73.0
+10306,females,2016,2188.5,Respiratory disease,288.0
+10307,females,2016,2406.1,Respiratory disease,464.0
+20232,females,2016,1911.9,Respiratory disease,150.0
+10324,females,2016,1614.8,Respiratory disease,167.0
+10006,females,2016,1660.1,Respiratory disease,404.0
+10276,females,2016,1784.6,Respiratory disease,118.0
+20227,females,2016,2506.7,Respiratory disease,170.0
+20271,females,2016,2487.0,Respiratory disease,137.0
+10316,females,2016,3398.4,Respiratory disease,238.0
+10291,females,2016,1784.9,Respiratory disease,214.0
+80013,females,2016,1960.6,Respiratory disease,211.0
+10282,females,2016,1922.6,Respiratory disease,94.0
+10158,females,2016,1818.4,Respiratory disease,70.0
+20123,females,2016,2725.3,Respiratory disease,351.0
+10079,females,2016,1389.0,Respiratory disease,194.0
+10012,females,2016,2484.7,Respiratory disease,289.0
+10234,females,2016,1686.5,Respiratory disease,271.0
+10009,females,2016,2364.0,Respiratory disease,292.0
+10095,females,2016,1654.8,Respiratory disease,276.0
+10013,females,2016,2109.8,Respiratory disease,99.0
+10094,females,2016,1935.6,Respiratory disease,523.0
+20043,females,2016,1562.2,Respiratory disease,445.0
+20076,females,2016,1498.9,Respiratory disease,318.0
+20195,females,2016,1728.2,Respiratory disease,142.0
+20020,females,2016,1482.9,Respiratory disease,202.0
+60046,females,2016,1815.4,Respiratory disease,23.0
+60005,females,2016,2846.7,Respiratory disease,40.0
+20259,females,2016,2530.1,Respiratory disease,264.0
+20137,females,2016,2148.5,Respiratory disease,455.0
+20192,females,2016,2137.2,Respiratory disease,148.0
+10008,females,2016,2461.2,Respiratory disease,381.0
+20078,females,2016,2267.7,Respiratory disease,88.0
+20022,females,2016,1233.3,Respiratory disease,95.0
+20027,females,2016,1140.4,Respiratory disease,240.0
+10216,females,2016,1818.7,Respiratory disease,119.0
+20152,females,2016,1250.5,Respiratory disease,124.0
+10192,females,2016,2440.6,Respiratory disease,171.0
+10235,females,2016,1676.3,Respiratory disease,187.0
+20153,females,2016,1698.5,Respiratory disease,150.0
+20184,females,2016,1520.9,Respiratory disease,162.0
+20003,females,2016,1200.6,Respiratory disease,206.0
+20238,females,2016,1402.8,Respiratory disease,166.0
+20247,females,2016,1433.4,Respiratory disease,135.0
+20151,females,2016,1373.3,Respiratory disease,103.0
+20250,females,2016,,Respiratory disease,
+20160,females,2016,1874.8,Respiratory disease,196.0
+20187,females,2016,2094.1,Respiratory disease,356.0
+20145,females,2016,,Respiratory disease,
+20100,females,2016,2039.2,Respiratory disease,350.0
+20185,females,2016,1413.2,Respiratory disease,100.0
+20186,females,2016,1168.7,Respiratory disease,153.0
+20032,females,2016,1053.4,Respiratory disease,208.0
+20039,females,2016,1688.2,Respiratory disease,307.0
+20239,females,2016,1144.3,Respiratory disease,181.0
+20269,females,2016,2489.6,Respiratory disease,274.0
+40065,females,2016,1665.1,Respiratory disease,101.0
+20262,females,2016,3018.9,Respiratory disease,317.0
+20240,females,2016,1212.7,Respiratory disease,203.0
+20114,females,2016,1415.5,Respiratory disease,197.0
+20231,females,2016,1593.4,Respiratory disease,65.0
+20209,females,2016,1352.7,Respiratory disease,208.0
+20088,females,2016,2933.6,Respiratory disease,252.0
+20197,females,2016,1741.1,Respiratory disease,333.0
+20118,females,2016,1536.1,Respiratory disease,270.0
+50013,females,2016,1492.1,Respiratory disease,120.0
+20119,females,2016,2096.2,Respiratory disease,231.0
+20035,females,2016,1526.8,Respiratory disease,295.0
+20036,females,2016,1655.7,Respiratory disease,332.0
+20156,females,2016,1932.1,Respiratory disease,166.0
+20040,females,2016,1577.6,Respiratory disease,378.0
+20008,females,2016,864.4,Respiratory disease,69.0
+20206,females,2016,2359.6,Respiratory disease,50.0
+20087,females,2016,2991.7,Respiratory disease,198.0
+20000,females,2016,1572.2,Respiratory disease,193.0
+20115,females,2016,1684.3,Respiratory disease,72.0
+20037,females,2016,1764.6,Respiratory disease,232.0
+20143,females,2016,1033.5,Respiratory disease,43.0
+20253,females,2016,,Respiratory disease,
+20047,females,2016,2011.1,Respiratory disease,82.0
+20201,females,2016,2210.6,Respiratory disease,72.0
+20196,females,2016,2010.7,Respiratory disease,132.0
+20124,females,2016,1805.7,Respiratory disease,372.0
+20202,females,2016,1694.3,Respiratory disease,187.0
+20108,females,2016,2152.2,Respiratory disease,434.0
+20272,females,2016,2245.0,Respiratory disease,169.0
+20273,females,2016,2495.7,Respiratory disease,204.0
+20024,females,2016,1530.0,Respiratory disease,128.0
+20139,females,2016,2042.8,Respiratory disease,503.0
+40006,females,2016,947.3,Respiratory disease,101.0
+40056,females,2016,1894.6,Respiratory disease,235.0
+40024,females,2016,1793.9,Respiratory disease,209.0
+70000,females,2016,2240.2,Respiratory disease,230.0
+20255,females,2016,1242.9,Respiratory disease,66.0
+40062,females,2016,1948.6,Respiratory disease,94.0
+20223,females,2016,1513.6,Respiratory disease,138.0
+40033,females,2016,1615.5,Respiratory disease,86.0
+40058,females,2016,1919.9,Respiratory disease,296.0
+40068,females,2016,2147.1,Respiratory disease,108.0
+40054,females,2016,1840.6,Respiratory disease,349.0
+40020,females,2016,2799.3,Respiratory disease,230.0
+40048,females,2016,2084.8,Respiratory disease,138.0
+40042,females,2016,1595.6,Respiratory disease,286.0
+40027,females,2016,1726.8,Respiratory disease,164.0
+10251,females,2016,2010.6,Respiratory disease,248.0
+20129,females,2016,2820.8,Respiratory disease,362.0
+40016,females,2016,1921.0,Respiratory disease,83.0
+70002,females,2016,3408.3,Respiratory disease,229.0
+40074,females,2016,2209.3,Respiratory disease,139.0
+40017,females,2016,2792.6,Respiratory disease,321.0
+50083,females,2016,1727.7,Respiratory disease,146.0
+40032,females,2016,1984.6,Respiratory disease,188.0
+40014,females,2016,1888.9,Respiratory disease,182.0
+60040,females,2016,947.0,Respiratory disease,25.0
+20092,females,2016,3579.7,Respiratory disease,243.0
+20159,females,2016,2461.0,Respiratory disease,295.0
+40069,females,2016,,Respiratory disease,
+40034,females,2016,2095.7,Respiratory disease,230.0
+40028,females,2016,2026.8,Respiratory disease,169.0
+40090,females,2016,1971.0,Respiratory disease,50.0
+40005,females,2016,2364.2,Respiratory disease,217.0
+40049,females,2016,2313.9,Respiratory disease,345.0
+20224,females,2016,1704.2,Respiratory disease,82.0
+40071,females,2016,1736.9,Respiratory disease,78.0
+40098,females,2016,2779.8,Respiratory disease,133.0
+40004,females,2016,2343.7,Respiratory disease,179.0
+50005,females,2016,1842.9,Respiratory disease,97.0
+50112,females,2016,5249.2,Respiratory disease,84.0
+40092,females,2016,2716.5,Respiratory disease,88.0
+40093,females,2016,2339.3,Respiratory disease,378.0
+40101,females,2016,2841.0,Respiratory disease,289.0
+40013,females,2016,2132.5,Respiratory disease,315.0
+40094,females,2016,2634.6,Respiratory disease,91.0
+40091,females,2016,2133.9,Respiratory disease,124.0
+40059,females,2016,1906.6,Respiratory disease,300.0
+40039,females,2016,1874.1,Respiratory disease,293.0
+40018,females,2016,2174.7,Respiratory disease,50.0
+40066,females,2016,1776.4,Respiratory disease,105.0
+40099,females,2016,1457.4,Respiratory disease,94.0
+20254,females,2016,3386.7,Respiratory disease,341.0
+20103,females,2016,2150.1,Respiratory disease,211.0
+40029,females,2016,1857.6,Respiratory disease,306.0
+50021,females,2016,1539.5,Respiratory disease,123.0
+50108,females,2016,,Respiratory disease,
+30022,females,2016,2765.8,Respiratory disease,128.0
+40100,females,2016,,Respiratory disease,
+10257,females,2016,,Respiratory disease,
+40095,females,2016,,Respiratory disease,
+40067,females,2016,1785.2,Respiratory disease,127.0
+40023,females,2016,2219.7,Respiratory disease,25.0
+40075,females,2016,2256.2,Respiratory disease,59.0
+40072,females,2016,2120.9,Respiratory disease,71.0
+50033,females,2016,1502.9,Respiratory disease,334.0
+50074,females,2016,1441.6,Respiratory disease,249.0
+50041,females,2016,1345.5,Respiratory disease,154.0
+40019,females,2016,2260.3,Respiratory disease,365.0
+40063,females,2016,1453.1,Respiratory disease,205.0
+40064,females,2016,1633.8,Respiratory disease,139.0
+40010,females,2016,1661.4,Respiratory disease,218.0
+40096,females,2016,2288.3,Respiratory disease,77.0
+40085,females,2016,,Respiratory disease,
+40080,females,2016,1892.9,Respiratory disease,163.0
+40073,females,2016,3109.6,Respiratory disease,261.0
+40102,females,2016,,Respiratory disease,
+10293,females,2016,1959.2,Respiratory disease,249.0
+40087,females,2016,2175.5,Respiratory disease,94.0
+50034,females,2016,1616.5,Respiratory disease,289.0
+50015,females,2016,1708.9,Respiratory disease,309.0
+20246,females,2016,1857.2,Respiratory disease,309.0
+50010,females,2016,1004.6,Respiratory disease,82.0
+10172,females,2016,2704.7,Respiratory disease,84.0
+40103,females,2016,1821.5,Respiratory disease,65.0
+50045,females,2016,2520.3,Respiratory disease,253.0
+50020,females,2016,1797.8,Respiratory disease,194.0
+40015,females,2016,1502.0,Respiratory disease,193.0
+40081,females,2016,2248.4,Respiratory disease,264.0
+40026,females,2016,1849.1,Respiratory disease,201.0
+50116,females,2016,1381.1,Respiratory disease,138.0
+50072,females,2016,1210.0,Respiratory disease,204.0
+70012,females,2016,5167.8,Respiratory disease,208.0
+40088,females,2016,1634.0,Respiratory disease,58.0
+40060,females,2016,,Respiratory disease,
+50046,females,2016,1404.7,Respiratory disease,104.0
+50076,females,2016,1691.2,Respiratory disease,383.0
+50055,females,2016,1639.9,Respiratory disease,433.0
+50043,females,2016,1703.0,Respiratory disease,219.0
+50064,females,2016,1429.5,Respiratory disease,99.0
+50067,females,2016,1607.2,Respiratory disease,192.0
+50050,females,2016,1888.4,Respiratory disease,373.0
+50073,females,2016,1486.3,Respiratory disease,304.0
+50084,females,2016,2052.8,Respiratory disease,287.0
+50081,females,2016,1325.2,Respiratory disease,205.0
+50007,females,2016,1306.7,Respiratory disease,197.0
+50026,females,2016,1622.0,Respiratory disease,75.0
+50123,females,2016,2167.5,Respiratory disease,139.0
+50128,females,2016,,Respiratory disease,
+20158,females,2016,1467.4,Respiratory disease,77.0
+50060,females,2016,1375.2,Respiratory disease,161.0
+50047,females,2016,1526.3,Respiratory disease,124.0
+50052,females,2016,1523.5,Respiratory disease,297.0
+50071,females,2016,2558.1,Respiratory disease,238.0
+50044,females,2016,2014.0,Respiratory disease,189.0
+50101,females,2016,,Respiratory disease,
+50089,females,2016,1427.9,Respiratory disease,75.0
+50038,females,2016,1751.2,Respiratory disease,266.0
+50053,females,2016,1270.7,Respiratory disease,263.0
+50091,females,2016,1432.6,Respiratory disease,97.0
+30182,females,2016,1965.4,Respiratory disease,182.0
+10181,females,2016,2190.3,Respiratory disease,266.0
+50082,females,2016,848.5,Respiratory disease,43.0
+50039,females,2016,1973.7,Respiratory disease,342.0
+50035,females,2016,1419.0,Respiratory disease,341.0
+50028,females,2016,1324.1,Respiratory disease,245.0
+50085,females,2016,1373.9,Respiratory disease,36.0
+50105,females,2016,1724.8,Respiratory disease,81.0
+30137,females,2016,2415.7,Respiratory disease,188.0
+50061,females,2016,1263.6,Respiratory disease,202.0
+30061,females,2016,1400.3,Respiratory disease,100.0
+50095,females,2016,,Respiratory disease,
+50040,females,2016,1825.6,Respiratory disease,241.0
+30128,females,2016,3028.6,Respiratory disease,296.0
+30138,females,2016,2746.9,Respiratory disease,192.0
+50058,females,2016,1516.1,Respiratory disease,229.0
+50069,females,2016,1863.3,Respiratory disease,154.0
+50075,females,2016,1864.8,Respiratory disease,56.0
+50104,females,2016,2145.5,Respiratory disease,77.0
+30126,females,2016,2508.6,Respiratory disease,360.0
+30212,females,2016,1863.1,Respiratory disease,177.0
+30123,females,2016,3358.8,Respiratory disease,292.0
+50017,females,2016,1426.7,Respiratory disease,108.0
+50006,females,2016,793.7,Respiratory disease,64.0
+50086,females,2016,1962.7,Respiratory disease,70.0
+60036,females,2016,3557.5,Respiratory disease,138.0
+50066,females,2016,1298.8,Respiratory disease,72.0
+30021,females,2016,2083.9,Respiratory disease,190.0
+50077,females,2016,2080.1,Respiratory disease,294.0
+50031,females,2016,1309.7,Respiratory disease,171.0
+50087,females,2016,2457.7,Respiratory disease,110.0
+50008,females,2016,1116.2,Respiratory disease,162.0
+20163,females,2016,2929.8,Respiratory disease,233.0
+50113,females,2016,,Respiratory disease,
+50114,females,2016,,Respiratory disease,
+50037,females,2016,1119.6,Respiratory disease,218.0
+30184,females,2016,4683.1,Respiratory disease,226.0
+50079,females,2016,1821.6,Respiratory disease,330.0
+50088,females,2016,1216.6,Respiratory disease,95.0
+50002,females,2016,1715.1,Respiratory disease,190.0
+50000,females,2016,1499.9,Respiratory disease,123.0
+30066,females,2016,2142.2,Respiratory disease,260.0
+50068,females,2016,1425.5,Respiratory disease,172.0
+50107,females,2016,1848.9,Respiratory disease,125.0
+20015,females,2016,1345.0,Respiratory disease,106.0
+50022,females,2016,1584.0,Respiratory disease,344.0
+50093,females,2016,1861.4,Respiratory disease,121.0
+30142,females,2016,3023.6,Respiratory disease,245.0
+30174,females,2016,2240.3,Respiratory disease,142.0
+50036,females,2016,1536.0,Respiratory disease,313.0
+50106,females,2016,2788.8,Respiratory disease,300.0
+50018,females,2016,1382.3,Respiratory disease,84.0
+50001,females,2016,2367.0,Respiratory disease,461.0
+40011,females,2016,1509.2,Respiratory disease,191.0
+50059,females,2016,1181.4,Respiratory disease,174.0
+50099,females,2016,2559.6,Respiratory disease,148.0
+40012,females,2016,1650.7,Respiratory disease,137.0
+50111,females,2016,2370.5,Respiratory disease,140.0
+50100,females,2016,,Respiratory disease,
+50019,females,2016,2190.0,Respiratory disease,146.0
+70011,females,2016,5897.3,Respiratory disease,325.0
+50030,females,2016,1445.5,Respiratory disease,166.0
+70010,females,2016,4212.5,Respiratory disease,300.0
+50090,females,2016,1510.9,Respiratory disease,103.0
+50023,females,2016,2200.7,Respiratory disease,44.0
+30175,females,2016,2252.0,Respiratory disease,182.0
+50120,females,2016,,Respiratory disease,
+50057,females,2016,1400.2,Respiratory disease,159.0
+20125,females,2016,2469.9,Respiratory disease,215.0
+20210,females,2016,2224.6,Respiratory disease,302.0
+10203,females,2016,2318.8,Respiratory disease,88.0
+10253,females,2016,2434.0,Respiratory disease,328.0
+20244,females,2016,1537.8,Respiratory disease,83.0
+20089,females,2016,2128.4,Respiratory disease,490.0
+20006,females,2016,1156.4,Respiratory disease,256.0
+20083,females,2016,2048.9,Respiratory disease,170.0
+20095,females,2016,1997.0,Respiratory disease,301.0
+20070,females,2016,1596.4,Respiratory disease,310.0
+40021,females,2016,2505.2,Respiratory disease,177.0
+20190,females,2016,1940.3,Respiratory disease,87.0
+20101,females,2016,1921.4,Respiratory disease,378.0
+20102,females,2016,1598.5,Respiratory disease,220.0
+20131,females,2016,2561.6,Respiratory disease,399.0
+20132,females,2016,2827.3,Respiratory disease,447.0
+20007,females,2016,,Respiratory disease,
+20011,females,2016,1601.2,Respiratory disease,78.0
+20033,females,2016,1138.3,Respiratory disease,192.0
+50011,females,2016,1075.3,Respiratory disease,133.0
+20191,females,2016,1679.1,Respiratory disease,89.0
+20144,females,2016,1530.9,Respiratory disease,189.0
+20009,females,2016,616.0,Respiratory disease,67.0
+20099,females,2016,1679.3,Respiratory disease,237.0
+20074,females,2016,1689.7,Respiratory disease,475.0
+20120,females,2016,2295.2,Respiratory disease,136.0
+20177,females,2016,1899.5,Respiratory disease,137.0
+20090,females,2016,2685.3,Respiratory disease,341.0
+20029,females,2016,1480.2,Respiratory disease,124.0
+20140,females,2016,2186.8,Respiratory disease,467.0
+30135,females,2016,3046.8,Respiratory disease,191.0
+20016,females,2016,1030.5,Respiratory disease,70.0
+20121,females,2016,1927.1,Respiratory disease,236.0
+50032,females,2016,1599.7,Respiratory disease,258.0
+20236,females,2016,936.0,Respiratory disease,86.0
+20010,females,2016,1359.3,Respiratory disease,84.0
+20046,females,2016,2082.1,Respiratory disease,129.0
+20064,females,2016,1631.6,Respiratory disease,187.0
+30187,females,2016,4140.5,Respiratory disease,188.0
+20073,females,2016,2613.6,Respiratory disease,149.0
+20178,females,2016,1907.4,Respiratory disease,267.0
+20057,females,2016,1898.1,Respiratory disease,149.0
+20157,females,2016,2138.6,Respiratory disease,271.0
+30132,females,2016,2196.9,Respiratory disease,161.0
+20104,females,2016,1859.0,Respiratory disease,124.0
+20173,females,2016,2204.1,Respiratory disease,269.0
+20175,females,2016,1515.8,Respiratory disease,170.0
+20161,females,2016,1461.0,Respiratory disease,199.0
+10186,females,2016,2057.0,Respiratory disease,158.0
+10309,females,2016,3505.8,Respiratory disease,216.0
+10264,females,2016,2401.7,Respiratory disease,182.0
+20241,females,2016,,Respiratory disease,
+20211,females,2016,1537.5,Respiratory disease,164.0
+50070,females,2016,1351.3,Respiratory disease,107.0
+50049,females,2016,1358.3,Respiratory disease,60.0
+50115,females,2016,,Respiratory disease,
+20055,females,2016,1371.6,Respiratory disease,277.0
+10019,females,2016,3046.6,Respiratory disease,345.0
+10327,females,2016,2299.3,Respiratory disease,157.0
+10261,females,2016,2220.2,Respiratory disease,222.0
+10252,females,2016,1984.8,Respiratory disease,131.0
+20274,females,2016,2324.1,Respiratory disease,197.0
+20048,females,2016,1533.8,Respiratory disease,72.0
+50003,females,2016,1803.4,Respiratory disease,57.0
+20080,females,2016,1271.9,Respiratory disease,129.0
+20084,females,2016,2020.3,Respiratory disease,359.0
+50024,females,2016,2279.5,Respiratory disease,241.0
+30125,females,2016,2058.3,Respiratory disease,114.0
+20193,females,2016,2457.9,Respiratory disease,50.0
+20091,females,2016,2071.4,Respiratory disease,147.0
+20212,females,2016,1530.5,Respiratory disease,207.0
+20122,females,2016,1904.7,Respiratory disease,106.0
+20042,females,2016,1620.1,Respiratory disease,156.0
+20127,females,2016,2315.0,Respiratory disease,265.0
+20135,females,2016,2434.6,Respiratory disease,402.0
+20166,females,2016,2142.7,Respiratory disease,336.0
+20179,females,2016,2095.9,Respiratory disease,247.0
+20030,females,2016,1267.0,Respiratory disease,237.0
+20213,females,2016,1740.5,Respiratory disease,300.0
+20162,females,2016,1878.6,Respiratory disease,319.0
+20165,females,2016,1741.7,Respiratory disease,314.0
+30183,females,2016,3234.9,Respiratory disease,436.0
+50029,females,2016,1404.2,Respiratory disease,97.0
+20071,females,2016,2145.8,Respiratory disease,519.0
+20176,females,2016,2451.9,Respiratory disease,419.0
+40031,females,2016,2612.2,Respiratory disease,466.0
+20056,females,2016,1587.5,Respiratory disease,311.0
+20133,females,2016,2177.7,Respiratory disease,127.0
+20109,females,2016,2301.0,Respiratory disease,175.0
+20085,females,2016,2063.6,Respiratory disease,271.0
+20203,females,2016,1679.9,Respiratory disease,45.0
+20059,females,2016,2159.2,Respiratory disease,91.0
+20065,females,2016,1408.5,Respiratory disease,101.0
+20058,females,2016,1395.3,Respiratory disease,84.0
+50078,females,2016,2126.9,Respiratory disease,134.0
+20221,females,2016,1498.0,Respiratory disease,75.0
+20198,females,2016,1463.5,Respiratory disease,175.0
+20077,females,2016,1268.6,Respiratory disease,61.0
+20146,females,2016,1495.8,Respiratory disease,101.0
+20021,females,2016,1380.4,Respiratory disease,263.0
+60034,females,2016,1014.0,Respiratory disease,14.0
+20031,females,2016,1285.6,Respiratory disease,221.0
+20134,females,2016,1893.4,Respiratory disease,240.0
+20110,females,2016,2695.8,Respiratory disease,151.0
+50004,females,2016,2413.0,Respiratory disease,225.0
+20105,females,2016,1734.2,Respiratory disease,374.0
+60033,females,2016,1755.7,Respiratory disease,33.0
+20066,females,2016,,Respiratory disease,
+20060,females,2016,1406.4,Respiratory disease,78.0
+20049,females,2016,1609.2,Respiratory disease,355.0
+20052,females,2016,1819.1,Respiratory disease,472.0
+60028,females,2016,1991.0,Respiratory disease,229.0
+60017,females,2016,1643.2,Respiratory disease,134.0
+50121,females,2016,,Respiratory disease,
+30052,females,2016,2178.6,Respiratory disease,208.0
+20216,females,2016,2421.0,Respiratory disease,215.0
+20096,females,2016,1467.6,Respiratory disease,110.0
+20215,females,2016,1816.4,Respiratory disease,126.0
+20116,females,2016,2200.8,Respiratory disease,86.0
+20194,females,2016,,Respiratory disease,
+40036,females,2016,2487.0,Respiratory disease,184.0
+50014,females,2016,1398.9,Respiratory disease,160.0
+20204,females,2016,1349.8,Respiratory disease,75.0
+50025,females,2016,1765.8,Respiratory disease,101.0
+50042,females,2016,1527.7,Respiratory disease,126.0
+50009,females,2016,1244.9,Respiratory disease,120.0
+30100,females,2016,2228.2,Respiratory disease,140.0
+30228,females,2016,3091.9,Respiratory disease,328.0
+20174,females,2016,3686.2,Respiratory disease,408.0
+20167,females,2016,,Respiratory disease,
+20199,females,2016,2106.5,Respiratory disease,45.0
+20053,females,2016,1682.3,Respiratory disease,379.0
+70007,females,2016,5968.0,Respiratory disease,695.0
+20214,females,2016,1838.8,Respiratory disease,156.0
+20111,females,2016,2198.7,Respiratory disease,296.0
+20219,females,2016,1240.6,Respiratory disease,155.0
+20128,females,2016,1508.6,Respiratory disease,106.0
+20097,females,2016,1403.2,Respiratory disease,266.0
+70004,females,2016,2172.5,Respiratory disease,180.0
+20164,females,2016,1984.6,Respiratory disease,430.0
+20061,females,2016,1722.2,Respiratory disease,284.0
+20256,females,2016,,Respiratory disease,
+20257,females,2016,2239.2,Respiratory disease,418.0
+20072,females,2016,2230.8,Respiratory disease,191.0
+20266,females,2016,2421.6,Respiratory disease,413.0
+30131,females,2016,2518.8,Respiratory disease,350.0
+30059,females,2016,1869.7,Respiratory disease,245.0
+20245,females,2016,1943.1,Respiratory disease,348.0
+20154,females,2016,1926.3,Respiratory disease,323.0
+30222,females,2016,1842.4,Respiratory disease,87.0
+20106,females,2016,2082.0,Respiratory disease,144.0
+20112,females,2016,2294.9,Respiratory disease,171.0
+30026,females,2016,1951.6,Respiratory disease,176.0
+20180,females,2016,2445.3,Respiratory disease,639.0
+20237,females,2016,1132.4,Respiratory disease,201.0
+20233,females,2016,,Respiratory disease,
+20217,females,2016,2570.3,Respiratory disease,238.0
+20013,females,2016,1350.6,Respiratory disease,109.0
+20265,females,2016,2473.3,Respiratory disease,163.0
+80002,females,2016,2314.4,Respiratory disease,124.0
+20220,females,2016,1654.4,Respiratory disease,263.0
+20117,females,2016,2142.3,Respiratory disease,507.0
+20014,females,2016,1143.1,Respiratory disease,46.0
+40076,females,2016,1819.1,Respiratory disease,129.0
+20242,females,2016,1270.1,Respiratory disease,83.0
+20168,females,2016,1678.0,Respiratory disease,356.0
+20249,females,2016,2197.9,Respiratory disease,183.0
+30161,females,2016,2081.6,Respiratory disease,162.0
+20067,females,2016,1529.1,Respiratory disease,166.0
+60007,females,2016,1623.8,Respiratory disease,30.0
+20225,females,2016,2056.4,Respiratory disease,76.0
+20267,females,2016,2388.2,Respiratory disease,364.0
+20230,females,2016,1736.5,Respiratory disease,209.0
+20258,females,2016,1782.4,Respiratory disease,54.0
+20182,females,2016,2584.5,Respiratory disease,278.0
+20017,females,2016,1592.4,Respiratory disease,132.0
+20063,females,2016,1841.1,Respiratory disease,254.0
+30181,females,2016,2849.1,Respiratory disease,153.0
+20148,females,2016,1535.1,Respiratory disease,237.0
+20260,females,2016,,Respiratory disease,
+20019,females,2016,1474.9,Respiratory disease,268.0
+30047,females,2016,715.2,Respiratory disease,40.0
+20200,females,2016,1746.3,Respiratory disease,69.0
+20079,females,2016,1516.9,Respiratory disease,75.0
+30152,females,2016,2773.3,Respiratory disease,156.0
+60002,females,2016,1369.5,Respiratory disease,234.0
+60006,females,2016,2244.6,Respiratory disease,64.0
+20093,females,2016,3604.1,Respiratory disease,344.0
+20075,females,2016,2611.7,Respiratory disease,295.0
+20034,females,2016,1353.3,Respiratory disease,261.0
+20004,females,2016,1488.9,Respiratory disease,145.0
+20081,females,2016,1748.3,Respiratory disease,79.0
+20183,females,2016,3323.8,Respiratory disease,528.0
+50117,females,2016,1164.1,Respiratory disease,66.0
+20229,females,2016,,Respiratory disease,
+20147,females,2016,1837.1,Respiratory disease,321.0
+20268,females,2016,2151.6,Respiratory disease,37.0
+20018,females,2016,2139.8,Respiratory disease,126.0
+20136,females,2016,2335.7,Respiratory disease,414.0
+20086,females,2016,1854.4,Respiratory disease,368.0
+20169,females,2016,1799.7,Respiratory disease,270.0
+50109,females,2016,,Respiratory disease,
+20150,females,2016,1778.2,Respiratory disease,143.0
+30105,females,2016,2807.0,Respiratory disease,370.0
+20098,females,2016,2121.6,Respiratory disease,391.0
+40077,females,2016,,Respiratory disease,
+30058,females,2016,1685.4,Respiratory disease,220.0
+40086,females,2016,,Respiratory disease,
+40079,females,2016,2163.7,Respiratory disease,52.0
+20275,females,2016,2799.0,Respiratory disease,542.0
+20188,females,2016,2898.6,Respiratory disease,257.0
+20170,females,2016,2911.6,Respiratory disease,458.0
+50080,females,2016,1430.8,Respiratory disease,103.0
+20171,females,2016,2991.4,Respiratory disease,306.0
+30057,females,2016,1838.9,Respiratory disease,243.0
+30107,females,2016,2132.8,Respiratory disease,246.0
+40083,females,2016,,Respiratory disease,
+60009,females,2016,1857.5,Respiratory disease,157.0
+20243,females,2016,1499.0,Respiratory disease,209.0
+40009,females,2016,1707.7,Respiratory disease,210.0
+60032,females,2016,1108.8,Respiratory disease,75.0
+60025,females,2016,1368.2,Respiratory disease,74.0
+20234,females,2016,2060.3,Respiratory disease,416.0
+30214,females,2016,2006.6,Respiratory disease,167.0
+30203,females,2016,1832.7,Respiratory disease,165.0
+20205,females,2016,1232.4,Respiratory disease,45.0
+40055,females,2016,1616.8,Respiratory disease,133.0
+30176,females,2016,2098.5,Respiratory disease,261.0
+20113,females,2016,2709.8,Respiratory disease,222.0
+50124,females,2016,1896.6,Respiratory disease,126.0
+20107,females,2016,2207.4,Respiratory disease,299.0
+30036,females,2016,1653.6,Respiratory disease,230.0
+30194,females,2016,2372.2,Respiratory disease,284.0
+40046,females,2016,3555.8,Respiratory disease,320.0
+20235,females,2016,1392.5,Respiratory disease,32.0
+30000,females,2016,2697.5,Respiratory disease,459.0
+30215,females,2016,1913.5,Respiratory disease,195.0
+60008,females,2016,1702.6,Respiratory disease,173.0
+40030,females,2016,2269.5,Respiratory disease,349.0
+40051,females,2016,2971.2,Respiratory disease,372.0
+30223,females,2016,2022.1,Respiratory disease,318.0
+30060,females,2016,1287.6,Respiratory disease,141.0
+30170,females,2016,2663.9,Respiratory disease,379.0
+30014,females,2016,2177.2,Respiratory disease,293.0
+60003,females,2016,1858.4,Respiratory disease,103.0
+60030,females,2016,1704.6,Respiratory disease,90.0
+30012,females,2016,2053.5,Respiratory disease,198.0
+30054,females,2016,1470.1,Respiratory disease,109.0
+30095,females,2016,2447.1,Respiratory disease,212.0
+30080,females,2016,3290.4,Respiratory disease,387.0
+30202,females,2016,2666.2,Respiratory disease,197.0
+30075,females,2016,2434.6,Respiratory disease,209.0
+30024,females,2016,1900.8,Respiratory disease,240.0
+30001,females,2016,2543.5,Respiratory disease,345.0
+30172,females,2016,1627.3,Respiratory disease,119.0
+30118,females,2016,2305.1,Respiratory disease,168.0
+30141,females,2016,3501.3,Respiratory disease,266.0
+70001,females,2016,2620.8,Respiratory disease,198.0
+30088,females,2016,4041.0,Respiratory disease,648.0
+30153,females,2016,2350.4,Respiratory disease,285.0
+30025,females,2016,1933.0,Respiratory disease,163.0
+30196,females,2016,2334.8,Respiratory disease,271.0
+30217,females,2016,2097.7,Respiratory disease,210.0
+30139,females,2016,2275.8,Respiratory disease,331.0
+40043,females,2016,1511.8,Respiratory disease,76.0
+30189,females,2016,2282.0,Respiratory disease,261.0
+30232,females,2016,2492.7,Respiratory disease,446.0
+30082,females,2016,3029.8,Respiratory disease,217.0
+30114,females,2016,2333.7,Respiratory disease,261.0
+30224,females,2016,1399.7,Respiratory disease,90.0
+30146,females,2016,1883.5,Respiratory disease,193.0
+30069,females,2016,3615.5,Respiratory disease,346.0
+30096,females,2016,2654.0,Respiratory disease,362.0
+30013,females,2016,1747.5,Respiratory disease,224.0
+30020,females,2016,2237.6,Respiratory disease,209.0
+30083,females,2016,3666.0,Respiratory disease,560.0
+30116,females,2016,2398.2,Respiratory disease,231.0
+30050,females,2016,1429.7,Respiratory disease,109.0
+40052,females,2016,2512.1,Respiratory disease,138.0
+30008,females,2016,2382.2,Respiratory disease,174.0
+50127,females,2016,2028.2,Respiratory disease,119.0
+30188,females,2016,2235.1,Respiratory disease,448.0
+30226,females,2016,3594.6,Respiratory disease,480.0
+80001,females,2016,2381.0,Respiratory disease,295.0
+60018,females,2016,1748.1,Respiratory disease,207.0
+30070,females,2016,3712.1,Respiratory disease,229.0
+30147,females,2016,2104.8,Respiratory disease,295.0
+30227,females,2016,2590.4,Respiratory disease,214.0
+30101,females,2016,3207.0,Respiratory disease,220.0
+30234,females,2016,2244.7,Respiratory disease,255.0
+30084,females,2016,2593.3,Respiratory disease,110.0
+30045,females,2016,1659.5,Respiratory disease,152.0
+30225,females,2016,2179.2,Respiratory disease,339.0
+30098,females,2016,3436.1,Respiratory disease,499.0
+30097,females,2016,2763.2,Respiratory disease,439.0
+30117,females,2016,1960.7,Respiratory disease,279.0
+30119,females,2016,1665.4,Respiratory disease,150.0
+30140,females,2016,2212.4,Respiratory disease,113.0
+30191,females,2016,2420.3,Respiratory disease,331.0
+30159,females,2016,2264.3,Respiratory disease,344.0
+30015,females,2016,2341.6,Respiratory disease,142.0
+30192,females,2016,2897.2,Respiratory disease,567.0
+30027,females,2016,2590.4,Respiratory disease,204.0
+70008,females,2016,9138.3,Respiratory disease,453.0
+50126,females,2016,1958.7,Respiratory disease,42.0
+30044,females,2016,1628.0,Respiratory disease,199.0
+30205,females,2016,2331.7,Respiratory disease,293.0
+30023,females,2016,1814.6,Respiratory disease,96.0
+70009,females,2016,10771.9,Respiratory disease,257.0
+30108,females,2016,1754.7,Respiratory disease,208.0
+30041,females,2016,1701.7,Respiratory disease,157.0
+30042,females,2016,1430.1,Respiratory disease,103.0
+30112,females,2016,3018.1,Respiratory disease,258.0
+30071,females,2016,3091.9,Respiratory disease,402.0
+30167,females,2016,2088.3,Respiratory disease,145.0
+30089,females,2016,2644.3,Respiratory disease,242.0
+50122,females,2016,1647.1,Respiratory disease,114.0
+30193,females,2016,2073.7,Respiratory disease,283.0
+30003,females,2016,2045.3,Respiratory disease,267.0
+30104,females,2016,2633.1,Respiratory disease,419.0
+30218,females,2016,2151.2,Respiratory disease,219.0
+30149,females,2016,2376.1,Respiratory disease,235.0
+30033,females,2016,1918.9,Respiratory disease,102.0
+50062,females,2016,1543.4,Respiratory disease,98.0
+50118,females,2016,1444.0,Respiratory disease,87.0
+50102,females,2016,,Respiratory disease,
+30157,females,2016,2040.4,Respiratory disease,150.0
+30150,females,2016,2680.9,Respiratory disease,333.0
+30091,females,2016,2273.9,Respiratory disease,176.0
+30067,females,2016,2987.4,Respiratory disease,291.0
+30162,females,2016,2467.5,Respiratory disease,298.0
+30111,females,2016,2707.7,Respiratory disease,317.0
+30206,females,2016,1863.0,Respiratory disease,153.0
+30063,females,2016,1942.0,Respiratory disease,218.0
+50110,females,2016,,Respiratory disease,
+50094,females,2016,1690.0,Respiratory disease,29.0
+50096,females,2016,,Respiratory disease,
+30102,females,2016,2866.5,Respiratory disease,359.0
+30030,females,2016,1817.6,Respiratory disease,130.0
+30219,females,2016,1928.6,Respiratory disease,181.0
+30207,females,2016,2120.2,Respiratory disease,305.0
+30178,females,2016,2198.0,Respiratory disease,286.0
+50119,females,2016,1720.8,Respiratory disease,60.0
+30122,females,2016,3063.7,Respiratory disease,350.0
+30120,females,2016,2095.5,Respiratory disease,204.0
+30055,females,2016,1944.2,Respiratory disease,98.0
+30177,females,2016,2458.9,Respiratory disease,269.0
+50103,females,2016,,Respiratory disease,
+30081,females,2016,2645.2,Respiratory disease,252.0
+30121,females,2016,2307.2,Respiratory disease,265.0
+30028,females,2016,2667.0,Respiratory disease,242.0
+30099,females,2016,2458.5,Respiratory disease,87.0
+30136,females,2016,2613.2,Respiratory disease,149.0
+30064,females,2016,2194.6,Respiratory disease,287.0
+30220,females,2016,2151.3,Respiratory disease,296.0
+30208,females,2016,1871.7,Respiratory disease,176.0
+60000,females,2016,2606.2,Respiratory disease,87.0
+50092,females,2016,2158.2,Respiratory disease,123.0
+30086,females,2016,2656.2,Respiratory disease,143.0
+30156,females,2016,1589.3,Respiratory disease,150.0
+80009,females,2016,2080.7,Respiratory disease,205.0
+30231,females,2016,2433.2,Respiratory disease,309.0
+30143,females,2016,2692.0,Respiratory disease,394.0
+30049,females,2016,2187.0,Respiratory disease,285.0
+30163,females,2016,2375.0,Respiratory disease,215.0
+50016,females,2016,1340.3,Respiratory disease,60.0
+80018,females,2016,2092.0,Respiratory disease,151.0
+30074,females,2016,2081.0,Respiratory disease,146.0
+30073,females,2016,3435.2,Respiratory disease,343.0
+30221,females,2016,1905.6,Respiratory disease,215.0
+30046,females,2016,1517.5,Respiratory disease,150.0
+30072,females,2016,3647.3,Respiratory disease,259.0
+30209,females,2016,1631.5,Respiratory disease,104.0
+30085,females,2016,2892.4,Respiratory disease,309.0
+30029,females,2016,1323.4,Respiratory disease,103.0
+30065,females,2016,3428.2,Respiratory disease,362.0
+40035,females,2016,2033.6,Respiratory disease,350.0
+60001,females,2016,2014.4,Respiratory disease,92.0
+60041,females,2016,2069.9,Respiratory disease,186.0
+30043,females,2016,1484.8,Respiratory disease,173.0
+30087,females,2016,2302.3,Respiratory disease,324.0
+30124,females,2016,2055.9,Respiratory disease,191.0
+30016,females,2016,2012.3,Respiratory disease,232.0
+60019,females,2016,1823.0,Respiratory disease,150.0
+30092,females,2016,4299.0,Respiratory disease,426.0
+30039,females,2016,1535.9,Respiratory disease,161.0
+30032,females,2016,1683.3,Respiratory disease,222.0
+40001,females,2016,1107.5,Respiratory disease,44.0
+60031,females,2016,1431.6,Respiratory disease,22.0
+60037,females,2016,1208.1,Respiratory disease,83.0
+30009,females,2016,2049.1,Respiratory disease,288.0
+30229,females,2016,2274.8,Respiratory disease,176.0
+60047,females,2016,1366.5,Respiratory disease,12.0
+30127,females,2016,3909.5,Respiratory disease,331.0
+30154,females,2016,2688.8,Respiratory disease,293.0
+60027,females,2016,1911.0,Respiratory disease,85.0
+30204,females,2016,2629.9,Respiratory disease,271.0
+30115,females,2016,2609.5,Respiratory disease,185.0
+80020,females,2016,1637.4,Respiratory disease,77.0
+30173,females,2016,1518.6,Respiratory disease,208.0
+30068,females,2016,2428.5,Respiratory disease,236.0
+30093,females,2016,4091.4,Respiratory disease,369.0
+30090,females,2016,2907.5,Respiratory disease,145.0
+30010,females,2016,2095.2,Respiratory disease,127.0
+30235,females,2016,2944.9,Respiratory disease,410.0
+30148,females,2016,1994.8,Respiratory disease,209.0
+30210,females,2016,1606.6,Respiratory disease,241.0
+30195,females,2016,1772.2,Respiratory disease,115.0
+60043,females,2016,2067.8,Respiratory disease,120.0
+60029,females,2016,1361.2,Respiratory disease,59.0
+30034,females,2016,2694.6,Respiratory disease,236.0
+30158,females,2016,2440.8,Respiratory disease,213.0
+50048,females,2016,948.8,Respiratory disease,76.0
+30103,females,2016,2004.7,Respiratory disease,227.0
+30056,females,2016,1423.6,Respiratory disease,82.0
+30031,females,2016,2253.9,Respiratory disease,371.0
+30185,females,2016,3594.1,Respiratory disease,276.0
+30166,females,2016,2516.3,Respiratory disease,182.0
+30216,females,2016,1946.5,Respiratory disease,192.0
+30198,females,2016,3172.7,Respiratory disease,371.0
+80021,females,2016,2434.8,Respiratory disease,174.0
+60048,females,2016,1199.7,Respiratory disease,41.0
+30168,females,2016,2041.6,Respiratory disease,261.0
+30160,females,2016,2394.4,Respiratory disease,267.0
+30077,females,2016,3476.3,Respiratory disease,293.0
+30053,females,2016,1542.5,Respiratory disease,102.0
+30211,females,2016,3684.9,Respiratory disease,597.0
+30200,females,2016,1448.7,Respiratory disease,131.0
+30179,females,2016,1630.2,Respiratory disease,119.0
+30199,females,2016,1955.8,Respiratory disease,170.0
+30197,females,2016,1979.9,Respiratory disease,224.0
+20252,females,2016,2044.1,Respiratory disease,197.0
+30113,females,2016,2615.7,Respiratory disease,366.0
+30018,females,2016,1757.7,Respiratory disease,337.0
+30165,females,2016,2338.3,Respiratory disease,205.0
+30094,females,2016,2132.1,Respiratory disease,224.0
+30180,females,2016,1679.8,Respiratory disease,100.0
+30155,females,2016,1709.4,Respiratory disease,202.0
+60035,females,2016,1200.5,Respiratory disease,32.0
+60050,females,2016,1750.0,Respiratory disease,35.0
+30037,females,2016,1872.3,Respiratory disease,170.0
+30151,females,2016,1902.0,Respiratory disease,151.0
+20012,females,2016,490.3,Respiratory disease,65.0
+30004,females,2016,1954.8,Respiratory disease,214.0
+30005,females,2016,2238.8,Respiratory disease,118.0
+30145,females,2016,2882.1,Respiratory disease,429.0
+30144,females,2016,1908.0,Respiratory disease,287.0
+30171,females,2016,2317.1,Respiratory disease,409.0
+40047,females,2016,2517.1,Respiratory disease,147.0
+30038,females,2016,3736.3,Respiratory disease,180.0
+30110,females,2016,1537.1,Respiratory disease,82.0
+30106,females,2016,2375.0,Respiratory disease,179.0
+10283,females,2016,1850.9,Respiratory disease,159.0
+30076,females,2016,2838.4,Respiratory disease,372.0
+30017,females,2016,2218.3,Respiratory disease,165.0
+30040,females,2016,1700.1,Respiratory disease,237.0
+30035,females,2016,1489.4,Respiratory disease,83.0
+30201,females,2016,2252.3,Respiratory disease,159.0
+30019,females,2016,2475.0,Respiratory disease,202.0
+30129,females,2016,2994.6,Respiratory disease,369.0
+30130,females,2016,2312.0,Respiratory disease,201.0
+30134,females,2016,2299.6,Respiratory disease,212.0
+20062,females,2016,2054.1,Respiratory disease,328.0
+20226,females,2016,,Respiratory disease,
+20261,females,2016,2754.9,Respiratory disease,264.0
+20149,females,2016,1782.3,Respiratory disease,104.0
+30186,females,2016,2635.9,Respiratory disease,115.0
+30079,females,2016,2505.2,Respiratory disease,191.0
+30230,females,2016,1884.0,Respiratory disease,273.0
+30062,females,2016,1109.0,Respiratory disease,79.0
+30048,females,2016,1644.6,Respiratory disease,222.0
+30109,females,2016,1952.6,Respiratory disease,214.0
+30006,females,2016,2375.3,Respiratory disease,177.0
+30233,females,2016,2235.6,Respiratory disease,384.0
+40089,females,2016,2109.4,Respiratory disease,484.0
+10225,females,2016,2126.1,Respiratory disease,152.0
+30002,females,2016,1849.4,Respiratory disease,105.0
+30011,females,2016,2319.0,Respiratory disease,190.0
+30078,females,2016,2418.3,Respiratory disease,156.0
+30133,females,2016,2552.1,Respiratory disease,167.0
+40078,females,2016,1887.0,Respiratory disease,91.0
+40007,females,2016,1183.5,Respiratory disease,191.0
+40040,females,2016,2245.0,Respiratory disease,415.0
+40084,females,2016,3220.8,Respiratory disease,266.0
+40070,females,2016,1737.7,Respiratory disease,96.0
+40057,females,2016,1638.0,Respiratory disease,150.0
+50097,females,2016,,Respiratory disease,
+50027,females,2016,1400.0,Respiratory disease,85.0
+50056,females,2016,1187.7,Respiratory disease,211.0
+30164,females,2016,3048.1,Respiratory disease,595.0
+30169,females,2016,2261.2,Respiratory disease,174.0
+30007,females,2016,2327.1,Respiratory disease,229.0
+40044,females,2016,1788.4,Respiratory disease,230.0
+40000,females,2016,997.9,Respiratory disease,60.0
+80015,females,2016,2503.3,Respiratory disease,322.0
+50054,females,2016,1487.3,Respiratory disease,109.0
+50012,females,2016,1075.4,Respiratory disease,200.0
+50125,females,2016,1816.9,Respiratory disease,159.0
+60024,females,2016,1293.1,Respiratory disease,29.0
+60042,females,2016,2941.5,Respiratory disease,82.0
+60026,females,2016,1137.3,Respiratory disease,53.0
+70003,females,2016,1653.9,Respiratory disease,165.0
+60014,females,2016,1039.9,Respiratory disease,115.0
+60038,females,2016,1410.3,Respiratory disease,142.0
+60045,females,2016,1968.0,Respiratory disease,65.0
+60012,females,2016,1691.4,Respiratory disease,169.0
+60023,females,2016,666.9,Respiratory disease,27.0
+60049,females,2016,1894.1,Respiratory disease,42.0
+60039,females,2016,2115.5,Respiratory disease,93.0
+80006,females,2016,2037.5,Respiratory disease,10.0
+80003,females,2016,1719.6,Respiratory disease,203.0
+80007,females,2016,1618.9,Respiratory disease,155.0
+80014,females,2016,1951.3,Respiratory disease,154.0
+80019,females,2016,1906.4,Respiratory disease,249.0
+80005,females,2016,,Respiratory disease,
+10245,females,2016,,Asthma,
+10226,females,2016,,Asthma,
+10249,females,2016,,Asthma,
+10032,females,2016,,Asthma,
+10188,females,2016,,Asthma,
+10250,females,2016,,Asthma,
+10014,females,2016,113.5,Asthma,26.0
+10055,females,2016,,Asthma,
+50051,females,2016,,Asthma,
+10230,females,2016,,Asthma,
+70006,females,2016,149.7,Asthma,10.0
+10256,females,2016,,Asthma,
+10258,females,2016,,Asthma,
+10063,females,2016,,Asthma,
+10137,females,2016,,Asthma,
+10071,females,2016,,Asthma,
+10196,females,2016,,Asthma,
+10090,females,2016,,Asthma,
+10041,females,2016,,Asthma,
+10211,females,2016,,Asthma,
+20028,females,2016,,Asthma,
+10271,females,2016,,Asthma,
+10080,females,2016,,Asthma,
+10118,females,2016,,Asthma,
+10292,females,2016,,Asthma,
+10069,females,2016,,Asthma,
+10049,females,2016,,Asthma,
+20026,females,2016,,Asthma,
+30213,females,2016,145.7,Asthma,19.0
+10284,females,2016,,Asthma,
+10042,females,2016,,Asthma,
+20005,females,2016,,Asthma,
+10173,females,2016,,Asthma,
+10168,females,2016,,Asthma,
+10103,females,2016,,Asthma,
+10050,females,2016,,Asthma,
+10007,females,2016,,Asthma,
+10091,females,2016,,Asthma,
+10270,females,2016,,Asthma,
+10220,females,2016,,Asthma,
+10318,females,2016,,Asthma,
+10064,females,2016,,Asthma,
+10022,females,2016,,Asthma,
+10142,females,2016,,Asthma,
+10106,females,2016,,Asthma,
+10182,females,2016,,Asthma,
+10107,females,2016,,Asthma,
+10108,females,2016,,Asthma,
+10278,females,2016,,Asthma,
+10164,females,2016,,Asthma,
+10119,females,2016,,Asthma,
+10162,females,2016,,Asthma,
+10105,females,2016,,Asthma,
+10193,females,2016,,Asthma,
+10021,females,2016,,Asthma,
+10279,females,2016,,Asthma,
+10326,females,2016,,Asthma,
+10031,females,2016,,Asthma,
+10098,females,2016,,Asthma,
+10161,females,2016,,Asthma,
+10201,females,2016,,Asthma,
+10195,females,2016,,Asthma,
+10096,females,2016,,Asthma,
+40061,females,2016,,Asthma,
+10043,females,2016,,Asthma,
+10028,females,2016,,Asthma,
+20054,females,2016,,Asthma,
+10099,females,2016,,Asthma,
+10294,females,2016,,Asthma,
+10236,females,2016,,Asthma,
+10072,females,2016,,Asthma,
+10295,females,2016,,Asthma,
+10143,females,2016,,Asthma,
+10001,females,2016,,Asthma,
+10102,females,2016,,Asthma,
+10011,females,2016,,Asthma,
+40003,females,2016,,Asthma,
+10194,females,2016,,Asthma,
+10121,females,2016,,Asthma,
+40045,females,2016,,Asthma,
+10319,females,2016,,Asthma,
+10109,females,2016,,Asthma,
+10068,females,2016,,Asthma,
+10067,females,2016,,Asthma,
+10144,females,2016,,Asthma,
+10073,females,2016,,Asthma,
+10166,females,2016,,Asthma,
+10150,females,2016,,Asthma,
+20023,females,2016,,Asthma,
+10298,females,2016,,Asthma,
+10299,females,2016,,Asthma,
+10016,females,2016,,Asthma,
+10017,females,2016,,Asthma,
+10015,females,2016,,Asthma,
+10147,females,2016,,Asthma,
+10274,females,2016,,Asthma,
+10175,females,2016,,Asthma,
+10313,females,2016,,Asthma,
+10202,females,2016,,Asthma,
+10272,females,2016,,Asthma,
+10077,females,2016,,Asthma,
+10123,females,2016,,Asthma,
+10010,females,2016,,Asthma,
+10100,females,2016,,Asthma,
+10044,females,2016,,Asthma,
+20155,females,2016,,Asthma,
+20251,females,2016,,Asthma,
+10139,females,2016,,Asthma,
+10189,females,2016,,Asthma,
+10045,females,2016,,Asthma,
+10254,females,2016,,Asthma,
+10165,females,2016,,Asthma,
+10231,females,2016,,Asthma,
+20025,females,2016,,Asthma,
+10176,females,2016,,Asthma,
+10177,females,2016,,Asthma,
+10086,females,2016,,Asthma,
+10093,females,2016,,Asthma,
+10221,females,2016,,Asthma,
+20044,females,2016,,Asthma,
+10151,females,2016,,Asthma,
+10199,females,2016,,Asthma,
+10152,females,2016,,Asthma,
+10092,females,2016,,Asthma,
+60013,females,2016,,Asthma,
+60021,females,2016,816.9,Asthma,40.0
+10018,females,2016,,Asthma,
+10197,females,2016,,Asthma,
+10198,females,2016,,Asthma,
+40008,females,2016,,Asthma,
+10074,females,2016,,Asthma,
+10104,females,2016,,Asthma,
+40002,females,2016,,Asthma,
+40082,females,2016,,Asthma,
+10259,females,2016,,Asthma,
+10237,females,2016,,Asthma,
+40022,females,2016,,Asthma,
+10083,females,2016,122.5,Asthma,25.0
+40053,females,2016,,Asthma,
+10133,females,2016,,Asthma,
+10222,females,2016,,Asthma,
+10128,females,2016,,Asthma,
+40037,females,2016,,Asthma,
+20038,females,2016,281.2,Asthma,15.0
+40097,females,2016,,Asthma,
+40041,females,2016,,Asthma,
+10157,females,2016,,Asthma,
+10204,females,2016,,Asthma,
+10170,females,2016,,Asthma,
+10280,females,2016,,Asthma,
+10110,females,2016,,Asthma,
+10038,females,2016,,Asthma,
+10153,females,2016,,Asthma,
+80000,females,2016,109.0,Asthma,11.0
+10132,females,2016,161.0,Asthma,40.0
+10273,females,2016,,Asthma,
+10002,females,2016,,Asthma,
+30051,females,2016,,Asthma,
+10122,females,2016,,Asthma,
+10116,females,2016,,Asthma,
+10111,females,2016,,Asthma,
+10024,females,2016,,Asthma,
+10246,females,2016,,Asthma,
+10300,females,2016,,Asthma,
+10156,females,2016,,Asthma,
+10296,females,2016,,Asthma,
+10124,females,2016,,Asthma,
+50098,females,2016,,Asthma,
+10141,females,2016,,Asthma,
+10145,females,2016,,Asthma,
+10232,females,2016,,Asthma,
+80024,females,2016,,Asthma,
+10185,females,2016,,Asthma,
+10000,females,2016,,Asthma,
+10260,females,2016,,Asthma,
+10003,females,2016,,Asthma,
+10065,females,2016,,Asthma,
+10125,females,2016,,Asthma,
+20264,females,2016,,Asthma,
+10138,females,2016,,Asthma,
+10051,females,2016,,Asthma,
+10126,females,2016,,Asthma,
+10308,females,2016,,Asthma,
+20050,females,2016,,Asthma,
+10127,females,2016,,Asthma,
+10285,females,2016,,Asthma,
+10081,females,2016,,Asthma,
+10233,females,2016,,Asthma,
+10148,females,2016,,Asthma,
+10075,females,2016,,Asthma,
+20270,females,2016,,Asthma,
+10287,females,2016,,Asthma,
+10146,females,2016,,Asthma,
+10140,females,2016,,Asthma,
+10059,females,2016,,Asthma,
+10004,females,2016,,Asthma,
+20172,females,2016,,Asthma,
+10084,females,2016,,Asthma,
+10078,females,2016,,Asthma,
+60011,females,2016,,Asthma,
+40038,females,2016,,Asthma,
+60022,females,2016,,Asthma,
+60015,females,2016,80.4,Asthma,9.0
+80023,females,2016,,Asthma,
+20002,females,2016,,Asthma,
+10320,females,2016,,Asthma,
+10056,females,2016,,Asthma,
+10224,females,2016,,Asthma,
+10066,females,2016,,Asthma,
+10101,females,2016,,Asthma,
+10302,females,2016,,Asthma,
+10180,females,2016,,Asthma,
+10179,females,2016,,Asthma,
+20138,females,2016,,Asthma,
+60016,females,2016,,Asthma,
+10149,females,2016,,Asthma,
+10238,females,2016,,Asthma,
+10239,females,2016,,Asthma,
+10046,females,2016,,Asthma,
+10112,females,2016,,Asthma,
+10227,females,2016,,Asthma,
+10057,females,2016,,Asthma,
+10288,females,2016,,Asthma,
+10303,females,2016,,Asthma,
+10286,females,2016,,Asthma,
+10023,females,2016,,Asthma,
+10268,females,2016,,Asthma,
+10190,females,2016,,Asthma,
+10205,females,2016,,Asthma,
+20001,females,2016,,Asthma,
+10242,females,2016,,Asthma,
+10212,females,2016,,Asthma,
+10297,females,2016,,Asthma,
+10120,females,2016,,Asthma,
+20130,females,2016,,Asthma,
+10301,females,2016,,Asthma,
+10131,females,2016,,Asthma,
+10310,females,2016,,Asthma,
+10070,females,2016,,Asthma,
+10241,females,2016,,Asthma,
+10218,females,2016,,Asthma,
+10135,females,2016,,Asthma,
+10208,females,2016,,Asthma,
+10240,females,2016,,Asthma,
+70013,females,2016,252.5,Asthma,13.0
+10174,females,2016,,Asthma,
+10184,females,2016,,Asthma,
+10187,females,2016,,Asthma,
+10207,females,2016,,Asthma,
+10178,females,2016,,Asthma,
+10209,females,2016,,Asthma,
+10047,females,2016,,Asthma,
+20218,females,2016,,Asthma,
+30190,females,2016,397.9,Asthma,52.0
+20263,females,2016,,Asthma,
+10089,females,2016,,Asthma,
+10033,females,2016,,Asthma,
+10154,females,2016,,Asthma,
+10289,females,2016,,Asthma,
+70005,females,2016,68.4,Asthma,8.0
+80017,females,2016,358.6,Asthma,20.0
+10163,females,2016,,Asthma,
+10265,females,2016,,Asthma,
+10304,females,2016,,Asthma,
+80022,females,2016,286.1,Asthma,20.0
+40025,females,2016,,Asthma,
+10171,females,2016,,Asthma,
+10328,females,2016,,Asthma,
+10088,females,2016,,Asthma,
+10262,females,2016,,Asthma,
+10263,females,2016,,Asthma,
+10062,females,2016,,Asthma,
+20208,females,2016,,Asthma,
+10060,females,2016,,Asthma,
+20082,females,2016,,Asthma,
+20207,females,2016,,Asthma,
+10329,females,2016,,Asthma,
+10219,females,2016,,Asthma,
+10097,females,2016,,Asthma,
+10027,females,2016,,Asthma,
+10029,females,2016,,Asthma,
+60044,females,2016,,Asthma,
+10136,females,2016,,Asthma,
+10087,females,2016,,Asthma,
+10130,females,2016,,Asthma,
+10169,females,2016,,Asthma,
+10217,females,2016,,Asthma,
+10305,females,2016,,Asthma,
+20069,females,2016,,Asthma,
+10082,females,2016,,Asthma,
+10321,females,2016,,Asthma,
+10129,females,2016,,Asthma,
+20181,females,2016,,Asthma,
+20248,females,2016,,Asthma,
+10322,females,2016,,Asthma,
+10247,females,2016,,Asthma,
+20141,females,2016,190.4,Asthma,34.0
+60010,females,2016,,Asthma,
+10183,females,2016,,Asthma,
+20068,females,2016,,Asthma,
+10155,females,2016,,Asthma,
+10052,females,2016,,Asthma,
+60004,females,2016,,Asthma,
+10053,females,2016,,Asthma,
+10243,females,2016,,Asthma,
+10269,females,2016,,Asthma,
+10244,females,2016,,Asthma,
+10113,females,2016,,Asthma,
+10034,females,2016,,Asthma,
+10223,females,2016,,Asthma,
+10030,females,2016,,Asthma,
+10025,females,2016,,Asthma,
+10048,females,2016,,Asthma,
+10114,females,2016,,Asthma,
+10213,females,2016,,Asthma,
+10311,females,2016,,Asthma,
+10039,females,2016,,Asthma,
+10054,females,2016,,Asthma,
+20045,females,2016,,Asthma,
+10026,females,2016,,Asthma,
+10058,females,2016,,Asthma,
+80004,females,2016,292.9,Asthma,22.0
+10214,females,2016,,Asthma,
+10020,females,2016,,Asthma,
+50063,females,2016,,Asthma,
+10134,females,2016,,Asthma,
+20126,females,2016,,Asthma,
+10191,females,2016,,Asthma,
+10325,females,2016,,Asthma,
+20228,females,2016,,Asthma,
+20051,females,2016,,Asthma,
+20094,females,2016,171.6,Asthma,35.0
+80016,females,2016,120.1,Asthma,8.0
+10228,females,2016,,Asthma,
+10317,females,2016,,Asthma,
+10206,females,2016,,Asthma,
+80011,females,2016,51.4,Asthma,8.0
+10061,females,2016,,Asthma,
+20041,females,2016,,Asthma,
+10266,females,2016,,Asthma,
+60020,females,2016,315.4,Asthma,24.0
+10323,females,2016,,Asthma,
+40050,females,2016,,Asthma,
+10167,females,2016,,Asthma,
+10200,females,2016,,Asthma,
+20222,females,2016,,Asthma,
+10159,females,2016,,Asthma,
+10160,females,2016,,Asthma,
+10085,females,2016,120.6,Asthma,38.0
+10117,females,2016,,Asthma,
+10040,females,2016,,Asthma,
+10036,females,2016,,Asthma,
+10267,females,2016,,Asthma,
+10290,females,2016,,Asthma,
+10076,females,2016,,Asthma,
+10275,females,2016,,Asthma,
+10035,females,2016,,Asthma,
+10037,females,2016,,Asthma,
+80008,females,2016,135.0,Asthma,17.0
+10255,females,2016,,Asthma,
+10248,females,2016,,Asthma,
+50065,females,2016,,Asthma,
+80010,females,2016,,Asthma,
+80012,females,2016,,Asthma,
+10005,females,2016,,Asthma,
+10210,females,2016,,Asthma,
+10229,females,2016,,Asthma,
+10215,females,2016,,Asthma,
+20142,females,2016,,Asthma,
+10277,females,2016,,Asthma,
+20189,females,2016,,Asthma,
+10281,females,2016,,Asthma,
+10315,females,2016,,Asthma,
+10312,females,2016,,Asthma,
+10314,females,2016,305.9,Asthma,34.0
+10115,females,2016,,Asthma,
+10306,females,2016,,Asthma,
+10307,females,2016,,Asthma,
+20232,females,2016,,Asthma,
+10324,females,2016,,Asthma,
+10006,females,2016,,Asthma,
+10276,females,2016,,Asthma,
+20227,females,2016,,Asthma,
+20271,females,2016,,Asthma,
+10316,females,2016,,Asthma,
+10291,females,2016,,Asthma,
+80013,females,2016,154.1,Asthma,16.0
+10282,females,2016,311.0,Asthma,14.0
+10158,females,2016,,Asthma,
+20123,females,2016,,Asthma,
+10079,females,2016,,Asthma,
+10012,females,2016,,Asthma,
+10234,females,2016,,Asthma,
+10009,females,2016,,Asthma,
+10095,females,2016,,Asthma,
+10013,females,2016,,Asthma,
+10094,females,2016,,Asthma,
+20043,females,2016,,Asthma,
+20076,females,2016,,Asthma,
+20195,females,2016,,Asthma,
+20020,females,2016,82.7,Asthma,10.0
+60046,females,2016,,Asthma,
+60005,females,2016,,Asthma,
+20259,females,2016,,Asthma,
+20137,females,2016,,Asthma,
+20192,females,2016,,Asthma,
+10008,females,2016,,Asthma,
+20078,females,2016,,Asthma,
+20022,females,2016,,Asthma,
+20027,females,2016,,Asthma,
+10216,females,2016,,Asthma,
+20152,females,2016,,Asthma,
+10192,females,2016,309.3,Asthma,20.0
+10235,females,2016,,Asthma,
+20153,females,2016,,Asthma,
+20184,females,2016,,Asthma,
+20003,females,2016,,Asthma,
+20238,females,2016,,Asthma,
+20247,females,2016,,Asthma,
+20151,females,2016,,Asthma,
+20250,females,2016,,Asthma,
+20160,females,2016,,Asthma,
+20187,females,2016,,Asthma,
+20145,females,2016,,Asthma,
+20100,females,2016,,Asthma,
+20185,females,2016,,Asthma,
+20186,females,2016,,Asthma,
+20032,females,2016,,Asthma,
+20039,females,2016,,Asthma,
+20239,females,2016,,Asthma,
+20269,females,2016,,Asthma,
+40065,females,2016,,Asthma,
+20262,females,2016,,Asthma,
+20240,females,2016,,Asthma,
+20114,females,2016,,Asthma,
+20231,females,2016,,Asthma,
+20209,females,2016,,Asthma,
+20088,females,2016,,Asthma,
+20197,females,2016,,Asthma,
+20118,females,2016,,Asthma,
+50013,females,2016,,Asthma,
+20119,females,2016,,Asthma,
+20035,females,2016,,Asthma,
+20036,females,2016,,Asthma,
+20156,females,2016,,Asthma,
+20040,females,2016,106.6,Asthma,23.0
+20008,females,2016,,Asthma,
+20206,females,2016,,Asthma,
+20087,females,2016,,Asthma,
+20000,females,2016,,Asthma,
+20115,females,2016,,Asthma,
+20037,females,2016,,Asthma,
+20143,females,2016,,Asthma,
+20253,females,2016,,Asthma,
+20047,females,2016,,Asthma,
+20201,females,2016,,Asthma,
+20196,females,2016,,Asthma,
+20124,females,2016,,Asthma,
+20202,females,2016,,Asthma,
+20108,females,2016,,Asthma,
+20272,females,2016,,Asthma,
+20273,females,2016,,Asthma,
+20024,females,2016,,Asthma,
+20139,females,2016,280.6,Asthma,61.0
+40006,females,2016,,Asthma,
+40056,females,2016,,Asthma,
+40024,females,2016,,Asthma,
+70000,females,2016,115.0,Asthma,14.0
+20255,females,2016,,Asthma,
+40062,females,2016,,Asthma,
+20223,females,2016,,Asthma,
+40033,females,2016,,Asthma,
+40058,females,2016,,Asthma,
+40068,females,2016,,Asthma,
+40054,females,2016,,Asthma,
+40020,females,2016,,Asthma,
+40048,females,2016,,Asthma,
+40042,females,2016,,Asthma,
+40027,females,2016,,Asthma,
+10251,females,2016,,Asthma,
+20129,females,2016,,Asthma,
+40016,females,2016,,Asthma,
+70002,females,2016,197.7,Asthma,16.0
+40074,females,2016,,Asthma,
+40017,females,2016,,Asthma,
+50083,females,2016,,Asthma,
+40032,females,2016,,Asthma,
+40014,females,2016,,Asthma,
+60040,females,2016,,Asthma,
+20092,females,2016,,Asthma,
+20159,females,2016,,Asthma,
+40069,females,2016,,Asthma,
+40034,females,2016,,Asthma,
+40028,females,2016,,Asthma,
+40090,females,2016,,Asthma,
+40005,females,2016,,Asthma,
+40049,females,2016,,Asthma,
+20224,females,2016,,Asthma,
+40071,females,2016,,Asthma,
+40098,females,2016,,Asthma,
+40004,females,2016,,Asthma,
+50005,females,2016,,Asthma,
+50112,females,2016,,Asthma,
+40092,females,2016,,Asthma,
+40093,females,2016,,Asthma,
+40101,females,2016,,Asthma,
+40013,females,2016,,Asthma,
+40094,females,2016,,Asthma,
+40091,females,2016,,Asthma,
+40059,females,2016,,Asthma,
+40039,females,2016,,Asthma,
+40018,females,2016,,Asthma,
+40066,females,2016,,Asthma,
+40099,females,2016,,Asthma,
+20254,females,2016,,Asthma,
+20103,females,2016,,Asthma,
+40029,females,2016,,Asthma,
+50021,females,2016,,Asthma,
+50108,females,2016,,Asthma,
+30022,females,2016,347.1,Asthma,16.0
+40100,females,2016,,Asthma,
+10257,females,2016,,Asthma,
+40095,females,2016,,Asthma,
+40067,females,2016,,Asthma,
+40023,females,2016,,Asthma,
+40075,females,2016,,Asthma,
+40072,females,2016,,Asthma,
+50033,females,2016,,Asthma,
+50074,females,2016,,Asthma,
+50041,females,2016,,Asthma,
+40019,females,2016,,Asthma,
+40063,females,2016,,Asthma,
+40064,females,2016,,Asthma,
+40010,females,2016,,Asthma,
+40096,females,2016,,Asthma,
+40085,females,2016,,Asthma,
+40080,females,2016,,Asthma,
+40073,females,2016,,Asthma,
+40102,females,2016,,Asthma,
+10293,females,2016,,Asthma,
+40087,females,2016,,Asthma,
+50034,females,2016,,Asthma,
+50015,females,2016,,Asthma,
+20246,females,2016,,Asthma,
+50010,females,2016,,Asthma,
+10172,females,2016,,Asthma,
+40103,females,2016,,Asthma,
+50045,females,2016,,Asthma,
+50020,females,2016,,Asthma,
+40015,females,2016,,Asthma,
+40081,females,2016,,Asthma,
+40026,females,2016,,Asthma,
+50116,females,2016,,Asthma,
+50072,females,2016,,Asthma,
+70012,females,2016,412.2,Asthma,22.0
+40088,females,2016,,Asthma,
+40060,females,2016,,Asthma,
+50046,females,2016,,Asthma,
+50076,females,2016,,Asthma,
+50055,females,2016,,Asthma,
+50043,females,2016,,Asthma,
+50064,females,2016,,Asthma,
+50067,females,2016,,Asthma,
+50050,females,2016,,Asthma,
+50073,females,2016,,Asthma,
+50084,females,2016,,Asthma,
+50081,females,2016,,Asthma,
+50007,females,2016,,Asthma,
+50026,females,2016,,Asthma,
+50123,females,2016,,Asthma,
+50128,females,2016,,Asthma,
+20158,females,2016,,Asthma,
+50060,females,2016,,Asthma,
+50047,females,2016,,Asthma,
+50052,females,2016,,Asthma,
+50071,females,2016,,Asthma,
+50044,females,2016,,Asthma,
+50101,females,2016,,Asthma,
+50089,females,2016,,Asthma,
+50038,females,2016,,Asthma,
+50053,females,2016,,Asthma,
+50091,females,2016,,Asthma,
+30182,females,2016,136.0,Asthma,14.0
+10181,females,2016,,Asthma,
+50082,females,2016,,Asthma,
+50039,females,2016,,Asthma,
+50035,females,2016,,Asthma,
+50028,females,2016,,Asthma,
+50085,females,2016,,Asthma,
+50105,females,2016,,Asthma,
+30137,females,2016,237.3,Asthma,21.0
+50061,females,2016,,Asthma,
+30061,females,2016,151.7,Asthma,12.0
+50095,females,2016,,Asthma,
+50040,females,2016,,Asthma,
+30128,females,2016,171.2,Asthma,17.0
+30138,females,2016,176.1,Asthma,13.0
+50058,females,2016,,Asthma,
+50069,females,2016,,Asthma,
+50075,females,2016,,Asthma,
+50104,females,2016,,Asthma,
+30126,females,2016,199.0,Asthma,26.0
+30212,females,2016,152.2,Asthma,13.0
+30123,females,2016,154.1,Asthma,13.0
+50017,females,2016,,Asthma,
+50006,females,2016,,Asthma,
+50086,females,2016,,Asthma,
+60036,females,2016,220.1,Asthma,8.0
+50066,females,2016,,Asthma,
+30021,females,2016,221.3,Asthma,19.0
+50077,females,2016,,Asthma,
+50031,females,2016,,Asthma,
+50087,females,2016,,Asthma,
+50008,females,2016,,Asthma,
+20163,females,2016,,Asthma,
+50113,females,2016,,Asthma,
+50114,females,2016,,Asthma,
+50037,females,2016,,Asthma,
+30184,females,2016,246.9,Asthma,14.0
+50079,females,2016,,Asthma,
+50088,females,2016,,Asthma,
+50002,females,2016,,Asthma,
+50000,females,2016,,Asthma,
+30066,females,2016,216.3,Asthma,26.0
+50068,females,2016,,Asthma,
+50107,females,2016,,Asthma,
+20015,females,2016,,Asthma,
+50022,females,2016,,Asthma,
+50093,females,2016,,Asthma,
+30142,females,2016,203.1,Asthma,18.0
+30174,females,2016,,Asthma,
+50036,females,2016,,Asthma,
+50106,females,2016,,Asthma,
+50018,females,2016,,Asthma,
+50001,females,2016,,Asthma,
+40011,females,2016,,Asthma,
+50059,females,2016,,Asthma,
+50099,females,2016,,Asthma,
+40012,females,2016,,Asthma,
+50111,females,2016,,Asthma,
+50100,females,2016,,Asthma,
+50019,females,2016,,Asthma,
+70011,females,2016,,Asthma,
+50030,females,2016,,Asthma,
+70010,females,2016,196.1,Asthma,18.0
+50090,females,2016,,Asthma,
+50023,females,2016,,Asthma,
+30175,females,2016,230.5,Asthma,24.0
+50120,females,2016,,Asthma,
+50057,females,2016,,Asthma,
+20125,females,2016,,Asthma,
+20210,females,2016,,Asthma,
+10203,females,2016,,Asthma,
+10253,females,2016,,Asthma,
+20244,females,2016,,Asthma,
+20089,females,2016,,Asthma,
+20006,females,2016,,Asthma,
+20083,females,2016,,Asthma,
+20095,females,2016,,Asthma,
+20070,females,2016,,Asthma,
+40021,females,2016,,Asthma,
+20190,females,2016,,Asthma,
+20101,females,2016,,Asthma,
+20102,females,2016,,Asthma,
+20131,females,2016,,Asthma,
+20132,females,2016,,Asthma,
+20007,females,2016,,Asthma,
+20011,females,2016,,Asthma,
+20033,females,2016,104.1,Asthma,16.0
+50011,females,2016,,Asthma,
+20191,females,2016,,Asthma,
+20144,females,2016,,Asthma,
+20009,females,2016,,Asthma,
+20099,females,2016,,Asthma,
+20074,females,2016,,Asthma,
+20120,females,2016,,Asthma,
+20177,females,2016,,Asthma,
+20090,females,2016,,Asthma,
+20029,females,2016,,Asthma,
+20140,females,2016,252.9,Asthma,51.0
+30135,females,2016,224.2,Asthma,17.0
+20016,females,2016,,Asthma,
+20121,females,2016,,Asthma,
+50032,females,2016,,Asthma,
+20236,females,2016,,Asthma,
+20010,females,2016,516.0,Asthma,29.0
+20046,females,2016,,Asthma,
+20064,females,2016,,Asthma,
+30187,females,2016,342.1,Asthma,16.0
+20073,females,2016,,Asthma,
+20178,females,2016,,Asthma,
+20057,females,2016,,Asthma,
+20157,females,2016,,Asthma,
+30132,females,2016,201.6,Asthma,14.0
+20104,females,2016,,Asthma,
+20173,females,2016,,Asthma,
+20175,females,2016,,Asthma,
+20161,females,2016,,Asthma,
+10186,females,2016,,Asthma,
+10309,females,2016,,Asthma,
+10264,females,2016,,Asthma,
+20241,females,2016,,Asthma,
+20211,females,2016,,Asthma,
+50070,females,2016,,Asthma,
+50049,females,2016,,Asthma,
+50115,females,2016,,Asthma,
+20055,females,2016,,Asthma,
+10019,females,2016,,Asthma,
+10327,females,2016,,Asthma,
+10261,females,2016,,Asthma,
+10252,females,2016,,Asthma,
+20274,females,2016,,Asthma,
+20048,females,2016,,Asthma,
+50003,females,2016,,Asthma,
+20080,females,2016,,Asthma,
+20084,females,2016,,Asthma,
+50024,females,2016,,Asthma,
+30125,females,2016,,Asthma,
+20193,females,2016,,Asthma,
+20091,females,2016,,Asthma,
+20212,females,2016,,Asthma,
+20122,females,2016,,Asthma,
+20042,females,2016,,Asthma,
+20127,females,2016,,Asthma,
+20135,females,2016,,Asthma,
+20166,females,2016,,Asthma,
+20179,females,2016,,Asthma,
+20030,females,2016,,Asthma,
+20213,females,2016,,Asthma,
+20162,females,2016,,Asthma,
+20165,females,2016,,Asthma,
+30183,females,2016,192.0,Asthma,32.0
+50029,females,2016,,Asthma,
+20071,females,2016,,Asthma,
+20176,females,2016,,Asthma,
+40031,females,2016,,Asthma,
+20056,females,2016,,Asthma,
+20133,females,2016,,Asthma,
+20109,females,2016,,Asthma,
+20085,females,2016,,Asthma,
+20203,females,2016,,Asthma,
+20059,females,2016,,Asthma,
+20065,females,2016,,Asthma,
+20058,females,2016,,Asthma,
+50078,females,2016,,Asthma,
+20221,females,2016,,Asthma,
+20198,females,2016,,Asthma,
+20077,females,2016,,Asthma,
+20146,females,2016,,Asthma,
+20021,females,2016,,Asthma,
+60034,females,2016,,Asthma,
+20031,females,2016,,Asthma,
+20134,females,2016,,Asthma,
+20110,females,2016,,Asthma,
+50004,females,2016,,Asthma,
+20105,females,2016,169.6,Asthma,35.0
+60033,females,2016,,Asthma,
+20066,females,2016,,Asthma,
+20060,females,2016,,Asthma,
+20049,females,2016,,Asthma,
+20052,females,2016,,Asthma,
+60028,females,2016,115.6,Asthma,12.0
+60017,females,2016,87.1,Asthma,7.0
+50121,females,2016,,Asthma,
+30052,females,2016,186.4,Asthma,20.0
+20216,females,2016,,Asthma,
+20096,females,2016,,Asthma,
+20215,females,2016,,Asthma,
+20116,females,2016,,Asthma,
+20194,females,2016,,Asthma,
+40036,females,2016,,Asthma,
+50014,females,2016,,Asthma,
+20204,females,2016,,Asthma,
+50025,females,2016,,Asthma,
+50042,females,2016,,Asthma,
+50009,females,2016,,Asthma,
+30100,females,2016,127.3,Asthma,8.0
+30228,females,2016,303.3,Asthma,30.0
+20174,females,2016,,Asthma,
+20167,females,2016,,Asthma,
+20199,females,2016,,Asthma,
+20053,females,2016,191.0,Asthma,42.0
+70007,females,2016,611.0,Asthma,84.0
+20214,females,2016,,Asthma,
+20111,females,2016,259.7,Asthma,36.0
+20219,females,2016,,Asthma,
+20128,females,2016,,Asthma,
+20097,females,2016,,Asthma,
+70004,females,2016,107.9,Asthma,11.0
+20164,females,2016,,Asthma,
+20061,females,2016,,Asthma,
+20256,females,2016,,Asthma,
+20257,females,2016,,Asthma,
+20072,females,2016,,Asthma,
+20266,females,2016,,Asthma,
+30131,females,2016,299.9,Asthma,41.0
+30059,females,2016,193.0,Asthma,26.0
+20245,females,2016,,Asthma,
+20154,females,2016,,Asthma,
+30222,females,2016,234.4,Asthma,12.0
+20106,females,2016,,Asthma,
+20112,females,2016,,Asthma,
+30026,females,2016,191.1,Asthma,19.0
+20180,females,2016,,Asthma,
+20237,females,2016,,Asthma,
+20233,females,2016,,Asthma,
+20217,females,2016,,Asthma,
+20013,females,2016,,Asthma,
+20265,females,2016,,Asthma,
+80002,females,2016,139.8,Asthma,8.0
+20220,females,2016,,Asthma,
+20117,females,2016,,Asthma,
+20014,females,2016,,Asthma,
+40076,females,2016,,Asthma,
+20242,females,2016,,Asthma,
+20168,females,2016,,Asthma,
+20249,females,2016,,Asthma,
+30161,females,2016,182.8,Asthma,18.0
+20067,females,2016,,Asthma,
+60007,females,2016,,Asthma,
+20225,females,2016,,Asthma,
+20267,females,2016,,Asthma,
+20230,females,2016,,Asthma,
+20258,females,2016,,Asthma,
+20182,females,2016,,Asthma,
+20017,females,2016,,Asthma,
+20063,females,2016,,Asthma,
+30181,females,2016,104.8,Asthma,6.0
+20148,females,2016,,Asthma,
+20260,females,2016,,Asthma,
+20019,females,2016,,Asthma,
+30047,females,2016,,Asthma,
+20200,females,2016,,Asthma,
+20079,females,2016,,Asthma,
+30152,females,2016,257.9,Asthma,14.0
+60002,females,2016,63.5,Asthma,9.0
+60006,females,2016,,Asthma,
+20093,females,2016,,Asthma,
+20075,females,2016,,Asthma,
+20034,females,2016,,Asthma,
+20004,females,2016,,Asthma,
+20081,females,2016,,Asthma,
+20183,females,2016,,Asthma,
+50117,females,2016,,Asthma,
+20229,females,2016,,Asthma,
+20147,females,2016,,Asthma,
+20268,females,2016,,Asthma,
+20018,females,2016,,Asthma,
+20136,females,2016,,Asthma,
+20086,females,2016,,Asthma,
+20169,females,2016,,Asthma,
+50109,females,2016,,Asthma,
+20150,females,2016,,Asthma,
+30105,females,2016,349.8,Asthma,41.0
+20098,females,2016,263.0,Asthma,44.0
+40077,females,2016,,Asthma,
+30058,females,2016,278.8,Asthma,41.0
+40086,females,2016,,Asthma,
+40079,females,2016,,Asthma,
+20275,females,2016,,Asthma,
+20188,females,2016,,Asthma,
+20170,females,2016,,Asthma,
+50080,females,2016,,Asthma,
+20171,females,2016,,Asthma,
+30057,females,2016,165.0,Asthma,24.0
+30107,females,2016,143.4,Asthma,18.0
+40083,females,2016,,Asthma,
+60009,females,2016,,Asthma,
+20243,females,2016,,Asthma,
+40009,females,2016,,Asthma,
+60032,females,2016,194.5,Asthma,13.0
+60025,females,2016,,Asthma,
+20234,females,2016,,Asthma,
+30214,females,2016,227.4,Asthma,17.0
+30203,females,2016,206.2,Asthma,16.0
+20205,females,2016,,Asthma,
+40055,females,2016,,Asthma,
+30176,females,2016,155.3,Asthma,20.0
+20113,females,2016,,Asthma,
+50124,females,2016,,Asthma,
+20107,females,2016,,Asthma,
+30036,females,2016,115.5,Asthma,18.0
+30194,females,2016,,Asthma,
+40046,females,2016,,Asthma,
+20235,females,2016,,Asthma,
+30000,females,2016,186.8,Asthma,33.0
+30215,females,2016,85.0,Asthma,10.0
+60008,females,2016,85.1,Asthma,8.0
+40030,females,2016,,Asthma,
+40051,females,2016,,Asthma,
+30223,females,2016,180.6,Asthma,26.0
+30060,females,2016,81.6,Asthma,10.0
+30170,females,2016,212.8,Asthma,30.0
+30014,females,2016,262.4,Asthma,32.0
+60003,females,2016,,Asthma,
+60030,females,2016,,Asthma,
+30012,females,2016,169.5,Asthma,15.0
+30054,females,2016,,Asthma,
+30095,females,2016,243.0,Asthma,19.0
+30080,females,2016,214.8,Asthma,25.0
+30202,females,2016,187.9,Asthma,14.0
+30075,females,2016,217.1,Asthma,24.0
+30024,females,2016,168.3,Asthma,21.0
+30001,females,2016,293.3,Asthma,40.0
+30172,females,2016,70.4,Asthma,5.0
+30118,females,2016,168.4,Asthma,15.0
+30141,females,2016,172.7,Asthma,13.0
+70001,females,2016,69.0,Asthma,6.0
+30088,females,2016,452.6,Asthma,71.0
+30153,females,2016,97.2,Asthma,10.0
+30025,females,2016,134.2,Asthma,11.0
+30196,females,2016,105.5,Asthma,13.0
+30217,females,2016,91.0,Asthma,11.0
+30139,females,2016,234.5,Asthma,41.0
+40043,females,2016,,Asthma,
+30189,females,2016,210.1,Asthma,25.0
+30232,females,2016,289.5,Asthma,45.0
+30082,females,2016,252.3,Asthma,17.0
+30114,females,2016,260.3,Asthma,31.0
+30224,females,2016,163.1,Asthma,11.0
+30146,females,2016,285.0,Asthma,28.0
+30069,females,2016,386.1,Asthma,39.0
+30096,females,2016,,Asthma,
+30013,females,2016,130.5,Asthma,17.0
+30020,females,2016,182.9,Asthma,16.0
+30083,females,2016,351.2,Asthma,65.0
+30116,females,2016,146.3,Asthma,17.0
+30050,females,2016,159.9,Asthma,13.0
+40052,females,2016,,Asthma,
+30008,females,2016,142.5,Asthma,10.0
+50127,females,2016,,Asthma,
+30188,females,2016,160.7,Asthma,29.0
+30226,females,2016,324.7,Asthma,36.0
+80001,females,2016,273.3,Asthma,35.0
+60018,females,2016,175.9,Asthma,21.0
+30070,females,2016,504.1,Asthma,31.0
+30147,females,2016,111.5,Asthma,14.0
+30227,females,2016,260.9,Asthma,20.0
+30101,females,2016,189.7,Asthma,14.0
+30234,females,2016,133.5,Asthma,14.0
+30084,females,2016,330.3,Asthma,16.0
+30045,females,2016,134.4,Asthma,13.0
+30225,females,2016,131.8,Asthma,18.0
+30098,females,2016,235.0,Asthma,34.0
+30097,females,2016,247.4,Asthma,44.0
+30117,females,2016,139.1,Asthma,22.0
+30119,females,2016,104.6,Asthma,10.0
+30140,females,2016,171.0,Asthma,9.0
+30191,females,2016,159.1,Asthma,20.0
+30159,females,2016,125.3,Asthma,19.0
+30015,females,2016,,Asthma,
+30192,females,2016,310.7,Asthma,55.0
+30027,females,2016,185.5,Asthma,15.0
+70008,females,2016,446.7,Asthma,28.0
+50126,females,2016,,Asthma,
+30044,females,2016,168.7,Asthma,21.0
+30205,females,2016,362.8,Asthma,52.0
+30023,females,2016,249.7,Asthma,15.0
+70009,females,2016,974.4,Asthma,30.0
+30108,females,2016,112.2,Asthma,16.0
+30041,females,2016,152.4,Asthma,14.0
+30042,females,2016,150.2,Asthma,12.0
+30112,females,2016,501.9,Asthma,48.0
+30071,females,2016,447.7,Asthma,64.0
+30167,females,2016,180.1,Asthma,11.0
+30089,females,2016,165.6,Asthma,17.0
+50122,females,2016,,Asthma,
+30193,females,2016,156.0,Asthma,21.0
+30003,females,2016,165.1,Asthma,18.0
+30104,females,2016,280.5,Asthma,39.0
+30218,females,2016,194.8,Asthma,22.0
+30149,females,2016,136.0,Asthma,12.0
+30033,females,2016,113.1,Asthma,6.0
+50062,females,2016,,Asthma,
+50118,females,2016,,Asthma,
+50102,females,2016,,Asthma,
+30157,females,2016,,Asthma,
+30150,females,2016,269.1,Asthma,31.0
+30091,females,2016,226.9,Asthma,19.0
+30067,females,2016,159.4,Asthma,16.0
+30162,females,2016,157.2,Asthma,21.0
+30111,females,2016,148.5,Asthma,19.0
+30206,females,2016,330.1,Asthma,25.0
+30063,females,2016,143.9,Asthma,16.0
+50110,females,2016,,Asthma,
+50094,females,2016,,Asthma,
+50096,females,2016,,Asthma,
+30102,females,2016,334.9,Asthma,40.0
+30030,females,2016,195.0,Asthma,15.0
+30219,females,2016,58.3,Asthma,7.0
+30207,females,2016,205.5,Asthma,26.0
+30178,females,2016,125.1,Asthma,19.0
+50119,females,2016,,Asthma,
+30122,females,2016,299.6,Asthma,35.0
+30120,females,2016,224.2,Asthma,22.0
+30055,females,2016,153.0,Asthma,9.0
+30177,females,2016,158.0,Asthma,16.0
+50103,females,2016,,Asthma,
+30081,females,2016,200.2,Asthma,21.0
+30121,females,2016,177.1,Asthma,23.0
+30028,females,2016,137.3,Asthma,13.0
+30099,females,2016,,Asthma,
+30136,females,2016,110.3,Asthma,8.0
+30064,females,2016,273.1,Asthma,41.0
+30220,females,2016,117.5,Asthma,16.0
+30208,females,2016,135.1,Asthma,13.0
+60000,females,2016,283.4,Asthma,11.0
+50092,females,2016,,Asthma,
+30086,females,2016,243.1,Asthma,16.0
+30156,females,2016,260.4,Asthma,25.0
+80009,females,2016,234.3,Asthma,27.0
+30231,females,2016,219.1,Asthma,25.0
+30143,females,2016,324.1,Asthma,45.0
+30049,females,2016,277.2,Asthma,35.0
+30163,females,2016,270.7,Asthma,24.0
+50016,females,2016,,Asthma,
+80018,females,2016,156.9,Asthma,12.0
+30074,females,2016,225.5,Asthma,19.0
+30073,females,2016,373.9,Asthma,36.0
+30221,females,2016,104.2,Asthma,12.0
+30046,females,2016,98.4,Asthma,10.0
+30072,females,2016,267.6,Asthma,18.0
+30209,females,2016,,Asthma,
+30085,females,2016,291.5,Asthma,37.0
+30029,females,2016,,Asthma,
+30065,females,2016,372.3,Asthma,43.0
+40035,females,2016,,Asthma,
+60001,females,2016,,Asthma,
+60041,females,2016,168.9,Asthma,13.0
+30043,females,2016,126.8,Asthma,15.0
+30087,females,2016,181.5,Asthma,31.0
+30124,females,2016,153.4,Asthma,14.0
+30016,females,2016,129.6,Asthma,16.0
+60019,females,2016,123.5,Asthma,9.0
+30092,females,2016,477.4,Asthma,53.0
+30039,females,2016,175.5,Asthma,21.0
+30032,females,2016,72.1,Asthma,10.0
+40001,females,2016,,Asthma,
+60031,females,2016,,Asthma,
+60037,females,2016,,Asthma,
+30009,females,2016,99.4,Asthma,15.0
+30229,females,2016,225.7,Asthma,17.0
+60047,females,2016,,Asthma,
+30127,females,2016,329.4,Asthma,27.0
+30154,females,2016,205.0,Asthma,20.0
+60027,females,2016,486.3,Asthma,22.0
+30204,females,2016,157.2,Asthma,17.0
+30115,females,2016,258.5,Asthma,20.0
+80020,females,2016,,Asthma,
+30173,females,2016,124.4,Asthma,16.0
+30068,females,2016,199.2,Asthma,20.0
+30093,females,2016,436.5,Asthma,43.0
+30090,females,2016,288.9,Asthma,17.0
+30010,females,2016,282.1,Asthma,19.0
+30235,females,2016,211.1,Asthma,26.0
+30148,females,2016,190.3,Asthma,19.0
+30210,females,2016,283.2,Asthma,39.0
+30195,females,2016,118.7,Asthma,7.0
+60043,females,2016,,Asthma,
+60029,females,2016,,Asthma,
+30034,females,2016,201.4,Asthma,18.0
+30158,females,2016,182.7,Asthma,18.0
+50048,females,2016,,Asthma,
+30103,females,2016,237.7,Asthma,33.0
+30056,females,2016,154.1,Asthma,10.0
+30031,females,2016,228.8,Asthma,36.0
+30185,females,2016,211.4,Asthma,20.0
+30166,females,2016,202.5,Asthma,17.0
+30216,females,2016,149.1,Asthma,16.0
+30198,females,2016,451.4,Asthma,49.0
+80021,females,2016,,Asthma,
+60048,females,2016,,Asthma,
+30168,females,2016,138.2,Asthma,17.0
+30160,females,2016,406.4,Asthma,44.0
+30077,females,2016,326.3,Asthma,35.0
+30053,females,2016,,Asthma,
+30211,females,2016,422.7,Asthma,65.0
+30200,females,2016,125.7,Asthma,12.0
+30179,females,2016,73.7,Asthma,6.0
+30199,females,2016,84.8,Asthma,6.0
+30197,females,2016,117.7,Asthma,13.0
+20252,females,2016,,Asthma,
+30113,females,2016,208.6,Asthma,35.0
+30018,females,2016,148.5,Asthma,29.0
+30165,females,2016,179.8,Asthma,19.0
+30094,females,2016,179.3,Asthma,21.0
+30180,females,2016,,Asthma,
+30155,females,2016,111.8,Asthma,11.0
+60035,females,2016,,Asthma,
+60050,females,2016,,Asthma,
+30037,females,2016,138.7,Asthma,15.0
+30151,females,2016,365.1,Asthma,28.0
+20012,females,2016,,Asthma,
+30004,females,2016,105.4,Asthma,13.0
+30005,females,2016,,Asthma,
+30145,females,2016,209.6,Asthma,29.0
+30144,females,2016,100.4,Asthma,16.0
+30171,females,2016,213.0,Asthma,34.0
+40047,females,2016,,Asthma,
+30038,females,2016,,Asthma,
+30110,females,2016,,Asthma,
+30106,females,2016,422.8,Asthma,27.0
+10283,females,2016,,Asthma,
+30076,females,2016,218.4,Asthma,33.0
+30017,females,2016,282.1,Asthma,20.0
+30040,females,2016,174.0,Asthma,24.0
+30035,females,2016,374.6,Asthma,22.0
+30201,females,2016,124.9,Asthma,7.0
+30019,females,2016,414.8,Asthma,37.0
+30129,females,2016,291.9,Asthma,37.0
+30130,females,2016,143.1,Asthma,12.0
+30134,females,2016,205.3,Asthma,17.0
+20062,females,2016,,Asthma,
+20226,females,2016,,Asthma,
+20261,females,2016,,Asthma,
+20149,females,2016,,Asthma,
+30186,females,2016,253.2,Asthma,11.0
+30079,females,2016,269.9,Asthma,20.0
+30230,females,2016,78.0,Asthma,11.0
+30062,females,2016,,Asthma,
+30048,females,2016,98.2,Asthma,14.0
+30109,females,2016,228.5,Asthma,28.0
+30006,females,2016,,Asthma,
+30233,females,2016,245.2,Asthma,36.0
+40089,females,2016,,Asthma,
+10225,females,2016,,Asthma,
+30002,females,2016,149.6,Asthma,9.0
+30011,females,2016,149.9,Asthma,12.0
+30078,females,2016,350.2,Asthma,30.0
+30133,females,2016,103.2,Asthma,6.0
+40078,females,2016,,Asthma,
+40007,females,2016,,Asthma,
+40040,females,2016,,Asthma,
+40084,females,2016,,Asthma,
+40070,females,2016,,Asthma,
+40057,females,2016,,Asthma,
+50097,females,2016,,Asthma,
+50027,females,2016,,Asthma,
+50056,females,2016,,Asthma,
+30164,females,2016,227.2,Asthma,55.0
+30169,females,2016,,Asthma,
+30007,females,2016,183.3,Asthma,15.0
+40044,females,2016,,Asthma,
+40000,females,2016,,Asthma,
+80015,females,2016,192.1,Asthma,28.0
+50054,females,2016,,Asthma,
+50012,females,2016,,Asthma,
+50125,females,2016,,Asthma,
+60024,females,2016,,Asthma,
+60042,females,2016,,Asthma,
+60026,females,2016,,Asthma,
+70003,females,2016,145.3,Asthma,17.0
+60014,females,2016,,Asthma,
+60038,females,2016,,Asthma,
+60045,females,2016,,Asthma,
+60012,females,2016,,Asthma,
+60023,females,2016,,Asthma,
+60049,females,2016,,Asthma,
+60039,females,2016,,Asthma,
+80006,females,2016,,Asthma,
+80003,females,2016,119.0,Asthma,15.0
+80007,females,2016,110.1,Asthma,14.0
+80014,females,2016,253.7,Asthma,23.0
+80019,females,2016,171.8,Asthma,21.0
+80005,females,2016,,Asthma,

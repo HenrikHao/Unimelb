@@ -1,0 +1,52 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  namespace: default
+  name: parameters
+data:
+  ES_URL: "https://elasticsearch-master.elastic.svc.cluster.local:9200"
+  ES_USERNAME: "elastic"
+  ES_PASSWORD: "elastic"
+  ES_BUSHFIRE_DATABASE: "bushfire1"
+  ES_AIR_QUALITY_DATABASE: "airquality"
+  ES_HOSPITAL_ADMISSION_AUS_DATABASE: "hospital_admissions_aus"
+  ES_HOSPITAL_ADMISSION_NSW_DATABASE: "hospital_admissions_nsw"
+  ES_HOSPITAL_ADMISSION_pha_DATABASE: "hospital_admissions_pha"
+  ES_AIR_QUALITY_TEST_DATABASE: "test_air_quality"
+  ES_AIR_QUALITY_TEST_SCHEMA: |
+    {
+            "settings": {
+                "index": {
+                    "number_of_shards": 3,
+                    "number_of_replicas": 1
+                }
+            },
+            "mappings": {
+                "properties": {
+                "geo": {
+                    "type": "geo_point"
+                },
+                "ozone": {
+                    "type": "float"
+                },
+                "phacode": {
+                    "type": "keyword"
+                },
+                "pm10": {
+                    "type": "float"
+                },
+                "pm2p5": {
+                    "type": "float"
+                },
+                "siteid": {
+                    "type": "keyword"
+                },
+                "sitename": {
+                    "type": "text"
+                },
+                "timestamp": {
+                    "type": "date"
+                }
+                }
+            }
+    }

@@ -1,0 +1,52 @@
+include:
+- tprocessor.js
+kind: ArchiveUploadSpec
+name: tprocessor-js-WiIr
+
+---
+apiVersion: fission.io/v1
+kind: Package
+metadata:
+  creationTimestamp: null
+  name: tprocessor-f76dfb62-2fee-42de-8be5-5e346a567ac2
+spec:
+  deployment:
+    checksum: {}
+    type: url
+    url: archive://tprocessor-js-WiIr
+  environment:
+    name: nodejs
+    namespace: ""
+  source:
+    checksum: {}
+status:
+  buildstatus: none
+  lastUpdateTimestamp: "2024-05-11T05:13:46Z"
+
+---
+apiVersion: fission.io/v1
+kind: Function
+metadata:
+  creationTimestamp: null
+  name: tprocessor
+spec:
+  InvokeStrategy:
+    ExecutionStrategy:
+      ExecutorType: poolmgr
+      MaxScale: 0
+      MinScale: 0
+      SpecializationTimeout: 120
+      TargetCPUPercent: 0
+    StrategyType: execution
+  concurrency: 500
+  environment:
+    name: nodejs
+    namespace: ""
+  functionTimeout: 60
+  idletimeout: 120
+  package:
+    packageref:
+      name: tprocessor-f76dfb62-2fee-42de-8be5-5e346a567ac2
+      namespace: ""
+  requestsPerPod: 1
+  resources: {}

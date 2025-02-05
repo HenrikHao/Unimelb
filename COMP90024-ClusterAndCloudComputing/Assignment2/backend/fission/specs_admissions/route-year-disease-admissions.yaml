@@ -1,0 +1,22 @@
+apiVersion: fission.io/v1
+kind: HTTPTrigger
+metadata:
+  creationTimestamp: null
+  name: year-disease-admissions
+spec:
+  createingress: true
+  functionref:
+    functionweights: null
+    name: admissions
+    type: name
+  host: ""
+  ingressconfig:
+    annotations: null
+    host: '*'
+    path: /admissions/years/{year:[0-9][0-9][0-9][0-9]}/diseases/{disease:[a-zA-Z]{4,}}
+    tls: ""
+  method: ""
+  methods:
+  - GET
+  prefix: ""
+  relativeurl: /admissions/years/{year:[0-9][0-9][0-9][0-9]}/diseases/{disease:[a-zA-Z]{4,}}

@@ -1,0 +1,2391 @@
+pha,sex,year,asr_per_100k,disease,population
+10283,males,2017,1363.31969974254,Respiratory disease,132.0
+10225,males,2017,1924.00897922347,Respiratory disease,150.0
+10226,males,2017,1117.53237429955,Respiratory disease,172.0
+10249,males,2017,2361.31747052526,Respiratory disease,146.0
+10250,males,2017,2891.91775157691,Respiratory disease,283.0
+10251,males,2017,1579.71930591898,Respiratory disease,245.0
+10211,males,2017,1732.35032230839,Respiratory disease,240.0
+10256,males,2017,2831.85072860245,Respiratory disease,221.0
+10257,males,2017,2222.54808469959,Respiratory disease,105.0
+10258,males,2017,1677.98914454287,Respiratory disease,72.0
+10063,males,2017,1879.17260770411,Respiratory disease,387.0
+10137,males,2017,,Respiratory disease,
+10071,males,2017,1738.28883712962,Respiratory disease,228.0
+10080,males,2017,1768.26255521184,Respiratory disease,314.0
+10118,males,2017,1600.51341621502,Respiratory disease,374.0
+10090,males,2017,1286.35394856718,Respiratory disease,179.0
+10230,males,2017,1956.87042976049,Respiratory disease,168.0
+10292,males,2017,2966.76862101799,Respiratory disease,236.0
+10293,males,2017,1763.56468649363,Respiratory disease,254.0
+10069,males,2017,1880.82862656588,Respiratory disease,244.0
+10049,males,2017,1940.54057458851,Respiratory disease,293.0
+10103,males,2017,1608.52383991439,Respiratory disease,237.0
+10103,males,2017,1952.04488157781,Respiratory disease,215.0
+10050,males,2017,2447.36485934817,Respiratory disease,398.0
+10007,males,2017,2476.88920468163,Respiratory disease,430.0
+10172,males,2017,2499.86544338984,Respiratory disease,79.0
+10173,males,2017,3297.18983291469,Respiratory disease,457.0
+10014,males,2017,1731.76689810607,Respiratory disease,355.0
+10091,males,2017,2056.61984507882,Respiratory disease,376.0
+10168,males,2017,2204.09439503715,Respiratory disease,221.0
+10188,males,2017,1447.76643527606,Respiratory disease,184.0
+10270,males,2017,1716.22241249814,Respiratory disease,148.0
+10271,males,2017,892.572092986252,Respiratory disease,58.0
+10055,males,2017,2019.81743071513,Respiratory disease,500.0
+10284,males,2017,2097.9868177539,Respiratory disease,213.0
+10220,males,2017,2138.88780109515,Respiratory disease,453.0
+10318,males,2017,813.909309450214,Respiratory disease,65.0
+10064,males,2017,2058.01934599319,Respiratory disease,377.0
+10105,males,2017,1645.13032252563,Respiratory disease,240.0
+10105,males,2017,3760.17527319693,Respiratory disease,584.0
+10021,males,2017,1772.68576087675,Respiratory disease,462.0
+10022,males,2017,2410.99215465528,Respiratory disease,390.0
+10106,males,2017,1394.59415158389,Respiratory disease,163.0
+10106,males,2017,2210.52899250636,Respiratory disease,493.0
+10182,males,2017,1227.11147320627,Respiratory disease,98.0
+10107,males,2017,1320.64846273974,Respiratory disease,364.0
+10108,males,2017,,Respiratory disease,
+10278,males,2017,2259.98784643018,Respiratory disease,125.0
+10164,males,2017,,Respiratory disease,
+10041,males,2017,1354.52974634518,Respiratory disease,253.0
+10042,males,2017,959.988747493985,Respiratory disease,181.0
+10279,males,2017,1874.98260346504,Respiratory disease,259.0
+10142,males,2017,1897.90175384902,Respiratory disease,353.0
+10032,males,2017,1628.69963633215,Respiratory disease,278.0
+10031,males,2017,509.149678828562,Respiratory disease,113.0
+10193,males,2017,3227.22511535262,Respiratory disease,193.0
+10326,males,2017,1627.7957732033,Respiratory disease,221.0
+10098,males,2017,1857.22690513096,Respiratory disease,263.0
+10161,males,2017,,Respiratory disease,
+10201,males,2017,2333.40024946513,Respiratory disease,165.0
+10201,males,2017,1810.29171789042,Respiratory disease,1868.0
+10195,males,2017,3350.04179821901,Respiratory disease,287.0
+10294,males,2017,1025.99117819095,Respiratory disease,154.0
+10236,males,2017,647.561243490795,Respiratory disease,101.0
+10072,males,2017,1366.17487763912,Respiratory disease,147.0
+10295,males,2017,2192.16628843835,Respiratory disease,111.0
+10143,males,2017,1786.30629656719,Respiratory disease,214.0
+10001,males,2017,1212.41987828875,Respiratory disease,169.0
+10319,males,2017,,Respiratory disease,
+10109,males,2017,2494.39361506579,Respiratory disease,461.0
+10096,males,2017,2160.87117602442,Respiratory disease,406.0
+10099,males,2017,2537.71521819492,Respiratory disease,507.0
+10068,males,2017,1798.29959128185,Respiratory disease,378.0
+10067,males,2017,1874.76517899521,Respiratory disease,347.0
+10144,males,2017,2261.23265100817,Respiratory disease,335.0
+10073,males,2017,1542.18784833987,Respiratory disease,286.0
+10150,males,2017,1459.17684376711,Respiratory disease,239.0
+10121,males,2017,1870.56510578462,Respiratory disease,194.0
+10298,males,2017,1900.20304205144,Respiratory disease,170.0
+10299,males,2017,2022.56914404459,Respiratory disease,192.0
+10016,males,2017,2005.40813078423,Respiratory disease,322.0
+10017,males,2017,1641.22541870434,Respiratory disease,277.0
+10015,males,2017,952.22761232347,Respiratory disease,290.0
+10147,males,2017,2156.05669150822,Respiratory disease,516.0
+10202,males,2017,3410.78252297735,Respiratory disease,266.0
+10202,males,2017,2406.11219738341,Respiratory disease,2041.0
+10203,males,2017,800.749770094299,Respiratory disease,73.0
+10272,males,2017,1673.11383760197,Respiratory disease,268.0
+10077,males,2017,2128.30015537244,Respiratory disease,451.0
+10123,males,2017,4288.90133546605,Respiratory disease,211.0
+10010,males,2017,1964.46804244809,Respiratory disease,225.0
+10100,males,2017,1906.76656523182,Respiratory disease,222.0
+10194,males,2017,1857.01206301478,Respiratory disease,248.0
+10139,males,2017,2896.03166189871,Respiratory disease,255.0
+10189,males,2017,2843.27949494575,Respiratory disease,379.0
+10175,males,2017,3434.37504455628,Respiratory disease,295.0
+10045,males,2017,1930.86860060007,Respiratory disease,173.0
+10165,males,2017,,Respiratory disease,
+10166,males,2017,1392.86506658486,Respiratory disease,77.0
+10196,males,2017,1810.71944241868,Respiratory disease,273.0
+10313,males,2017,1869.9085427857,Respiratory disease,448.0
+10253,males,2017,2629.23057894077,Respiratory disease,364.0
+10231,males,2017,2214.45733964489,Respiratory disease,188.0
+10176,males,2017,2420.68607149764,Respiratory disease,112.0
+10177,males,2017,1883.90138739344,Respiratory disease,220.0
+10086,males,2017,1495.38198416492,Respiratory disease,278.0
+10093,males,2017,2988.57464817294,Respiratory disease,374.0
+10151,males,2017,1082.6201434537,Respiratory disease,209.0
+10152,males,2017,2172.19000579261,Respiratory disease,479.0
+10221,males,2017,3726.09692592222,Respiratory disease,321.0
+10092,males,2017,2787.32305693415,Respiratory disease,407.0
+10254,males,2017,4179.10062533861,Respiratory disease,175.0
+10255,males,2017,1933.92763947691,Respiratory disease,165.0
+10043,males,2017,1799.43456532308,Respiratory disease,331.0
+10104,males,2017,952.298746192187,Respiratory disease,152.0
+10104,males,2017,1958.73381178214,Respiratory disease,910.0
+10044,males,2017,970.221029178482,Respiratory disease,185.0
+10197,males,2017,2112.4928143022,Respiratory disease,282.0
+10198,males,2017,3367.94698451928,Respiratory disease,244.0
+10199,males,2017,1965.0957264929,Respiratory disease,72.0
+10074,males,2017,2783.6054838917,Respiratory disease,331.0
+10204,males,2017,2346.28298124778,Respiratory disease,108.0
+10018,males,2017,2581.99153842244,Respiratory disease,260.0
+10133,males,2017,1968.70334180529,Respiratory disease,343.0
+10170,males,2017,,Respiratory disease,
+10280,males,2017,2243.91070263506,Respiratory disease,158.0
+10110,males,2017,2721.98969419174,Respiratory disease,375.0
+10153,males,2017,1590.33206629848,Respiratory disease,294.0
+10132,males,2017,2083.73093649316,Respiratory disease,365.0
+10002,males,2017,1395.30093846982,Respiratory disease,335.0
+10122,males,2017,1917.79750825541,Respiratory disease,401.0
+10116,males,2017,2333.63408314417,Respiratory disease,211.0
+10296,males,2017,1398.89602378106,Respiratory disease,63.0
+10124,males,2017,2313.43246492878,Respiratory disease,223.0
+10141,males,2017,2121.25167484528,Respiratory disease,283.0
+10145,males,2017,2342.63887929013,Respiratory disease,471.0
+10232,males,2017,2312.12726712322,Respiratory disease,194.0
+10237,males,2017,2110.03020400169,Respiratory disease,384.0
+10128,males,2017,1889.63868767529,Respiratory disease,433.0
+10038,males,2017,1036.99067420111,Respiratory disease,207.0
+10259,males,2017,1683.07598879704,Respiratory disease,210.0
+10273,males,2017,2344.10980128736,Respiratory disease,204.0
+10028,males,2017,1777.18402481849,Respiratory disease,271.0
+10111,males,2017,2005.17935889126,Respiratory disease,192.0
+10024,males,2017,2009.52501054466,Respiratory disease,393.0
+10246,males,2017,1883.43905388627,Respiratory disease,189.0
+10300,males,2017,3018.5450216104,Respiratory disease,191.0
+10083,males,2017,1982.95232882218,Respiratory disease,335.0
+10011,males,2017,3618.93381997839,Respiratory disease,349.0
+10000,males,2017,1714.69165811944,Respiratory disease,158.0
+10003,males,2017,3706.56220945077,Respiratory disease,414.0
+10156,males,2017,4306.64852980571,Respiratory disease,354.0
+10157,males,2017,3145.7972908493,Respiratory disease,230.0
+10185,males,2017,4958.53195055514,Respiratory disease,321.0
+10186,males,2017,3050.17531878826,Respiratory disease,174.0
+10125,males,2017,2588.01500288015,Respiratory disease,488.0
+10138,males,2017,1603.50117992468,Respiratory disease,400.0
+10051,males,2017,2067.02984326368,Respiratory disease,592.0
+10126,males,2017,2368.81486396767,Respiratory disease,265.0
+10308,males,2017,4297.65649328219,Respiratory disease,362.0
+10309,males,2017,2938.49213411304,Respiratory disease,224.0
+10127,males,2017,2093.59779462001,Respiratory disease,517.0
+10264,males,2017,2964.26731458713,Respiratory disease,212.0
+10285,males,2017,2077.34379987434,Respiratory disease,213.0
+10019,males,2017,1716.76663221164,Respiratory disease,257.0
+10233,males,2017,1454.29829701055,Respiratory disease,135.0
+10327,males,2017,868.509440879173,Respiratory disease,131.0
+10148,males,2017,2734.62950029537,Respiratory disease,391.0
+10075,males,2017,889.789414224972,Respiratory disease,76.0
+10119,males,2017,2278.80816263513,Respiratory disease,100.0
+10081,males,2017,1867.28342568419,Respiratory disease,312.0
+10222,males,2017,1784.81396637426,Respiratory disease,84.0
+10146,males,2017,620.426922787908,Respiratory disease,47.0
+10140,males,2017,1571.7079509719,Respiratory disease,223.0
+10059,males,2017,1322.58037975927,Respiratory disease,269.0
+10320,males,2017,705.372929039506,Respiratory disease,71.0
+10224,males,2017,,Respiratory disease,
+10101,males,2017,2519.70670227455,Respiratory disease,664.0
+10260,males,2017,,Respiratory disease,
+10261,males,2017,1522.55443525756,Respiratory disease,221.0
+10162,males,2017,2115.94111517128,Respiratory disease,250.0
+10004,males,2017,1328.8847513598,Respiratory disease,136.0
+10238,males,2017,3086.5570867712,Respiratory disease,233.0
+10239,males,2017,1527.17509645609,Respiratory disease,223.0
+10046,males,2017,1037.99816339377,Respiratory disease,157.0
+10227,males,2017,926.39800175806,Respiratory disease,157.0
+10303,males,2017,2832.47776079626,Respiratory disease,317.0
+10303,males,2017,1591.87450223414,Respiratory disease,628.0
+10056,males,2017,2136.11189024454,Respiratory disease,300.0
+10065,males,2017,1328.74510295543,Respiratory disease,150.0
+10112,males,2017,2380.37707871392,Respiratory disease,409.0
+10066,males,2017,1976.02638214099,Respiratory disease,477.0
+10190,males,2017,2215.07916501584,Respiratory disease,129.0
+10205,males,2017,1757.5164991143,Respiratory disease,181.0
+10057,males,2017,2465.30231713107,Respiratory disease,556.0
+10023,males,2017,2612.64277281992,Respiratory disease,471.0
+10286,males,2017,1568.13280059394,Respiratory disease,156.0
+10078,males,2017,2296.54672579966,Respiratory disease,337.0
+10242,males,2017,2083.37340872246,Respiratory disease,188.0
+10310,males,2017,3664.84989793238,Respiratory disease,329.0
+10070,males,2017,2357.42596701348,Respiratory disease,286.0
+10212,males,2017,1256.88701110653,Respiratory disease,64.0
+10297,males,2017,1138.75412310159,Respiratory disease,68.0
+10120,males,2017,1194.76402434388,Respiratory disease,290.0
+10084,males,2017,3135.9299650296,Respiratory disease,244.0
+10301,males,2017,4694.92503038906,Respiratory disease,230.0
+10301,males,2017,2917.48392113131,Respiratory disease,623.0
+10302,males,2017,2564.84688174321,Respiratory disease,150.0
+10302,males,2017,2441.84822451618,Respiratory disease,810.0
+10180,males,2017,1625.93471438371,Respiratory disease,242.0
+10179,males,2017,1321.79731838513,Respiratory disease,102.0
+10149,males,2017,3115.19851756856,Respiratory disease,391.0
+10241,males,2017,,Respiratory disease,
+10252,males,2017,1799.66391922502,Respiratory disease,164.0
+10240,males,2017,1428.65059844227,Respiratory disease,198.0
+10187,males,2017,3409.7517624695,Respiratory disease,287.0
+10102,males,2017,4682.84672767788,Respiratory disease,264.0
+10102,males,2017,1775.44117015351,Respiratory disease,504.0
+10135,males,2017,1608.92558646387,Respiratory disease,167.0
+10207,males,2017,1973.64108784897,Respiratory disease,285.0
+10208,males,2017,1463.94105222097,Respiratory disease,80.0
+10209,males,2017,3342.72869688437,Respiratory disease,368.0
+10047,males,2017,1413.48207967646,Respiratory disease,492.0
+10089,males,2017,1959.46560160735,Respiratory disease,372.0
+10033,males,2017,4271.53569630709,Respiratory disease,289.0
+10287,males,2017,1450.74279654821,Respiratory disease,120.0
+10288,males,2017,3383.1778445064,Respiratory disease,344.0
+10154,males,2017,1659.94824819735,Respiratory disease,229.0
+10289,males,2017,1851.32389782601,Respiratory disease,195.0
+10171,males,2017,1547.08416753894,Respiratory disease,112.0
+10328,males,2017,1762.33542267319,Respiratory disease,120.0
+10262,males,2017,1934.17558403425,Respiratory disease,141.0
+10263,males,2017,1112.05815246975,Respiratory disease,209.0
+10060,males,2017,1767.94776212212,Respiratory disease,404.0
+10088,males,2017,3265.4976661623,Respiratory disease,256.0
+10329,males,2017,1505.6663020347,Respiratory disease,112.0
+10097,males,2017,2566.3468510463,Respiratory disease,291.0
+10027,males,2017,2663.38975638559,Respiratory disease,563.0
+10029,males,2017,4427.54676371399,Respiratory disease,246.0
+10274,males,2017,2993.42037919576,Respiratory disease,115.0
+10181,males,2017,1685.47653633082,Respiratory disease,284.0
+10304,males,2017,2926.80031800656,Respiratory disease,149.0
+10304,males,2017,2144.78277372082,Respiratory disease,670.0
+10305,males,2017,2817.44488421711,Respiratory disease,108.0
+10217,males,2017,5735.69156458471,Respiratory disease,169.0
+10218,males,2017,1160.36842876952,Respiratory disease,57.0
+10082,males,2017,2103.33504097474,Respiratory disease,205.0
+10321,males,2017,1620.07657480401,Respiratory disease,154.0
+10129,males,2017,2769.56343417282,Respiratory disease,228.0
+10130,males,2017,2320.23697132966,Respiratory disease,380.0
+10136,males,2017,2280.34890230833,Respiratory disease,468.0
+10087,males,2017,1507.53244879708,Respiratory disease,213.0
+10322,males,2017,3301.14208512059,Respiratory disease,247.0
+10174,males,2017,,Respiratory disease,
+10247,males,2017,1856.46884563071,Respiratory disease,86.0
+10183,males,2017,3220.51231823976,Respiratory disease,219.0
+10184,males,2017,2145.60970718182,Respiratory disease,353.0
+10155,males,2017,1939.81479378768,Respiratory disease,374.0
+10052,males,2017,1763.39144171157,Respiratory disease,181.0
+10053,males,2017,2337.5547793013,Respiratory disease,223.0
+10178,males,2017,2210.86935251336,Respiratory disease,183.0
+10113,males,2017,791.078176543462,Respiratory disease,118.0
+10034,males,2017,1929.50652477619,Respiratory disease,146.0
+10223,males,2017,2177.20621762719,Respiratory disease,169.0
+10243,males,2017,2140.49972407057,Respiratory disease,254.0
+10244,males,2017,2039.78687285506,Respiratory disease,193.0
+10245,males,2017,1729.40457096261,Respiratory disease,167.0
+10030,males,2017,1675.60473057599,Respiratory disease,241.0
+10025,males,2017,1606.54855625591,Respiratory disease,232.0
+10163,males,2017,1414.21327360012,Respiratory disease,200.0
+10265,males,2017,1610.95677363452,Respiratory disease,96.0
+10048,males,2017,1367.53436279337,Respiratory disease,238.0
+10213,males,2017,2834.27690652641,Respiratory disease,142.0
+10039,males,2017,1742.02930695333,Respiratory disease,426.0
+10054,males,2017,1950.33853826569,Respiratory disease,167.0
+10114,males,2017,2307.0364806925,Respiratory disease,316.0
+10026,males,2017,2387.27742241777,Respiratory disease,246.0
+10062,males,2017,,Respiratory disease,
+10058,males,2017,1423.12251329021,Respiratory disease,151.0
+10020,males,2017,4094.27395303771,Respiratory disease,348.0
+10134,males,2017,2189.81952263387,Respiratory disease,273.0
+10191,males,2017,3634.09884148297,Respiratory disease,254.0
+10219,males,2017,2754.06358389153,Respiratory disease,201.0
+10214,males,2017,1636.84544984987,Respiratory disease,59.0
+10228,males,2017,2123.5905265417,Respiratory disease,127.0
+10206,males,2017,2927.78733414379,Respiratory disease,184.0
+10167,males,2017,2047.07243758695,Respiratory disease,269.0
+10169,males,2017,1883.74795090692,Respiratory disease,261.0
+10061,males,2017,1722.43345734978,Respiratory disease,319.0
+10323,males,2017,1399.73866264647,Respiratory disease,214.0
+10085,males,2017,3402.41294101182,Respiratory disease,787.0
+10117,males,2017,2428.35035882281,Respiratory disease,355.0
+10290,males,2017,1840.53428068668,Respiratory disease,120.0
+10076,males,2017,1091.13258252157,Respiratory disease,192.0
+10275,males,2017,2237.64860641171,Respiratory disease,133.0
+10035,males,2017,839.972337436613,Respiratory disease,73.0
+10040,males,2017,1051.40704137737,Respiratory disease,92.0
+10036,males,2017,1363.79370016912,Respiratory disease,355.0
+10037,males,2017,1253.65983592776,Respiratory disease,250.0
+10266,males,2017,3138.40815526895,Respiratory disease,282.0
+10267,males,2017,2861.12730028651,Respiratory disease,225.0
+10268,males,2017,,Respiratory disease,
+10269,males,2017,3138.45307110379,Respiratory disease,253.0
+10248,males,2017,3150.04479250029,Respiratory disease,380.0
+10215,males,2017,892.164785803053,Respiratory disease,80.0
+10005,males,2017,1459.61785968017,Respiratory disease,196.0
+10210,males,2017,2003.00147012806,Respiratory disease,97.0
+10131,males,2017,1928.22478658512,Respiratory disease,215.0
+10281,males,2017,2213.88675389182,Respiratory disease,182.0
+10311,males,2017,1922.01424749974,Respiratory disease,109.0
+10312,males,2017,6196.36851707583,Respiratory disease,112.0
+10306,males,2017,3368.40455737446,Respiratory disease,294.0
+10307,males,2017,2191.06803785302,Respiratory disease,432.0
+10324,males,2017,2594.93011529003,Respiratory disease,163.0
+10325,males,2017,,Respiratory disease,
+10006,males,2017,2170.48865718025,Respiratory disease,460.0
+10276,males,2017,1920.0919233984,Respiratory disease,124.0
+10314,males,2017,2559.15488794294,Respiratory disease,301.0
+10315,males,2017,4870.99451348491,Respiratory disease,337.0
+10316,males,2017,2958.17294322336,Respiratory disease,228.0
+10317,males,2017,4842.76154556082,Respiratory disease,280.0
+10291,males,2017,2359.50320147919,Respiratory disease,212.0
+10282,males,2017,1315.26564884941,Respiratory disease,72.0
+10229,males,2017,2725.7072505025,Respiratory disease,217.0
+10277,males,2017,1595.07392098561,Respiratory disease,126.0
+10012,males,2017,2640.88052077602,Respiratory disease,312.0
+10095,males,2017,1921.46160285803,Respiratory disease,328.0
+10094,males,2017,2057.4419587495,Respiratory disease,477.0
+10200,males,2017,1553.80844464306,Respiratory disease,103.0
+10216,males,2017,1949.52587586619,Respiratory disease,114.0
+10079,males,2017,2710.01621969224,Respiratory disease,296.0
+10234,males,2017,3448.6335656314,Respiratory disease,343.0
+10192,males,2017,2034.85830666409,Respiratory disease,178.0
+10235,males,2017,2712.55830513473,Respiratory disease,204.0
+10013,males,2017,1863.40969401171,Respiratory disease,98.0
+10009,males,2017,2785.22290193976,Respiratory disease,276.0
+10008,males,2017,1810.67026439259,Respiratory disease,351.0
+10115,males,2017,1097.8189687061,Respiratory disease,72.0
+10158,males,2017,2959.02243740844,Respiratory disease,95.0
+10159,males,2017,1820.21657442956,Respiratory disease,136.0
+10160,males,2017,2254.6952228969,Respiratory disease,262.0
+20022,males,2017,1325.78999553195,Respiratory disease,101.0
+20076,males,2017,1594.10757521096,Respiratory disease,403.0
+20015,males,2017,2312.07830003085,Respiratory disease,194.0
+20222,males,2017,2161.80649626423,Respiratory disease,248.0
+20184,males,2017,2256.91754622802,Respiratory disease,259.0
+20003,males,2017,1637.53067611058,Respiratory disease,257.0
+20238,males,2017,1481.81435808905,Respiratory disease,215.0
+20247,males,2017,1799.13314006086,Respiratory disease,187.0
+20151,males,2017,1056.59151148528,Respiratory disease,94.0
+20152,males,2017,1752.3675423098,Respiratory disease,180.0
+20153,males,2017,1757.99679121988,Respiratory disease,187.0
+20250,males,2017,,Respiratory disease,
+20251,males,2017,1336.82875074731,Respiratory disease,222.0
+20142,males,2017,2019.12787539204,Respiratory disease,353.0
+20020,males,2017,1361.17111869609,Respiratory disease,169.0
+20005,males,2017,1810.49368308104,Respiratory disease,129.0
+20026,males,2017,1933.8820482351,Respiratory disease,79.0
+20137,males,2017,1651.53992933818,Respiratory disease,413.0
+20192,males,2017,2101.81160168718,Respiratory disease,178.0
+20160,males,2017,3214.94169099789,Respiratory disease,198.0
+20189,males,2017,2288.70393432813,Respiratory disease,141.0
+20239,males,2017,1833.87053606815,Respiratory disease,294.0
+20185,males,2017,3474.48332965709,Respiratory disease,219.0
+20186,males,2017,1504.27245013979,Respiratory disease,180.0
+20187,males,2017,2208.48933305399,Respiratory disease,356.0
+20027,males,2017,1148.80946085277,Respiratory disease,218.0
+20208,males,2017,2262.32151135837,Respiratory disease,222.0
+20100,males,2017,1917.33457762332,Respiratory disease,320.0
+20094,males,2017,2401.74808718934,Respiratory disease,472.0
+20114,males,2017,1831.75792324048,Respiratory disease,330.0
+20039,males,2017,1951.06170885497,Respiratory disease,341.0
+20231,males,2017,,Respiratory disease,
+20209,males,2017,2363.79317271737,Respiratory disease,330.0
+20227,males,2017,2715.36160146705,Respiratory disease,179.0
+20228,males,2017,1707.54868205167,Respiratory disease,134.0
+20195,males,2017,3516.36534125754,Respiratory disease,261.0
+20197,males,2017,1887.28627662909,Respiratory disease,348.0
+20206,males,2017,2207.09468646063,Respiratory disease,54.0
+20201,males,2017,1835.04806606118,Respiratory disease,70.0
+20201,males,2017,2298.55813936747,Respiratory disease,1158.0
+20043,males,2017,1901.99175860389,Respiratory disease,488.0
+20118,males,2017,388.929705837998,Respiratory disease,79.0
+20119,males,2017,3648.93327301515,Respiratory disease,437.0
+20035,males,2017,1589.33930464097,Respiratory disease,288.0
+20036,males,2017,1582.67859343157,Respiratory disease,241.0
+20156,males,2017,3394.30573806089,Respiratory disease,179.0
+20232,males,2017,1773.35394069934,Respiratory disease,157.0
+20040,males,2017,1883.99650643878,Respiratory disease,347.0
+20087,males,2017,3273.09047602155,Respiratory disease,198.0
+20000,males,2017,2104.17004859803,Respiratory disease,242.0
+20001,males,2017,1786.6755201898,Respiratory disease,281.0
+20032,males,2017,1566.34576190806,Respiratory disease,316.0
+20259,males,2017,2157.4797652079,Respiratory disease,299.0
+20054,males,2017,2429.73284541018,Respiratory disease,333.0
+20068,males,2017,,Respiratory disease,
+20069,males,2017,,Respiratory disease,
+20115,males,2017,857.070216888272,Respiratory disease,72.0
+20037,males,2017,1733.80329492557,Respiratory disease,214.0
+20143,males,2017,,Respiratory disease,
+20196,males,2017,2445.33884590727,Respiratory disease,159.0
+20028,males,2017,1775.08164306567,Respiratory disease,349.0
+20088,males,2017,3309.62129878115,Respiratory disease,236.0
+20271,males,2017,,Respiratory disease,
+20008,males,2017,1319.89301852444,Respiratory disease,83.0
+20023,males,2017,1937.76829169252,Respiratory disease,181.0
+20044,males,2017,1993.67559272846,Respiratory disease,243.0
+20161,males,2017,2259.95559215994,Respiratory disease,254.0
+20050,males,2017,1696.26243023036,Respiratory disease,110.0
+20172,males,2017,2782.00303183077,Respiratory disease,484.0
+20124,males,2017,2025.0611791099,Respiratory disease,524.0
+20202,males,2017,1837.01925550732,Respiratory disease,213.0
+20202,males,2017,1842.46032294461,Respiratory disease,511.0
+20045,males,2017,2376.29722319878,Respiratory disease,353.0
+20051,males,2017,1605.47442887496,Respiratory disease,179.0
+20041,males,2017,1116.32201822582,Respiratory disease,84.0
+20108,males,2017,1918.15925193016,Respiratory disease,438.0
+20244,males,2017,1928.76806348476,Respiratory disease,114.0
+20130,males,2017,1705.02446243368,Respiratory disease,203.0
+20138,males,2017,1818.66985736632,Respiratory disease,158.0
+20218,males,2017,1795.08664509434,Respiratory disease,149.0
+20264,males,2017,2183.55360046235,Respiratory disease,309.0
+20002,males,2017,2221.79732314507,Respiratory disease,290.0
+20082,males,2017,1229.3519135101,Respiratory disease,73.0
+20272,males,2017,2251.67368298281,Respiratory disease,158.0
+20273,males,2017,1868.99020986519,Respiratory disease,176.0
+20024,males,2017,1848.16710476319,Respiratory disease,150.0
+20210,males,2017,3134.81442095378,Respiratory disease,420.0
+20089,males,2017,2067.8200807309,Respiratory disease,596.0
+20125,males,2017,2822.88948232692,Respiratory disease,230.0
+20126,males,2017,2886.72434420537,Respiratory disease,464.0
+20190,males,2017,1930.01427574588,Respiratory disease,91.0
+20101,males,2017,2278.63882501376,Respiratory disease,381.0
+20101,males,2017,2284.60068721187,Respiratory disease,1236.0
+20102,males,2017,1217.28366085147,Respiratory disease,212.0
+20102,males,2017,1993.93492072519,Respiratory disease,323.0
+20131,males,2017,3155.760826028,Respiratory disease,398.0
+20132,males,2017,1726.28573062014,Respiratory disease,255.0
+20191,males,2017,1709.42050575825,Respiratory disease,91.0
+20144,males,2017,1982.30049381315,Respiratory disease,231.0
+20145,males,2017,,Respiratory disease,
+20133,males,2017,2038.14739995533,Respiratory disease,111.0
+20009,males,2017,1111.57244406261,Respiratory disease,131.0
+20033,males,2017,1454.70252259068,Respiratory disease,252.0
+20099,males,2017,1625.68451815172,Respiratory disease,223.0
+20074,males,2017,2140.83044373875,Respiratory disease,671.0
+20120,males,2017,,Respiratory disease,
+20177,males,2017,3149.21994543773,Respiratory disease,179.0
+20236,males,2017,1873.54023528804,Respiratory disease,179.0
+20010,males,2017,513.01193254514,Respiratory disease,29.0
+20262,males,2017,2651.22730993603,Respiratory disease,296.0
+20046,males,2017,2435.50243289062,Respiratory disease,122.0
+20064,males,2017,1751.74635001174,Respiratory disease,154.0
+20016,males,2017,1543.61254935231,Respiratory disease,96.0
+20121,males,2017,1707.42413272665,Respiratory disease,200.0
+20070,males,2017,2359.80865475326,Respiratory disease,436.0
+20006,males,2017,1933.46769632976,Respiratory disease,393.0
+20083,males,2017,3852.6564546258,Respiratory disease,211.0
+20095,males,2017,2704.49242028536,Respiratory disease,362.0
+20007,males,2017,1453.76002292396,Respiratory disease,63.0
+20011,males,2017,2547.0571318402,Respiratory disease,116.0
+20178,males,2017,1410.31565418369,Respiratory disease,229.0
+20157,males,2017,2032.7120189922,Respiratory disease,246.0
+20104,males,2017,1285.68319533009,Respiratory disease,100.0
+20240,males,2017,1862.64851521704,Respiratory disease,328.0
+20173,males,2017,4318.97242909002,Respiratory disease,534.0
+20174,males,2017,,Respiratory disease,
+20175,males,2017,1808.83471036142,Respiratory disease,147.0
+20241,males,2017,,Respiratory disease,
+20211,males,2017,2580.51288927677,Respiratory disease,250.0
+20080,males,2017,1431.32872860489,Respiratory disease,172.0
+20090,males,2017,1982.9824540636,Respiratory disease,296.0
+20029,males,2017,1988.97334536956,Respiratory disease,162.0
+20139,males,2017,2667.79567833276,Respiratory disease,511.0
+20140,males,2017,1238.68687155912,Respiratory disease,212.0
+20269,males,2017,1793.64161420385,Respiratory disease,279.0
+20084,males,2017,2304.52950085944,Respiratory disease,384.0
+20193,males,2017,2435.30371693738,Respiratory disease,59.0
+20055,males,2017,1898.50056016932,Respiratory disease,366.0
+20091,males,2017,1740.74752804946,Respiratory disease,198.0
+20212,males,2017,2179.86646564249,Respiratory disease,290.0
+20122,males,2017,2829.04292329389,Respiratory disease,136.0
+20270,males,2017,,Respiratory disease,
+20042,males,2017,2077.03840163602,Respiratory disease,214.0
+20127,males,2017,2300.16175539509,Respiratory disease,232.0
+20179,males,2017,2286.86376111423,Respiratory disease,244.0
+20030,males,2017,1377.04050160006,Respiratory disease,233.0
+20109,males,2017,2492.86660988284,Respiratory disease,148.0
+20203,males,2017,2206.9811025281,Respiratory disease,67.0
+20203,males,2017,2326.70299774077,Respiratory disease,168.0
+20056,males,2017,1511.30485415898,Respiratory disease,316.0
+20057,males,2017,1610.15515900058,Respiratory disease,140.0
+20213,males,2017,1894.30814742416,Respiratory disease,319.0
+20162,males,2017,2162.83479557899,Respiratory disease,287.0
+20165,males,2017,962.044716666961,Respiratory disease,146.0
+20166,males,2017,3125.2756202198,Respiratory disease,357.0
+20252,males,2017,1927.20736284064,Respiratory disease,170.0
+20253,males,2017,,Respiratory disease,
+20047,males,2017,1194.80404294321,Respiratory disease,57.0
+20065,males,2017,705.957976108932,Respiratory disease,105.0
+20255,males,2017,1332.80494858632,Respiratory disease,115.0
+20058,males,2017,1556.39422710486,Respiratory disease,84.0
+20059,males,2017,1259.12802831313,Respiratory disease,58.0
+20198,males,2017,2395.16890304522,Respiratory disease,264.0
+20077,males,2017,1268.35343295119,Respiratory disease,89.0
+20146,males,2017,1522.47654944847,Respiratory disease,135.0
+20031,males,2017,1588.39499319541,Respiratory disease,259.0
+20134,males,2017,2549.00297012036,Respiratory disease,231.0
+20223,males,2017,2215.60740726072,Respiratory disease,220.0
+20110,males,2017,3137.38467557523,Respiratory disease,186.0
+20066,males,2017,1276.7468059274,Respiratory disease,35.0
+20060,males,2017,1117.52004110094,Respiratory disease,37.0
+20049,males,2017,1365.72710957459,Respiratory disease,396.0
+20052,males,2017,1966.59678775484,Respiratory disease,501.0
+20096,males,2017,1540.45001865366,Respiratory disease,101.0
+20116,males,2017,1702.31477680102,Respiratory disease,110.0
+20263,males,2017,1966.47615025516,Respiratory disease,308.0
+20204,males,2017,1826.00644434466,Respiratory disease,103.0
+20071,males,2017,2319.58370444725,Respiratory disease,543.0
+20176,males,2017,2316.31435417824,Respiratory disease,337.0
+20214,males,2017,2136.76746180202,Respiratory disease,199.0
+20167,males,2017,1609.00217691701,Respiratory disease,106.0
+20215,males,2017,1982.08657357489,Respiratory disease,148.0
+20111,males,2017,2058.7608160107,Respiratory disease,272.0
+20207,males,2017,2388.00353304672,Respiratory disease,114.0
+20248,males,2017,2247.76482677959,Respiratory disease,138.0
+20219,males,2017,1852.40642991414,Respiratory disease,248.0
+20128,males,2017,1713.27690111981,Respiratory disease,123.0
+20097,males,2017,1377.8855032354,Respiratory disease,316.0
+20199,males,2017,1489.65673982457,Respiratory disease,37.0
+20053,males,2017,1627.29093880536,Respiratory disease,298.0
+20224,males,2017,2299.08869914689,Respiratory disease,124.0
+20158,males,2017,2608.10140526023,Respiratory disease,93.0
+20194,males,2017,1899.74443503036,Respiratory disease,102.0
+20092,males,2017,2104.05810353213,Respiratory disease,189.0
+20012,males,2017,1123.15493271379,Respiratory disease,131.0
+20163,males,2017,2268.78103356024,Respiratory disease,122.0
+20164,males,2017,2701.21198535862,Respiratory disease,475.0
+20256,males,2017,1347.46438608053,Respiratory disease,53.0
+20257,males,2017,2418.49746703044,Respiratory disease,384.0
+20072,males,2017,6310.94221947003,Respiratory disease,261.0
+20073,males,2017,,Respiratory disease,
+20105,males,2017,1412.75455327321,Respiratory disease,344.0
+20245,males,2017,2440.01458885837,Respiratory disease,430.0
+20265,males,2017,1771.3098346341,Respiratory disease,142.0
+20112,males,2017,944.727095090628,Respiratory disease,133.0
+20266,males,2017,1590.28510155723,Respiratory disease,209.0
+20180,males,2017,2505.86650865304,Respiratory disease,493.0
+20237,males,2017,1765.68924289488,Respiratory disease,332.0
+20181,males,2017,1549.25964288096,Respiratory disease,140.0
+20141,males,2017,1420.83150803906,Respiratory disease,269.0
+20274,males,2017,2018.07668848799,Respiratory disease,179.0
+20048,males,2017,1671.50008897218,Respiratory disease,73.0
+20233,males,2017,,Respiratory disease,
+20123,males,2017,1961.45176213948,Respiratory disease,301.0
+20129,males,2017,1491.55780933113,Respiratory disease,226.0
+20216,males,2017,2748.40358136972,Respiratory disease,224.0
+20154,males,2017,1409.81070110869,Respiratory disease,261.0
+20254,males,2017,2693.95421195413,Respiratory disease,286.0
+20078,males,2017,1113.89593776354,Respiratory disease,64.0
+20135,males,2017,1884.7456201391,Respiratory disease,325.0
+20217,males,2017,2132.20584491622,Respiratory disease,183.0
+20013,males,2017,1860.0151914246,Respiratory disease,145.0
+20106,males,2017,1310.40293539872,Respiratory disease,105.0
+20220,males,2017,1830.65478760563,Respiratory disease,309.0
+20117,males,2017,2200.03484726951,Respiratory disease,513.0
+20014,males,2017,1198.91933143054,Respiratory disease,35.0
+20085,males,2017,2629.08677729028,Respiratory disease,255.0
+20242,males,2017,1887.85720314384,Respiratory disease,131.0
+20067,males,2017,937.177220667473,Respiratory disease,147.0
+20168,males,2017,1557.62323355611,Respiratory disease,295.0
+20182,males,2017,1889.48629827015,Respiratory disease,180.0
+20017,males,2017,2113.52103474657,Respiratory disease,172.0
+20221,males,2017,2127.52776662855,Respiratory disease,120.0
+20021,males,2017,2078.86309327801,Respiratory disease,353.0
+20061,males,2017,3190.75145833854,Respiratory disease,379.0
+20258,males,2017,1257.93262645701,Respiratory disease,68.0
+20062,males,2017,7798.54668895449,Respiratory disease,652.0
+20063,males,2017,,Respiratory disease,
+20025,males,2017,1732.03886119945,Respiratory disease,224.0
+20103,males,2017,1770.70553093622,Respiratory disease,211.0
+20103,males,2017,2084.77806531729,Respiratory disease,339.0
+20260,males,2017,,Respiratory disease,
+20081,males,2017,1420.32387792767,Respiratory disease,82.0
+20183,males,2017,3094.68783753682,Respiratory disease,394.0
+20093,males,2017,3132.86796764392,Respiratory disease,246.0
+20229,males,2017,,Respiratory disease,
+20249,males,2017,1925.17455996443,Respiratory disease,152.0
+20155,males,2017,395.562975472758,Respiratory disease,23.0
+20159,males,2017,2395.28781125096,Respiratory disease,247.0
+20225,males,2017,2588.0216433396,Respiratory disease,93.0
+20226,males,2017,1086.4309319425,Respiratory disease,25.0
+20267,males,2017,3919.06392623956,Respiratory disease,618.0
+20268,males,2017,558.843456961836,Respiratory disease,35.0
+20018,males,2017,2070.80869400454,Respiratory disease,117.0
+20136,males,2017,2201.85004849575,Respiratory disease,391.0
+20148,males,2017,765.759357064206,Respiratory disease,122.0
+20147,males,2017,2389.51979109029,Respiratory disease,477.0
+20019,males,2017,2020.41627820823,Respiratory disease,364.0
+20200,males,2017,1973.5453662677,Respiratory disease,89.0
+20079,males,2017,2053.07411377608,Respiratory disease,121.0
+20086,males,2017,1998.48338574522,Respiratory disease,377.0
+20038,males,2017,388.601885451509,Respiratory disease,35.0
+20261,males,2017,2233.14618134179,Respiratory disease,223.0
+20149,males,2017,1113.96726937909,Respiratory disease,99.0
+20169,males,2017,1786.66339774716,Respiratory disease,227.0
+20150,males,2017,1001.25487034043,Respiratory disease,118.0
+20034,males,2017,1327.07414299301,Respiratory disease,249.0
+20004,males,2017,1799.52395405052,Respiratory disease,161.0
+20246,males,2017,2149.94952419597,Respiratory disease,349.0
+20075,males,2017,3123.86301522493,Respiratory disease,333.0
+20230,males,2017,2207.55564384548,Respiratory disease,238.0
+20098,males,2017,2293.5045848201,Respiratory disease,308.0
+20275,males,2017,2291.26941876324,Respiratory disease,415.0
+20188,males,2017,2695.18867228617,Respiratory disease,222.0
+20170,males,2017,3258.41930916339,Respiratory disease,427.0
+20234,males,2017,2177.11544990206,Respiratory disease,435.0
+20243,males,2017,1846.55745278753,Respiratory disease,275.0
+20205,males,2017,1589.64042019243,Respiratory disease,58.0
+20171,males,2017,2673.92965453462,Respiratory disease,192.0
+20235,males,2017,1557.691079814,Respiratory disease,38.0
+20107,males,2017,1023.85949905532,Respiratory disease,263.0
+20113,males,2017,1916.24045822858,Respiratory disease,171.0
+30137,males,2017,,Respiratory disease,
+30182,males,2017,,Respiratory disease,
+30214,males,2017,,Respiratory disease,
+30107,males,2017,,Respiratory disease,
+30000,males,2017,,Respiratory disease,
+30036,males,2017,,Respiratory disease,
+30176,males,2017,,Respiratory disease,
+30215,males,2017,,Respiratory disease,
+30026,males,2017,,Respiratory disease,
+30190,males,2017,,Respiratory disease,
+30152,males,2017,,Respiratory disease,
+30059,males,2017,,Respiratory disease,
+30223,males,2017,,Respiratory disease,
+30060,males,2017,,Respiratory disease,
+30170,males,2017,,Respiratory disease,
+30014,males,2017,,Respiratory disease,
+30126,males,2017,,Respiratory disease,
+30061,males,2017,,Respiratory disease,
+30212,males,2017,,Respiratory disease,
+30123,males,2017,,Respiratory disease,
+30012,males,2017,,Respiratory disease,
+30054,males,2017,,Respiratory disease,
+30128,males,2017,,Respiratory disease,
+30138,males,2017,,Respiratory disease,
+30186,males,2017,,Respiratory disease,
+30095,males,2017,,Respiratory disease,
+30079,males,2017,,Respiratory disease,
+30080,males,2017,,Respiratory disease,
+30202,males,2017,,Respiratory disease,
+30202,males,2017,,Respiratory disease,
+30075,males,2017,,Respiratory disease,
+30001,males,2017,,Respiratory disease,
+30172,males,2017,,Respiratory disease,
+30118,males,2017,,Respiratory disease,
+30141,males,2017,,Respiratory disease,
+30088,males,2017,,Respiratory disease,
+30153,males,2017,,Respiratory disease,
+30196,males,2017,,Respiratory disease,
+30217,males,2017,,Respiratory disease,
+30066,males,2017,,Respiratory disease,
+30232,males,2017,,Respiratory disease,
+30082,males,2017,,Respiratory disease,
+30142,males,2017,,Respiratory disease,
+30174,males,2017,,Respiratory disease,
+30139,males,2017,,Respiratory disease,
+30019,males,2017,,Respiratory disease,
+30224,males,2017,,Respiratory disease,
+30069,males,2017,,Respiratory disease,
+30114,males,2017,,Respiratory disease,
+30096,males,2017,,Respiratory disease,
+30013,males,2017,,Respiratory disease,
+30020,males,2017,,Respiratory disease,
+30116,males,2017,,Respiratory disease,
+30050,males,2017,,Respiratory disease,
+30057,males,2017,,Respiratory disease,
+30058,males,2017,,Respiratory disease,
+30008,males,2017,,Respiratory disease,
+30146,males,2017,,Respiratory disease,
+30175,males,2017,,Respiratory disease,
+30083,males,2017,,Respiratory disease,
+30188,males,2017,,Respiratory disease,
+30225,males,2017,,Respiratory disease,
+30226,males,2017,,Respiratory disease,
+30070,males,2017,,Respiratory disease,
+30147,males,2017,,Respiratory disease,
+30227,males,2017,,Respiratory disease,
+30101,males,2017,,Respiratory disease,
+30101,males,2017,,Respiratory disease,
+30234,males,2017,,Respiratory disease,
+30098,males,2017,,Respiratory disease,
+30097,males,2017,,Respiratory disease,
+30117,males,2017,,Respiratory disease,
+30119,males,2017,,Respiratory disease,
+30140,males,2017,,Respiratory disease,
+30191,males,2017,,Respiratory disease,
+30192,males,2017,,Respiratory disease,
+30203,males,2017,,Respiratory disease,
+30203,males,2017,,Respiratory disease,
+30205,males,2017,,Respiratory disease,
+30023,males,2017,,Respiratory disease,
+30024,males,2017,,Respiratory disease,
+30025,males,2017,,Respiratory disease,
+30184,males,2017,,Respiratory disease,
+30159,males,2017,,Respiratory disease,
+30108,males,2017,,Respiratory disease,
+30041,males,2017,,Respiratory disease,
+30042,males,2017,,Respiratory disease,
+30135,males,2017,,Respiratory disease,
+30084,males,2017,,Respiratory disease,
+30044,males,2017,,Respiratory disease,
+30187,males,2017,,Respiratory disease,
+30213,males,2017,,Respiratory disease,
+30045,males,2017,,Respiratory disease,
+30015,males,2017,,Respiratory disease,
+30129,males,2017,,Respiratory disease,
+30071,males,2017,,Respiratory disease,
+30167,males,2017,,Respiratory disease,
+30003,males,2017,,Respiratory disease,
+30132,males,2017,,Respiratory disease,
+30104,males,2017,,Respiratory disease,
+30218,males,2017,,Respiratory disease,
+30149,males,2017,,Respiratory disease,
+30230,males,2017,,Respiratory disease,
+30193,males,2017,,Respiratory disease,
+30162,males,2017,,Respiratory disease,
+30033,males,2017,,Respiratory disease,
+30027,males,2017,,Respiratory disease,
+30089,males,2017,,Respiratory disease,
+30130,males,2017,,Respiratory disease,
+30157,males,2017,,Respiratory disease,
+30150,males,2017,,Respiratory disease,
+30125,males,2017,,Respiratory disease,
+30091,males,2017,,Respiratory disease,
+30111,males,2017,,Respiratory disease,
+30206,males,2017,,Respiratory disease,
+30063,males,2017,,Respiratory disease,
+30021,males,2017,,Respiratory disease,
+30102,males,2017,,Respiratory disease,
+30102,males,2017,,Respiratory disease,
+30219,males,2017,,Respiratory disease,
+30207,males,2017,,Respiratory disease,
+30120,males,2017,,Respiratory disease,
+30055,males,2017,,Respiratory disease,
+30177,males,2017,,Respiratory disease,
+30081,males,2017,,Respiratory disease,
+30121,males,2017,,Respiratory disease,
+30030,males,2017,,Respiratory disease,
+30178,males,2017,,Respiratory disease,
+30099,males,2017,,Respiratory disease,
+30136,males,2017,,Respiratory disease,
+30143,males,2017,,Respiratory disease,
+30049,males,2017,,Respiratory disease,
+30067,males,2017,,Respiratory disease,
+30028,males,2017,,Respiratory disease,
+30183,males,2017,,Respiratory disease,
+30064,males,2017,,Respiratory disease,
+30051,males,2017,,Respiratory disease,
+30220,males,2017,,Respiratory disease,
+30208,males,2017,,Respiratory disease,
+30086,males,2017,,Respiratory disease,
+30156,males,2017,,Respiratory disease,
+30231,males,2017,,Respiratory disease,
+30163,males,2017,,Respiratory disease,
+30221,males,2017,,Respiratory disease,
+30209,males,2017,,Respiratory disease,
+30052,males,2017,,Respiratory disease,
+30085,males,2017,,Respiratory disease,
+30029,males,2017,,Respiratory disease,
+30065,males,2017,,Respiratory disease,
+30046,males,2017,,Respiratory disease,
+30072,males,2017,,Respiratory disease,
+30073,males,2017,,Respiratory disease,
+30074,males,2017,,Respiratory disease,
+30087,males,2017,,Respiratory disease,
+30124,males,2017,,Respiratory disease,
+30016,males,2017,,Respiratory disease,
+30043,males,2017,,Respiratory disease,
+30100,males,2017,,Respiratory disease,
+30228,males,2017,,Respiratory disease,
+30229,males,2017,,Respiratory disease,
+30092,males,2017,,Respiratory disease,
+30039,males,2017,,Respiratory disease,
+30127,males,2017,,Respiratory disease,
+30154,males,2017,,Respiratory disease,
+30204,males,2017,,Respiratory disease,
+30204,males,2017,,Respiratory disease,
+30115,males,2017,,Respiratory disease,
+30068,males,2017,,Respiratory disease,
+30093,males,2017,,Respiratory disease,
+30090,males,2017,,Respiratory disease,
+30173,males,2017,,Respiratory disease,
+30009,males,2017,,Respiratory disease,
+30122,males,2017,,Respiratory disease,
+30032,males,2017,,Respiratory disease,
+30105,males,2017,,Respiratory disease,
+30194,males,2017,,Respiratory disease,
+30235,males,2017,,Respiratory disease,
+30148,males,2017,,Respiratory disease,
+30210,males,2017,,Respiratory disease,
+30131,males,2017,,Respiratory disease,
+30195,males,2017,,Respiratory disease,
+30034,males,2017,,Respiratory disease,
+30103,males,2017,,Respiratory disease,
+30103,males,2017,,Respiratory disease,
+30056,males,2017,,Respiratory disease,
+30031,males,2017,,Respiratory disease,
+30185,males,2017,,Respiratory disease,
+30216,males,2017,,Respiratory disease,
+30189,males,2017,,Respiratory disease,
+30158,males,2017,,Respiratory disease,
+30010,males,2017,,Respiratory disease,
+30112,males,2017,,Respiratory disease,
+30198,males,2017,,Respiratory disease,
+30160,males,2017,,Respiratory disease,
+30077,males,2017,,Respiratory disease,
+30053,males,2017,,Respiratory disease,
+30211,males,2017,,Respiratory disease,
+30199,males,2017,,Respiratory disease,
+30197,males,2017,,Respiratory disease,
+30113,males,2017,,Respiratory disease,
+30222,males,2017,,Respiratory disease,
+30018,males,2017,,Respiratory disease,
+30180,males,2017,,Respiratory disease,
+30165,males,2017,,Respiratory disease,
+30166,males,2017,,Respiratory disease,
+30161,males,2017,,Respiratory disease,
+30062,males,2017,,Respiratory disease,
+30037,males,2017,,Respiratory disease,
+30151,males,2017,,Respiratory disease,
+30155,males,2017,,Respiratory disease,
+30200,males,2017,,Respiratory disease,
+30179,males,2017,,Respiratory disease,
+30004,males,2017,,Respiratory disease,
+30005,males,2017,,Respiratory disease,
+30168,males,2017,,Respiratory disease,
+30094,males,2017,,Respiratory disease,
+30145,males,2017,,Respiratory disease,
+30144,males,2017,,Respiratory disease,
+30038,males,2017,,Respiratory disease,
+30110,males,2017,,Respiratory disease,
+30181,males,2017,,Respiratory disease,
+30106,males,2017,,Respiratory disease,
+30171,males,2017,,Respiratory disease,
+30076,males,2017,,Respiratory disease,
+30078,males,2017,,Respiratory disease,
+30047,males,2017,,Respiratory disease,
+30017,males,2017,,Respiratory disease,
+30133,males,2017,,Respiratory disease,
+30040,males,2017,,Respiratory disease,
+30035,males,2017,,Respiratory disease,
+30201,males,2017,,Respiratory disease,
+30201,males,2017,,Respiratory disease,
+30048,males,2017,,Respiratory disease,
+30109,males,2017,,Respiratory disease,
+30006,males,2017,,Respiratory disease,
+30233,males,2017,,Respiratory disease,
+30164,males,2017,,Respiratory disease,
+30169,males,2017,,Respiratory disease,
+30007,males,2017,,Respiratory disease,
+30134,males,2017,,Respiratory disease,
+30002,males,2017,,Respiratory disease,
+30011,males,2017,,Respiratory disease,
+30022,males,2017,,Respiratory disease,
+40044,males,2017,1784.37295412492,Respiratory disease,225.0
+40000,males,2017,1384.56108381378,Respiratory disease,86.0
+40061,males,2017,1313.004470581,Respiratory disease,142.0
+40002,males,2017,1789.40525159523,Respiratory disease,148.0
+40003,males,2017,1518.86470461129,Respiratory disease,184.0
+40045,males,2017,2501.9463583283,Respiratory disease,173.0
+40082,males,2017,,Respiratory disease,
+40008,males,2017,1300.96106429061,Respiratory disease,63.0
+40097,males,2017,3240.76810060001,Respiratory disease,183.0
+40065,males,2017,1971.89397084369,Respiratory disease,134.0
+40041,males,2017,1227.1008695322,Respiratory disease,223.0
+40053,males,2017,1773.50959945217,Respiratory disease,267.0
+40037,males,2017,2744.97875678632,Respiratory disease,442.0
+60028,males,2017,,Respiratory disease,
+40006,males,2017,1365.63453048036,Respiratory disease,142.0
+40077,males,2017,,Respiratory disease,
+40056,males,2017,2103.65583467513,Respiratory disease,290.0
+40046,males,2017,5164.3565821906,Respiratory disease,259.0
+40020,males,2017,2939.08286353479,Respiratory disease,245.0
+40047,males,2017,2236.25226748324,Respiratory disease,168.0
+40068,males,2017,1337.77189390275,Respiratory disease,92.0
+40048,males,2017,1209.27544357015,Respiratory disease,129.0
+40042,males,2017,1964.14873705146,Respiratory disease,262.0
+40083,males,2017,,Respiratory disease,
+40027,males,2017,2372.76546510582,Respiratory disease,220.0
+40058,males,2017,3489.30782575965,Respiratory disease,389.0
+40038,males,2017,2375.12561027132,Respiratory disease,326.0
+40021,males,2017,3422.1102454166,Respiratory disease,233.0
+40022,males,2017,3679.22749930523,Respiratory disease,428.0
+40024,males,2017,1870.92763197361,Respiratory disease,219.0
+40078,males,2017,2577.77666677945,Respiratory disease,109.0
+40089,males,2017,3065.55110799558,Respiratory disease,532.0
+40054,males,2017,2142.69596307411,Respiratory disease,375.0
+40062,males,2017,767.0455498166,Respiratory disease,84.0
+40016,males,2017,1816.42234497554,Respiratory disease,83.0
+40050,males,2017,2106.74105466428,Respiratory disease,260.0
+40017,males,2017,2804.94774458755,Respiratory disease,312.0
+40007,males,2017,1469.66040294605,Respiratory disease,206.0
+40055,males,2017,2504.82035179222,Respiratory disease,141.0
+40032,males,2017,1624.62957908828,Respiratory disease,198.0
+40014,males,2017,2067.76651327883,Respiratory disease,178.0
+40049,males,2017,2410.82334304001,Respiratory disease,333.0
+50049,males,2017,1948.33292685143,Respiratory disease,89.0
+40069,males,2017,2312.89967072662,Respiratory disease,62.0
+40004,males,2017,1861.04358964214,Respiratory disease,151.0
+60004,males,2017,,Respiratory disease,
+40090,males,2017,1693.72326422758,Respiratory disease,54.0
+40051,males,2017,2326.22232220314,Respiratory disease,337.0
+40033,males,2017,1347.03792184271,Respiratory disease,102.0
+40034,males,2017,2427.84473432104,Respiratory disease,216.0
+40028,males,2017,2491.59423080834,Respiratory disease,201.0
+40071,males,2017,1178.61669409757,Respiratory disease,95.0
+40001,males,2017,941.318752605176,Respiratory disease,32.0
+40074,males,2017,1812.10607866254,Respiratory disease,132.0
+40086,males,2017,,Respiratory disease,
+40018,males,2017,2648.19074072243,Respiratory disease,72.0
+40066,males,2017,2278.8208165108,Respiratory disease,123.0
+40098,males,2017,1489.31732418143,Respiratory disease,171.0
+40079,males,2017,,Respiratory disease,
+40099,males,2017,1536.72045382264,Respiratory disease,120.0
+40010,males,2017,1810.5443193686,Respiratory disease,223.0
+40091,males,2017,1664.86037974502,Respiratory disease,113.0
+40059,males,2017,2312.04163362334,Respiratory disease,338.0
+40085,males,2017,,Respiratory disease,
+40100,males,2017,1735.10144770614,Respiratory disease,112.0
+40039,males,2017,1917.95859367504,Respiratory disease,333.0
+40092,males,2017,4590.79145378701,Respiratory disease,98.0
+40040,males,2017,3046.90249199114,Respiratory disease,380.0
+40035,males,2017,2054.59464159394,Respiratory disease,341.0
+40005,males,2017,2580.72633214787,Respiratory disease,228.0
+40093,males,2017,3841.42258539782,Respiratory disease,394.0
+40101,males,2017,3881.50595906836,Respiratory disease,261.0
+40101,males,2017,1227.78019751069,Respiratory disease,118.0
+40013,males,2017,1705.33813610796,Respiratory disease,243.0
+40094,males,2017,4007.65579243391,Respiratory disease,103.0
+40095,males,2017,,Respiratory disease,
+40025,males,2017,2452.32083458354,Respiratory disease,307.0
+40011,males,2017,1717.12246111128,Respiratory disease,198.0
+40067,males,2017,2394.83686662499,Respiratory disease,140.0
+40009,males,2017,1926.64099441717,Respiratory disease,219.0
+40023,males,2017,788.658283428109,Respiratory disease,10.0
+40043,males,2017,1461.81931840458,Respiratory disease,95.0
+40029,males,2017,2278.69999804312,Respiratory disease,385.0
+40030,males,2017,2463.46480494682,Respiratory disease,389.0
+40012,males,2017,1722.97781087742,Respiratory disease,117.0
+40072,males,2017,,Respiratory disease,
+40096,males,2017,1979.97756593554,Respiratory disease,78.0
+40019,males,2017,2494.79154338487,Respiratory disease,419.0
+40063,males,2017,2774.26836507814,Respiratory disease,216.0
+40084,males,2017,2673.97339182212,Respiratory disease,325.0
+40080,males,2017,3708.98512126912,Respiratory disease,165.0
+40073,males,2017,5930.07472259344,Respiratory disease,321.0
+40102,males,2017,,Respiratory disease,
+40102,males,2017,1904.44735430288,Respiratory disease,711.0
+40052,males,2017,2944.54759002863,Respiratory disease,107.0
+40064,males,2017,3699.66238679226,Respiratory disease,211.0
+40031,males,2017,3002.02766993451,Respiratory disease,524.0
+40036,males,2017,1714.85073443333,Respiratory disease,158.0
+40087,males,2017,828.680392821554,Respiratory disease,65.0
+40088,males,2017,1674.17622444837,Respiratory disease,65.0
+40060,males,2017,,Respiratory disease,
+40015,males,2017,1840.59479669669,Respiratory disease,192.0
+40103,males,2017,,Respiratory disease,
+40057,males,2017,3021.58783857028,Respiratory disease,136.0
+40103,males,2017,1425.35674819733,Respiratory disease,348.0
+40070,males,2017,2432.09114690362,Respiratory disease,113.0
+40075,males,2017,1884.43166658859,Respiratory disease,55.0
+40081,males,2017,4933.50530554369,Respiratory disease,334.0
+40026,males,2017,2202.90222159704,Respiratory disease,223.0
+40076,males,2017,2132.84831334703,Respiratory disease,146.0
+50029,males,2017,1371.90222873545,Respiratory disease,93.0
+50116,males,2017,3325.65743394171,Respiratory disease,185.0
+50117,males,2017,1237.86165235551,Respiratory disease,107.0
+50072,males,2017,1708.37528673916,Respiratory disease,227.0
+50083,males,2017,1673.54233730997,Respiratory disease,145.0
+50046,males,2017,827.114289060198,Respiratory disease,132.0
+50045,males,2017,2430.85334213585,Respiratory disease,213.0
+50109,males,2017,948.990650061922,Respiratory disease,53.0
+50080,males,2017,1286.3204425138,Respiratory disease,99.0
+50126,males,2017,3146.12482449797,Respiratory disease,64.0
+50033,males,2017,1240.01808720097,Respiratory disease,336.0
+50076,males,2017,2710.89059428475,Respiratory disease,453.0
+50034,males,2017,1597.52448995297,Respiratory disease,270.0
+50039,males,2017,1820.1517101156,Respiratory disease,337.0
+50020,males,2017,749.356751653464,Respiratory disease,173.0
+50063,males,2017,1638.03615701961,Respiratory disease,225.0
+50013,males,2017,2347.04969055586,Respiratory disease,144.0
+50103,males,2017,,Respiratory disease,
+50015,males,2017,2708.8104468287,Respiratory disease,315.0
+50055,males,2017,1974.23308855516,Respiratory disease,456.0
+50021,males,2017,1774.89711711862,Respiratory disease,119.0
+50064,males,2017,1069.51777369519,Respiratory disease,110.0
+50050,males,2017,2177.57866853798,Respiratory disease,368.0
+50073,males,2017,1492.59834826771,Respiratory disease,271.0
+50097,males,2017,3387.46528144842,Respiratory disease,174.0
+50091,males,2017,1122.64856622287,Respiratory disease,96.0
+50101,males,2017,3490.10555169886,Respiratory disease,206.0
+50101,males,2017,1544.02915632299,Respiratory disease,437.0
+50074,males,2017,1241.1112103785,Respiratory disease,232.0
+50103,males,2017,1025.64652603539,Respiratory disease,210.0
+50084,males,2017,2335.76772238483,Respiratory disease,262.0
+50081,males,2017,1794.32998921231,Respiratory disease,266.0
+50053,males,2017,947.962139653916,Respiratory disease,275.0
+50082,males,2017,1245.30246716396,Respiratory disease,72.0
+50060,males,2017,1740.44558503347,Respiratory disease,201.0
+50047,males,2017,1456.17182320136,Respiratory disease,149.0
+50052,males,2017,1187.82058161719,Respiratory disease,265.0
+50056,males,2017,1477.84916170403,Respiratory disease,212.0
+50085,males,2017,1655.02280175257,Respiratory disease,44.0
+50086,males,2017,2019.6886550091,Respiratory disease,68.0
+50098,males,2017,2151.94316869988,Respiratory disease,83.0
+50095,males,2017,,Respiratory disease,
+50040,males,2017,1901.5235475527,Respiratory disease,203.0
+50066,males,2017,1661.51343839168,Respiratory disease,79.0
+50017,males,2017,622.013659029262,Respiratory disease,99.0
+50122,males,2017,1952.13549306976,Respiratory disease,133.0
+50006,males,2017,1238.36963057648,Respiratory disease,82.0
+50087,males,2017,2606.75805454485,Respiratory disease,120.0
+50061,males,2017,2097.46205729355,Respiratory disease,227.0
+50115,males,2017,4504.79469755265,Respiratory disease,184.0
+50065,males,2017,958.713307893064,Respiratory disease,154.0
+50077,males,2017,2582.67059947177,Respiratory disease,290.0
+50089,males,2017,1181.93243796401,Respiratory disease,73.0
+50008,males,2017,1496.75951053943,Respiratory disease,195.0
+50007,males,2017,1297.37027179983,Respiratory disease,212.0
+50026,males,2017,1960.49774871365,Respiratory disease,95.0
+50123,males,2017,1617.28762704443,Respiratory disease,153.0
+50027,males,2017,1276.7324956342,Respiratory disease,72.0
+50088,males,2017,1325.95617959177,Respiratory disease,102.0
+60005,males,2017,,Respiratory disease,
+50000,males,2017,1352.84171067376,Respiratory disease,132.0
+50118,males,2017,,Respiratory disease,
+50102,males,2017,,Respiratory disease,
+50102,males,2017,1840.04351224547,Respiratory disease,947.0
+50023,males,2017,1449.91185479248,Respiratory disease,38.0
+50035,males,2017,1970.78539814132,Respiratory disease,359.0
+50124,males,2017,1579.26125703789,Respiratory disease,123.0
+50028,males,2017,1119.07681458998,Respiratory disease,231.0
+50058,males,2017,1714.32753600917,Respiratory disease,247.0
+50068,males,2017,1857.60874144942,Respiratory disease,194.0
+50110,males,2017,,Respiratory disease,
+50022,males,2017,2568.76976821689,Respiratory disease,415.0
+50093,males,2017,1793.20847370272,Respiratory disease,116.0
+50094,males,2017,,Respiratory disease,
+50096,males,2017,,Respiratory disease,
+50048,males,2017,2134.92774628525,Respiratory disease,108.0
+50069,males,2017,1268.06521111648,Respiratory disease,127.0
+50104,males,2017,1931.4324832572,Respiratory disease,76.0
+50105,males,2017,2416.90631067189,Respiratory disease,112.0
+50001,males,2017,2414.40985246749,Respiratory disease,454.0
+50106,males,2017,3313.83432603677,Respiratory disease,335.0
+50018,males,2017,1617.09340002085,Respiratory disease,108.0
+50119,males,2017,1595.40044791515,Respiratory disease,70.0
+50002,males,2017,2006.15908347479,Respiratory disease,185.0
+50067,males,2017,2364.11413326892,Respiratory disease,276.0
+50030,males,2017,1528.57308777017,Respiratory disease,171.0
+50036,males,2017,1722.05121218366,Respiratory disease,286.0
+50090,males,2017,1876.59278556127,Respiratory disease,133.0
+50107,males,2017,2142.20795277882,Respiratory disease,169.0
+50031,males,2017,1381.50891701891,Respiratory disease,203.0
+50059,males,2017,1655.61461632112,Respiratory disease,190.0
+50099,males,2017,3545.95455670049,Respiratory disease,212.0
+50111,males,2017,2742.34795014438,Respiratory disease,184.0
+50120,males,2017,3103.80975684171,Respiratory disease,77.0
+50011,males,2017,1103.20264683072,Respiratory disease,212.0
+50032,males,2017,1598.49028416447,Respiratory disease,243.0
+50127,males,2017,1297.33854186267,Respiratory disease,119.0
+50070,males,2017,883.064357405114,Respiratory disease,136.0
+50071,males,2017,1267.637032573,Respiratory disease,193.0
+50100,males,2017,,Respiratory disease,
+50024,males,2017,2609.54404418487,Respiratory disease,274.0
+80020,males,2017,,Respiratory disease,
+50041,males,2017,1837.22380487547,Respiratory disease,168.0
+50003,males,2017,1275.45660735284,Respiratory disease,51.0
+50004,males,2017,2530.31458465196,Respiratory disease,183.0
+50092,males,2017,956.080396995182,Respiratory disease,114.0
+80021,males,2017,,Respiratory disease,
+50062,males,2017,3704.7747262752,Respiratory disease,104.0
+50121,males,2017,3026.4350223815,Respiratory disease,125.0
+50025,males,2017,2086.85617847815,Respiratory disease,124.0
+50042,males,2017,1193.49139009628,Respiratory disease,112.0
+50108,males,2017,,Respiratory disease,
+50014,males,2017,2891.50217667817,Respiratory disease,213.0
+50009,males,2017,776.44814703194,Respiratory disease,99.0
+50010,males,2017,1170.20776158333,Respiratory disease,95.0
+50128,males,2017,3946.67586323767,Respiratory disease,72.0
+50112,males,2017,,Respiratory disease,
+50016,males,2017,3653.42751893755,Respiratory disease,81.0
+50054,males,2017,1230.86496601633,Respiratory disease,89.0
+50012,males,2017,1286.69327859957,Respiratory disease,222.0
+60006,males,2017,,Respiratory disease,
+50125,males,2017,2843.11759043709,Respiratory disease,174.0
+50005,males,2017,2631.55783008994,Respiratory disease,129.0
+50113,males,2017,,Respiratory disease,
+50078,males,2017,2854.89874000319,Respiratory disease,110.0
+50114,males,2017,,Respiratory disease,
+50079,males,2017,2886.32518554246,Respiratory disease,334.0
+50037,males,2017,1304.11353450474,Respiratory disease,261.0
+50019,males,2017,3432.88877262188,Respiratory disease,152.0
+50057,males,2017,2038.881059686,Respiratory disease,186.0
+50051,males,2017,1667.73337621094,Respiratory disease,254.0
+50043,males,2017,2088.3763651434,Respiratory disease,229.0
+50038,males,2017,1604.88174168772,Respiratory disease,256.0
+50075,males,2017,832.627951379346,Respiratory disease,45.0
+50044,males,2017,1320.26612605182,Respiratory disease,198.0
+60036,males,2017,,Respiratory disease,
+60007,males,2017,,Respiratory disease,
+60002,males,2017,,Respiratory disease,
+60024,males,2017,,Respiratory disease,
+60031,males,2017,,Respiratory disease,
+60037,males,2017,,Respiratory disease,
+60008,males,2017,,Respiratory disease,
+60003,males,2017,,Respiratory disease,
+60030,males,2017,,Respiratory disease,
+60032,males,2017,,Respiratory disease,
+60025,males,2017,,Respiratory disease,
+70003,males,2017,,Respiratory disease,
+60000,males,2017,,Respiratory disease,
+60001,males,2017,,Respiratory disease,
+60009,males,2017,,Respiratory disease,
+60041,males,2017,,Respiratory disease,
+60027,males,2017,,Respiratory disease,
+60017,males,2017,,Respiratory disease,
+60042,males,2017,,Respiratory disease,
+60034,males,2017,,Respiratory disease,
+60033,males,2017,,Respiratory disease,
+60026,males,2017,,Respiratory disease,
+70012,males,2017,,Respiratory disease,
+60014,males,2017,,Respiratory disease,
+60018,males,2017,,Respiratory disease,
+60047,males,2017,,Respiratory disease,
+60019,males,2017,,Respiratory disease,
+60012,males,2017,,Respiratory disease,
+60013,males,2017,,Respiratory disease,
+60043,males,2017,,Respiratory disease,
+60021,males,2017,,Respiratory disease,
+60011,males,2017,,Respiratory disease,
+60022,males,2017,,Respiratory disease,
+60029,males,2017,,Respiratory disease,
+60015,males,2017,,Respiratory disease,
+60016,males,2017,,Respiratory disease,
+60044,males,2017,,Respiratory disease,
+60010,males,2017,,Respiratory disease,
+60020,males,2017,,Respiratory disease,
+60048,males,2017,,Respiratory disease,
+60046,males,2017,,Respiratory disease,
+60038,males,2017,,Respiratory disease,
+60045,males,2017,,Respiratory disease,
+60023,males,2017,,Respiratory disease,
+60049,males,2017,,Respiratory disease,
+60035,males,2017,,Respiratory disease,
+80000,males,2017,,Respiratory disease,
+60039,males,2017,,Respiratory disease,
+60050,males,2017,,Respiratory disease,
+60040,males,2017,,Respiratory disease,
+80001,males,2017,,Respiratory disease,
+70008,males,2017,,Respiratory disease,
+70007,males,2017,,Respiratory disease,
+70011,males,2017,,Respiratory disease,
+70009,males,2017,,Respiratory disease,
+70010,males,2017,,Respiratory disease,
+70000,males,2017,,Respiratory disease,
+70002,males,2017,,Respiratory disease,
+70001,males,2017,,Respiratory disease,
+70006,males,2017,,Respiratory disease,
+70013,males,2017,,Respiratory disease,
+70004,males,2017,,Respiratory disease,
+70005,males,2017,,Respiratory disease,
+80006,males,2017,,Respiratory disease,
+80023,males,2017,,Respiratory disease,
+80003,males,2017,,Respiratory disease,
+80004,males,2017,,Respiratory disease,
+80016,males,2017,,Respiratory disease,
+80022,males,2017,,Respiratory disease,
+80002,males,2017,,Respiratory disease,
+80017,males,2017,,Respiratory disease,
+80007,males,2017,,Respiratory disease,
+80008,males,2017,,Respiratory disease,
+80011,males,2017,,Respiratory disease,
+80010,males,2017,,Respiratory disease,
+80012,males,2017,,Respiratory disease,
+80013,males,2017,,Respiratory disease,
+80018,males,2017,,Respiratory disease,
+80024,males,2017,,Respiratory disease,
+80009,males,2017,,Respiratory disease,
+80014,males,2017,,Respiratory disease,
+80015,males,2017,,Respiratory disease,
+80019,males,2017,,Respiratory disease,
+80005,males,2017,,Respiratory disease,
+10283,males,2017,,Asthma,
+10225,males,2017,,Asthma,
+10226,males,2017,,Asthma,
+10249,males,2017,,Asthma,
+10250,males,2017,,Asthma,
+10251,males,2017,,Asthma,
+10211,males,2017,,Asthma,
+10256,males,2017,,Asthma,
+10257,males,2017,,Asthma,
+10258,males,2017,,Asthma,
+10063,males,2017,,Asthma,
+10137,males,2017,,Asthma,
+10071,males,2017,,Asthma,
+10080,males,2017,,Asthma,
+10118,males,2017,,Asthma,
+10090,males,2017,,Asthma,
+10230,males,2017,,Asthma,
+10292,males,2017,,Asthma,
+10293,males,2017,,Asthma,
+10069,males,2017,,Asthma,
+10049,males,2017,,Asthma,
+10103,males,2017,,Asthma,
+10103,males,2017,,Asthma,
+10050,males,2017,,Asthma,
+10007,males,2017,,Asthma,
+10172,males,2017,,Asthma,
+10173,males,2017,,Asthma,
+10014,males,2017,,Asthma,
+10091,males,2017,,Asthma,
+10168,males,2017,,Asthma,
+10188,males,2017,,Asthma,
+10270,males,2017,,Asthma,
+10271,males,2017,,Asthma,
+10055,males,2017,,Asthma,
+10284,males,2017,,Asthma,
+10220,males,2017,,Asthma,
+10318,males,2017,,Asthma,
+10064,males,2017,,Asthma,
+10105,males,2017,,Asthma,
+10105,males,2017,,Asthma,
+10021,males,2017,,Asthma,
+10022,males,2017,,Asthma,
+10106,males,2017,,Asthma,
+10106,males,2017,,Asthma,
+10182,males,2017,,Asthma,
+10107,males,2017,,Asthma,
+10108,males,2017,,Asthma,
+10278,males,2017,,Asthma,
+10164,males,2017,,Asthma,
+10041,males,2017,,Asthma,
+10042,males,2017,,Asthma,
+10279,males,2017,,Asthma,
+10142,males,2017,,Asthma,
+10032,males,2017,,Asthma,
+10031,males,2017,,Asthma,
+10193,males,2017,,Asthma,
+10326,males,2017,,Asthma,
+10098,males,2017,,Asthma,
+10161,males,2017,,Asthma,
+10201,males,2017,,Asthma,
+10201,males,2017,,Asthma,
+10195,males,2017,,Asthma,
+10294,males,2017,,Asthma,
+10236,males,2017,,Asthma,
+10072,males,2017,,Asthma,
+10295,males,2017,,Asthma,
+10143,males,2017,,Asthma,
+10001,males,2017,,Asthma,
+10319,males,2017,,Asthma,
+10109,males,2017,,Asthma,
+10096,males,2017,,Asthma,
+10099,males,2017,,Asthma,
+10068,males,2017,,Asthma,
+10067,males,2017,,Asthma,
+10144,males,2017,,Asthma,
+10073,males,2017,,Asthma,
+10150,males,2017,,Asthma,
+10121,males,2017,,Asthma,
+10298,males,2017,,Asthma,
+10299,males,2017,,Asthma,
+10016,males,2017,,Asthma,
+10017,males,2017,,Asthma,
+10015,males,2017,,Asthma,
+10147,males,2017,,Asthma,
+10202,males,2017,,Asthma,
+10202,males,2017,,Asthma,
+10203,males,2017,,Asthma,
+10272,males,2017,,Asthma,
+10077,males,2017,,Asthma,
+10123,males,2017,,Asthma,
+10010,males,2017,,Asthma,
+10100,males,2017,,Asthma,
+10194,males,2017,,Asthma,
+10139,males,2017,,Asthma,
+10189,males,2017,,Asthma,
+10175,males,2017,,Asthma,
+10045,males,2017,,Asthma,
+10165,males,2017,,Asthma,
+10166,males,2017,,Asthma,
+10196,males,2017,,Asthma,
+10313,males,2017,,Asthma,
+10253,males,2017,,Asthma,
+10231,males,2017,,Asthma,
+10176,males,2017,,Asthma,
+10177,males,2017,,Asthma,
+10086,males,2017,,Asthma,
+10093,males,2017,,Asthma,
+10151,males,2017,,Asthma,
+10152,males,2017,,Asthma,
+10221,males,2017,,Asthma,
+10092,males,2017,,Asthma,
+10254,males,2017,,Asthma,
+10255,males,2017,,Asthma,
+10043,males,2017,,Asthma,
+10104,males,2017,,Asthma,
+10104,males,2017,,Asthma,
+10044,males,2017,,Asthma,
+10197,males,2017,,Asthma,
+10198,males,2017,,Asthma,
+10199,males,2017,,Asthma,
+10074,males,2017,,Asthma,
+10204,males,2017,,Asthma,
+10018,males,2017,,Asthma,
+10133,males,2017,,Asthma,
+10170,males,2017,,Asthma,
+10280,males,2017,,Asthma,
+10110,males,2017,,Asthma,
+10153,males,2017,,Asthma,
+10132,males,2017,,Asthma,
+10002,males,2017,,Asthma,
+10122,males,2017,,Asthma,
+10116,males,2017,,Asthma,
+10296,males,2017,,Asthma,
+10124,males,2017,,Asthma,
+10141,males,2017,,Asthma,
+10145,males,2017,,Asthma,
+10232,males,2017,,Asthma,
+10237,males,2017,,Asthma,
+10128,males,2017,,Asthma,
+10038,males,2017,,Asthma,
+10259,males,2017,,Asthma,
+10273,males,2017,,Asthma,
+10028,males,2017,,Asthma,
+10111,males,2017,,Asthma,
+10024,males,2017,,Asthma,
+10246,males,2017,,Asthma,
+10300,males,2017,,Asthma,
+10083,males,2017,,Asthma,
+10011,males,2017,,Asthma,
+10000,males,2017,,Asthma,
+10003,males,2017,,Asthma,
+10156,males,2017,,Asthma,
+10157,males,2017,,Asthma,
+10185,males,2017,,Asthma,
+10186,males,2017,,Asthma,
+10125,males,2017,,Asthma,
+10138,males,2017,,Asthma,
+10051,males,2017,,Asthma,
+10126,males,2017,,Asthma,
+10308,males,2017,,Asthma,
+10309,males,2017,,Asthma,
+10127,males,2017,,Asthma,
+10264,males,2017,,Asthma,
+10285,males,2017,,Asthma,
+10019,males,2017,,Asthma,
+10233,males,2017,,Asthma,
+10327,males,2017,,Asthma,
+10148,males,2017,,Asthma,
+10075,males,2017,,Asthma,
+10119,males,2017,,Asthma,
+10081,males,2017,,Asthma,
+10222,males,2017,,Asthma,
+10146,males,2017,,Asthma,
+10140,males,2017,,Asthma,
+10059,males,2017,,Asthma,
+10320,males,2017,,Asthma,
+10224,males,2017,,Asthma,
+10101,males,2017,,Asthma,
+10260,males,2017,,Asthma,
+10261,males,2017,,Asthma,
+10162,males,2017,,Asthma,
+10004,males,2017,,Asthma,
+10238,males,2017,,Asthma,
+10239,males,2017,,Asthma,
+10046,males,2017,,Asthma,
+10227,males,2017,,Asthma,
+10303,males,2017,,Asthma,
+10303,males,2017,,Asthma,
+10056,males,2017,,Asthma,
+10065,males,2017,,Asthma,
+10112,males,2017,,Asthma,
+10066,males,2017,,Asthma,
+10190,males,2017,,Asthma,
+10205,males,2017,,Asthma,
+10057,males,2017,,Asthma,
+10023,males,2017,,Asthma,
+10286,males,2017,,Asthma,
+10078,males,2017,,Asthma,
+10242,males,2017,,Asthma,
+10310,males,2017,,Asthma,
+10070,males,2017,,Asthma,
+10212,males,2017,,Asthma,
+10297,males,2017,,Asthma,
+10120,males,2017,,Asthma,
+10084,males,2017,,Asthma,
+10301,males,2017,,Asthma,
+10301,males,2017,,Asthma,
+10302,males,2017,,Asthma,
+10302,males,2017,,Asthma,
+10180,males,2017,,Asthma,
+10179,males,2017,,Asthma,
+10149,males,2017,,Asthma,
+10241,males,2017,,Asthma,
+10252,males,2017,,Asthma,
+10240,males,2017,,Asthma,
+10187,males,2017,,Asthma,
+10102,males,2017,,Asthma,
+10102,males,2017,,Asthma,
+10135,males,2017,,Asthma,
+10207,males,2017,,Asthma,
+10208,males,2017,,Asthma,
+10209,males,2017,,Asthma,
+10047,males,2017,,Asthma,
+10089,males,2017,,Asthma,
+10033,males,2017,,Asthma,
+10287,males,2017,,Asthma,
+10288,males,2017,,Asthma,
+10154,males,2017,,Asthma,
+10289,males,2017,,Asthma,
+10171,males,2017,,Asthma,
+10328,males,2017,,Asthma,
+10262,males,2017,,Asthma,
+10263,males,2017,,Asthma,
+10060,males,2017,,Asthma,
+10088,males,2017,,Asthma,
+10329,males,2017,,Asthma,
+10097,males,2017,,Asthma,
+10027,males,2017,,Asthma,
+10029,males,2017,,Asthma,
+10274,males,2017,,Asthma,
+10181,males,2017,,Asthma,
+10304,males,2017,,Asthma,
+10304,males,2017,,Asthma,
+10305,males,2017,,Asthma,
+10217,males,2017,,Asthma,
+10218,males,2017,,Asthma,
+10082,males,2017,,Asthma,
+10321,males,2017,,Asthma,
+10129,males,2017,,Asthma,
+10130,males,2017,,Asthma,
+10136,males,2017,,Asthma,
+10087,males,2017,,Asthma,
+10322,males,2017,,Asthma,
+10174,males,2017,,Asthma,
+10247,males,2017,,Asthma,
+10183,males,2017,,Asthma,
+10184,males,2017,,Asthma,
+10155,males,2017,,Asthma,
+10052,males,2017,,Asthma,
+10053,males,2017,,Asthma,
+10178,males,2017,,Asthma,
+10113,males,2017,,Asthma,
+10034,males,2017,,Asthma,
+10223,males,2017,,Asthma,
+10243,males,2017,,Asthma,
+10244,males,2017,,Asthma,
+10245,males,2017,,Asthma,
+10030,males,2017,,Asthma,
+10025,males,2017,,Asthma,
+10163,males,2017,,Asthma,
+10265,males,2017,,Asthma,
+10048,males,2017,,Asthma,
+10213,males,2017,,Asthma,
+10039,males,2017,,Asthma,
+10054,males,2017,,Asthma,
+10114,males,2017,,Asthma,
+10026,males,2017,,Asthma,
+10062,males,2017,,Asthma,
+10058,males,2017,,Asthma,
+10020,males,2017,,Asthma,
+10134,males,2017,,Asthma,
+10191,males,2017,,Asthma,
+10219,males,2017,,Asthma,
+10214,males,2017,,Asthma,
+10228,males,2017,,Asthma,
+10206,males,2017,,Asthma,
+10167,males,2017,,Asthma,
+10169,males,2017,,Asthma,
+10061,males,2017,,Asthma,
+10323,males,2017,,Asthma,
+10085,males,2017,489.578605117379,Asthma,101.0
+10117,males,2017,,Asthma,
+10290,males,2017,,Asthma,
+10076,males,2017,,Asthma,
+10275,males,2017,,Asthma,
+10035,males,2017,,Asthma,
+10040,males,2017,,Asthma,
+10036,males,2017,,Asthma,
+10037,males,2017,,Asthma,
+10266,males,2017,,Asthma,
+10267,males,2017,,Asthma,
+10268,males,2017,,Asthma,
+10269,males,2017,,Asthma,
+10248,males,2017,,Asthma,
+10215,males,2017,,Asthma,
+10005,males,2017,,Asthma,
+10210,males,2017,,Asthma,
+10131,males,2017,,Asthma,
+10281,males,2017,,Asthma,
+10311,males,2017,,Asthma,
+10312,males,2017,,Asthma,
+10306,males,2017,,Asthma,
+10307,males,2017,128.685799378885,Asthma,23.0
+10324,males,2017,,Asthma,
+10325,males,2017,,Asthma,
+10006,males,2017,,Asthma,
+10276,males,2017,,Asthma,
+10314,males,2017,,Asthma,
+10315,males,2017,,Asthma,
+10316,males,2017,,Asthma,
+10317,males,2017,,Asthma,
+10291,males,2017,,Asthma,
+10282,males,2017,,Asthma,
+10229,males,2017,,Asthma,
+10277,males,2017,,Asthma,
+10012,males,2017,,Asthma,
+10095,males,2017,,Asthma,
+10094,males,2017,,Asthma,
+10200,males,2017,,Asthma,
+10216,males,2017,,Asthma,
+10079,males,2017,,Asthma,
+10234,males,2017,,Asthma,
+10192,males,2017,,Asthma,
+10235,males,2017,,Asthma,
+10013,males,2017,,Asthma,
+10009,males,2017,,Asthma,
+10008,males,2017,,Asthma,
+10115,males,2017,,Asthma,
+10158,males,2017,,Asthma,
+10159,males,2017,,Asthma,
+10160,males,2017,,Asthma,
+20022,males,2017,,Asthma,
+20076,males,2017,,Asthma,
+20015,males,2017,,Asthma,
+20222,males,2017,,Asthma,
+20184,males,2017,,Asthma,
+20003,males,2017,,Asthma,
+20238,males,2017,,Asthma,
+20247,males,2017,,Asthma,
+20151,males,2017,,Asthma,
+20152,males,2017,,Asthma,
+20153,males,2017,,Asthma,
+20250,males,2017,,Asthma,
+20251,males,2017,,Asthma,
+20142,males,2017,,Asthma,
+20020,males,2017,109.526866439057,Asthma,10.0
+20005,males,2017,,Asthma,
+20026,males,2017,,Asthma,
+20137,males,2017,,Asthma,
+20192,males,2017,,Asthma,
+20160,males,2017,,Asthma,
+20189,males,2017,,Asthma,
+20239,males,2017,,Asthma,
+20185,males,2017,,Asthma,
+20186,males,2017,,Asthma,
+20187,males,2017,,Asthma,
+20027,males,2017,,Asthma,
+20208,males,2017,,Asthma,
+20100,males,2017,,Asthma,
+20094,males,2017,,Asthma,
+20114,males,2017,,Asthma,
+20039,males,2017,140.203154216331,Asthma,22.0
+20231,males,2017,,Asthma,
+20209,males,2017,,Asthma,
+20227,males,2017,,Asthma,
+20228,males,2017,,Asthma,
+20195,males,2017,,Asthma,
+20197,males,2017,,Asthma,
+20206,males,2017,,Asthma,
+20201,males,2017,,Asthma,
+20201,males,2017,,Asthma,
+20043,males,2017,193.337210643393,Asthma,50.0
+20118,males,2017,,Asthma,
+20119,males,2017,382.753173405337,Asthma,50.0
+20035,males,2017,,Asthma,
+20036,males,2017,,Asthma,
+20156,males,2017,,Asthma,
+20232,males,2017,,Asthma,
+20040,males,2017,,Asthma,
+20087,males,2017,,Asthma,
+20000,males,2017,,Asthma,
+20001,males,2017,,Asthma,
+20032,males,2017,,Asthma,
+20259,males,2017,,Asthma,
+20054,males,2017,,Asthma,
+20068,males,2017,,Asthma,
+20069,males,2017,,Asthma,
+20115,males,2017,,Asthma,
+20037,males,2017,,Asthma,
+20143,males,2017,,Asthma,
+20196,males,2017,,Asthma,
+20028,males,2017,,Asthma,
+20088,males,2017,,Asthma,
+20271,males,2017,,Asthma,
+20008,males,2017,,Asthma,
+20023,males,2017,,Asthma,
+20044,males,2017,,Asthma,
+20161,males,2017,,Asthma,
+20050,males,2017,,Asthma,
+20172,males,2017,,Asthma,
+20124,males,2017,,Asthma,
+20202,males,2017,,Asthma,
+20202,males,2017,,Asthma,
+20045,males,2017,,Asthma,
+20051,males,2017,,Asthma,
+20041,males,2017,,Asthma,
+20108,males,2017,,Asthma,
+20244,males,2017,,Asthma,
+20130,males,2017,,Asthma,
+20138,males,2017,,Asthma,
+20218,males,2017,,Asthma,
+20264,males,2017,,Asthma,
+20002,males,2017,,Asthma,
+20082,males,2017,,Asthma,
+20272,males,2017,,Asthma,
+20273,males,2017,,Asthma,
+20024,males,2017,,Asthma,
+20210,males,2017,,Asthma,
+20089,males,2017,,Asthma,
+20125,males,2017,,Asthma,
+20126,males,2017,,Asthma,
+20190,males,2017,,Asthma,
+20101,males,2017,,Asthma,
+20101,males,2017,150.731301768147,Asthma,83.0
+20102,males,2017,,Asthma,
+20102,males,2017,,Asthma,
+20131,males,2017,,Asthma,
+20132,males,2017,,Asthma,
+20191,males,2017,,Asthma,
+20144,males,2017,,Asthma,
+20145,males,2017,,Asthma,
+20133,males,2017,,Asthma,
+20009,males,2017,,Asthma,
+20033,males,2017,,Asthma,
+20099,males,2017,52.5897063344913,Asthma,7.0
+20074,males,2017,,Asthma,
+20120,males,2017,,Asthma,
+20177,males,2017,,Asthma,
+20236,males,2017,,Asthma,
+20010,males,2017,,Asthma,
+20262,males,2017,,Asthma,
+20046,males,2017,,Asthma,
+20064,males,2017,,Asthma,
+20016,males,2017,,Asthma,
+20121,males,2017,,Asthma,
+20070,males,2017,,Asthma,
+20006,males,2017,,Asthma,
+20083,males,2017,,Asthma,
+20095,males,2017,,Asthma,
+20007,males,2017,,Asthma,
+20011,males,2017,,Asthma,
+20178,males,2017,,Asthma,
+20157,males,2017,,Asthma,
+20104,males,2017,,Asthma,
+20240,males,2017,,Asthma,
+20173,males,2017,,Asthma,
+20174,males,2017,,Asthma,
+20175,males,2017,,Asthma,
+20241,males,2017,,Asthma,
+20211,males,2017,,Asthma,
+20080,males,2017,,Asthma,
+20090,males,2017,,Asthma,
+20029,males,2017,,Asthma,
+20139,males,2017,254.47134181161,Asthma,52.0
+20140,males,2017,,Asthma,
+20269,males,2017,,Asthma,
+20084,males,2017,,Asthma,
+20193,males,2017,,Asthma,
+20055,males,2017,,Asthma,
+20091,males,2017,,Asthma,
+20212,males,2017,,Asthma,
+20122,males,2017,,Asthma,
+20270,males,2017,,Asthma,
+20042,males,2017,,Asthma,
+20127,males,2017,,Asthma,
+20179,males,2017,,Asthma,
+20030,males,2017,105.120825357222,Asthma,18.0
+20109,males,2017,,Asthma,
+20203,males,2017,,Asthma,
+20203,males,2017,,Asthma,
+20056,males,2017,,Asthma,
+20057,males,2017,,Asthma,
+20213,males,2017,,Asthma,
+20162,males,2017,,Asthma,
+20165,males,2017,,Asthma,
+20166,males,2017,,Asthma,
+20252,males,2017,,Asthma,
+20253,males,2017,,Asthma,
+20047,males,2017,,Asthma,
+20065,males,2017,,Asthma,
+20255,males,2017,,Asthma,
+20058,males,2017,,Asthma,
+20059,males,2017,,Asthma,
+20198,males,2017,,Asthma,
+20077,males,2017,,Asthma,
+20146,males,2017,,Asthma,
+20031,males,2017,,Asthma,
+20134,males,2017,,Asthma,
+20223,males,2017,,Asthma,
+20110,males,2017,,Asthma,
+20066,males,2017,,Asthma,
+20060,males,2017,,Asthma,
+20049,males,2017,,Asthma,
+20052,males,2017,,Asthma,
+20096,males,2017,,Asthma,
+20116,males,2017,,Asthma,
+20263,males,2017,,Asthma,
+20204,males,2017,,Asthma,
+20071,males,2017,,Asthma,
+20176,males,2017,,Asthma,
+20214,males,2017,,Asthma,
+20167,males,2017,,Asthma,
+20215,males,2017,,Asthma,
+20111,males,2017,196.425869181003,Asthma,26.0
+20207,males,2017,,Asthma,
+20248,males,2017,,Asthma,
+20219,males,2017,,Asthma,
+20128,males,2017,,Asthma,
+20097,males,2017,,Asthma,
+20199,males,2017,,Asthma,
+20053,males,2017,,Asthma,
+20224,males,2017,,Asthma,
+20158,males,2017,,Asthma,
+20194,males,2017,,Asthma,
+20092,males,2017,,Asthma,
+20012,males,2017,,Asthma,
+20163,males,2017,,Asthma,
+20164,males,2017,,Asthma,
+20256,males,2017,,Asthma,
+20257,males,2017,,Asthma,
+20072,males,2017,,Asthma,
+20073,males,2017,,Asthma,
+20105,males,2017,110.085625491117,Asthma,33.0
+20245,males,2017,,Asthma,
+20265,males,2017,,Asthma,
+20112,males,2017,,Asthma,
+20266,males,2017,,Asthma,
+20180,males,2017,148.260827797565,Asthma,27.0
+20237,males,2017,,Asthma,
+20181,males,2017,,Asthma,
+20141,males,2017,,Asthma,
+20274,males,2017,,Asthma,
+20048,males,2017,,Asthma,
+20233,males,2017,,Asthma,
+20123,males,2017,,Asthma,
+20129,males,2017,,Asthma,
+20216,males,2017,,Asthma,
+20154,males,2017,,Asthma,
+20254,males,2017,,Asthma,
+20078,males,2017,,Asthma,
+20135,males,2017,,Asthma,
+20217,males,2017,,Asthma,
+20013,males,2017,,Asthma,
+20106,males,2017,,Asthma,
+20220,males,2017,,Asthma,
+20117,males,2017,,Asthma,
+20014,males,2017,,Asthma,
+20085,males,2017,,Asthma,
+20242,males,2017,,Asthma,
+20067,males,2017,,Asthma,
+20168,males,2017,,Asthma,
+20182,males,2017,,Asthma,
+20017,males,2017,,Asthma,
+20221,males,2017,,Asthma,
+20021,males,2017,,Asthma,
+20061,males,2017,,Asthma,
+20258,males,2017,,Asthma,
+20062,males,2017,,Asthma,
+20063,males,2017,,Asthma,
+20025,males,2017,,Asthma,
+20103,males,2017,,Asthma,
+20103,males,2017,,Asthma,
+20260,males,2017,,Asthma,
+20081,males,2017,,Asthma,
+20183,males,2017,,Asthma,
+20093,males,2017,,Asthma,
+20229,males,2017,,Asthma,
+20249,males,2017,,Asthma,
+20155,males,2017,,Asthma,
+20159,males,2017,,Asthma,
+20225,males,2017,,Asthma,
+20226,males,2017,,Asthma,
+20267,males,2017,,Asthma,
+20268,males,2017,,Asthma,
+20018,males,2017,,Asthma,
+20136,males,2017,,Asthma,
+20148,males,2017,,Asthma,
+20147,males,2017,,Asthma,
+20019,males,2017,,Asthma,
+20200,males,2017,,Asthma,
+20079,males,2017,,Asthma,
+20086,males,2017,,Asthma,
+20038,males,2017,,Asthma,
+20261,males,2017,,Asthma,
+20149,males,2017,,Asthma,
+20169,males,2017,,Asthma,
+20150,males,2017,,Asthma,
+20034,males,2017,,Asthma,
+20004,males,2017,,Asthma,
+20246,males,2017,,Asthma,
+20075,males,2017,,Asthma,
+20230,males,2017,,Asthma,
+20098,males,2017,,Asthma,
+20275,males,2017,,Asthma,
+20188,males,2017,,Asthma,
+20170,males,2017,,Asthma,
+20234,males,2017,,Asthma,
+20243,males,2017,,Asthma,
+20205,males,2017,,Asthma,
+20171,males,2017,,Asthma,
+20235,males,2017,,Asthma,
+20107,males,2017,,Asthma,
+20113,males,2017,,Asthma,
+30137,males,2017,,Asthma,
+30182,males,2017,,Asthma,
+30214,males,2017,,Asthma,
+30107,males,2017,,Asthma,
+30000,males,2017,,Asthma,
+30036,males,2017,,Asthma,
+30176,males,2017,,Asthma,
+30215,males,2017,,Asthma,
+30026,males,2017,,Asthma,
+30190,males,2017,,Asthma,
+30152,males,2017,,Asthma,
+30059,males,2017,,Asthma,
+30223,males,2017,,Asthma,
+30060,males,2017,,Asthma,
+30170,males,2017,,Asthma,
+30014,males,2017,,Asthma,
+30126,males,2017,,Asthma,
+30061,males,2017,,Asthma,
+30212,males,2017,,Asthma,
+30123,males,2017,,Asthma,
+30012,males,2017,,Asthma,
+30054,males,2017,,Asthma,
+30128,males,2017,,Asthma,
+30138,males,2017,,Asthma,
+30186,males,2017,,Asthma,
+30095,males,2017,,Asthma,
+30079,males,2017,,Asthma,
+30080,males,2017,,Asthma,
+30202,males,2017,,Asthma,
+30202,males,2017,,Asthma,
+30075,males,2017,,Asthma,
+30001,males,2017,,Asthma,
+30172,males,2017,,Asthma,
+30118,males,2017,,Asthma,
+30141,males,2017,,Asthma,
+30088,males,2017,,Asthma,
+30153,males,2017,,Asthma,
+30196,males,2017,,Asthma,
+30217,males,2017,,Asthma,
+30066,males,2017,,Asthma,
+30232,males,2017,,Asthma,
+30082,males,2017,,Asthma,
+30142,males,2017,,Asthma,
+30174,males,2017,,Asthma,
+30139,males,2017,,Asthma,
+30019,males,2017,,Asthma,
+30224,males,2017,,Asthma,
+30069,males,2017,,Asthma,
+30114,males,2017,,Asthma,
+30096,males,2017,,Asthma,
+30013,males,2017,,Asthma,
+30020,males,2017,,Asthma,
+30116,males,2017,,Asthma,
+30050,males,2017,,Asthma,
+30057,males,2017,,Asthma,
+30058,males,2017,,Asthma,
+30008,males,2017,,Asthma,
+30146,males,2017,,Asthma,
+30175,males,2017,,Asthma,
+30083,males,2017,,Asthma,
+30188,males,2017,,Asthma,
+30225,males,2017,,Asthma,
+30226,males,2017,,Asthma,
+30070,males,2017,,Asthma,
+30147,males,2017,,Asthma,
+30227,males,2017,,Asthma,
+30101,males,2017,,Asthma,
+30101,males,2017,,Asthma,
+30234,males,2017,,Asthma,
+30098,males,2017,,Asthma,
+30097,males,2017,,Asthma,
+30117,males,2017,,Asthma,
+30119,males,2017,,Asthma,
+30140,males,2017,,Asthma,
+30191,males,2017,,Asthma,
+30192,males,2017,,Asthma,
+30203,males,2017,,Asthma,
+30203,males,2017,,Asthma,
+30205,males,2017,,Asthma,
+30023,males,2017,,Asthma,
+30024,males,2017,,Asthma,
+30025,males,2017,,Asthma,
+30184,males,2017,,Asthma,
+30159,males,2017,,Asthma,
+30108,males,2017,,Asthma,
+30041,males,2017,,Asthma,
+30042,males,2017,,Asthma,
+30135,males,2017,,Asthma,
+30084,males,2017,,Asthma,
+30044,males,2017,,Asthma,
+30187,males,2017,,Asthma,
+30213,males,2017,,Asthma,
+30045,males,2017,,Asthma,
+30015,males,2017,,Asthma,
+30129,males,2017,,Asthma,
+30071,males,2017,,Asthma,
+30167,males,2017,,Asthma,
+30003,males,2017,,Asthma,
+30132,males,2017,,Asthma,
+30104,males,2017,,Asthma,
+30218,males,2017,,Asthma,
+30149,males,2017,,Asthma,
+30230,males,2017,,Asthma,
+30193,males,2017,,Asthma,
+30162,males,2017,,Asthma,
+30033,males,2017,,Asthma,
+30027,males,2017,,Asthma,
+30089,males,2017,,Asthma,
+30130,males,2017,,Asthma,
+30157,males,2017,,Asthma,
+30150,males,2017,,Asthma,
+30125,males,2017,,Asthma,
+30091,males,2017,,Asthma,
+30111,males,2017,,Asthma,
+30206,males,2017,,Asthma,
+30063,males,2017,,Asthma,
+30021,males,2017,,Asthma,
+30102,males,2017,,Asthma,
+30102,males,2017,,Asthma,
+30219,males,2017,,Asthma,
+30207,males,2017,,Asthma,
+30120,males,2017,,Asthma,
+30055,males,2017,,Asthma,
+30177,males,2017,,Asthma,
+30081,males,2017,,Asthma,
+30121,males,2017,,Asthma,
+30030,males,2017,,Asthma,
+30178,males,2017,,Asthma,
+30099,males,2017,,Asthma,
+30136,males,2017,,Asthma,
+30143,males,2017,,Asthma,
+30049,males,2017,,Asthma,
+30067,males,2017,,Asthma,
+30028,males,2017,,Asthma,
+30183,males,2017,,Asthma,
+30064,males,2017,,Asthma,
+30051,males,2017,,Asthma,
+30220,males,2017,,Asthma,
+30208,males,2017,,Asthma,
+30086,males,2017,,Asthma,
+30156,males,2017,,Asthma,
+30231,males,2017,,Asthma,
+30163,males,2017,,Asthma,
+30221,males,2017,,Asthma,
+30209,males,2017,,Asthma,
+30052,males,2017,,Asthma,
+30085,males,2017,,Asthma,
+30029,males,2017,,Asthma,
+30065,males,2017,,Asthma,
+30046,males,2017,,Asthma,
+30072,males,2017,,Asthma,
+30073,males,2017,,Asthma,
+30074,males,2017,,Asthma,
+30087,males,2017,,Asthma,
+30124,males,2017,,Asthma,
+30016,males,2017,,Asthma,
+30043,males,2017,,Asthma,
+30100,males,2017,,Asthma,
+30228,males,2017,,Asthma,
+30229,males,2017,,Asthma,
+30092,males,2017,,Asthma,
+30039,males,2017,,Asthma,
+30127,males,2017,,Asthma,
+30154,males,2017,,Asthma,
+30204,males,2017,,Asthma,
+30204,males,2017,,Asthma,
+30115,males,2017,,Asthma,
+30068,males,2017,,Asthma,
+30093,males,2017,,Asthma,
+30090,males,2017,,Asthma,
+30173,males,2017,,Asthma,
+30009,males,2017,,Asthma,
+30122,males,2017,,Asthma,
+30032,males,2017,,Asthma,
+30105,males,2017,,Asthma,
+30194,males,2017,,Asthma,
+30235,males,2017,,Asthma,
+30148,males,2017,,Asthma,
+30210,males,2017,,Asthma,
+30131,males,2017,,Asthma,
+30195,males,2017,,Asthma,
+30034,males,2017,,Asthma,
+30103,males,2017,,Asthma,
+30103,males,2017,,Asthma,
+30056,males,2017,,Asthma,
+30031,males,2017,,Asthma,
+30185,males,2017,,Asthma,
+30216,males,2017,,Asthma,
+30189,males,2017,,Asthma,
+30158,males,2017,,Asthma,
+30010,males,2017,,Asthma,
+30112,males,2017,,Asthma,
+30198,males,2017,,Asthma,
+30160,males,2017,,Asthma,
+30077,males,2017,,Asthma,
+30053,males,2017,,Asthma,
+30211,males,2017,,Asthma,
+30199,males,2017,,Asthma,
+30197,males,2017,,Asthma,
+30113,males,2017,,Asthma,
+30222,males,2017,,Asthma,
+30018,males,2017,,Asthma,
+30180,males,2017,,Asthma,
+30165,males,2017,,Asthma,
+30166,males,2017,,Asthma,
+30161,males,2017,,Asthma,
+30062,males,2017,,Asthma,
+30037,males,2017,,Asthma,
+30151,males,2017,,Asthma,
+30155,males,2017,,Asthma,
+30200,males,2017,,Asthma,
+30179,males,2017,,Asthma,
+30004,males,2017,,Asthma,
+30005,males,2017,,Asthma,
+30168,males,2017,,Asthma,
+30094,males,2017,,Asthma,
+30145,males,2017,,Asthma,
+30144,males,2017,,Asthma,
+30038,males,2017,,Asthma,
+30110,males,2017,,Asthma,
+30181,males,2017,,Asthma,
+30106,males,2017,,Asthma,
+30171,males,2017,,Asthma,
+30076,males,2017,,Asthma,
+30078,males,2017,,Asthma,
+30047,males,2017,,Asthma,
+30017,males,2017,,Asthma,
+30133,males,2017,,Asthma,
+30040,males,2017,,Asthma,
+30035,males,2017,,Asthma,
+30201,males,2017,,Asthma,
+30201,males,2017,,Asthma,
+30048,males,2017,,Asthma,
+30109,males,2017,,Asthma,
+30006,males,2017,,Asthma,
+30233,males,2017,,Asthma,
+30164,males,2017,,Asthma,
+30169,males,2017,,Asthma,
+30007,males,2017,,Asthma,
+30134,males,2017,,Asthma,
+30002,males,2017,,Asthma,
+30011,males,2017,,Asthma,
+30022,males,2017,,Asthma,
+40044,males,2017,,Asthma,
+40000,males,2017,,Asthma,
+40061,males,2017,,Asthma,
+40002,males,2017,,Asthma,
+40003,males,2017,,Asthma,
+40045,males,2017,,Asthma,
+40082,males,2017,,Asthma,
+40008,males,2017,,Asthma,
+40097,males,2017,,Asthma,
+40065,males,2017,,Asthma,
+40041,males,2017,,Asthma,
+40053,males,2017,,Asthma,
+40037,males,2017,,Asthma,
+60028,males,2017,,Asthma,
+40006,males,2017,,Asthma,
+40077,males,2017,,Asthma,
+40056,males,2017,,Asthma,
+40046,males,2017,,Asthma,
+40020,males,2017,,Asthma,
+40047,males,2017,,Asthma,
+40068,males,2017,,Asthma,
+40048,males,2017,,Asthma,
+40042,males,2017,,Asthma,
+40083,males,2017,,Asthma,
+40027,males,2017,,Asthma,
+40058,males,2017,,Asthma,
+40038,males,2017,,Asthma,
+40021,males,2017,,Asthma,
+40022,males,2017,,Asthma,
+40024,males,2017,,Asthma,
+40078,males,2017,,Asthma,
+40089,males,2017,,Asthma,
+40054,males,2017,,Asthma,
+40062,males,2017,,Asthma,
+40016,males,2017,,Asthma,
+40050,males,2017,,Asthma,
+40017,males,2017,,Asthma,
+40007,males,2017,,Asthma,
+40055,males,2017,,Asthma,
+40032,males,2017,,Asthma,
+40014,males,2017,,Asthma,
+40049,males,2017,,Asthma,
+50049,males,2017,,Asthma,
+40069,males,2017,,Asthma,
+40004,males,2017,,Asthma,
+60004,males,2017,,Asthma,
+40090,males,2017,,Asthma,
+40051,males,2017,,Asthma,
+40033,males,2017,,Asthma,
+40034,males,2017,,Asthma,
+40028,males,2017,,Asthma,
+40071,males,2017,,Asthma,
+40001,males,2017,,Asthma,
+40074,males,2017,,Asthma,
+40086,males,2017,,Asthma,
+40018,males,2017,,Asthma,
+40066,males,2017,,Asthma,
+40098,males,2017,,Asthma,
+40079,males,2017,,Asthma,
+40099,males,2017,,Asthma,
+40010,males,2017,,Asthma,
+40091,males,2017,,Asthma,
+40059,males,2017,,Asthma,
+40085,males,2017,,Asthma,
+40100,males,2017,,Asthma,
+40039,males,2017,,Asthma,
+40092,males,2017,,Asthma,
+40040,males,2017,,Asthma,
+40035,males,2017,,Asthma,
+40005,males,2017,,Asthma,
+40093,males,2017,,Asthma,
+40101,males,2017,,Asthma,
+40101,males,2017,,Asthma,
+40013,males,2017,,Asthma,
+40094,males,2017,,Asthma,
+40095,males,2017,,Asthma,
+40025,males,2017,,Asthma,
+40011,males,2017,,Asthma,
+40067,males,2017,,Asthma,
+40009,males,2017,,Asthma,
+40023,males,2017,,Asthma,
+40043,males,2017,,Asthma,
+40029,males,2017,,Asthma,
+40030,males,2017,,Asthma,
+40012,males,2017,,Asthma,
+40072,males,2017,,Asthma,
+40096,males,2017,,Asthma,
+40019,males,2017,,Asthma,
+40063,males,2017,,Asthma,
+40084,males,2017,,Asthma,
+40080,males,2017,,Asthma,
+40073,males,2017,,Asthma,
+40102,males,2017,,Asthma,
+40102,males,2017,,Asthma,
+40052,males,2017,,Asthma,
+40064,males,2017,,Asthma,
+40031,males,2017,,Asthma,
+40036,males,2017,,Asthma,
+40087,males,2017,,Asthma,
+40088,males,2017,,Asthma,
+40060,males,2017,,Asthma,
+40015,males,2017,,Asthma,
+40103,males,2017,,Asthma,
+40057,males,2017,,Asthma,
+40103,males,2017,,Asthma,
+40070,males,2017,,Asthma,
+40075,males,2017,,Asthma,
+40081,males,2017,,Asthma,
+40026,males,2017,,Asthma,
+40076,males,2017,,Asthma,
+50029,males,2017,,Asthma,
+50116,males,2017,,Asthma,
+50117,males,2017,,Asthma,
+50072,males,2017,,Asthma,
+50083,males,2017,,Asthma,
+50046,males,2017,,Asthma,
+50045,males,2017,,Asthma,
+50109,males,2017,,Asthma,
+50080,males,2017,,Asthma,
+50126,males,2017,,Asthma,
+50033,males,2017,,Asthma,
+50076,males,2017,,Asthma,
+50034,males,2017,,Asthma,
+50039,males,2017,,Asthma,
+50020,males,2017,,Asthma,
+50063,males,2017,,Asthma,
+50013,males,2017,,Asthma,
+50103,males,2017,,Asthma,
+50015,males,2017,,Asthma,
+50055,males,2017,,Asthma,
+50021,males,2017,,Asthma,
+50064,males,2017,,Asthma,
+50050,males,2017,,Asthma,
+50073,males,2017,,Asthma,
+50097,males,2017,,Asthma,
+50091,males,2017,,Asthma,
+50101,males,2017,,Asthma,
+50101,males,2017,,Asthma,
+50074,males,2017,,Asthma,
+50103,males,2017,,Asthma,
+50084,males,2017,,Asthma,
+50081,males,2017,,Asthma,
+50053,males,2017,,Asthma,
+50082,males,2017,,Asthma,
+50060,males,2017,,Asthma,
+50047,males,2017,,Asthma,
+50052,males,2017,,Asthma,
+50056,males,2017,,Asthma,
+50085,males,2017,,Asthma,
+50086,males,2017,,Asthma,
+50098,males,2017,,Asthma,
+50095,males,2017,,Asthma,
+50040,males,2017,,Asthma,
+50066,males,2017,,Asthma,
+50017,males,2017,,Asthma,
+50122,males,2017,,Asthma,
+50006,males,2017,,Asthma,
+50087,males,2017,,Asthma,
+50061,males,2017,,Asthma,
+50115,males,2017,,Asthma,
+50065,males,2017,,Asthma,
+50077,males,2017,,Asthma,
+50089,males,2017,,Asthma,
+50008,males,2017,,Asthma,
+50007,males,2017,84.5321647084814,Asthma,13.0
+50026,males,2017,,Asthma,
+50123,males,2017,,Asthma,
+50027,males,2017,,Asthma,
+50088,males,2017,,Asthma,
+60005,males,2017,,Asthma,
+50000,males,2017,,Asthma,
+50118,males,2017,,Asthma,
+50102,males,2017,,Asthma,
+50102,males,2017,,Asthma,
+50023,males,2017,,Asthma,
+50035,males,2017,,Asthma,
+50124,males,2017,,Asthma,
+50028,males,2017,,Asthma,
+50058,males,2017,,Asthma,
+50068,males,2017,,Asthma,
+50110,males,2017,,Asthma,
+50022,males,2017,,Asthma,
+50093,males,2017,,Asthma,
+50094,males,2017,,Asthma,
+50096,males,2017,,Asthma,
+50048,males,2017,,Asthma,
+50069,males,2017,,Asthma,
+50104,males,2017,,Asthma,
+50105,males,2017,,Asthma,
+50001,males,2017,,Asthma,
+50106,males,2017,,Asthma,
+50018,males,2017,,Asthma,
+50119,males,2017,,Asthma,
+50002,males,2017,,Asthma,
+50067,males,2017,,Asthma,
+50030,males,2017,,Asthma,
+50036,males,2017,,Asthma,
+50090,males,2017,,Asthma,
+50107,males,2017,,Asthma,
+50031,males,2017,,Asthma,
+50059,males,2017,,Asthma,
+50099,males,2017,,Asthma,
+50111,males,2017,,Asthma,
+50120,males,2017,,Asthma,
+50011,males,2017,,Asthma,
+50032,males,2017,30.9871182799932,Asthma,5.0
+50127,males,2017,,Asthma,
+50070,males,2017,,Asthma,
+50071,males,2017,,Asthma,
+50100,males,2017,,Asthma,
+50024,males,2017,,Asthma,
+80020,males,2017,,Asthma,
+50041,males,2017,,Asthma,
+50003,males,2017,,Asthma,
+50004,males,2017,,Asthma,
+50092,males,2017,,Asthma,
+80021,males,2017,,Asthma,
+50062,males,2017,,Asthma,
+50121,males,2017,,Asthma,
+50025,males,2017,,Asthma,
+50042,males,2017,,Asthma,
+50108,males,2017,,Asthma,
+50014,males,2017,,Asthma,
+50009,males,2017,,Asthma,
+50010,males,2017,,Asthma,
+50128,males,2017,,Asthma,
+50112,males,2017,,Asthma,
+50016,males,2017,,Asthma,
+50054,males,2017,,Asthma,
+50012,males,2017,,Asthma,
+60006,males,2017,,Asthma,
+50125,males,2017,,Asthma,
+50005,males,2017,,Asthma,
+50113,males,2017,,Asthma,
+50078,males,2017,,Asthma,
+50114,males,2017,,Asthma,
+50079,males,2017,,Asthma,
+50037,males,2017,,Asthma,
+50019,males,2017,,Asthma,
+50057,males,2017,,Asthma,
+50051,males,2017,,Asthma,
+50043,males,2017,,Asthma,
+50038,males,2017,,Asthma,
+50075,males,2017,,Asthma,
+50044,males,2017,,Asthma,
+60036,males,2017,,Asthma,
+60007,males,2017,,Asthma,
+60002,males,2017,,Asthma,
+60024,males,2017,,Asthma,
+60031,males,2017,,Asthma,
+60037,males,2017,,Asthma,
+60008,males,2017,,Asthma,
+60003,males,2017,,Asthma,
+60030,males,2017,,Asthma,
+60032,males,2017,,Asthma,
+60025,males,2017,,Asthma,
+70003,males,2017,,Asthma,
+60000,males,2017,,Asthma,
+60001,males,2017,,Asthma,
+60009,males,2017,,Asthma,
+60041,males,2017,,Asthma,
+60027,males,2017,,Asthma,
+60017,males,2017,,Asthma,
+60042,males,2017,,Asthma,
+60034,males,2017,,Asthma,
+60033,males,2017,,Asthma,
+60026,males,2017,,Asthma,
+70012,males,2017,,Asthma,
+60014,males,2017,,Asthma,
+60018,males,2017,,Asthma,
+60047,males,2017,,Asthma,
+60019,males,2017,,Asthma,
+60012,males,2017,,Asthma,
+60013,males,2017,,Asthma,
+60043,males,2017,,Asthma,
+60021,males,2017,,Asthma,
+60011,males,2017,,Asthma,
+60022,males,2017,,Asthma,
+60029,males,2017,,Asthma,
+60015,males,2017,,Asthma,
+60016,males,2017,,Asthma,
+60044,males,2017,,Asthma,
+60010,males,2017,,Asthma,
+60020,males,2017,,Asthma,
+60048,males,2017,,Asthma,
+60046,males,2017,,Asthma,
+60038,males,2017,,Asthma,
+60045,males,2017,,Asthma,
+60023,males,2017,,Asthma,
+60049,males,2017,,Asthma,
+60035,males,2017,,Asthma,
+80000,males,2017,,Asthma,
+60039,males,2017,,Asthma,
+60050,males,2017,,Asthma,
+60040,males,2017,,Asthma,
+80001,males,2017,,Asthma,
+70008,males,2017,,Asthma,
+70007,males,2017,,Asthma,
+70011,males,2017,,Asthma,
+70009,males,2017,,Asthma,
+70010,males,2017,,Asthma,
+70000,males,2017,,Asthma,
+70002,males,2017,,Asthma,
+70001,males,2017,,Asthma,
+70006,males,2017,,Asthma,
+70013,males,2017,,Asthma,
+70004,males,2017,,Asthma,
+70005,males,2017,,Asthma,
+80006,males,2017,,Asthma,
+80023,males,2017,,Asthma,
+80003,males,2017,,Asthma,
+80004,males,2017,,Asthma,
+80016,males,2017,,Asthma,
+80022,males,2017,,Asthma,
+80002,males,2017,,Asthma,
+80017,males,2017,,Asthma,
+80007,males,2017,,Asthma,
+80008,males,2017,,Asthma,
+80011,males,2017,,Asthma,
+80010,males,2017,,Asthma,
+80012,males,2017,,Asthma,
+80013,males,2017,,Asthma,
+80018,males,2017,,Asthma,
+80024,males,2017,,Asthma,
+80009,males,2017,,Asthma,
+80014,males,2017,,Asthma,
+80015,males,2017,,Asthma,
+80019,males,2017,,Asthma,
+80005,males,2017,,Asthma,

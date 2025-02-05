@@ -1,0 +1,25 @@
+include:
+- ./functions/health_admissions.zip
+kind: ArchiveUploadSpec
+name: functions-health-admissions-zip-aBwA
+
+---
+apiVersion: fission.io/v1
+kind: Package
+metadata:
+  creationTimestamp: null
+  name: admissions
+spec:
+  buildcmd: ./build.sh
+  deployment:
+    checksum: {}
+  environment:
+    name: python
+    namespace: ""
+  source:
+    checksum: {}
+    type: url
+    url: archive://functions-health-admissions-zip-aBwA
+status:
+  buildstatus: pending
+  lastUpdateTimestamp: "2024-05-11T04:35:33Z"

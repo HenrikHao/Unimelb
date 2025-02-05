@@ -1,0 +1,4 @@
+.DS_Store
+elasticsearch/.DS_Store
+elasticsearch/__pycache__/
+elasticsearch/dataset/.DS_Store

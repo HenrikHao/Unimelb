@@ -1,0 +1,2391 @@
+pha,sex,year,asr_per_100k,disease,population
+10283,females,2017,1099.76288979954,Respiratory disease,112.0
+10225,females,2017,1916.98429376572,Respiratory disease,155.0
+10226,females,2017,1157.21878665641,Respiratory disease,184.0
+10249,females,2017,2781.81730921255,Respiratory disease,165.0
+10250,females,2017,3037.06398650794,Respiratory disease,314.0
+10251,females,2017,1507.88613517816,Respiratory disease,237.0
+10211,females,2017,1627.63308762436,Respiratory disease,219.0
+10256,females,2017,2676.32142230667,Respiratory disease,226.0
+10257,females,2017,1782.61442954615,Respiratory disease,79.0
+10258,females,2017,1322.99777537888,Respiratory disease,59.0
+10063,females,2017,1688.31377253377,Respiratory disease,359.0
+10137,females,2017,,Respiratory disease,
+10071,females,2017,1328.49890021652,Respiratory disease,180.0
+10080,females,2017,1743.67022331256,Respiratory disease,309.0
+10118,females,2017,1327.81707932534,Respiratory disease,293.0
+10090,females,2017,1399.1047667475,Respiratory disease,193.0
+10230,females,2017,2186.45590542225,Respiratory disease,196.0
+10292,females,2017,2822.58393569077,Respiratory disease,245.0
+10293,females,2017,1718.21272107549,Respiratory disease,248.0
+10069,females,2017,1598.62474501444,Respiratory disease,220.0
+10049,females,2017,1748.02349799079,Respiratory disease,260.0
+10103,females,2017,1541.52550218689,Respiratory disease,216.0
+10103,females,2017,1873.57533663771,Respiratory disease,185.0
+10050,females,2017,2203.11418317228,Respiratory disease,360.0
+10007,females,2017,2228.36547050814,Respiratory disease,409.0
+10172,females,2017,2462.40752572592,Respiratory disease,68.0
+10173,females,2017,3589.46361578198,Respiratory disease,506.0
+10014,females,2017,1514.17646674533,Respiratory disease,308.0
+10091,females,2017,1773.1353127212,Respiratory disease,340.0
+10168,females,2017,2074.66351537242,Respiratory disease,197.0
+10188,females,2017,1212.63133757911,Respiratory disease,151.0
+10270,females,2017,2000.31145530655,Respiratory disease,179.0
+10271,females,2017,796.154935402548,Respiratory disease,54.0
+10055,females,2017,1791.1022813328,Respiratory disease,457.0
+10284,females,2017,1661.33961627052,Respiratory disease,180.0
+10220,females,2017,1639.40587844608,Respiratory disease,350.0
+10318,females,2017,935.094522299282,Respiratory disease,77.0
+10064,females,2017,1777.1642117941,Respiratory disease,344.0
+10105,females,2017,1443.55064287432,Respiratory disease,218.0
+10105,females,2017,3761.53228421394,Respiratory disease,560.0
+10021,females,2017,1516.42001945505,Respiratory disease,414.0
+10022,females,2017,2461.10377409287,Respiratory disease,396.0
+10106,females,2017,1169.7147931883,Respiratory disease,139.0
+10106,females,2017,1939.04816221074,Respiratory disease,449.0
+10182,females,2017,1324.90203217609,Respiratory disease,99.0
+10107,females,2017,1311.25886755176,Respiratory disease,392.0
+10108,females,2017,,Respiratory disease,
+10278,females,2017,1705.58287680022,Respiratory disease,93.0
+10164,females,2017,,Respiratory disease,
+10041,females,2017,1362.38264857305,Respiratory disease,266.0
+10042,females,2017,1045.12036813164,Respiratory disease,210.0
+10279,females,2017,1892.47453480901,Respiratory disease,271.0
+10142,females,2017,1599.33864493605,Respiratory disease,294.0
+10032,females,2017,1335.73651081098,Respiratory disease,243.0
+10031,females,2017,322.84074456072,Respiratory disease,72.0
+10193,females,2017,4108.7364712474,Respiratory disease,221.0
+10326,females,2017,1612.98487090101,Respiratory disease,224.0
+10098,females,2017,1734.46445726239,Respiratory disease,241.0
+10161,females,2017,,Respiratory disease,
+10201,females,2017,2663.93743272437,Respiratory disease,169.0
+10201,females,2017,1730.74284786272,Respiratory disease,1874.0
+10195,females,2017,3194.06520964861,Respiratory disease,271.0
+10294,females,2017,1270.35795941,Respiratory disease,195.0
+10236,females,2017,563.504429083575,Respiratory disease,88.0
+10072,females,2017,1488.36114013262,Respiratory disease,168.0
+10295,females,2017,1906.97432617649,Respiratory disease,104.0
+10143,females,2017,1304.76552076714,Respiratory disease,163.0
+10001,females,2017,1537.5885034958,Respiratory disease,216.0
+10319,females,2017,,Respiratory disease,
+10109,females,2017,2365.66319467587,Respiratory disease,436.0
+10096,females,2017,2101.07908342781,Respiratory disease,402.0
+10099,females,2017,2520.96272867965,Respiratory disease,497.0
+10068,females,2017,1494.69457967821,Respiratory disease,336.0
+10067,females,2017,1656.36145024411,Respiratory disease,310.0
+10144,females,2017,2122.82662796658,Respiratory disease,327.0
+10073,females,2017,1169.30361466079,Respiratory disease,233.0
+10150,females,2017,1335.34654911319,Respiratory disease,221.0
+10121,females,2017,1935.50445193774,Respiratory disease,200.0
+10298,females,2017,1787.6710654561,Respiratory disease,166.0
+10299,females,2017,2276.19335341244,Respiratory disease,198.0
+10016,females,2017,2248.9779447329,Respiratory disease,379.0
+10017,females,2017,1525.64906365306,Respiratory disease,265.0
+10015,females,2017,914.770150248787,Respiratory disease,276.0
+10147,females,2017,1953.07447263746,Respiratory disease,473.0
+10202,females,2017,3669.86240117761,Respiratory disease,290.0
+10202,females,2017,2307.97035938231,Respiratory disease,1993.0
+10203,females,2017,523.96605132861,Respiratory disease,50.0
+10272,females,2017,1687.29347635556,Respiratory disease,280.0
+10077,females,2017,1745.33305616058,Respiratory disease,384.0
+10123,females,2017,3515.83480728999,Respiratory disease,175.0
+10010,females,2017,1796.93932441589,Respiratory disease,208.0
+10100,females,2017,2148.45909376583,Respiratory disease,243.0
+10194,females,2017,1764.92062643807,Respiratory disease,241.0
+10139,females,2017,3020.59831440045,Respiratory disease,261.0
+10189,females,2017,3441.31031290741,Respiratory disease,479.0
+10175,females,2017,3035.13347428819,Respiratory disease,240.0
+10045,females,2017,1941.48338394593,Respiratory disease,180.0
+10165,females,2017,,Respiratory disease,
+10166,females,2017,1481.77777233351,Respiratory disease,66.0
+10196,females,2017,2121.28573375412,Respiratory disease,305.0
+10313,females,2017,1811.55460774615,Respiratory disease,422.0
+10253,females,2017,2544.80397212913,Respiratory disease,333.0
+10231,females,2017,2135.04101137889,Respiratory disease,188.0
+10176,females,2017,2437.69990841952,Respiratory disease,113.0
+10177,females,2017,1722.04247970852,Respiratory disease,199.0
+10086,females,2017,1396.99970043794,Respiratory disease,279.0
+10093,females,2017,2484.10342701624,Respiratory disease,347.0
+10151,females,2017,1296.6369995131,Respiratory disease,252.0
+10152,females,2017,2060.00289885174,Respiratory disease,469.0
+10221,females,2017,3913.28508743015,Respiratory disease,348.0
+10092,females,2017,2678.28450710057,Respiratory disease,406.0
+10254,females,2017,3824.46271081576,Respiratory disease,159.0
+10255,females,2017,1920.03955219569,Respiratory disease,155.0
+10043,females,2017,1656.16493640954,Respiratory disease,325.0
+10104,females,2017,1233.61760030102,Respiratory disease,198.0
+10104,females,2017,1762.69694962025,Respiratory disease,800.0
+10044,females,2017,1039.11705968356,Respiratory disease,207.0
+10197,females,2017,1836.9935635502,Respiratory disease,253.0
+10198,females,2017,3178.33265960641,Respiratory disease,236.0
+10199,females,2017,1508.47764200656,Respiratory disease,50.0
+10074,females,2017,2266.67515726999,Respiratory disease,289.0
+10204,females,2017,2085.30001164941,Respiratory disease,91.0
+10018,females,2017,2567.44972919017,Respiratory disease,250.0
+10133,females,2017,1467.30444783467,Respiratory disease,264.0
+10170,females,2017,,Respiratory disease,
+10280,females,2017,1948.18288919383,Respiratory disease,141.0
+10110,females,2017,2593.98382532014,Respiratory disease,367.0
+10153,females,2017,1515.70558332244,Respiratory disease,277.0
+10132,females,2017,1658.73799039571,Respiratory disease,308.0
+10002,females,2017,1327.28192257163,Respiratory disease,353.0
+10122,females,2017,1829.53895295201,Respiratory disease,378.0
+10116,females,2017,2399.99004612088,Respiratory disease,216.0
+10296,females,2017,1820.10444847329,Respiratory disease,72.0
+10124,females,2017,1577.47506181216,Respiratory disease,158.0
+10141,females,2017,2182.64346284797,Respiratory disease,284.0
+10145,females,2017,2166.74006222211,Respiratory disease,431.0
+10232,females,2017,2054.1999473332,Respiratory disease,168.0
+10237,females,2017,1484.54893489668,Respiratory disease,276.0
+10128,females,2017,1552.66677585408,Respiratory disease,355.0
+10038,females,2017,939.993537700305,Respiratory disease,199.0
+10259,females,2017,1561.83151101742,Respiratory disease,188.0
+10273,females,2017,2374.88443070855,Respiratory disease,210.0
+10028,females,2017,1766.92781743627,Respiratory disease,275.0
+10111,females,2017,1735.73701801704,Respiratory disease,162.0
+10024,females,2017,1778.51957703121,Respiratory disease,337.0
+10246,females,2017,1807.17902444665,Respiratory disease,163.0
+10300,females,2017,2672.79069972446,Respiratory disease,185.0
+10083,females,2017,2202.57817680033,Respiratory disease,380.0
+10011,females,2017,3607.97850954481,Respiratory disease,368.0
+10000,females,2017,1297.37010719366,Respiratory disease,123.0
+10003,females,2017,3289.38417036892,Respiratory disease,395.0
+10156,females,2017,4726.65542758516,Respiratory disease,395.0
+10157,females,2017,2526.53260430804,Respiratory disease,165.0
+10185,females,2017,3533.24612703775,Respiratory disease,242.0
+10186,females,2017,3181.11536311044,Respiratory disease,157.0
+10125,females,2017,2473.5130814976,Respiratory disease,458.0
+10138,females,2017,1224.90986882516,Respiratory disease,318.0
+10051,females,2017,1752.86640244902,Respiratory disease,515.0
+10126,females,2017,2459.59210458737,Respiratory disease,252.0
+10308,females,2017,2783.63168412394,Respiratory disease,251.0
+10309,females,2017,2480.21819836135,Respiratory disease,169.0
+10127,females,2017,2086.71880522823,Respiratory disease,510.0
+10264,females,2017,2808.14575709537,Respiratory disease,212.0
+10285,females,2017,1577.26499630273,Respiratory disease,172.0
+10019,females,2017,1395.62579591269,Respiratory disease,207.0
+10233,females,2017,1393.92156735587,Respiratory disease,128.0
+10327,females,2017,772.491822170626,Respiratory disease,115.0
+10148,females,2017,2581.7843372125,Respiratory disease,362.0
+10075,females,2017,557.15863878891,Respiratory disease,47.0
+10119,females,2017,2476.78122832286,Respiratory disease,98.0
+10081,females,2017,1737.35754243415,Respiratory disease,285.0
+10222,females,2017,1999.96275364427,Respiratory disease,96.0
+10146,females,2017,525.947244592592,Respiratory disease,37.0
+10140,females,2017,1657.03975868491,Respiratory disease,233.0
+10059,females,2017,1130.60330434521,Respiratory disease,239.0
+10320,females,2017,538.478541743308,Respiratory disease,54.0
+10224,females,2017,,Respiratory disease,
+10101,females,2017,2524.37805349365,Respiratory disease,664.0
+10260,females,2017,,Respiratory disease,
+10261,females,2017,1406.9339724121,Respiratory disease,216.0
+10162,females,2017,2078.96069871694,Respiratory disease,248.0
+10004,females,2017,1074.72275168728,Respiratory disease,113.0
+10238,females,2017,2957.0052638931,Respiratory disease,225.0
+10239,females,2017,1990.97687086554,Respiratory disease,262.0
+10046,females,2017,942.415417385966,Respiratory disease,149.0
+10227,females,2017,889.423621886299,Respiratory disease,155.0
+10303,females,2017,2727.54592300135,Respiratory disease,290.0
+10303,females,2017,1535.51942290278,Respiratory disease,594.0
+10056,females,2017,1846.40002045377,Respiratory disease,264.0
+10065,females,2017,915.380672847503,Respiratory disease,112.0
+10112,females,2017,2114.19826125304,Respiratory disease,380.0
+10066,females,2017,1740.57940697178,Respiratory disease,432.0
+10190,females,2017,1826.78012516615,Respiratory disease,99.0
+10205,females,2017,1906.63032378152,Respiratory disease,200.0
+10057,females,2017,1654.86013361571,Respiratory disease,346.0
+10023,females,2017,2753.0606565881,Respiratory disease,476.0
+10286,females,2017,1234.35425233173,Respiratory disease,137.0
+10078,females,2017,2196.95935879464,Respiratory disease,327.0
+10242,females,2017,1438.27289525081,Respiratory disease,129.0
+10310,females,2017,3660.75966327036,Respiratory disease,326.0
+10070,females,2017,1415.72250861145,Respiratory disease,181.0
+10212,females,2017,1374.97195779216,Respiratory disease,67.0
+10297,females,2017,827.702367609026,Respiratory disease,48.0
+10120,females,2017,908.565456055237,Respiratory disease,227.0
+10084,females,2017,2458.45824522502,Respiratory disease,203.0
+10301,females,2017,3810.92878299982,Respiratory disease,195.0
+10301,females,2017,3019.74551107055,Respiratory disease,647.0
+10302,females,2017,2309.12841998697,Respiratory disease,128.0
+10302,females,2017,2332.63466950482,Respiratory disease,747.0
+10180,females,2017,1668.37140552666,Respiratory disease,228.0
+10179,females,2017,1294.20242931613,Respiratory disease,103.0
+10149,females,2017,3070.72595791822,Respiratory disease,386.0
+10241,females,2017,,Respiratory disease,
+10252,females,2017,1712.77285414436,Respiratory disease,151.0
+10240,females,2017,1398.02925579848,Respiratory disease,197.0
+10187,females,2017,3432.52689172411,Respiratory disease,273.0
+10102,females,2017,5583.30382487247,Respiratory disease,322.0
+10102,females,2017,1781.22747517782,Respiratory disease,486.0
+10135,females,2017,1510.16408182858,Respiratory disease,170.0
+10207,females,2017,2292.10449943388,Respiratory disease,345.0
+10208,females,2017,1535.73172431646,Respiratory disease,87.0
+10209,females,2017,3106.56026460246,Respiratory disease,338.0
+10047,females,2017,1494.18450015857,Respiratory disease,537.0
+10089,females,2017,2262.02625168878,Respiratory disease,441.0
+10033,females,2017,3334.18291597939,Respiratory disease,230.0
+10287,females,2017,1660.26541054465,Respiratory disease,137.0
+10288,females,2017,2900.7765981246,Respiratory disease,301.0
+10154,females,2017,1779.84752670492,Respiratory disease,257.0
+10289,females,2017,1935.63285865473,Respiratory disease,216.0
+10171,females,2017,1666.64886734978,Respiratory disease,125.0
+10328,females,2017,1554.69709284553,Respiratory disease,109.0
+10262,females,2017,1841.50395835313,Respiratory disease,137.0
+10263,females,2017,1211.2554960558,Respiratory disease,234.0
+10060,females,2017,1574.1034687858,Respiratory disease,380.0
+10088,females,2017,3118.17014660837,Respiratory disease,276.0
+10329,females,2017,1236.69476394594,Respiratory disease,94.0
+10097,females,2017,2381.0948785726,Respiratory disease,273.0
+10027,females,2017,2612.27872325657,Respiratory disease,567.0
+10029,females,2017,5021.04643268867,Respiratory disease,278.0
+10274,females,2017,2858.54941116495,Respiratory disease,120.0
+10181,females,2017,1541.67321834537,Respiratory disease,263.0
+10304,females,2017,3009.18642082736,Respiratory disease,160.0
+10304,females,2017,1985.34406637684,Respiratory disease,632.0
+10305,females,2017,2298.14081820165,Respiratory disease,79.0
+10217,females,2017,4712.04290649931,Respiratory disease,138.0
+10218,females,2017,1168.01577108945,Respiratory disease,60.0
+10082,females,2017,1980.76239479269,Respiratory disease,193.0
+10321,females,2017,1499.92806258642,Respiratory disease,141.0
+10129,females,2017,1997.57894214614,Respiratory disease,166.0
+10130,females,2017,2057.4113910978,Respiratory disease,341.0
+10136,females,2017,2080.31890529954,Respiratory disease,436.0
+10087,females,2017,1273.13481044539,Respiratory disease,186.0
+10322,females,2017,2907.69555661187,Respiratory disease,217.0
+10174,females,2017,,Respiratory disease,
+10247,females,2017,1920.49443263764,Respiratory disease,86.0
+10183,females,2017,3295.65360573363,Respiratory disease,244.0
+10184,females,2017,1704.27755036852,Respiratory disease,289.0
+10155,females,2017,1746.17118214426,Respiratory disease,348.0
+10052,females,2017,1427.86305356658,Respiratory disease,156.0
+10053,females,2017,2292.0347247537,Respiratory disease,223.0
+10178,females,2017,2460.59351311287,Respiratory disease,195.0
+10113,females,2017,857.330264185453,Respiratory disease,128.0
+10034,females,2017,1881.07184328477,Respiratory disease,138.0
+10223,females,2017,2384.66599781217,Respiratory disease,196.0
+10243,females,2017,1632.44152143572,Respiratory disease,202.0
+10244,females,2017,2044.84379765408,Respiratory disease,197.0
+10245,females,2017,1674.28624683756,Respiratory disease,165.0
+10030,females,2017,1582.26070064228,Respiratory disease,248.0
+10025,females,2017,1422.69826540338,Respiratory disease,197.0
+10163,females,2017,1611.94179517279,Respiratory disease,212.0
+10265,females,2017,1437.54894021972,Respiratory disease,86.0
+10048,females,2017,1098.94310513931,Respiratory disease,208.0
+10213,females,2017,2871.28336541085,Respiratory disease,154.0
+10039,females,2017,1029.77434130334,Respiratory disease,255.0
+10054,females,2017,1509.0173936931,Respiratory disease,141.0
+10114,females,2017,2620.83803495709,Respiratory disease,382.0
+10026,females,2017,1975.85927166924,Respiratory disease,199.0
+10062,females,2017,,Respiratory disease,
+10058,females,2017,1311.8024800301,Respiratory disease,139.0
+10020,females,2017,3279.74571971223,Respiratory disease,270.0
+10134,females,2017,2009.46611335432,Respiratory disease,266.0
+10191,females,2017,4258.80698827114,Respiratory disease,310.0
+10219,females,2017,2433.61662821062,Respiratory disease,179.0
+10214,females,2017,1153.70504516036,Respiratory disease,39.0
+10228,females,2017,2231.41054300377,Respiratory disease,124.0
+10206,females,2017,2725.06052549743,Respiratory disease,166.0
+10167,females,2017,1833.91658279539,Respiratory disease,245.0
+10169,females,2017,1540.17162775065,Respiratory disease,200.0
+10061,females,2017,1498.11527646521,Respiratory disease,285.0
+10323,females,2017,1194.37646589062,Respiratory disease,179.0
+10085,females,2017,2595.9285639742,Respiratory disease,641.0
+10117,females,2017,2535.60673658752,Respiratory disease,374.0
+10290,females,2017,1489.54725869829,Respiratory disease,94.0
+10076,females,2017,915.337455545242,Respiratory disease,166.0
+10275,females,2017,2035.68287925417,Respiratory disease,126.0
+10035,females,2017,750.002232563347,Respiratory disease,63.0
+10040,females,2017,780.995095797542,Respiratory disease,69.0
+10036,females,2017,1113.80597106852,Respiratory disease,271.0
+10037,females,2017,1070.43618137701,Respiratory disease,220.0
+10266,females,2017,3548.91792518754,Respiratory disease,320.0
+10267,females,2017,2494.65233058815,Respiratory disease,219.0
+10268,females,2017,,Respiratory disease,
+10269,females,2017,2929.67585157626,Respiratory disease,225.0
+10248,females,2017,2263.38890433364,Respiratory disease,280.0
+10215,females,2017,675.187129054294,Respiratory disease,60.0
+10005,females,2017,1596.06169138209,Respiratory disease,213.0
+10210,females,2017,2626.09907889415,Respiratory disease,116.0
+10131,females,2017,1911.24166488006,Respiratory disease,228.0
+10281,females,2017,2532.19130408061,Respiratory disease,212.0
+10311,females,2017,2341.97333423356,Respiratory disease,125.0
+10312,females,2017,7086.95537355994,Respiratory disease,130.0
+10306,females,2017,3188.88597959077,Respiratory disease,285.0
+10307,females,2017,2300.37466854859,Respiratory disease,488.0
+10324,females,2017,2130.6489401537,Respiratory disease,131.0
+10325,females,2017,,Respiratory disease,
+10006,females,2017,2068.67507863024,Respiratory disease,461.0
+10276,females,2017,1593.63935520172,Respiratory disease,104.0
+10314,females,2017,2746.96364317297,Respiratory disease,326.0
+10315,females,2017,4920.31194040912,Respiratory disease,352.0
+10316,females,2017,2871.06619485296,Respiratory disease,245.0
+10317,females,2017,4360.42790540196,Respiratory disease,227.0
+10291,females,2017,2175.29737380102,Respiratory disease,213.0
+10282,females,2017,2218.37701417774,Respiratory disease,124.0
+10229,females,2017,3953.89412261474,Respiratory disease,308.0
+10277,females,2017,1569.21518403567,Respiratory disease,135.0
+10012,females,2017,2356.69591911603,Respiratory disease,274.0
+10095,females,2017,1842.97280711078,Respiratory disease,319.0
+10094,females,2017,1951.57292499852,Respiratory disease,448.0
+10200,females,2017,1703.06004760561,Respiratory disease,108.0
+10216,females,2017,2246.06868798761,Respiratory disease,124.0
+10079,females,2017,2208.58898566828,Respiratory disease,245.0
+10234,females,2017,2846.97137998153,Respiratory disease,288.0
+10192,females,2017,1490.70908135106,Respiratory disease,134.0
+10235,females,2017,3303.39120516665,Respiratory disease,252.0
+10013,females,2017,2137.19395732819,Respiratory disease,114.0
+10009,females,2017,3060.08128635092,Respiratory disease,290.0
+10008,females,2017,1667.81249673579,Respiratory disease,330.0
+10115,females,2017,937.603899259283,Respiratory disease,60.0
+10158,females,2017,2877.47219668527,Respiratory disease,87.0
+10159,females,2017,1295.3519797758,Respiratory disease,104.0
+10160,females,2017,2131.61516615011,Respiratory disease,258.0
+20022,females,2017,1183.73142095239,Respiratory disease,92.0
+20076,females,2017,1376.53290963371,Respiratory disease,357.0
+20015,females,2017,1982.56036554947,Respiratory disease,161.0
+20222,females,2017,2446.78269935405,Respiratory disease,257.0
+20184,females,2017,2074.32291736167,Respiratory disease,230.0
+20003,females,2017,1523.42288475803,Respiratory disease,267.0
+20238,females,2017,1409.74900692714,Respiratory disease,174.0
+20247,females,2017,1441.71228848401,Respiratory disease,137.0
+20151,females,2017,966.65287553025,Respiratory disease,88.0
+20152,females,2017,1826.98617059329,Respiratory disease,192.0
+20153,females,2017,1254.21865988724,Respiratory disease,127.0
+20250,females,2017,,Respiratory disease,
+20251,females,2017,1676.13299769476,Respiratory disease,275.0
+20142,females,2017,1882.07900456126,Respiratory disease,323.0
+20020,females,2017,1509.96645966874,Respiratory disease,211.0
+20005,females,2017,1666.10059663611,Respiratory disease,121.0
+20026,females,2017,2066.67672381797,Respiratory disease,84.0
+20137,females,2017,1648.54305183216,Respiratory disease,406.0
+20192,females,2017,2408.13210526178,Respiratory disease,168.0
+20160,females,2017,3352.4675299837,Respiratory disease,214.0
+20189,females,2017,2228.51875258353,Respiratory disease,127.0
+20239,females,2017,2053.24811486233,Respiratory disease,335.0
+20185,females,2017,3171.42627699471,Respiratory disease,221.0
+20186,females,2017,1645.93062003524,Respiratory disease,219.0
+20187,females,2017,2344.19030151585,Respiratory disease,409.0
+20027,females,2017,1107.85080120295,Respiratory disease,237.0
+20208,females,2017,2160.12511911922,Respiratory disease,199.0
+20100,females,2017,1617.28386903816,Respiratory disease,283.0
+20094,females,2017,2299.21928797855,Respiratory disease,457.0
+20114,females,2017,1502.26479475794,Respiratory disease,276.0
+20039,females,2017,1714.07876952249,Respiratory disease,326.0
+20231,females,2017,,Respiratory disease,
+20209,females,2017,1949.67314482441,Respiratory disease,307.0
+20227,females,2017,2997.91071155129,Respiratory disease,207.0
+20228,females,2017,1618.15718322589,Respiratory disease,109.0
+20195,females,2017,3827.05265568027,Respiratory disease,304.0
+20197,females,2017,1780.23928966754,Respiratory disease,350.0
+20206,females,2017,1636.34056614429,Respiratory disease,37.0
+20201,females,2017,1804.66476759342,Respiratory disease,61.0
+20201,females,2017,2359.69851252986,Respiratory disease,1248.0
+20043,females,2017,1750.6340035311,Respiratory disease,494.0
+20118,females,2017,597.735807783038,Respiratory disease,124.0
+20119,females,2017,4187.13300133199,Respiratory disease,503.0
+20035,females,2017,1687.94126490641,Respiratory disease,337.0
+20036,females,2017,1636.96671179178,Respiratory disease,279.0
+20156,females,2017,2276.09244359993,Respiratory disease,119.0
+20232,females,2017,2071.75891116052,Respiratory disease,167.0
+20040,females,2017,2286.53413074859,Respiratory disease,462.0
+20087,females,2017,3639.99375294056,Respiratory disease,210.0
+20000,females,2017,1619.67279243944,Respiratory disease,198.0
+20001,females,2017,1824.6374796568,Respiratory disease,315.0
+20032,females,2017,1216.10949170212,Respiratory disease,252.0
+20259,females,2017,1791.30603296401,Respiratory disease,245.0
+20054,females,2017,2280.61887968813,Respiratory disease,328.0
+20068,females,2017,,Respiratory disease,
+20069,females,2017,,Respiratory disease,
+20115,females,2017,554.606510205167,Respiratory disease,47.0
+20037,females,2017,1775.34815001814,Respiratory disease,240.0
+20143,females,2017,,Respiratory disease,
+20196,females,2017,2500.67476655404,Respiratory disease,167.0
+20028,females,2017,1614.03606161357,Respiratory disease,361.0
+20088,females,2017,2768.25325274225,Respiratory disease,203.0
+20271,females,2017,,Respiratory disease,
+20008,females,2017,1295.81288098622,Respiratory disease,108.0
+20023,females,2017,1365.64656279022,Respiratory disease,143.0
+20044,females,2017,1590.01559526204,Respiratory disease,209.0
+20161,females,2017,2117.2915833031,Respiratory disease,232.0
+20050,females,2017,1995.14045143568,Respiratory disease,138.0
+20172,females,2017,2525.28624703598,Respiratory disease,460.0
+20124,females,2017,1817.97437771038,Respiratory disease,460.0
+20202,females,2017,1887.19829293114,Respiratory disease,216.0
+20202,females,2017,1751.63112820917,Respiratory disease,469.0
+20045,females,2017,2262.0071635554,Respiratory disease,370.0
+20051,females,2017,1704.52879898485,Respiratory disease,206.0
+20041,females,2017,1371.92928493628,Respiratory disease,116.0
+20108,females,2017,1729.51300141699,Respiratory disease,393.0
+20244,females,2017,2379.98871003046,Respiratory disease,132.0
+20130,females,2017,1725.82458312245,Respiratory disease,206.0
+20138,females,2017,1641.05169313268,Respiratory disease,154.0
+20218,females,2017,1727.34990797799,Respiratory disease,147.0
+20264,females,2017,1777.71600715016,Respiratory disease,248.0
+20002,females,2017,1982.7374862823,Respiratory disease,274.0
+20082,females,2017,1440.38588802867,Respiratory disease,88.0
+20272,females,2017,2156.30173579255,Respiratory disease,165.0
+20273,females,2017,1830.90543710279,Respiratory disease,151.0
+20024,females,2017,1451.17455758702,Respiratory disease,124.0
+20210,females,2017,3902.55623715286,Respiratory disease,539.0
+20089,females,2017,2037.40610943388,Respiratory disease,574.0
+20125,females,2017,2518.57260771472,Respiratory disease,201.0
+20126,females,2017,2627.9485920828,Respiratory disease,417.0
+20190,females,2017,2235.26349655791,Respiratory disease,103.0
+20101,females,2017,2281.4795755769,Respiratory disease,406.0
+20101,females,2017,2312.82158316734,Respiratory disease,1336.0
+20102,females,2017,1328.67449725599,Respiratory disease,229.0
+20102,females,2017,2147.39775677037,Respiratory disease,337.0
+20131,females,2017,2834.56939852868,Respiratory disease,350.0
+20132,females,2017,1724.91856179298,Respiratory disease,246.0
+20191,females,2017,1986.40978325304,Respiratory disease,107.0
+20144,females,2017,1493.17622101687,Respiratory disease,170.0
+20145,females,2017,,Respiratory disease,
+20133,females,2017,2277.18308643832,Respiratory disease,127.0
+20009,females,2017,883.618887215428,Respiratory disease,108.0
+20033,females,2017,1016.44584449644,Respiratory disease,188.0
+20099,females,2017,1773.98313689414,Respiratory disease,239.0
+20074,females,2017,1979.55474178509,Respiratory disease,628.0
+20120,females,2017,,Respiratory disease,
+20177,females,2017,2710.54880339779,Respiratory disease,152.0
+20236,females,2017,1977.73504041276,Respiratory disease,190.0
+20010,females,2017,603.255395496821,Respiratory disease,38.0
+20262,females,2017,2258.79889781001,Respiratory disease,253.0
+20046,females,2017,2138.41208714531,Respiratory disease,118.0
+20064,females,2017,2169.2804525698,Respiratory disease,197.0
+20016,females,2017,1598.87536764414,Respiratory disease,107.0
+20121,females,2017,2231.50976059441,Respiratory disease,257.0
+20070,females,2017,2694.6236057402,Respiratory disease,474.0
+20006,females,2017,1523.65413321551,Respiratory disease,344.0
+20083,females,2017,3069.52847657613,Respiratory disease,170.0
+20095,females,2017,2214.82292211572,Respiratory disease,299.0
+20007,females,2017,1523.83053365251,Respiratory disease,72.0
+20011,females,2017,1461.6271411884,Respiratory disease,71.0
+20178,females,2017,1374.93998085583,Respiratory disease,227.0
+20157,females,2017,2003.06464442274,Respiratory disease,246.0
+20104,females,2017,1212.69381054626,Respiratory disease,100.0
+20240,females,2017,1825.06007806053,Respiratory disease,312.0
+20173,females,2017,4148.28825014124,Respiratory disease,523.0
+20174,females,2017,,Respiratory disease,
+20175,females,2017,2266.30043463328,Respiratory disease,190.0
+20241,females,2017,,Respiratory disease,
+20211,females,2017,2108.53850767177,Respiratory disease,231.0
+20080,females,2017,1563.16867207951,Respiratory disease,184.0
+20090,females,2017,1657.74213173487,Respiratory disease,254.0
+20029,females,2017,2118.27432053631,Respiratory disease,182.0
+20139,females,2017,2796.66141994264,Respiratory disease,516.0
+20140,females,2017,1027.43709901648,Respiratory disease,175.0
+20269,females,2017,1533.40254993919,Respiratory disease,243.0
+20084,females,2017,2182.67851982288,Respiratory disease,377.0
+20193,females,2017,2359.96857268853,Respiratory disease,50.0
+20055,females,2017,1735.76722124997,Respiratory disease,354.0
+20091,females,2017,1327.86806334725,Respiratory disease,151.0
+20212,females,2017,2019.50855642281,Respiratory disease,292.0
+20122,females,2017,3221.59154486055,Respiratory disease,155.0
+20270,females,2017,,Respiratory disease,
+20042,females,2017,1842.83112283066,Respiratory disease,209.0
+20127,females,2017,1975.14681712103,Respiratory disease,195.0
+20179,females,2017,2471.52140406486,Respiratory disease,262.0
+20030,females,2017,1420.07298443677,Respiratory disease,268.0
+20109,females,2017,3221.84977385791,Respiratory disease,182.0
+20203,females,2017,1673.04205954272,Respiratory disease,46.0
+20203,females,2017,2255.93231013138,Respiratory disease,144.0
+20056,females,2017,1416.10651439487,Respiratory disease,303.0
+20057,females,2017,1711.30471083639,Respiratory disease,157.0
+20213,females,2017,1794.62343052807,Respiratory disease,317.0
+20162,females,2017,1969.76029925207,Respiratory disease,254.0
+20165,females,2017,861.864472968657,Respiratory disease,122.0
+20166,females,2017,3058.09747939355,Respiratory disease,335.0
+20252,females,2017,2133.25528731374,Respiratory disease,192.0
+20253,females,2017,,Respiratory disease,
+20047,females,2017,978.075621413204,Respiratory disease,51.0
+20065,females,2017,751.8748850316,Respiratory disease,111.0
+20255,females,2017,1141.17592117087,Respiratory disease,92.0
+20058,females,2017,1844.69653505429,Respiratory disease,107.0
+20059,females,2017,1213.5578972457,Respiratory disease,60.0
+20198,females,2017,2255.24102462214,Respiratory disease,277.0
+20077,females,2017,1362.24958450444,Respiratory disease,93.0
+20146,females,2017,1599.96264350278,Respiratory disease,145.0
+20031,females,2017,1407.19886211514,Respiratory disease,245.0
+20134,females,2017,2582.89001193671,Respiratory disease,231.0
+20223,females,2017,2685.47735047773,Respiratory disease,256.0
+20110,females,2017,2923.86521698976,Respiratory disease,179.0
+20066,females,2017,1519.69046143848,Respiratory disease,39.0
+20060,females,2017,1192.77257528037,Respiratory disease,43.0
+20049,females,2017,1201.70884242406,Respiratory disease,369.0
+20052,females,2017,1759.10972276383,Respiratory disease,483.0
+20096,females,2017,2107.01506625437,Respiratory disease,143.0
+20116,females,2017,1451.29659757417,Respiratory disease,95.0
+20263,females,2017,1479.66810941487,Respiratory disease,222.0
+20204,females,2017,1550.34335343208,Respiratory disease,86.0
+20071,females,2017,1624.62608910668,Respiratory disease,380.0
+20176,females,2017,2610.98028771383,Respiratory disease,374.0
+20214,females,2017,1920.16088049244,Respiratory disease,169.0
+20167,females,2017,1189.34455217551,Respiratory disease,78.0
+20215,females,2017,1465.93811633614,Respiratory disease,107.0
+20111,females,2017,1965.07938262608,Respiratory disease,260.0
+20207,females,2017,2595.8101035552,Respiratory disease,107.0
+20248,females,2017,2416.56204819671,Respiratory disease,129.0
+20219,females,2017,1550.04162468437,Respiratory disease,203.0
+20128,females,2017,1646.14804830514,Respiratory disease,120.0
+20097,females,2017,1343.01791139288,Respiratory disease,316.0
+20199,females,2017,2064.49240904322,Respiratory disease,45.0
+20053,females,2017,1410.27548365723,Respiratory disease,281.0
+20224,females,2017,1808.89410624248,Respiratory disease,90.0
+20158,females,2017,1668.62927281849,Respiratory disease,59.0
+20194,females,2017,1967.72149092643,Respiratory disease,107.0
+20092,females,2017,2090.41420078607,Respiratory disease,188.0
+20012,females,2017,683.172763590262,Respiratory disease,98.0
+20163,females,2017,2835.05383098556,Respiratory disease,149.0
+20164,females,2017,3017.25304160963,Respiratory disease,506.0
+20256,females,2017,1420.32449723722,Respiratory disease,53.0
+20257,females,2017,2277.20205757716,Respiratory disease,382.0
+20072,females,2017,6256.77870108377,Respiratory disease,268.0
+20073,females,2017,,Respiratory disease,
+20105,females,2017,1378.60116295435,Respiratory disease,333.0
+20245,females,2017,2550.55106607627,Respiratory disease,457.0
+20265,females,2017,2237.2084536858,Respiratory disease,177.0
+20112,females,2017,859.588794684614,Respiratory disease,118.0
+20266,females,2017,1585.82625062122,Respiratory disease,200.0
+20180,females,2017,2684.42548873867,Respiratory disease,561.0
+20237,females,2017,1820.20863413589,Respiratory disease,337.0
+20181,females,2017,1629.49174899969,Respiratory disease,149.0
+20141,females,2017,1528.30592662866,Respiratory disease,291.0
+20274,females,2017,2519.16609628875,Respiratory disease,215.0
+20048,females,2017,1908.01609165146,Respiratory disease,86.0
+20233,females,2017,,Respiratory disease,
+20123,females,2017,1937.89526997503,Respiratory disease,295.0
+20129,females,2017,1315.50640750178,Respiratory disease,200.0
+20216,females,2017,2779.51020841631,Respiratory disease,253.0
+20154,females,2017,1247.42152318669,Respiratory disease,238.0
+20254,females,2017,2409.23345770315,Respiratory disease,260.0
+20078,females,2017,1034.25938509223,Respiratory disease,59.0
+20135,females,2017,1917.1678400719,Respiratory disease,331.0
+20217,females,2017,1998.15283095173,Respiratory disease,187.0
+20013,females,2017,1402.33061956661,Respiratory disease,121.0
+20106,females,2017,1416.69696486351,Respiratory disease,115.0
+20220,females,2017,1778.88727824005,Respiratory disease,302.0
+20117,females,2017,2185.04122628891,Respiratory disease,513.0
+20014,females,2017,1271.6144986956,Respiratory disease,52.0
+20085,females,2017,2567.67508901364,Respiratory disease,268.0
+20242,females,2017,1752.5072434524,Respiratory disease,121.0
+20067,females,2017,1045.29105507429,Respiratory disease,162.0
+20168,females,2017,1837.33543463144,Respiratory disease,323.0
+20182,females,2017,2238.08997115577,Respiratory disease,201.0
+20017,females,2017,1897.2659171714,Respiratory disease,163.0
+20221,females,2017,1620.05092530773,Respiratory disease,86.0
+20021,females,2017,1831.79257798786,Respiratory disease,355.0
+20061,females,2017,2197.07346343688,Respiratory disease,268.0
+20258,females,2017,1077.3528722978,Respiratory disease,53.0
+20062,females,2017,6755.5500696097,Respiratory disease,599.0
+20063,females,2017,,Respiratory disease,
+20025,females,2017,1463.85366149304,Respiratory disease,205.0
+20103,females,2017,1500.01178522915,Respiratory disease,186.0
+20103,females,2017,2236.32134478477,Respiratory disease,325.0
+20260,females,2017,,Respiratory disease,
+20081,females,2017,1535.11567221855,Respiratory disease,89.0
+20183,females,2017,3394.92568655754,Respiratory disease,440.0
+20093,females,2017,2983.06751451892,Respiratory disease,246.0
+20229,females,2017,,Respiratory disease,
+20249,females,2017,1426.01873794059,Respiratory disease,119.0
+20155,females,2017,483.403684080634,Respiratory disease,29.0
+20159,females,2017,1527.92635176018,Respiratory disease,160.0
+20225,females,2017,2364.80071438522,Respiratory disease,86.0
+20226,females,2017,1355.26509539164,Respiratory disease,26.0
+20267,females,2017,3628.73712461228,Respiratory disease,547.0
+20268,females,2017,526.448167796953,Respiratory disease,31.0
+20018,females,2017,2061.7334601451,Respiratory disease,125.0
+20136,females,2017,1419.8662516276,Respiratory disease,257.0
+20148,females,2017,492.524275675075,Respiratory disease,79.0
+20147,females,2017,1891.79500743454,Respiratory disease,384.0
+20019,females,2017,1600.69674723241,Respiratory disease,293.0
+20200,females,2017,2533.80008429055,Respiratory disease,105.0
+20079,females,2017,1178.41836150754,Respiratory disease,70.0
+20086,females,2017,1829.34000924619,Respiratory disease,372.0
+20038,females,2017,237.886010122026,Respiratory disease,24.0
+20261,females,2017,1894.33401900399,Respiratory disease,197.0
+20149,females,2017,1063.47820518297,Respiratory disease,94.0
+20169,females,2017,1998.70160032103,Respiratory disease,236.0
+20150,females,2017,1002.17948165764,Respiratory disease,128.0
+20034,females,2017,1532.89013117396,Respiratory disease,297.0
+20004,females,2017,1831.59281035886,Respiratory disease,179.0
+20246,females,2017,2080.4289390404,Respiratory disease,351.0
+20075,females,2017,3202.28545232434,Respiratory disease,338.0
+20230,females,2017,1822.39451283652,Respiratory disease,225.0
+20098,females,2017,2663.47623883148,Respiratory disease,373.0
+20275,females,2017,2266.73602004553,Respiratory disease,446.0
+20188,females,2017,2869.71936881034,Respiratory disease,257.0
+20170,females,2017,3552.0668969262,Respiratory disease,471.0
+20234,females,2017,1916.36395799326,Respiratory disease,399.0
+20243,females,2017,2218.61676720955,Respiratory disease,324.0
+20205,females,2017,1642.6045446882,Respiratory disease,60.0
+20171,females,2017,2804.78078515607,Respiratory disease,186.0
+20235,females,2017,1802.26131082234,Respiratory disease,43.0
+20107,females,2017,836.384635177048,Respiratory disease,208.0
+20113,females,2017,1808.08392709029,Respiratory disease,163.0
+30137,females,2017,,Respiratory disease,
+30182,females,2017,,Respiratory disease,
+30214,females,2017,,Respiratory disease,
+30107,females,2017,,Respiratory disease,
+30000,females,2017,,Respiratory disease,
+30036,females,2017,,Respiratory disease,
+30176,females,2017,,Respiratory disease,
+30215,females,2017,,Respiratory disease,
+30026,females,2017,,Respiratory disease,
+30190,females,2017,,Respiratory disease,
+30152,females,2017,,Respiratory disease,
+30059,females,2017,,Respiratory disease,
+30223,females,2017,,Respiratory disease,
+30060,females,2017,,Respiratory disease,
+30170,females,2017,,Respiratory disease,
+30014,females,2017,,Respiratory disease,
+30126,females,2017,,Respiratory disease,
+30061,females,2017,,Respiratory disease,
+30212,females,2017,,Respiratory disease,
+30123,females,2017,,Respiratory disease,
+30012,females,2017,,Respiratory disease,
+30054,females,2017,,Respiratory disease,
+30128,females,2017,,Respiratory disease,
+30138,females,2017,,Respiratory disease,
+30186,females,2017,,Respiratory disease,
+30095,females,2017,,Respiratory disease,
+30079,females,2017,,Respiratory disease,
+30080,females,2017,,Respiratory disease,
+30202,females,2017,,Respiratory disease,
+30202,females,2017,,Respiratory disease,
+30075,females,2017,,Respiratory disease,
+30001,females,2017,,Respiratory disease,
+30172,females,2017,,Respiratory disease,
+30118,females,2017,,Respiratory disease,
+30141,females,2017,,Respiratory disease,
+30088,females,2017,,Respiratory disease,
+30153,females,2017,,Respiratory disease,
+30196,females,2017,,Respiratory disease,
+30217,females,2017,,Respiratory disease,
+30066,females,2017,,Respiratory disease,
+30232,females,2017,,Respiratory disease,
+30082,females,2017,,Respiratory disease,
+30142,females,2017,,Respiratory disease,
+30174,females,2017,,Respiratory disease,
+30139,females,2017,,Respiratory disease,
+30019,females,2017,,Respiratory disease,
+30224,females,2017,,Respiratory disease,
+30069,females,2017,,Respiratory disease,
+30114,females,2017,,Respiratory disease,
+30096,females,2017,,Respiratory disease,
+30013,females,2017,,Respiratory disease,
+30020,females,2017,,Respiratory disease,
+30116,females,2017,,Respiratory disease,
+30050,females,2017,,Respiratory disease,
+30057,females,2017,,Respiratory disease,
+30058,females,2017,,Respiratory disease,
+30008,females,2017,,Respiratory disease,
+30146,females,2017,,Respiratory disease,
+30175,females,2017,,Respiratory disease,
+30083,females,2017,,Respiratory disease,
+30188,females,2017,,Respiratory disease,
+30225,females,2017,,Respiratory disease,
+30226,females,2017,,Respiratory disease,
+30070,females,2017,,Respiratory disease,
+30147,females,2017,,Respiratory disease,
+30227,females,2017,,Respiratory disease,
+30101,females,2017,,Respiratory disease,
+30101,females,2017,,Respiratory disease,
+30234,females,2017,,Respiratory disease,
+30098,females,2017,,Respiratory disease,
+30097,females,2017,,Respiratory disease,
+30117,females,2017,,Respiratory disease,
+30119,females,2017,,Respiratory disease,
+30140,females,2017,,Respiratory disease,
+30191,females,2017,,Respiratory disease,
+30192,females,2017,,Respiratory disease,
+30203,females,2017,,Respiratory disease,
+30203,females,2017,,Respiratory disease,
+30205,females,2017,,Respiratory disease,
+30023,females,2017,,Respiratory disease,
+30024,females,2017,,Respiratory disease,
+30025,females,2017,,Respiratory disease,
+30184,females,2017,,Respiratory disease,
+30159,females,2017,,Respiratory disease,
+30108,females,2017,,Respiratory disease,
+30041,females,2017,,Respiratory disease,
+30042,females,2017,,Respiratory disease,
+30135,females,2017,,Respiratory disease,
+30084,females,2017,,Respiratory disease,
+30044,females,2017,,Respiratory disease,
+30187,females,2017,,Respiratory disease,
+30213,females,2017,,Respiratory disease,
+30045,females,2017,,Respiratory disease,
+30015,females,2017,,Respiratory disease,
+30129,females,2017,,Respiratory disease,
+30071,females,2017,,Respiratory disease,
+30167,females,2017,,Respiratory disease,
+30003,females,2017,,Respiratory disease,
+30132,females,2017,,Respiratory disease,
+30104,females,2017,,Respiratory disease,
+30218,females,2017,,Respiratory disease,
+30149,females,2017,,Respiratory disease,
+30230,females,2017,,Respiratory disease,
+30193,females,2017,,Respiratory disease,
+30162,females,2017,,Respiratory disease,
+30033,females,2017,,Respiratory disease,
+30027,females,2017,,Respiratory disease,
+30089,females,2017,,Respiratory disease,
+30130,females,2017,,Respiratory disease,
+30157,females,2017,,Respiratory disease,
+30150,females,2017,,Respiratory disease,
+30125,females,2017,,Respiratory disease,
+30091,females,2017,,Respiratory disease,
+30111,females,2017,,Respiratory disease,
+30206,females,2017,,Respiratory disease,
+30063,females,2017,,Respiratory disease,
+30021,females,2017,,Respiratory disease,
+30102,females,2017,,Respiratory disease,
+30102,females,2017,,Respiratory disease,
+30219,females,2017,,Respiratory disease,
+30207,females,2017,,Respiratory disease,
+30120,females,2017,,Respiratory disease,
+30055,females,2017,,Respiratory disease,
+30177,females,2017,,Respiratory disease,
+30081,females,2017,,Respiratory disease,
+30121,females,2017,,Respiratory disease,
+30030,females,2017,,Respiratory disease,
+30178,females,2017,,Respiratory disease,
+30099,females,2017,,Respiratory disease,
+30136,females,2017,,Respiratory disease,
+30143,females,2017,,Respiratory disease,
+30049,females,2017,,Respiratory disease,
+30067,females,2017,,Respiratory disease,
+30028,females,2017,,Respiratory disease,
+30183,females,2017,,Respiratory disease,
+30064,females,2017,,Respiratory disease,
+30051,females,2017,,Respiratory disease,
+30220,females,2017,,Respiratory disease,
+30208,females,2017,,Respiratory disease,
+30086,females,2017,,Respiratory disease,
+30156,females,2017,,Respiratory disease,
+30231,females,2017,,Respiratory disease,
+30163,females,2017,,Respiratory disease,
+30221,females,2017,,Respiratory disease,
+30209,females,2017,,Respiratory disease,
+30052,females,2017,,Respiratory disease,
+30085,females,2017,,Respiratory disease,
+30029,females,2017,,Respiratory disease,
+30065,females,2017,,Respiratory disease,
+30046,females,2017,,Respiratory disease,
+30072,females,2017,,Respiratory disease,
+30073,females,2017,,Respiratory disease,
+30074,females,2017,,Respiratory disease,
+30087,females,2017,,Respiratory disease,
+30124,females,2017,,Respiratory disease,
+30016,females,2017,,Respiratory disease,
+30043,females,2017,,Respiratory disease,
+30100,females,2017,,Respiratory disease,
+30228,females,2017,,Respiratory disease,
+30229,females,2017,,Respiratory disease,
+30092,females,2017,,Respiratory disease,
+30039,females,2017,,Respiratory disease,
+30127,females,2017,,Respiratory disease,
+30154,females,2017,,Respiratory disease,
+30204,females,2017,,Respiratory disease,
+30204,females,2017,,Respiratory disease,
+30115,females,2017,,Respiratory disease,
+30068,females,2017,,Respiratory disease,
+30093,females,2017,,Respiratory disease,
+30090,females,2017,,Respiratory disease,
+30173,females,2017,,Respiratory disease,
+30009,females,2017,,Respiratory disease,
+30122,females,2017,,Respiratory disease,
+30032,females,2017,,Respiratory disease,
+30105,females,2017,,Respiratory disease,
+30194,females,2017,,Respiratory disease,
+30235,females,2017,,Respiratory disease,
+30148,females,2017,,Respiratory disease,
+30210,females,2017,,Respiratory disease,
+30131,females,2017,,Respiratory disease,
+30195,females,2017,,Respiratory disease,
+30034,females,2017,,Respiratory disease,
+30103,females,2017,,Respiratory disease,
+30103,females,2017,,Respiratory disease,
+30056,females,2017,,Respiratory disease,
+30031,females,2017,,Respiratory disease,
+30185,females,2017,,Respiratory disease,
+30216,females,2017,,Respiratory disease,
+30189,females,2017,,Respiratory disease,
+30158,females,2017,,Respiratory disease,
+30010,females,2017,,Respiratory disease,
+30112,females,2017,,Respiratory disease,
+30198,females,2017,,Respiratory disease,
+30160,females,2017,,Respiratory disease,
+30077,females,2017,,Respiratory disease,
+30053,females,2017,,Respiratory disease,
+30211,females,2017,,Respiratory disease,
+30199,females,2017,,Respiratory disease,
+30197,females,2017,,Respiratory disease,
+30113,females,2017,,Respiratory disease,
+30222,females,2017,,Respiratory disease,
+30018,females,2017,,Respiratory disease,
+30180,females,2017,,Respiratory disease,
+30165,females,2017,,Respiratory disease,
+30166,females,2017,,Respiratory disease,
+30161,females,2017,,Respiratory disease,
+30062,females,2017,,Respiratory disease,
+30037,females,2017,,Respiratory disease,
+30151,females,2017,,Respiratory disease,
+30155,females,2017,,Respiratory disease,
+30200,females,2017,,Respiratory disease,
+30179,females,2017,,Respiratory disease,
+30004,females,2017,,Respiratory disease,
+30005,females,2017,,Respiratory disease,
+30168,females,2017,,Respiratory disease,
+30094,females,2017,,Respiratory disease,
+30145,females,2017,,Respiratory disease,
+30144,females,2017,,Respiratory disease,
+30038,females,2017,,Respiratory disease,
+30110,females,2017,,Respiratory disease,
+30181,females,2017,,Respiratory disease,
+30106,females,2017,,Respiratory disease,
+30171,females,2017,,Respiratory disease,
+30076,females,2017,,Respiratory disease,
+30078,females,2017,,Respiratory disease,
+30047,females,2017,,Respiratory disease,
+30017,females,2017,,Respiratory disease,
+30133,females,2017,,Respiratory disease,
+30040,females,2017,,Respiratory disease,
+30035,females,2017,,Respiratory disease,
+30201,females,2017,,Respiratory disease,
+30201,females,2017,,Respiratory disease,
+30048,females,2017,,Respiratory disease,
+30109,females,2017,,Respiratory disease,
+30006,females,2017,,Respiratory disease,
+30233,females,2017,,Respiratory disease,
+30164,females,2017,,Respiratory disease,
+30169,females,2017,,Respiratory disease,
+30007,females,2017,,Respiratory disease,
+30134,females,2017,,Respiratory disease,
+30002,females,2017,,Respiratory disease,
+30011,females,2017,,Respiratory disease,
+30022,females,2017,,Respiratory disease,
+40044,females,2017,2055.03378802648,Respiratory disease,260.0
+40000,females,2017,1010.5295811954,Respiratory disease,65.0
+40061,females,2017,920.897914809321,Respiratory disease,105.0
+40002,females,2017,1916.44114894405,Respiratory disease,157.0
+40003,females,2017,1333.88701280162,Respiratory disease,156.0
+40045,females,2017,2847.92365911322,Respiratory disease,196.0
+40082,females,2017,,Respiratory disease,
+40008,females,2017,1124.70513860759,Respiratory disease,52.0
+40097,females,2017,3456.93009946198,Respiratory disease,184.0
+40065,females,2017,1742.54285936394,Respiratory disease,116.0
+40041,females,2017,1114.8786849222,Respiratory disease,214.0
+40053,females,2017,1768.80753521699,Respiratory disease,283.0
+40037,females,2017,2409.05193370123,Respiratory disease,427.0
+40006,females,2017,1451.87179677516,Respiratory disease,158.0
+40077,females,2017,,Respiratory disease,
+40056,females,2017,1818.11202204444,Respiratory disease,272.0
+40046,females,2017,5196.56705005753,Respiratory disease,269.0
+40047,females,2017,2163.08851992937,Respiratory disease,164.0
+40068,females,2017,1654.06960587404,Respiratory disease,108.0
+40048,females,2017,1151.28232887818,Respiratory disease,122.0
+40042,females,2017,2241.42272365024,Respiratory disease,325.0
+40083,females,2017,,Respiratory disease,
+40020,females,2017,2866.35929420565,Respiratory disease,228.0
+40027,females,2017,2050.25530162522,Respiratory disease,195.0
+40058,females,2017,3108.0282662717,Respiratory disease,364.0
+40038,females,2017,2194.41279231323,Respiratory disease,342.0
+40021,females,2017,2676.27532809346,Respiratory disease,189.0
+40022,females,2017,3060.45597424359,Respiratory disease,391.0
+40024,females,2017,1574.26203855922,Respiratory disease,183.0
+40078,females,2017,2353.06803718001,Respiratory disease,91.0
+40089,females,2017,3220.19109236611,Respiratory disease,541.0
+40054,females,2017,2098.69071303634,Respiratory disease,394.0
+40062,females,2017,572.079078490806,Respiratory disease,67.0
+40016,females,2017,2491.58074642408,Respiratory disease,109.0
+40017,females,2017,2607.20896320151,Respiratory disease,312.0
+40007,females,2017,1199.93567986553,Respiratory disease,196.0
+40032,females,2017,1618.19419828904,Respiratory disease,211.0
+40014,females,2017,1190.08495118011,Respiratory disease,115.0
+40069,females,2017,1966.39457462195,Respiratory disease,49.0
+40090,females,2017,2209.62784688448,Respiratory disease,65.0
+40049,females,2017,2471.66537648656,Respiratory disease,350.0
+40004,females,2017,2214.67484431688,Respiratory disease,171.0
+40050,females,2017,2162.35254176146,Respiratory disease,281.0
+40055,females,2017,2616.463008073,Respiratory disease,155.0
+40033,females,2017,1168.45231613541,Respiratory disease,88.0
+40034,females,2017,2272.18508932688,Respiratory disease,211.0
+40028,females,2017,2271.28386702197,Respiratory disease,191.0
+40071,females,2017,937.479270011204,Respiratory disease,76.0
+40074,females,2017,1780.35171856832,Respiratory disease,125.0
+40086,females,2017,,Respiratory disease,
+40098,females,2017,942.643628060474,Respiratory disease,108.0
+40079,females,2017,,Respiratory disease,
+40091,females,2017,1834.63674614109,Respiratory disease,117.0
+40059,females,2017,2099.12614491337,Respiratory disease,328.0
+40018,females,2017,2273.22499294849,Respiratory disease,54.0
+40066,females,2017,2111.25353117476,Respiratory disease,111.0
+40099,females,2017,1278.0241553162,Respiratory disease,98.0
+40100,females,2017,1844.38896720923,Respiratory disease,104.0
+40039,females,2017,1774.70481954595,Respiratory disease,331.0
+40092,females,2017,4687.44688449412,Respiratory disease,99.0
+40040,females,2017,3022.49627137814,Respiratory disease,417.0
+40035,females,2017,2154.39989263768,Respiratory disease,369.0
+40051,females,2017,2599.84600809618,Respiratory disease,390.0
+40005,females,2017,2201.78988207543,Respiratory disease,207.0
+40093,females,2017,3213.10819779725,Respiratory disease,344.0
+40101,females,2017,3363.03121035034,Respiratory disease,227.0
+40101,females,2017,1089.22409624124,Respiratory disease,113.0
+40013,females,2017,2088.9195804887,Respiratory disease,310.0
+40094,females,2017,3770.54278890163,Respiratory disease,96.0
+40095,females,2017,,Respiratory disease,
+40001,females,2017,1217.62930569632,Respiratory disease,48.0
+40025,females,2017,2268.3989227421,Respiratory disease,288.0
+40011,females,2017,1428.00406154521,Respiratory disease,184.0
+40067,females,2017,1994.34340224963,Respiratory disease,124.0
+40023,females,2017,1672.51151707283,Respiratory disease,19.0
+40043,females,2017,1399.52314375791,Respiratory disease,93.0
+40029,females,2017,2230.58554697107,Respiratory disease,369.0
+40009,females,2017,1655.85088694223,Respiratory disease,206.0
+40030,females,2017,2251.70838285575,Respiratory disease,349.0
+40012,females,2017,1542.04918907144,Respiratory disease,129.0
+40096,females,2017,1547.4557605982,Respiratory disease,60.0
+40072,females,2017,,Respiratory disease,
+40019,females,2017,2533.45848152752,Respiratory disease,421.0
+40063,females,2017,2849.08285797288,Respiratory disease,245.0
+40084,females,2017,2186.32139322421,Respiratory disease,260.0
+40080,females,2017,3687.54358813117,Respiratory disease,162.0
+40073,females,2017,5662.39298091237,Respiratory disease,326.0
+40102,females,2017,,Respiratory disease,
+40102,females,2017,1867.0590439567,Respiratory disease,691.0
+40052,females,2017,3491.43659201404,Respiratory disease,128.0
+40064,females,2017,2416.43959773777,Respiratory disease,140.0
+40010,females,2017,1385.10171765538,Respiratory disease,185.0
+40085,females,2017,,Respiratory disease,
+40031,females,2017,2677.90283372784,Respiratory disease,473.0
+40036,females,2017,1391.03891312525,Respiratory disease,139.0
+40087,females,2017,1081.94756503033,Respiratory disease,87.0
+40088,females,2017,2018.17252230565,Respiratory disease,74.0
+40060,females,2017,,Respiratory disease,
+40015,females,2017,1638.26931527504,Respiratory disease,208.0
+40103,females,2017,,Respiratory disease,
+40103,females,2017,1300.67142076951,Respiratory disease,354.0
+40070,females,2017,2430.17063284215,Respiratory disease,107.0
+40075,females,2017,2021.05281478552,Respiratory disease,52.0
+40057,females,2017,3797.07419499118,Respiratory disease,184.0
+40081,females,2017,4497.82128408026,Respiratory disease,303.0
+40026,females,2017,1701.45981927516,Respiratory disease,187.0
+40076,females,2017,2233.64915378599,Respiratory disease,137.0
+50116,females,2017,2705.40773966864,Respiratory disease,170.0
+50117,females,2017,885.351260999001,Respiratory disease,72.0
+50072,females,2017,1333.38359922163,Respiratory disease,183.0
+50046,females,2017,641.828761779301,Respiratory disease,105.0
+50045,females,2017,3022.55709038702,Respiratory disease,265.0
+50109,females,2017,2296.05263770079,Respiratory disease,63.0
+50080,females,2017,1421.40776902364,Respiratory disease,107.0
+50083,females,2017,1581.60128842596,Respiratory disease,137.0
+50033,females,2017,1063.96138426577,Respiratory disease,318.0
+50076,females,2017,2330.90162136451,Respiratory disease,373.0
+50034,females,2017,1653.38534059222,Respiratory disease,279.0
+50020,females,2017,724.626543628716,Respiratory disease,162.0
+50063,females,2017,1877.062298207,Respiratory disease,260.0
+50013,females,2017,2015.35562174244,Respiratory disease,128.0
+50015,females,2017,3046.3398951173,Respiratory disease,343.0
+50055,females,2017,1992.28121920566,Respiratory disease,450.0
+50021,females,2017,1596.56689692201,Respiratory disease,106.0
+50064,females,2017,1167.34262188387,Respiratory disease,120.0
+50050,females,2017,2111.9068733695,Respiratory disease,370.0
+50073,females,2017,1440.20221904403,Respiratory disease,276.0
+50097,females,2017,3143.26984777846,Respiratory disease,146.0
+50091,females,2017,1339.46719151844,Respiratory disease,105.0
+50126,females,2017,2284.91964685987,Respiratory disease,40.0
+50101,females,2017,4021.96722568159,Respiratory disease,231.0
+50101,females,2017,1201.55284670248,Respiratory disease,345.0
+50074,females,2017,1349.96687682527,Respiratory disease,255.0
+50084,females,2017,2282.48695395033,Respiratory disease,271.0
+50081,females,2017,1202.6906426802,Respiratory disease,191.0
+50082,females,2017,886.117334972269,Respiratory disease,47.0
+50039,females,2017,1811.24747829973,Respiratory disease,338.0
+50060,females,2017,1945.11323532945,Respiratory disease,209.0
+50047,females,2017,1226.8220047795,Respiratory disease,126.0
+50052,females,2017,1466.65784706268,Respiratory disease,327.0
+50053,females,2017,840.403008030038,Respiratory disease,247.0
+50056,females,2017,1494.15765251113,Respiratory disease,202.0
+50085,females,2017,1436.75169917099,Respiratory disease,38.0
+50095,females,2017,,Respiratory disease,
+50040,females,2017,2124.95254715694,Respiratory disease,227.0
+50017,females,2017,746.565185853116,Respiratory disease,113.0
+50122,females,2017,1374.38888417886,Respiratory disease,82.0
+50006,females,2017,1419.7729926447,Respiratory disease,100.0
+50086,females,2017,1455.16721568267,Respiratory disease,52.0
+50087,females,2017,2531.17035986887,Respiratory disease,112.0
+50061,females,2017,1903.33407708522,Respiratory disease,222.0
+50066,females,2017,1292.93408616441,Respiratory disease,61.0
+50065,females,2017,1213.77228344899,Respiratory disease,197.0
+50077,females,2017,2960.48470129656,Respiratory disease,330.0
+50008,females,2017,1051.83053672307,Respiratory disease,146.0
+50007,females,2017,1129.336373079,Respiratory disease,199.0
+50026,females,2017,1753.15686365069,Respiratory disease,83.0
+50123,females,2017,1393.24358574736,Respiratory disease,132.0
+50027,females,2017,1367.75050816445,Respiratory disease,78.0
+50089,females,2017,1302.09385366074,Respiratory disease,80.0
+50088,females,2017,1505.05796859648,Respiratory disease,117.0
+50000,females,2017,1593.73776513463,Respiratory disease,147.0
+50118,females,2017,,Respiratory disease,
+50102,females,2017,,Respiratory disease,
+50102,females,2017,1800.65044362368,Respiratory disease,936.0
+50035,females,2017,1800.02623315644,Respiratory disease,345.0
+50124,females,2017,1663.53096172364,Respiratory disease,121.0
+50028,females,2017,1070.49572046194,Respiratory disease,228.0
+50068,females,2017,1750.95793216405,Respiratory disease,197.0
+50110,females,2017,,Respiratory disease,
+50022,females,2017,2376.4910792343,Respiratory disease,374.0
+50093,females,2017,1817.59049995206,Respiratory disease,119.0
+50094,females,2017,,Respiratory disease,
+50096,females,2017,,Respiratory disease,
+50048,females,2017,1727.73658393718,Respiratory disease,80.0
+50058,females,2017,1752.76639689529,Respiratory disease,258.0
+50069,females,2017,1372.53270238894,Respiratory disease,150.0
+50104,females,2017,2026.29860853144,Respiratory disease,74.0
+50105,females,2017,1801.66710436992,Respiratory disease,84.0
+50106,females,2017,2616.38666024422,Respiratory disease,278.0
+50018,females,2017,1060.30786208549,Respiratory disease,69.0
+50119,females,2017,1969.78004012925,Respiratory disease,75.0
+50001,females,2017,2511.85739412798,Respiratory disease,485.0
+50029,females,2017,1319.83432859995,Respiratory disease,91.0
+50103,females,2017,,Respiratory disease,
+50103,females,2017,1137.62121868758,Respiratory disease,225.0
+50002,females,2017,2002.24753155256,Respiratory disease,188.0
+50067,females,2017,1953.56494260142,Respiratory disease,236.0
+50090,females,2017,1873.58410545169,Respiratory disease,129.0
+50023,females,2017,1401.42278430146,Respiratory disease,33.0
+50030,females,2017,1516.18336921002,Respiratory disease,176.0
+50036,females,2017,1707.99647666401,Respiratory disease,301.0
+50107,females,2017,1745.85778899235,Respiratory disease,118.0
+50031,females,2017,1195.96361184174,Respiratory disease,182.0
+50059,females,2017,1623.21008209289,Respiratory disease,184.0
+50099,females,2017,2805.17395621622,Respiratory disease,153.0
+50098,females,2017,1899.8816356649,Respiratory disease,71.0
+50111,females,2017,2693.33335817764,Respiratory disease,155.0
+50120,females,2017,2604.13374897601,Respiratory disease,60.0
+50011,females,2017,583.849169983111,Respiratory disease,110.0
+50032,females,2017,1503.21678486315,Respiratory disease,231.0
+50127,females,2017,1251.7561070918,Respiratory disease,103.0
+50070,females,2017,985.529081007013,Respiratory disease,143.0
+50071,females,2017,1231.31864384475,Respiratory disease,198.0
+50100,females,2017,,Respiratory disease,
+50024,females,2017,1988.03893016843,Respiratory disease,210.0
+50041,females,2017,1507.46848356472,Respiratory disease,138.0
+50003,females,2017,1947.18999367989,Respiratory disease,74.0
+50004,females,2017,2626.80334106808,Respiratory disease,203.0
+50092,females,2017,1005.0946313811,Respiratory disease,120.0
+50062,females,2017,3211.07565811722,Respiratory disease,100.0
+50121,females,2017,3088.20601219017,Respiratory disease,118.0
+50108,females,2017,,Respiratory disease,
+50025,females,2017,2029.26178915556,Respiratory disease,119.0
+50042,females,2017,1214.57337452961,Respiratory disease,113.0
+50014,females,2017,2410.57210213541,Respiratory disease,174.0
+50009,females,2017,1105.41093807734,Respiratory disease,150.0
+50010,females,2017,1328.46685451755,Respiratory disease,117.0
+50128,females,2017,4631.4804318376,Respiratory disease,86.0
+50112,females,2017,,Respiratory disease,
+50016,females,2017,3026.96781483458,Respiratory disease,69.0
+50125,females,2017,2293.30002510238,Respiratory disease,134.0
+50054,females,2017,1343.70016887566,Respiratory disease,97.0
+50012,females,2017,1261.17040202917,Respiratory disease,225.0
+50005,females,2017,1984.30691035028,Respiratory disease,94.0
+50113,females,2017,,Respiratory disease,
+50078,females,2017,2783.42103820168,Respiratory disease,101.0
+50114,females,2017,,Respiratory disease,
+50079,females,2017,3305.26640469652,Respiratory disease,374.0
+50049,females,2017,1699.35434616463,Respiratory disease,75.0
+50115,females,2017,6132.60000810618,Respiratory disease,226.0
+50037,females,2017,1129.14267961284,Respiratory disease,230.0
+50019,females,2017,2976.65121230615,Respiratory disease,133.0
+50057,females,2017,1465.28930726274,Respiratory disease,142.0
+50051,females,2017,1359.89993141195,Respiratory disease,207.0
+50043,females,2017,2060.93888904429,Respiratory disease,222.0
+50038,females,2017,1565.29451725547,Respiratory disease,250.0
+50075,females,2017,1107.05106682645,Respiratory disease,72.0
+50044,females,2017,1335.29437010478,Respiratory disease,189.0
+60036,females,2017,,Respiratory disease,
+60007,females,2017,,Respiratory disease,
+60024,females,2017,,Respiratory disease,
+60002,females,2017,,Respiratory disease,
+60008,females,2017,,Respiratory disease,
+60000,females,2017,,Respiratory disease,
+60001,females,2017,,Respiratory disease,
+60031,females,2017,,Respiratory disease,
+60037,females,2017,,Respiratory disease,
+60003,females,2017,,Respiratory disease,
+60030,females,2017,,Respiratory disease,
+60032,females,2017,,Respiratory disease,
+60025,females,2017,,Respiratory disease,
+60009,females,2017,,Respiratory disease,
+60041,females,2017,,Respiratory disease,
+60027,females,2017,,Respiratory disease,
+60017,females,2017,,Respiratory disease,
+60042,females,2017,,Respiratory disease,
+60034,females,2017,,Respiratory disease,
+60033,females,2017,,Respiratory disease,
+60028,females,2017,,Respiratory disease,
+60026,females,2017,,Respiratory disease,
+60014,females,2017,,Respiratory disease,
+60018,females,2017,,Respiratory disease,
+60047,females,2017,,Respiratory disease,
+60019,females,2017,,Respiratory disease,
+60012,females,2017,,Respiratory disease,
+60013,females,2017,,Respiratory disease,
+60043,females,2017,,Respiratory disease,
+60021,females,2017,,Respiratory disease,
+60022,females,2017,,Respiratory disease,
+60029,females,2017,,Respiratory disease,
+60044,females,2017,,Respiratory disease,
+60010,females,2017,,Respiratory disease,
+60004,females,2017,,Respiratory disease,
+60015,females,2017,,Respiratory disease,
+60011,females,2017,,Respiratory disease,
+60016,females,2017,,Respiratory disease,
+60020,females,2017,,Respiratory disease,
+60048,females,2017,,Respiratory disease,
+60038,females,2017,,Respiratory disease,
+60045,females,2017,,Respiratory disease,
+60023,females,2017,,Respiratory disease,
+60046,females,2017,,Respiratory disease,
+60005,females,2017,,Respiratory disease,
+60006,females,2017,,Respiratory disease,
+60049,females,2017,,Respiratory disease,
+60035,females,2017,,Respiratory disease,
+60039,females,2017,,Respiratory disease,
+60050,females,2017,,Respiratory disease,
+60040,females,2017,,Respiratory disease,
+70008,females,2017,,Respiratory disease,
+70007,females,2017,,Respiratory disease,
+70011,females,2017,,Respiratory disease,
+70009,females,2017,,Respiratory disease,
+70010,females,2017,,Respiratory disease,
+70003,females,2017,,Respiratory disease,
+70000,females,2017,,Respiratory disease,
+70002,females,2017,,Respiratory disease,
+70001,females,2017,,Respiratory disease,
+70006,females,2017,,Respiratory disease,
+70012,females,2017,,Respiratory disease,
+70013,females,2017,,Respiratory disease,
+70004,females,2017,,Respiratory disease,
+70005,females,2017,,Respiratory disease,
+80006,females,2017,,Respiratory disease,
+80023,females,2017,,Respiratory disease,
+80003,females,2017,,Respiratory disease,
+80000,females,2017,,Respiratory disease,
+80001,females,2017,,Respiratory disease,
+80020,females,2017,,Respiratory disease,
+80021,females,2017,,Respiratory disease,
+80004,females,2017,,Respiratory disease,
+80016,females,2017,,Respiratory disease,
+80022,females,2017,,Respiratory disease,
+80002,females,2017,,Respiratory disease,
+80017,females,2017,,Respiratory disease,
+80007,females,2017,,Respiratory disease,
+80008,females,2017,,Respiratory disease,
+80011,females,2017,,Respiratory disease,
+80010,females,2017,,Respiratory disease,
+80012,females,2017,,Respiratory disease,
+80013,females,2017,,Respiratory disease,
+80018,females,2017,,Respiratory disease,
+80024,females,2017,,Respiratory disease,
+80009,females,2017,,Respiratory disease,
+80014,females,2017,,Respiratory disease,
+80015,females,2017,,Respiratory disease,
+80005,females,2017,,Respiratory disease,
+80019,females,2017,,Respiratory disease,
+10283,females,2017,,Asthma,
+10225,females,2017,,Asthma,
+10226,females,2017,,Asthma,
+10249,females,2017,,Asthma,
+10250,females,2017,,Asthma,
+10251,females,2017,,Asthma,
+10211,females,2017,,Asthma,
+10256,females,2017,,Asthma,
+10257,females,2017,,Asthma,
+10258,females,2017,,Asthma,
+10063,females,2017,,Asthma,
+10137,females,2017,,Asthma,
+10071,females,2017,,Asthma,
+10080,females,2017,,Asthma,
+10118,females,2017,,Asthma,
+10090,females,2017,,Asthma,
+10230,females,2017,,Asthma,
+10292,females,2017,,Asthma,
+10293,females,2017,,Asthma,
+10069,females,2017,,Asthma,
+10049,females,2017,,Asthma,
+10103,females,2017,,Asthma,
+10103,females,2017,,Asthma,
+10050,females,2017,,Asthma,
+10007,females,2017,,Asthma,
+10172,females,2017,,Asthma,
+10173,females,2017,,Asthma,
+10014,females,2017,,Asthma,
+10091,females,2017,,Asthma,
+10168,females,2017,,Asthma,
+10188,females,2017,,Asthma,
+10270,females,2017,,Asthma,
+10271,females,2017,,Asthma,
+10055,females,2017,,Asthma,
+10284,females,2017,,Asthma,
+10220,females,2017,,Asthma,
+10318,females,2017,,Asthma,
+10064,females,2017,,Asthma,
+10105,females,2017,,Asthma,
+10105,females,2017,,Asthma,
+10021,females,2017,,Asthma,
+10022,females,2017,,Asthma,
+10106,females,2017,,Asthma,
+10106,females,2017,,Asthma,
+10182,females,2017,,Asthma,
+10107,females,2017,,Asthma,
+10108,females,2017,,Asthma,
+10278,females,2017,,Asthma,
+10164,females,2017,,Asthma,
+10041,females,2017,,Asthma,
+10042,females,2017,,Asthma,
+10279,females,2017,,Asthma,
+10142,females,2017,,Asthma,
+10032,females,2017,,Asthma,
+10031,females,2017,,Asthma,
+10193,females,2017,,Asthma,
+10326,females,2017,,Asthma,
+10098,females,2017,,Asthma,
+10161,females,2017,,Asthma,
+10201,females,2017,,Asthma,
+10201,females,2017,,Asthma,
+10195,females,2017,,Asthma,
+10294,females,2017,,Asthma,
+10236,females,2017,,Asthma,
+10072,females,2017,,Asthma,
+10295,females,2017,,Asthma,
+10143,females,2017,,Asthma,
+10001,females,2017,,Asthma,
+10319,females,2017,,Asthma,
+10109,females,2017,,Asthma,
+10096,females,2017,,Asthma,
+10099,females,2017,,Asthma,
+10068,females,2017,,Asthma,
+10067,females,2017,,Asthma,
+10144,females,2017,,Asthma,
+10073,females,2017,,Asthma,
+10150,females,2017,,Asthma,
+10121,females,2017,,Asthma,
+10298,females,2017,,Asthma,
+10299,females,2017,,Asthma,
+10016,females,2017,,Asthma,
+10017,females,2017,,Asthma,
+10015,females,2017,,Asthma,
+10147,females,2017,,Asthma,
+10202,females,2017,,Asthma,
+10202,females,2017,,Asthma,
+10203,females,2017,,Asthma,
+10272,females,2017,,Asthma,
+10077,females,2017,,Asthma,
+10123,females,2017,,Asthma,
+10010,females,2017,,Asthma,
+10100,females,2017,,Asthma,
+10194,females,2017,,Asthma,
+10139,females,2017,,Asthma,
+10189,females,2017,,Asthma,
+10175,females,2017,,Asthma,
+10045,females,2017,,Asthma,
+10165,females,2017,,Asthma,
+10166,females,2017,,Asthma,
+10196,females,2017,,Asthma,
+10313,females,2017,,Asthma,
+10253,females,2017,,Asthma,
+10231,females,2017,,Asthma,
+10176,females,2017,,Asthma,
+10177,females,2017,,Asthma,
+10086,females,2017,,Asthma,
+10093,females,2017,,Asthma,
+10151,females,2017,,Asthma,
+10152,females,2017,,Asthma,
+10221,females,2017,,Asthma,
+10092,females,2017,,Asthma,
+10254,females,2017,,Asthma,
+10255,females,2017,,Asthma,
+10043,females,2017,,Asthma,
+10104,females,2017,,Asthma,
+10104,females,2017,,Asthma,
+10044,females,2017,,Asthma,
+10197,females,2017,,Asthma,
+10198,females,2017,,Asthma,
+10199,females,2017,,Asthma,
+10074,females,2017,,Asthma,
+10204,females,2017,,Asthma,
+10018,females,2017,,Asthma,
+10133,females,2017,,Asthma,
+10170,females,2017,,Asthma,
+10280,females,2017,,Asthma,
+10110,females,2017,,Asthma,
+10153,females,2017,,Asthma,
+10132,females,2017,,Asthma,
+10002,females,2017,,Asthma,
+10122,females,2017,,Asthma,
+10116,females,2017,,Asthma,
+10296,females,2017,,Asthma,
+10124,females,2017,,Asthma,
+10141,females,2017,,Asthma,
+10145,females,2017,,Asthma,
+10232,females,2017,,Asthma,
+10237,females,2017,,Asthma,
+10128,females,2017,,Asthma,
+10038,females,2017,,Asthma,
+10259,females,2017,,Asthma,
+10273,females,2017,,Asthma,
+10028,females,2017,,Asthma,
+10111,females,2017,,Asthma,
+10024,females,2017,,Asthma,
+10246,females,2017,,Asthma,
+10300,females,2017,,Asthma,
+10083,females,2017,,Asthma,
+10011,females,2017,,Asthma,
+10000,females,2017,,Asthma,
+10003,females,2017,,Asthma,
+10156,females,2017,,Asthma,
+10157,females,2017,,Asthma,
+10185,females,2017,,Asthma,
+10186,females,2017,,Asthma,
+10125,females,2017,,Asthma,
+10138,females,2017,,Asthma,
+10051,females,2017,,Asthma,
+10126,females,2017,,Asthma,
+10308,females,2017,,Asthma,
+10309,females,2017,,Asthma,
+10127,females,2017,,Asthma,
+10264,females,2017,,Asthma,
+10285,females,2017,,Asthma,
+10019,females,2017,,Asthma,
+10233,females,2017,,Asthma,
+10327,females,2017,,Asthma,
+10148,females,2017,,Asthma,
+10075,females,2017,,Asthma,
+10119,females,2017,,Asthma,
+10081,females,2017,,Asthma,
+10222,females,2017,,Asthma,
+10146,females,2017,,Asthma,
+10140,females,2017,,Asthma,
+10059,females,2017,,Asthma,
+10320,females,2017,,Asthma,
+10224,females,2017,,Asthma,
+10101,females,2017,,Asthma,
+10260,females,2017,,Asthma,
+10261,females,2017,,Asthma,
+10162,females,2017,,Asthma,
+10004,females,2017,,Asthma,
+10238,females,2017,,Asthma,
+10239,females,2017,,Asthma,
+10046,females,2017,,Asthma,
+10227,females,2017,,Asthma,
+10303,females,2017,,Asthma,
+10303,females,2017,,Asthma,
+10056,females,2017,,Asthma,
+10065,females,2017,,Asthma,
+10112,females,2017,,Asthma,
+10066,females,2017,,Asthma,
+10190,females,2017,,Asthma,
+10205,females,2017,,Asthma,
+10057,females,2017,,Asthma,
+10023,females,2017,,Asthma,
+10286,females,2017,,Asthma,
+10078,females,2017,,Asthma,
+10242,females,2017,,Asthma,
+10310,females,2017,,Asthma,
+10070,females,2017,,Asthma,
+10212,females,2017,,Asthma,
+10297,females,2017,,Asthma,
+10120,females,2017,,Asthma,
+10084,females,2017,,Asthma,
+10301,females,2017,,Asthma,
+10301,females,2017,,Asthma,
+10302,females,2017,,Asthma,
+10302,females,2017,,Asthma,
+10180,females,2017,,Asthma,
+10179,females,2017,,Asthma,
+10149,females,2017,,Asthma,
+10241,females,2017,,Asthma,
+10252,females,2017,,Asthma,
+10240,females,2017,,Asthma,
+10187,females,2017,,Asthma,
+10102,females,2017,,Asthma,
+10102,females,2017,,Asthma,
+10135,females,2017,,Asthma,
+10207,females,2017,,Asthma,
+10208,females,2017,,Asthma,
+10209,females,2017,,Asthma,
+10047,females,2017,,Asthma,
+10089,females,2017,,Asthma,
+10033,females,2017,,Asthma,
+10287,females,2017,,Asthma,
+10288,females,2017,,Asthma,
+10154,females,2017,,Asthma,
+10289,females,2017,,Asthma,
+10171,females,2017,,Asthma,
+10328,females,2017,,Asthma,
+10262,females,2017,,Asthma,
+10263,females,2017,,Asthma,
+10060,females,2017,,Asthma,
+10088,females,2017,,Asthma,
+10329,females,2017,,Asthma,
+10097,females,2017,,Asthma,
+10027,females,2017,,Asthma,
+10029,females,2017,,Asthma,
+10274,females,2017,,Asthma,
+10181,females,2017,,Asthma,
+10304,females,2017,,Asthma,
+10304,females,2017,,Asthma,
+10305,females,2017,,Asthma,
+10217,females,2017,,Asthma,
+10218,females,2017,,Asthma,
+10082,females,2017,,Asthma,
+10321,females,2017,,Asthma,
+10129,females,2017,,Asthma,
+10130,females,2017,,Asthma,
+10136,females,2017,,Asthma,
+10087,females,2017,,Asthma,
+10322,females,2017,,Asthma,
+10174,females,2017,,Asthma,
+10247,females,2017,,Asthma,
+10183,females,2017,,Asthma,
+10184,females,2017,,Asthma,
+10155,females,2017,,Asthma,
+10052,females,2017,,Asthma,
+10053,females,2017,,Asthma,
+10178,females,2017,,Asthma,
+10113,females,2017,,Asthma,
+10034,females,2017,,Asthma,
+10223,females,2017,,Asthma,
+10243,females,2017,,Asthma,
+10244,females,2017,,Asthma,
+10245,females,2017,,Asthma,
+10030,females,2017,,Asthma,
+10025,females,2017,,Asthma,
+10163,females,2017,,Asthma,
+10265,females,2017,,Asthma,
+10048,females,2017,,Asthma,
+10213,females,2017,,Asthma,
+10039,females,2017,,Asthma,
+10054,females,2017,,Asthma,
+10114,females,2017,,Asthma,
+10026,females,2017,,Asthma,
+10062,females,2017,,Asthma,
+10058,females,2017,,Asthma,
+10020,females,2017,,Asthma,
+10134,females,2017,,Asthma,
+10191,females,2017,,Asthma,
+10219,females,2017,,Asthma,
+10214,females,2017,,Asthma,
+10228,females,2017,,Asthma,
+10206,females,2017,,Asthma,
+10167,females,2017,,Asthma,
+10169,females,2017,,Asthma,
+10061,females,2017,,Asthma,
+10323,females,2017,,Asthma,
+10085,females,2017,179.666969826641,Asthma,41.0
+10117,females,2017,,Asthma,
+10290,females,2017,,Asthma,
+10076,females,2017,,Asthma,
+10275,females,2017,,Asthma,
+10035,females,2017,,Asthma,
+10040,females,2017,,Asthma,
+10036,females,2017,,Asthma,
+10037,females,2017,,Asthma,
+10266,females,2017,,Asthma,
+10267,females,2017,,Asthma,
+10268,females,2017,,Asthma,
+10269,females,2017,,Asthma,
+10248,females,2017,,Asthma,
+10215,females,2017,,Asthma,
+10005,females,2017,,Asthma,
+10210,females,2017,,Asthma,
+10131,females,2017,,Asthma,
+10281,females,2017,,Asthma,
+10311,females,2017,,Asthma,
+10312,females,2017,,Asthma,
+10306,females,2017,,Asthma,
+10307,females,2017,255.299730979245,Asthma,49.0
+10324,females,2017,,Asthma,
+10325,females,2017,,Asthma,
+10006,females,2017,,Asthma,
+10276,females,2017,,Asthma,
+10314,females,2017,,Asthma,
+10315,females,2017,,Asthma,
+10316,females,2017,,Asthma,
+10317,females,2017,,Asthma,
+10291,females,2017,,Asthma,
+10282,females,2017,,Asthma,
+10229,females,2017,,Asthma,
+10277,females,2017,,Asthma,
+10012,females,2017,,Asthma,
+10095,females,2017,,Asthma,
+10094,females,2017,,Asthma,
+10200,females,2017,,Asthma,
+10216,females,2017,,Asthma,
+10079,females,2017,,Asthma,
+10234,females,2017,,Asthma,
+10192,females,2017,,Asthma,
+10235,females,2017,,Asthma,
+10013,females,2017,,Asthma,
+10009,females,2017,,Asthma,
+10008,females,2017,,Asthma,
+10115,females,2017,,Asthma,
+10158,females,2017,,Asthma,
+10159,females,2017,,Asthma,
+10160,females,2017,,Asthma,
+20022,females,2017,,Asthma,
+20076,females,2017,,Asthma,
+20015,females,2017,,Asthma,
+20222,females,2017,,Asthma,
+20184,females,2017,,Asthma,
+20003,females,2017,,Asthma,
+20238,females,2017,,Asthma,
+20247,females,2017,,Asthma,
+20151,females,2017,,Asthma,
+20152,females,2017,,Asthma,
+20153,females,2017,,Asthma,
+20250,females,2017,,Asthma,
+20251,females,2017,,Asthma,
+20142,females,2017,,Asthma,
+20020,females,2017,196.099374898437,Asthma,24.0
+20005,females,2017,,Asthma,
+20026,females,2017,,Asthma,
+20137,females,2017,,Asthma,
+20192,females,2017,,Asthma,
+20160,females,2017,,Asthma,
+20189,females,2017,,Asthma,
+20239,females,2017,,Asthma,
+20185,females,2017,,Asthma,
+20186,females,2017,,Asthma,
+20187,females,2017,,Asthma,
+20027,females,2017,,Asthma,
+20208,females,2017,,Asthma,
+20100,females,2017,,Asthma,
+20094,females,2017,,Asthma,
+20114,females,2017,,Asthma,
+20039,females,2017,100.172941496343,Asthma,18.0
+20231,females,2017,,Asthma,
+20209,females,2017,,Asthma,
+20227,females,2017,,Asthma,
+20228,females,2017,,Asthma,
+20195,females,2017,,Asthma,
+20197,females,2017,,Asthma,
+20206,females,2017,,Asthma,
+20201,females,2017,,Asthma,
+20201,females,2017,,Asthma,
+20043,females,2017,182.527596826443,Asthma,50.0
+20118,females,2017,,Asthma,
+20119,females,2017,574.721106905783,Asthma,73.0
+20035,females,2017,,Asthma,
+20036,females,2017,,Asthma,
+20156,females,2017,,Asthma,
+20232,females,2017,,Asthma,
+20040,females,2017,,Asthma,
+20087,females,2017,,Asthma,
+20000,females,2017,,Asthma,
+20001,females,2017,,Asthma,
+20032,females,2017,,Asthma,
+20259,females,2017,,Asthma,
+20054,females,2017,,Asthma,
+20068,females,2017,,Asthma,
+20069,females,2017,,Asthma,
+20115,females,2017,,Asthma,
+20037,females,2017,,Asthma,
+20143,females,2017,,Asthma,
+20196,females,2017,,Asthma,
+20028,females,2017,,Asthma,
+20088,females,2017,,Asthma,
+20271,females,2017,,Asthma,
+20008,females,2017,,Asthma,
+20023,females,2017,,Asthma,
+20044,females,2017,,Asthma,
+20161,females,2017,,Asthma,
+20050,females,2017,,Asthma,
+20172,females,2017,,Asthma,
+20124,females,2017,,Asthma,
+20202,females,2017,,Asthma,
+20202,females,2017,,Asthma,
+20045,females,2017,,Asthma,
+20051,females,2017,,Asthma,
+20041,females,2017,,Asthma,
+20108,females,2017,,Asthma,
+20244,females,2017,,Asthma,
+20130,females,2017,,Asthma,
+20138,females,2017,,Asthma,
+20218,females,2017,,Asthma,
+20264,females,2017,,Asthma,
+20002,females,2017,,Asthma,
+20082,females,2017,,Asthma,
+20272,females,2017,,Asthma,
+20273,females,2017,,Asthma,
+20024,females,2017,,Asthma,
+20210,females,2017,,Asthma,
+20089,females,2017,,Asthma,
+20125,females,2017,,Asthma,
+20126,females,2017,,Asthma,
+20190,females,2017,,Asthma,
+20101,females,2017,,Asthma,
+20101,females,2017,205.206036527351,Asthma,116.0
+20102,females,2017,,Asthma,
+20102,females,2017,,Asthma,
+20131,females,2017,,Asthma,
+20132,females,2017,,Asthma,
+20191,females,2017,,Asthma,
+20144,females,2017,,Asthma,
+20145,females,2017,,Asthma,
+20133,females,2017,,Asthma,
+20009,females,2017,,Asthma,
+20033,females,2017,,Asthma,
+20099,females,2017,130.69310924918,Asthma,18.0
+20074,females,2017,,Asthma,
+20120,females,2017,,Asthma,
+20177,females,2017,,Asthma,
+20236,females,2017,,Asthma,
+20010,females,2017,,Asthma,
+20262,females,2017,,Asthma,
+20046,females,2017,,Asthma,
+20064,females,2017,,Asthma,
+20016,females,2017,,Asthma,
+20121,females,2017,,Asthma,
+20070,females,2017,,Asthma,
+20006,females,2017,,Asthma,
+20083,females,2017,,Asthma,
+20095,females,2017,,Asthma,
+20007,females,2017,,Asthma,
+20011,females,2017,,Asthma,
+20178,females,2017,,Asthma,
+20157,females,2017,,Asthma,
+20104,females,2017,,Asthma,
+20240,females,2017,,Asthma,
+20173,females,2017,,Asthma,
+20174,females,2017,,Asthma,
+20175,females,2017,,Asthma,
+20241,females,2017,,Asthma,
+20211,females,2017,,Asthma,
+20080,females,2017,,Asthma,
+20090,females,2017,,Asthma,
+20029,females,2017,,Asthma,
+20139,females,2017,205.785453032678,Asthma,39.0
+20140,females,2017,,Asthma,
+20269,females,2017,,Asthma,
+20084,females,2017,,Asthma,
+20193,females,2017,,Asthma,
+20055,females,2017,,Asthma,
+20091,females,2017,,Asthma,
+20212,females,2017,,Asthma,
+20122,females,2017,,Asthma,
+20270,females,2017,,Asthma,
+20042,females,2017,,Asthma,
+20127,females,2017,,Asthma,
+20179,females,2017,,Asthma,
+20030,females,2017,122.611326324608,Asthma,24.0
+20109,females,2017,,Asthma,
+20203,females,2017,,Asthma,
+20203,females,2017,,Asthma,
+20056,females,2017,,Asthma,
+20057,females,2017,,Asthma,
+20213,females,2017,,Asthma,
+20162,females,2017,,Asthma,
+20165,females,2017,,Asthma,
+20166,females,2017,,Asthma,
+20252,females,2017,,Asthma,
+20253,females,2017,,Asthma,
+20047,females,2017,,Asthma,
+20065,females,2017,,Asthma,
+20255,females,2017,,Asthma,
+20058,females,2017,,Asthma,
+20059,females,2017,,Asthma,
+20198,females,2017,,Asthma,
+20077,females,2017,,Asthma,
+20146,females,2017,,Asthma,
+20031,females,2017,,Asthma,
+20134,females,2017,,Asthma,
+20223,females,2017,,Asthma,
+20110,females,2017,,Asthma,
+20066,females,2017,,Asthma,
+20060,females,2017,,Asthma,
+20049,females,2017,,Asthma,
+20052,females,2017,,Asthma,
+20096,females,2017,,Asthma,
+20116,females,2017,,Asthma,
+20263,females,2017,,Asthma,
+20204,females,2017,,Asthma,
+20071,females,2017,,Asthma,
+20176,females,2017,,Asthma,
+20214,females,2017,,Asthma,
+20167,females,2017,,Asthma,
+20215,females,2017,,Asthma,
+20111,females,2017,148.273966756905,Asthma,20.0
+20207,females,2017,,Asthma,
+20248,females,2017,,Asthma,
+20219,females,2017,,Asthma,
+20128,females,2017,,Asthma,
+20097,females,2017,,Asthma,
+20199,females,2017,,Asthma,
+20053,females,2017,,Asthma,
+20224,females,2017,,Asthma,
+20158,females,2017,,Asthma,
+20194,females,2017,,Asthma,
+20092,females,2017,,Asthma,
+20012,females,2017,,Asthma,
+20163,females,2017,,Asthma,
+20164,females,2017,,Asthma,
+20256,females,2017,,Asthma,
+20257,females,2017,,Asthma,
+20072,females,2017,,Asthma,
+20073,females,2017,,Asthma,
+20105,females,2017,113.111513075598,Asthma,30.0
+20245,females,2017,,Asthma,
+20265,females,2017,,Asthma,
+20112,females,2017,,Asthma,
+20266,females,2017,,Asthma,
+20180,females,2017,229.651272622227,Asthma,45.0
+20237,females,2017,,Asthma,
+20181,females,2017,,Asthma,
+20141,females,2017,,Asthma,
+20274,females,2017,,Asthma,
+20048,females,2017,,Asthma,
+20233,females,2017,,Asthma,
+20123,females,2017,,Asthma,
+20129,females,2017,,Asthma,
+20216,females,2017,,Asthma,
+20154,females,2017,,Asthma,
+20254,females,2017,,Asthma,
+20078,females,2017,,Asthma,
+20135,females,2017,,Asthma,
+20217,females,2017,,Asthma,
+20013,females,2017,,Asthma,
+20106,females,2017,,Asthma,
+20220,females,2017,,Asthma,
+20117,females,2017,,Asthma,
+20014,females,2017,,Asthma,
+20085,females,2017,,Asthma,
+20242,females,2017,,Asthma,
+20067,females,2017,,Asthma,
+20168,females,2017,,Asthma,
+20182,females,2017,,Asthma,
+20017,females,2017,,Asthma,
+20221,females,2017,,Asthma,
+20021,females,2017,,Asthma,
+20061,females,2017,,Asthma,
+20258,females,2017,,Asthma,
+20062,females,2017,,Asthma,
+20063,females,2017,,Asthma,
+20025,females,2017,,Asthma,
+20103,females,2017,,Asthma,
+20103,females,2017,,Asthma,
+20260,females,2017,,Asthma,
+20081,females,2017,,Asthma,
+20183,females,2017,,Asthma,
+20093,females,2017,,Asthma,
+20229,females,2017,,Asthma,
+20249,females,2017,,Asthma,
+20155,females,2017,,Asthma,
+20159,females,2017,,Asthma,
+20225,females,2017,,Asthma,
+20226,females,2017,,Asthma,
+20267,females,2017,,Asthma,
+20268,females,2017,,Asthma,
+20018,females,2017,,Asthma,
+20136,females,2017,,Asthma,
+20148,females,2017,,Asthma,
+20147,females,2017,,Asthma,
+20019,females,2017,,Asthma,
+20200,females,2017,,Asthma,
+20079,females,2017,,Asthma,
+20086,females,2017,,Asthma,
+20038,females,2017,,Asthma,
+20261,females,2017,,Asthma,
+20149,females,2017,,Asthma,
+20169,females,2017,,Asthma,
+20150,females,2017,,Asthma,
+20034,females,2017,,Asthma,
+20004,females,2017,,Asthma,
+20246,females,2017,,Asthma,
+20075,females,2017,,Asthma,
+20230,females,2017,,Asthma,
+20098,females,2017,,Asthma,
+20275,females,2017,,Asthma,
+20188,females,2017,,Asthma,
+20170,females,2017,,Asthma,
+20234,females,2017,,Asthma,
+20243,females,2017,,Asthma,
+20205,females,2017,,Asthma,
+20171,females,2017,,Asthma,
+20235,females,2017,,Asthma,
+20107,females,2017,,Asthma,
+20113,females,2017,,Asthma,
+30137,females,2017,,Asthma,
+30182,females,2017,,Asthma,
+30214,females,2017,,Asthma,
+30107,females,2017,,Asthma,
+30000,females,2017,,Asthma,
+30036,females,2017,,Asthma,
+30176,females,2017,,Asthma,
+30215,females,2017,,Asthma,
+30026,females,2017,,Asthma,
+30190,females,2017,,Asthma,
+30152,females,2017,,Asthma,
+30059,females,2017,,Asthma,
+30223,females,2017,,Asthma,
+30060,females,2017,,Asthma,
+30170,females,2017,,Asthma,
+30014,females,2017,,Asthma,
+30126,females,2017,,Asthma,
+30061,females,2017,,Asthma,
+30212,females,2017,,Asthma,
+30123,females,2017,,Asthma,
+30012,females,2017,,Asthma,
+30054,females,2017,,Asthma,
+30128,females,2017,,Asthma,
+30138,females,2017,,Asthma,
+30186,females,2017,,Asthma,
+30095,females,2017,,Asthma,
+30079,females,2017,,Asthma,
+30080,females,2017,,Asthma,
+30202,females,2017,,Asthma,
+30202,females,2017,,Asthma,
+30075,females,2017,,Asthma,
+30001,females,2017,,Asthma,
+30172,females,2017,,Asthma,
+30118,females,2017,,Asthma,
+30141,females,2017,,Asthma,
+30088,females,2017,,Asthma,
+30153,females,2017,,Asthma,
+30196,females,2017,,Asthma,
+30217,females,2017,,Asthma,
+30066,females,2017,,Asthma,
+30232,females,2017,,Asthma,
+30082,females,2017,,Asthma,
+30142,females,2017,,Asthma,
+30174,females,2017,,Asthma,
+30139,females,2017,,Asthma,
+30019,females,2017,,Asthma,
+30224,females,2017,,Asthma,
+30069,females,2017,,Asthma,
+30114,females,2017,,Asthma,
+30096,females,2017,,Asthma,
+30013,females,2017,,Asthma,
+30020,females,2017,,Asthma,
+30116,females,2017,,Asthma,
+30050,females,2017,,Asthma,
+30057,females,2017,,Asthma,
+30058,females,2017,,Asthma,
+30008,females,2017,,Asthma,
+30146,females,2017,,Asthma,
+30175,females,2017,,Asthma,
+30083,females,2017,,Asthma,
+30188,females,2017,,Asthma,
+30225,females,2017,,Asthma,
+30226,females,2017,,Asthma,
+30070,females,2017,,Asthma,
+30147,females,2017,,Asthma,
+30227,females,2017,,Asthma,
+30101,females,2017,,Asthma,
+30101,females,2017,,Asthma,
+30234,females,2017,,Asthma,
+30098,females,2017,,Asthma,
+30097,females,2017,,Asthma,
+30117,females,2017,,Asthma,
+30119,females,2017,,Asthma,
+30140,females,2017,,Asthma,
+30191,females,2017,,Asthma,
+30192,females,2017,,Asthma,
+30203,females,2017,,Asthma,
+30203,females,2017,,Asthma,
+30205,females,2017,,Asthma,
+30023,females,2017,,Asthma,
+30024,females,2017,,Asthma,
+30025,females,2017,,Asthma,
+30184,females,2017,,Asthma,
+30159,females,2017,,Asthma,
+30108,females,2017,,Asthma,
+30041,females,2017,,Asthma,
+30042,females,2017,,Asthma,
+30135,females,2017,,Asthma,
+30084,females,2017,,Asthma,
+30044,females,2017,,Asthma,
+30187,females,2017,,Asthma,
+30213,females,2017,,Asthma,
+30045,females,2017,,Asthma,
+30015,females,2017,,Asthma,
+30129,females,2017,,Asthma,
+30071,females,2017,,Asthma,
+30167,females,2017,,Asthma,
+30003,females,2017,,Asthma,
+30132,females,2017,,Asthma,
+30104,females,2017,,Asthma,
+30218,females,2017,,Asthma,
+30149,females,2017,,Asthma,
+30230,females,2017,,Asthma,
+30193,females,2017,,Asthma,
+30162,females,2017,,Asthma,
+30033,females,2017,,Asthma,
+30027,females,2017,,Asthma,
+30089,females,2017,,Asthma,
+30130,females,2017,,Asthma,
+30157,females,2017,,Asthma,
+30150,females,2017,,Asthma,
+30125,females,2017,,Asthma,
+30091,females,2017,,Asthma,
+30111,females,2017,,Asthma,
+30206,females,2017,,Asthma,
+30063,females,2017,,Asthma,
+30021,females,2017,,Asthma,
+30102,females,2017,,Asthma,
+30102,females,2017,,Asthma,
+30219,females,2017,,Asthma,
+30207,females,2017,,Asthma,
+30120,females,2017,,Asthma,
+30055,females,2017,,Asthma,
+30177,females,2017,,Asthma,
+30081,females,2017,,Asthma,
+30121,females,2017,,Asthma,
+30030,females,2017,,Asthma,
+30178,females,2017,,Asthma,
+30099,females,2017,,Asthma,
+30136,females,2017,,Asthma,
+30143,females,2017,,Asthma,
+30049,females,2017,,Asthma,
+30067,females,2017,,Asthma,
+30028,females,2017,,Asthma,
+30183,females,2017,,Asthma,
+30064,females,2017,,Asthma,
+30051,females,2017,,Asthma,
+30220,females,2017,,Asthma,
+30208,females,2017,,Asthma,
+30086,females,2017,,Asthma,
+30156,females,2017,,Asthma,
+30231,females,2017,,Asthma,
+30163,females,2017,,Asthma,
+30221,females,2017,,Asthma,
+30209,females,2017,,Asthma,
+30052,females,2017,,Asthma,
+30085,females,2017,,Asthma,
+30029,females,2017,,Asthma,
+30065,females,2017,,Asthma,
+30046,females,2017,,Asthma,
+30072,females,2017,,Asthma,
+30073,females,2017,,Asthma,
+30074,females,2017,,Asthma,
+30087,females,2017,,Asthma,
+30124,females,2017,,Asthma,
+30016,females,2017,,Asthma,
+30043,females,2017,,Asthma,
+30100,females,2017,,Asthma,
+30228,females,2017,,Asthma,
+30229,females,2017,,Asthma,
+30092,females,2017,,Asthma,
+30039,females,2017,,Asthma,
+30127,females,2017,,Asthma,
+30154,females,2017,,Asthma,
+30204,females,2017,,Asthma,
+30204,females,2017,,Asthma,
+30115,females,2017,,Asthma,
+30068,females,2017,,Asthma,
+30093,females,2017,,Asthma,
+30090,females,2017,,Asthma,
+30173,females,2017,,Asthma,
+30009,females,2017,,Asthma,
+30122,females,2017,,Asthma,
+30032,females,2017,,Asthma,
+30105,females,2017,,Asthma,
+30194,females,2017,,Asthma,
+30235,females,2017,,Asthma,
+30148,females,2017,,Asthma,
+30210,females,2017,,Asthma,
+30131,females,2017,,Asthma,
+30195,females,2017,,Asthma,
+30034,females,2017,,Asthma,
+30103,females,2017,,Asthma,
+30103,females,2017,,Asthma,
+30056,females,2017,,Asthma,
+30031,females,2017,,Asthma,
+30185,females,2017,,Asthma,
+30216,females,2017,,Asthma,
+30189,females,2017,,Asthma,
+30158,females,2017,,Asthma,
+30010,females,2017,,Asthma,
+30112,females,2017,,Asthma,
+30198,females,2017,,Asthma,
+30160,females,2017,,Asthma,
+30077,females,2017,,Asthma,
+30053,females,2017,,Asthma,
+30211,females,2017,,Asthma,
+30199,females,2017,,Asthma,
+30197,females,2017,,Asthma,
+30113,females,2017,,Asthma,
+30222,females,2017,,Asthma,
+30018,females,2017,,Asthma,
+30180,females,2017,,Asthma,
+30165,females,2017,,Asthma,
+30166,females,2017,,Asthma,
+30161,females,2017,,Asthma,
+30062,females,2017,,Asthma,
+30037,females,2017,,Asthma,
+30151,females,2017,,Asthma,
+30155,females,2017,,Asthma,
+30200,females,2017,,Asthma,
+30179,females,2017,,Asthma,
+30004,females,2017,,Asthma,
+30005,females,2017,,Asthma,
+30168,females,2017,,Asthma,
+30094,females,2017,,Asthma,
+30145,females,2017,,Asthma,
+30144,females,2017,,Asthma,
+30038,females,2017,,Asthma,
+30110,females,2017,,Asthma,
+30181,females,2017,,Asthma,
+30106,females,2017,,Asthma,
+30171,females,2017,,Asthma,
+30076,females,2017,,Asthma,
+30078,females,2017,,Asthma,
+30047,females,2017,,Asthma,
+30017,females,2017,,Asthma,
+30133,females,2017,,Asthma,
+30040,females,2017,,Asthma,
+30035,females,2017,,Asthma,
+30201,females,2017,,Asthma,
+30201,females,2017,,Asthma,
+30048,females,2017,,Asthma,
+30109,females,2017,,Asthma,
+30006,females,2017,,Asthma,
+30233,females,2017,,Asthma,
+30164,females,2017,,Asthma,
+30169,females,2017,,Asthma,
+30007,females,2017,,Asthma,
+30134,females,2017,,Asthma,
+30002,females,2017,,Asthma,
+30011,females,2017,,Asthma,
+30022,females,2017,,Asthma,
+40044,females,2017,,Asthma,
+40000,females,2017,,Asthma,
+40061,females,2017,,Asthma,
+40002,females,2017,,Asthma,
+40003,females,2017,,Asthma,
+40045,females,2017,,Asthma,
+40082,females,2017,,Asthma,
+40008,females,2017,,Asthma,
+40097,females,2017,,Asthma,
+40065,females,2017,,Asthma,
+40041,females,2017,,Asthma,
+40053,females,2017,,Asthma,
+40037,females,2017,,Asthma,
+40006,females,2017,,Asthma,
+40077,females,2017,,Asthma,
+40056,females,2017,,Asthma,
+40046,females,2017,,Asthma,
+40047,females,2017,,Asthma,
+40068,females,2017,,Asthma,
+40048,females,2017,,Asthma,
+40042,females,2017,,Asthma,
+40083,females,2017,,Asthma,
+40020,females,2017,,Asthma,
+40027,females,2017,,Asthma,
+40058,females,2017,,Asthma,
+40038,females,2017,,Asthma,
+40021,females,2017,,Asthma,
+40022,females,2017,,Asthma,
+40024,females,2017,,Asthma,
+40078,females,2017,,Asthma,
+40089,females,2017,,Asthma,
+40054,females,2017,,Asthma,
+40062,females,2017,,Asthma,
+40016,females,2017,,Asthma,
+40017,females,2017,,Asthma,
+40007,females,2017,,Asthma,
+40032,females,2017,,Asthma,
+40014,females,2017,,Asthma,
+40069,females,2017,,Asthma,
+40090,females,2017,,Asthma,
+40049,females,2017,,Asthma,
+40004,females,2017,,Asthma,
+40050,females,2017,,Asthma,
+40055,females,2017,,Asthma,
+40033,females,2017,,Asthma,
+40034,females,2017,,Asthma,
+40028,females,2017,,Asthma,
+40071,females,2017,,Asthma,
+40074,females,2017,,Asthma,
+40086,females,2017,,Asthma,
+40098,females,2017,,Asthma,
+40079,females,2017,,Asthma,
+40091,females,2017,,Asthma,
+40059,females,2017,,Asthma,
+40018,females,2017,,Asthma,
+40066,females,2017,,Asthma,
+40099,females,2017,,Asthma,
+40100,females,2017,,Asthma,
+40039,females,2017,,Asthma,
+40092,females,2017,,Asthma,
+40040,females,2017,,Asthma,
+40035,females,2017,,Asthma,
+40051,females,2017,,Asthma,
+40005,females,2017,,Asthma,
+40093,females,2017,,Asthma,
+40101,females,2017,,Asthma,
+40101,females,2017,,Asthma,
+40013,females,2017,,Asthma,
+40094,females,2017,,Asthma,
+40095,females,2017,,Asthma,
+40001,females,2017,,Asthma,
+40025,females,2017,,Asthma,
+40011,females,2017,,Asthma,
+40067,females,2017,,Asthma,
+40023,females,2017,,Asthma,
+40043,females,2017,,Asthma,
+40029,females,2017,,Asthma,
+40009,females,2017,,Asthma,
+40030,females,2017,,Asthma,
+40012,females,2017,,Asthma,
+40096,females,2017,,Asthma,
+40072,females,2017,,Asthma,
+40019,females,2017,,Asthma,
+40063,females,2017,,Asthma,
+40084,females,2017,,Asthma,
+40080,females,2017,,Asthma,
+40073,females,2017,,Asthma,
+40102,females,2017,,Asthma,
+40102,females,2017,,Asthma,
+40052,females,2017,,Asthma,
+40064,females,2017,,Asthma,
+40010,females,2017,,Asthma,
+40085,females,2017,,Asthma,
+40031,females,2017,,Asthma,
+40036,females,2017,,Asthma,
+40087,females,2017,,Asthma,
+40088,females,2017,,Asthma,
+40060,females,2017,,Asthma,
+40015,females,2017,,Asthma,
+40103,females,2017,,Asthma,
+40103,females,2017,,Asthma,
+40070,females,2017,,Asthma,
+40075,females,2017,,Asthma,
+40057,females,2017,,Asthma,
+40081,females,2017,,Asthma,
+40026,females,2017,,Asthma,
+40076,females,2017,,Asthma,
+50116,females,2017,,Asthma,
+50117,females,2017,,Asthma,
+50072,females,2017,,Asthma,
+50046,females,2017,,Asthma,
+50045,females,2017,,Asthma,
+50109,females,2017,,Asthma,
+50080,females,2017,,Asthma,
+50083,females,2017,,Asthma,
+50033,females,2017,,Asthma,
+50076,females,2017,,Asthma,
+50034,females,2017,,Asthma,
+50020,females,2017,,Asthma,
+50063,females,2017,,Asthma,
+50013,females,2017,,Asthma,
+50015,females,2017,,Asthma,
+50055,females,2017,,Asthma,
+50021,females,2017,,Asthma,
+50064,females,2017,,Asthma,
+50050,females,2017,,Asthma,
+50073,females,2017,,Asthma,
+50097,females,2017,,Asthma,
+50091,females,2017,,Asthma,
+50126,females,2017,,Asthma,
+50101,females,2017,,Asthma,
+50101,females,2017,,Asthma,
+50074,females,2017,,Asthma,
+50084,females,2017,,Asthma,
+50081,females,2017,,Asthma,
+50082,females,2017,,Asthma,
+50039,females,2017,,Asthma,
+50060,females,2017,,Asthma,
+50047,females,2017,,Asthma,
+50052,females,2017,,Asthma,
+50053,females,2017,,Asthma,
+50056,females,2017,,Asthma,
+50085,females,2017,,Asthma,
+50095,females,2017,,Asthma,
+50040,females,2017,,Asthma,
+50017,females,2017,,Asthma,
+50122,females,2017,,Asthma,
+50006,females,2017,,Asthma,
+50086,females,2017,,Asthma,
+50087,females,2017,,Asthma,
+50061,females,2017,,Asthma,
+50066,females,2017,,Asthma,
+50065,females,2017,,Asthma,
+50077,females,2017,,Asthma,
+50008,females,2017,,Asthma,
+50007,females,2017,29.4994168076441,Asthma,5.0
+50026,females,2017,,Asthma,
+50123,females,2017,,Asthma,
+50027,females,2017,,Asthma,
+50089,females,2017,,Asthma,
+50088,females,2017,,Asthma,
+50000,females,2017,,Asthma,
+50118,females,2017,,Asthma,
+50102,females,2017,,Asthma,
+50102,females,2017,,Asthma,
+50035,females,2017,,Asthma,
+50124,females,2017,,Asthma,
+50028,females,2017,,Asthma,
+50068,females,2017,,Asthma,
+50110,females,2017,,Asthma,
+50022,females,2017,,Asthma,
+50093,females,2017,,Asthma,
+50094,females,2017,,Asthma,
+50096,females,2017,,Asthma,
+50048,females,2017,,Asthma,
+50058,females,2017,,Asthma,
+50069,females,2017,,Asthma,
+50104,females,2017,,Asthma,
+50105,females,2017,,Asthma,
+50106,females,2017,,Asthma,
+50018,females,2017,,Asthma,
+50119,females,2017,,Asthma,
+50001,females,2017,,Asthma,
+50029,females,2017,,Asthma,
+50103,females,2017,,Asthma,
+50103,females,2017,,Asthma,
+50002,females,2017,,Asthma,
+50067,females,2017,,Asthma,
+50090,females,2017,,Asthma,
+50023,females,2017,,Asthma,
+50030,females,2017,,Asthma,
+50036,females,2017,,Asthma,
+50107,females,2017,,Asthma,
+50031,females,2017,,Asthma,
+50059,females,2017,,Asthma,
+50099,females,2017,,Asthma,
+50098,females,2017,,Asthma,
+50111,females,2017,,Asthma,
+50120,females,2017,,Asthma,
+50011,females,2017,,Asthma,
+50032,females,2017,89.0709629857326,Asthma,14.0
+50127,females,2017,,Asthma,
+50070,females,2017,,Asthma,
+50071,females,2017,,Asthma,
+50100,females,2017,,Asthma,
+50024,females,2017,,Asthma,
+50041,females,2017,,Asthma,
+50003,females,2017,,Asthma,
+50004,females,2017,,Asthma,
+50092,females,2017,,Asthma,
+50062,females,2017,,Asthma,
+50121,females,2017,,Asthma,
+50108,females,2017,,Asthma,
+50025,females,2017,,Asthma,
+50042,females,2017,,Asthma,
+50014,females,2017,,Asthma,
+50009,females,2017,,Asthma,
+50010,females,2017,,Asthma,
+50128,females,2017,,Asthma,
+50112,females,2017,,Asthma,
+50016,females,2017,,Asthma,
+50125,females,2017,,Asthma,
+50054,females,2017,,Asthma,
+50012,females,2017,,Asthma,
+50005,females,2017,,Asthma,
+50113,females,2017,,Asthma,
+50078,females,2017,,Asthma,
+50114,females,2017,,Asthma,
+50079,females,2017,,Asthma,
+50049,females,2017,,Asthma,
+50115,females,2017,,Asthma,
+50037,females,2017,,Asthma,
+50019,females,2017,,Asthma,
+50057,females,2017,,Asthma,
+50051,females,2017,,Asthma,
+50043,females,2017,,Asthma,
+50038,females,2017,,Asthma,
+50075,females,2017,,Asthma,
+50044,females,2017,,Asthma,
+60036,females,2017,,Asthma,
+60007,females,2017,,Asthma,
+60024,females,2017,,Asthma,
+60002,females,2017,,Asthma,
+60008,females,2017,,Asthma,
+60000,females,2017,,Asthma,
+60001,females,2017,,Asthma,
+60031,females,2017,,Asthma,
+60037,females,2017,,Asthma,
+60003,females,2017,,Asthma,
+60030,females,2017,,Asthma,
+60032,females,2017,,Asthma,
+60025,females,2017,,Asthma,
+60009,females,2017,,Asthma,
+60041,females,2017,,Asthma,
+60027,females,2017,,Asthma,
+60017,females,2017,,Asthma,
+60042,females,2017,,Asthma,
+60034,females,2017,,Asthma,
+60033,females,2017,,Asthma,
+60028,females,2017,,Asthma,
+60026,females,2017,,Asthma,
+60014,females,2017,,Asthma,
+60018,females,2017,,Asthma,
+60047,females,2017,,Asthma,
+60019,females,2017,,Asthma,
+60012,females,2017,,Asthma,
+60013,females,2017,,Asthma,
+60043,females,2017,,Asthma,
+60021,females,2017,,Asthma,
+60022,females,2017,,Asthma,
+60029,females,2017,,Asthma,
+60044,females,2017,,Asthma,
+60010,females,2017,,Asthma,
+60004,females,2017,,Asthma,
+60015,females,2017,,Asthma,
+60011,females,2017,,Asthma,
+60016,females,2017,,Asthma,
+60020,females,2017,,Asthma,
+60048,females,2017,,Asthma,
+60038,females,2017,,Asthma,
+60045,females,2017,,Asthma,
+60023,females,2017,,Asthma,
+60046,females,2017,,Asthma,
+60005,females,2017,,Asthma,
+60006,females,2017,,Asthma,
+60049,females,2017,,Asthma,
+60035,females,2017,,Asthma,
+60039,females,2017,,Asthma,
+60050,females,2017,,Asthma,
+60040,females,2017,,Asthma,
+70008,females,2017,,Asthma,
+70007,females,2017,,Asthma,
+70011,females,2017,,Asthma,
+70009,females,2017,,Asthma,
+70010,females,2017,,Asthma,
+70003,females,2017,,Asthma,
+70000,females,2017,,Asthma,
+70002,females,2017,,Asthma,
+70001,females,2017,,Asthma,
+70006,females,2017,,Asthma,
+70012,females,2017,,Asthma,
+70013,females,2017,,Asthma,
+70004,females,2017,,Asthma,
+70005,females,2017,,Asthma,
+80006,females,2017,,Asthma,
+80023,females,2017,,Asthma,
+80003,females,2017,,Asthma,
+80000,females,2017,,Asthma,
+80001,females,2017,,Asthma,
+80020,females,2017,,Asthma,
+80021,females,2017,,Asthma,
+80004,females,2017,,Asthma,
+80016,females,2017,,Asthma,
+80022,females,2017,,Asthma,
+80002,females,2017,,Asthma,
+80017,females,2017,,Asthma,
+80007,females,2017,,Asthma,
+80008,females,2017,,Asthma,
+80011,females,2017,,Asthma,
+80010,females,2017,,Asthma,
+80012,females,2017,,Asthma,
+80013,females,2017,,Asthma,
+80018,females,2017,,Asthma,
+80024,females,2017,,Asthma,
+80009,females,2017,,Asthma,
+80014,females,2017,,Asthma,
+80015,females,2017,,Asthma,
+80005,females,2017,,Asthma,
+80019,females,2017,,Asthma,

@@ -1,0 +1,21 @@
+fission specs init
+kubectl apply -f specs/configmap-parameters.yaml
+
+fission function create --name wipedatabase --spec --env python --code ./functions/wipe_database.py
+
+# copy to function spec file (udner specs, after concurrency)
+configmaps:
+    - name: parameters
+      namespace: deafult
+
+
+fission route create --spec --name wipedatabase --function wipedatabase --url '/wipedatabase' --method DELETE
+
+fission specs apply
+
+fission function log -f --name wipedatabase
+curl -XDELETE "http://127.0.0.1:9090/wipedatabase" -H "Content-Type: application/json"
+fission fn test --name wipedatabase | jq '.'
+
+fission httptrigger delete --name wipedatabase
+fission function delete --name wipedatabase

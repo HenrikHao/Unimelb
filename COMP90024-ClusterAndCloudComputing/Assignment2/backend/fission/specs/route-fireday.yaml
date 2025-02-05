@@ -1,0 +1,22 @@
+apiVersion: fission.io/v1
+kind: HTTPTrigger
+metadata:
+  creationTimestamp: null
+  name: fireday
+spec:
+  createingress: false
+  functionref:
+    functionweights: null
+    name: allfire
+    type: name
+  host: ""
+  ingressconfig:
+    annotations: null
+    host: '*'
+    path: /fire/days/{date:[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]}
+    tls: ""
+  method: ""
+  methods:
+  - GET
+  prefix: ""
+  relativeurl: /fire/days/{date:[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]}
