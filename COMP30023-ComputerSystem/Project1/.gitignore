@@ -1,0 +1,9 @@
+processes.txt
+simple.txt
+more-processes.txt
+two-processes.txt
+*.txt
+allocate
+*.o
+process
+process.c

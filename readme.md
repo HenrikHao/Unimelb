@@ -24,6 +24,6 @@ I have completed all the subjects required for both majors.
     * Project 2 - Game Of Thrones (Refactoring a Card Game): 17/20
 
 ### Year 3 Semester 1 (2023 March)
-* COMP30023 Computer Systems (C) - I don't have my project files for them unfortunately as this project was finished on a VM from Uni and already being removed.
+* COMP30023 Computer Systems (C)
     * Project 1 - Process Management: 10.75/15
     * Project 2 - Remote Procedure Call: 12.2/15
