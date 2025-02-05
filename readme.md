@@ -17,3 +17,8 @@ I have completed all the subjects required for both majors.
 
 * SWEN20003 Object Oriented Software Development (Java):
     * Shadow Pirates Game, marks: 7.5/8 + 6/8 + 13.5/14
+
+### Year 2 Semester 2 (2022 July)
+* SWEN30006 Software Modelling and Design (Java):
+    * Project 1 - Tetris Madness (Refactoring Tetris Game): 9.5/12
+    * Project 2 - Game Of Thrones (Refactoring a Card Game): 17/20
