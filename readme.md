@@ -1,6 +1,6 @@
 # Unimelb
 
-Welcome to my University of Melbourne project repository! This repository contains a subset of my past programming projects from university.
+Welcome to my University of Melbourne project repository! This repository contains a subset of my past programming projects from university. Many thanks to all of my teammates! 
 
 ## Bachelor of Science in Computing and Software Systems & Data Science
 I have completed all the subjects required for both majors.
@@ -39,7 +39,7 @@ I have completed all the subjects required for both majors.
 * MAST30034 Applied Data Science (PySpark, Python)
     * Real Estate Industry Project, marks: 80/100 H1, Team of 5
 
-## Master of Information Technology (Artificial Intelligence)
+## Master of Information Technology in Artificial Intelligence
 ### Year 1 Semester 1 (2024 March)
 * COMP90054 AI Planning for Autonomy (Python, Reinforcement Learning, Planning)
     * Assignment 1 - Pacman Path Finding (A Star), marks: 9.5/10
