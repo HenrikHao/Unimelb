@@ -57,3 +57,6 @@ I have completed all the subjects required for both majors.
 * COMP90015 Distributed Systems (Java)
     * Assignment 1 - Multi-threaded Dictionary Server (Java), marks: 15/15
     * Assignment 2 - Distributed Publisher-Subscriber System (Java), marks: 28/25 (Bonus marks included)
+
+* COMP90086 Computer Vision (Python, Tensorflow)
+    * Project - Physical Reasoning
