@@ -14,3 +14,6 @@ I have completed all the subjects required for both majors.
 * COMP20007 Design of Algorithms (C):
     * Assignment 1 - Leap Lists and Dijkstra's algorithm, marks: 100/100
     * Assignment 2 - Cryptograph and 234-Tree, marks: 200/200
+
+* SWEN20003 Object Oriented Software Development (Java):
+    * Shadow Pirates Game, marks: 7.5/8 + 6/8 + 13.5/14
