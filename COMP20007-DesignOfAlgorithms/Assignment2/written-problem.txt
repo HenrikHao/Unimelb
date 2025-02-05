@@ -1,0 +1,103 @@
+Part A:
+Ascounte there are n+1 inputs and n+1 is an odd number, inorder traversing the 
+tree and the median is found if the x equal to n/2. x should be 0 at first call
+function findMedian(tree, x, n/2)
+    if tree is non-empty then
+        if tree is a leaf then
+            for val in leaf do
+                if x is equal to n/2 
+                    return val
+                x<-x+1    
+        else if tree is a 2-node then
+            findMedian(tree.child0, x, n/2)
+            if x is equal to n/2
+                return tree.val
+            x <- x+1
+            findMedian(tree.child1, x, n/2)
+        else if tree is a 3-node then
+            findMedian(tree.child0, x, n/2)
+            if x is equal to n/2
+                return tree.smallval
+            x <- x+1    
+            findMedian(tree.child1, x, n/2)
+            if x is equal to n/2
+                return tree.largeval
+            x <- x+1
+            findMedian(tree.child2, x, n/2)
+        else if tree is a 4-node then
+            findMedian(tree.child0, x, n/2)
+            if x is equal to n/2
+                return tree.firstval
+            x <- x+1
+            findMedian(tree.child1, x, n/2)
+            if x is equal to n/2
+                return tree.secondval
+            x <- x+1
+            findMedian(tree.child2, x, n/2)
+            if x is equal to n/2
+                return tree.thirdval
+            x <- x+1
+            findMedian(tree.child3, x, n/2)
+            if x is equal to n/2
+                return tree.fourthval        
+            x <- x+1 
+    
+
+PART B:
+function updateDescendants(node)
+    descendants <- 0
+    if node is non-empty then do
+        if node is a two-node then do
+            descendants <- node.child0.descendants + node.child1.descendants + node.child0.numVals + node.child1.numVals
+        if node is a three-node then do
+            descendants <- descendants + node.child2.descendants + node.child2.numVals
+        if node is a four-node then do
+            descendants <- descendants + node.child3.descendants + node.child3.numVals
+        node.descendants = descendants
+
+PART C:
+function findMedian(tree, n/2+1, count)
+    if tree is non-empty then do 
+        if tree.numVals >= 1 then do
+            if tree.child0 is non-empty then do 
+                if count + tree.child0.descendants + tree.child0.numVals >= (n/2)+1 then do
+                    findMedian(tree.child0, (n/2)+1, count)
+                else 
+                    count <- count + tree.child0.descendants + tree.child0.numVals
+           
+            count <- count + 1
+            if count = (n/2)+1 then do
+                return tree->value1
+
+            if tree.child1 is non-empty then do 
+                if count + tree.child1.descendants + tree.child1.numVals >= (n/2)+1 then do
+                    findMedian(tree.child1, (n/2)+1, count)
+                else 
+                    count <- count + tree.child1.descendants + tree.child1.numVals  
+        
+        if tree.numVals >= 2 then do
+            count <- count + 1
+            if count = (n/2) + 1 then do
+                return tree.value2
+            if tree.child2 is non-empty then do
+                if count + tree.child2.descendants + tree.child2.numVals >= (n/2) + 1 then do
+                    findMedian(tree.child2, (n/2)+1, count)
+                else 
+                    count <- count + tree.child2.descendants + tree.child2.numVals
+
+        if tree.numVals >= 3 then do
+            count <- count + 1
+            if count = (n/2) + 1 then do
+                return tree.value3 
+            if tree.child3 is non-empty then do
+                if count + tree.child3.descendants + tree.child3.numVals >= (n/2) + 1 then do
+                    findMedian(tree.child2, (n/2)+1, count)
+                else 
+                    count <- count + tree.child3.descendants + tree.child3.numVals    
+
+PART D:
+After knowing the descendants of each node, there is no need to traverse each node in the tree. We 
+only traverse the node if the median is inside that node. Assuming each node is a 3-node, then the 
+time Complexity T(n) = T(n/4) + 1 = logn
+Time Complexity: O(logn)
+Space Complexity: O(1)
