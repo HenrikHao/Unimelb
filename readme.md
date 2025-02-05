@@ -39,3 +39,9 @@ I have completed all the subjects required for both majors.
 * MAST30034 Applied Data Science (PySpark, Python)
     * Real Estate Industry Project, marks: 80/100 H1, Team of 5
 
+## Master of Information Technology (Artificial Intelligence)
+### Year 1 Semester 1 (2024 March)
+* COMP90054 AI Planning for Autonomy (Python, Reinforcement Learning, Planning)
+    * Assignment 1 - Pacman Path Finding (A Star), marks: 9.5/10
+    * Assignment 2 - PDDL, marks: 10/10
+    * Assignment 3 - Splendor Game Agent (MCTS, MiniMax, Deep Q Learning), marks: 35/35 

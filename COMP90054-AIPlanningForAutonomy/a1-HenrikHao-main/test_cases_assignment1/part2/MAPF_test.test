@@ -1,0 +1,14 @@
+class: "MAPFTest"
+
+searchProblemClass: "MAPFProblem"
+layout: """
+%%%%%%%
+%%%C%%%
+% AcB %
+%%%a%%%
+%  b  %
+%%%%%%%
+"""
+ans: "3"
+
+
