@@ -52,3 +52,8 @@ I have completed all the subjects required for both majors.
 
 * COMP90042 Natural Language Processing (Python, Pytorch)
     * Project - Automated Fact-checking System, marks: 32/35, ranked 2nd out of 132 teams, Team of 4
+
+### Year 2 Semester 2 (2024 July)
+* COMP90015 Distributed Systems (Java)
+    * Assignment 1 - Multi-threaded Dictionary Server (Java), marks: 15/15
+    * Assignment 2 - Distributed Publisher-Subscriber System (Java), marks: 28/25 (Bonus marks included)
