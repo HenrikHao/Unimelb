@@ -25,5 +25,9 @@ I have completed all the subjects required for both majors.
 
 ### Year 3 Semester 1 (2023 March)
 * COMP30023 Computer Systems (C)
-    * Project 1 - Process Management: 10.75/15
-    * Project 2 - Remote Procedure Call: 12.2/15
+    * Project 1 - Process Management, marks: 10.75/15
+    * Project 2 - Remote Procedure Call, marks: 12.2/15
+
+* COMP30027 Machine Learning (Python)
+    * Project 1 - Naive Bayes, marks: 17.5/20
+    * Project 2 - Book Rating Prediction Kaggle Competition, marks: 16/20, ranked 1st out of 373 teams
